@@ -68,9 +68,40 @@ Cuan por encima o por debajo de la Dificultad se encuentra el resultado de la ti
 Condiciones
 -----------
 
-TODO
+las **Condiciones** son estados o circunstancias negativas que afectan a un personaje, en forma de palabras o frases cortas como "*brazo roto*", "*avergonzado*", "*envenenado*", "*cansado*", "*desorientado*", "*en pánico*", etc.
+
+Pueden ser de tipo **Leve**, **Moderada** o **Severa**. Un personaje puede tener solo una de cada tipo. Si fuese a recibir una nueva Condición de un tipo que ya tiene, **debe obtener una de un tipo superior**. Si no puede, porque ya tiene Condiciones de todos los tipos superiores, entonces queda "**DERROTADO**" [#]_. 
+
+.. [#] Un personaje **DERROTADO** queda incapacitado o fuera de la acción, y a merced de sus enemigos o aliados, dependiendo del contexto (inconsciente, ido, desencajado, catatónico, deprimido, etc.). 
+
+Cuando se recibe una **Condición**, el DJ determina su descripción basándose en el contexto que la causó, y la gravedad de la misma. Por ejemplo, si un personaje recibe una **Condición Leve** por ser golpeado por un enemigo, el DJ podría describirla como "*raspón*" u "*hombro magullado*"; pero si ese personaje ya tenía una **Condición Leve** y la nueva que está sufriendo se incrementa a una **Condición Moderada**, podría describirla como "*corte profundo*" u "*hombro dislocado*". 
+
+Cada **Condición** otorga un **Modificador negativo de -1** a las acciones del personaje donde sea relevante. Este modificador es acumulable (pudiendo otorgar -3 a un personaje que tiene una Condición de cada tipo).
+
+* Las Condiciones **Leves** representan molestias o inconvenientes menores, como "*cansado*", "*avergonzado*", "*desorientado*", etc. Tardan minutos o horas en curarse.
+* Las Condiciones **Moderadas** representan problemas o dificultades significativas, como "*intoxicado*", "*herido*", "*en pánico*", etc. Tardan horas o días en curarse.
+* Las Condiciones **Severas** representan situaciones críticas o extremas, como "*pierna rota*", "*paralizado*", "*envenenado mortal*", etc. Tardan semanas o meses en curarse.
+
+Curación y Recuperación
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Las **Condiciones** se curan de manera *diegética*, es decir, a través de acciones o eventos dentro de la narrativa del juego, como descansar, recibir atención médica, superar un desafío personal, etc. Una vez se han tomado las medidas necesarias para curar una Condición durante el tiempo determinado por el DJ, el personaje se recupera de la misma: la borra de su hoja de personaje y pierde su Modificador negativo.
+
+Aplicando y Recibiendo Condiciones
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Cuando se aplica o se recibe una Condición, el tipo (o gravedad) de la misma depende del **Efecto** de la tirada.
+
+* Por defecto, con un **ÉXITO o FALLO NORMAL** se aplica o recibe una **Condición Leve**.
+* Con un **ÉXITO o FALLO ROTUNDO** se aplica o recibe una **Condición Moderada**.
+* Con un **ÉXITO o FALLO ÉPICO** se aplica o recibe una **Condición Severa**.
+
 
 Experiencia y Subida de nivel
 -----------------------------
 
-TODO
+Al final de una aventura, o cuando se cumple una hazaña significativa, cada personaje implicado **gana 1 Punto de Experiencia (PX)**.
+
+Para **Subir de Nivel** en un Trasfondo, el jugador debe gastar una cantidad de PX de su personaje iguales al nuevo nivel que desea alcanzar. Por ejemplo, para ganar un nuevo Trasfondo en nivel 1, se gastaría 1 PX. Para subir de nivel 2 a nivel 3 en un Trasfondo, el jugador debe gastar 3 PX; para subir de nivel 3 a nivel 4, debe gastar 4 PX; y así sucesivamente [#]_. 
+
+.. [#] Para subir de nivel en un Trasfondo, el jugador debe gastar PX en orden ascendente y secuencial. Por ejemplo, para subir de nivel 1 a nivel 3 en un Trasfondo, el jugador debe primero gastar 2 PX para subir a nivel 2, y luego gastar 3 PX para subir a nivel 3, totalizando 5 PX. No se puede saltar niveles al subir de nivel en un Trasfondo.
