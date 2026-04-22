@@ -5,12 +5,12 @@ Creación de Personaje
 ---------------------
 
 .. csv-table::
-   :widths: 10, 90
+   :widths: 5, 95
    :header: "d66", "TRASFONDO y equipo inicial"
 
    "11", "**ALQUIMISTA**: Alforja con viales de vidrio, Mortero, Frasco de ácido, Bombas de humo x2, Cuchillo para raspar reactivos"
    "12", "**ASESINO**: Par de dagas, Capa con capucha, vial de veneno (una dósis), Cable de ahorque, Botas con suela blanda"
-   "13", ""
+   "13", "**BÁRBARO**: Hacha de guerra, Manto de pieles, Tótem o amuleto de hueso, Cuchillo de cazador, Brazaletes de cuero"
    "14", ""
    "15", ""
    "16", ""
