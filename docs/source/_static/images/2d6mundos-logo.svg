@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1122.5197 793.70081"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="2d6mundos-logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="2d6mundos-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.5169444"
+     inkscape:cx="413.00128"
+     inkscape:cy="228.74931"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter13"
+       x="-0.047754929"
+       y="-0.27393133"
+       width="1.0988932"
+       height="1.4861644">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         id="feFlood12" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="2.431611"
+         id="feGaussianBlur12" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="1.000000"
+         dy="-4.103343"
+         id="feOffset12" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite12" />
+      <feComposite
+         result="comp2"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite13" />
+    </filter>
+    <filter
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Cut out, add inner shadow and colorize some parts of an image"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Emergence"
+       id="filter47"
+       x="-0.026930394"
+       y="-0.054262654"
+       width="1.0650818"
+       height="1.1311347">
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.21 0.72 0.07 0 0 "
+         result="result1"
+         id="feColorMatrix42" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         result="result9"
+         id="feColorMatrix43" />
+      <feComposite
+         in2="result9"
+         in="SourceGraphic"
+         operator="in"
+         result="result4"
+         id="feComposite43" />
+      <feFlood
+         result="result2"
+         flood-color="rgb(0,0,0)"
+         id="feFlood43" />
+      <feComposite
+         in2="result9"
+         operator="in"
+         result="result10"
+         id="feComposite44" />
+      <feComposite
+         in2="result4"
+         operator="atop"
+         id="feComposite45" />
+      <feGaussianBlur
+         stdDeviation="3"
+         result="result8"
+         id="feGaussianBlur45" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="result3"
+         in="result8"
+         id="feOffset45" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(219,173,62)"
+         result="result5"
+         id="feFlood45" />
+      <feMerge
+         result="result6"
+         id="feMerge47">
+        <feMergeNode
+           in="result5"
+           id="feMergeNode45" />
+        <feMergeNode
+           in="result3"
+           id="feMergeNode46" />
+        <feMergeNode
+           in="result4"
+           id="feMergeNode47" />
+      </feMerge>
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="result7"
+         id="feComposite47" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter51"
+       x="-0.096494377"
+       y="-0.20527578"
+       width="1.1964458"
+       height="1.3842422">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.745098"
+         flood-color="rgb(0,0,0)"
+         id="feFlood50" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="6.079027"
+         id="feGaussianBlur50" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="1.000000"
+         dy="-4.103343"
+         id="feOffset50" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite50" />
+      <feComposite
+         result="comp2"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite51" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:213.068px;line-height:0.85;font-family:'Univers LT';-inkscape-font-specification:'Univers LT, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-decoration-color:#000000;letter-spacing:0.172386px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#292929;stroke-width:26.64566992;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter51)"
+       x="356.55182"
+       y="219.52188"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="356.63803"
+         y="219.52188"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:213.068px;font-family:'Univers LT';-inkscape-font-specification:'Univers LT, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#292929;stroke-width:26.64566992;stroke-dasharray:none;stroke-opacity:1">2d6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:92.8867px;line-height:0.85;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans, Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-decoration-color:#000000;letter-spacing:0.0751509px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#353535;stroke-width:16.5581;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter13)"
+       x="327.59961"
+       y="309.84229"
+       id="text2"
+       transform="rotate(-6.3736092)"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="327.63718"
+         y="309.84229"
+         style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:92.8867px;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans, Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#353535;stroke-width:16.5581;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Mundos</tspan></text>
+  </g>
+</svg>
