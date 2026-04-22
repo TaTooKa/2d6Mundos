@@ -13,6 +13,7 @@ Los Personajes están definidos por sus Trasfondos (algunos los llaman "Clases")
 Los niveles en cada Trasfondo van de 1 a 5, y los personajes pueden tener múltiples Trasfondos en diferentes niveles.
 
 .. csv-table:: 
+   :align: center
 
    "NIVEL 1", "NIVEL 2", "NIVEL 3", "NIVEL 4", "NIVEL 5"
    "AFICIONADO", "ENTRENADO", "EXPERTO", "VETERANO", "MAESTRO"
