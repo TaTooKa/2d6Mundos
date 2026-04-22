@@ -55,7 +55,15 @@ Los **Modificadores** se suman o restan al resultado del dado, y pueden represen
 Efecto
 ^^^^^^
 
-TODO
+Cuan por encima o por debajo de la Dificultad se encuentra el resultado de la tirada, determina el **Efecto** de la acción, o el tipo de Éxito o Fallo.
+
+.. csv-table:: 
+   :header: "ÉXITO", "FALLO"
+
+   "Excede la Dificultad por 1 ó 2: **ÉXITO NORMAL**", "Fallar por 1 ó 2: **FALLO NORMAL**"
+   "Excede la Dificultad por 3 a 5: **ÉXITO ROTUNDO**", "Fallar por 3 a 5: **FALLO ROTUNDO**"
+   "Excede la Dificultad por 6 o más: **ÉXITO ÉPICO**", "Fallar por 6 o más: **FALLO ÉPICO**"
+
 
 Condiciones
 -----------
