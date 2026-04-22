@@ -1,7 +1,17 @@
 2d6 Mundos
 ==========
 
-TODO Intro 
+**2d6 Mundos** es un conjunto de reglas, procedimientos e instrucciones para jugar rol de manera simple y rápida en diversos mundos de fantasía y ficción.
+
+¿Qué es un juego de rol?
+------------------------
+
+TODO
+
+¿Qué necesito para jugar?
+-------------------------
+
+TODO
 
 Contenido
 ---------
