@@ -3,7 +3,7 @@
 # -- Project information
 
 project = '2d6Mundos'
-copyright = '2021, TaTooKa'
+copyright = 'Creative Commons Attribution-ShareAlike 4.0 International License'
 author = 'TaTooKa'
 
 release = '0.1'
