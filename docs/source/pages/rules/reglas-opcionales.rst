@@ -42,3 +42,8 @@ Corrupción
 ----------
 
 TODO
+
+Chequeos de Instinto
+--------------------
+
+TODO

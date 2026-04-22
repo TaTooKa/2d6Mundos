@@ -1,10 +1,7 @@
 Reglas Básicas
 ==============
 
-¿Qué es un juego de rol?
-------------------------
-
-TODO
+En esta sección se describen las reglas básicas de 2d6Mundos, que son las que se aplican en todos los juegos de rol que utilizan este sistema. El DJ debe estar familiarizado con el reglamento. El resto de los jugadores pueden conocerlas o no; siguiendo las directivas del DJ cuando sea necesario.
 
 Personajes
 ----------
@@ -18,7 +15,11 @@ Los niveles en cada Trasfondo van de 1 a 5, y los personajes pueden tener múlti
    "NIVEL 1", "NIVEL 2", "NIVEL 3", "NIVEL 4", "NIVEL 5"
    "AFICIONADO", "ENTRENADO", "EXPERTO", "VETERANO", "MAESTRO"
 
-Los personajes nuevos comunmente comienzan con tres niveles en uno, dos o tres Trasfondos, a elección del jugador.
+Los personajes nuevos comunmente comienzan con tres niveles en uno, dos o tres Trasfondos, a elección del jugador [#]_.
+
+.. [#] Esto quiere decir que puedes distribuir esos tres niveles como quieras, por ejemplo: "*Cazarrecompensas 2* y *Hacker 1*", o "*Cazarrecompensas 3*", o "*Cazarrecompensas 1*, *Hacker 1* y *Espía 1*", etc.
+
+Cada sección de **Mundo** lista una serie de Trasfondos sugeridos para ese tipo de ambientación. Consulta con el DJ para saber cuáles de esos Trasfondos están disponibles en tu juego, y si hay otros Trasfondos adicionales que puedas elegir o incluso inventar.
 
 Resolución de acciones
 ----------------------
@@ -44,7 +45,7 @@ El DJ determina la Dificultad de cada acción según su criterio, dependiendo de
 Modificadores
 ^^^^^^^^^^^^^
 
-Los **Modificadores** se suman o restan al resultado del dado, y pueden representar cualquier circunstancia que altere las chances de éxito de una acción. 
+Los **Modificadores** se suman o restan al resultado de los dados, y pueden representar cualquier circunstancia que altere las chances de éxito de una acción. 
 
 * **Circunstancial**: puede ser por contexto de la situación, o por la ayuda de un aliado, o por una complicación de un contrincante, o por una **Condición** relevante que sufre el personaje, etc. Usualmente es un ±1 o ±2. Si la acción se efectúa contra otro personaje, sus Trasfondos relevantes podrían aplicar como Modificadores negativos a la misma.
 * **Objetos/Equipo**: Usualmente los objetos o equipo del personaje dan "*permiso narrativo*" [#]_, pero cuando el DJ considere que otorgan una ventaja significativa (en contraste con no poseer el objeto para la acción), pueden otorgar un Modificador positivo: +1 si el objeto o herramienta es común o apto para la situación; +2 si el objeto o herramienta es especial o ideal para la situación. 
@@ -105,3 +106,7 @@ Al final de una aventura, o cuando se cumple una hazaña significativa, cada per
 Para **Subir de Nivel** en un Trasfondo, el jugador debe gastar una cantidad de PX de su personaje iguales al nuevo nivel que desea alcanzar. Por ejemplo, para ganar un nuevo Trasfondo en nivel 1, se gastaría 1 PX. Para subir de nivel 2 a nivel 3 en un Trasfondo, el jugador debe gastar 3 PX; para subir de nivel 3 a nivel 4, debe gastar 4 PX; y así sucesivamente [#]_. 
 
 .. [#] Para subir de nivel en un Trasfondo, el jugador debe gastar PX en orden ascendente y secuencial. Por ejemplo, para subir de nivel 1 a nivel 3 en un Trasfondo, el jugador debe primero gastar 2 PX para subir a nivel 2, y luego gastar 3 PX para subir a nivel 3, totalizando 5 PX. No se puede saltar niveles al subir de nivel en un Trasfondo.
+
+-----
+
+Estas son las reglas básicas de 2d6Mundos. Las mismas deberían ser suficientes para jugar una buena partida de rol en cualquier mundo de fantasía o ficción. Consulta las reglas opcionales para agregar más complejidad y variedad a tu juego, y los preceptos para conocer las directrices de comportamiento dentro del grupo de juego. Finalmente, cada sección de Mundo tiene sus propias listas de Trasfondos y equipo, excepciones y reglas adicionales, que le dan sabor y personalidad a cada ambientación. ¡Explora los mundos y diviértete jugando!
