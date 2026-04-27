@@ -89,6 +89,18 @@ Como regla general, toma la siguiente guía de dificultades, modificando con -1 
 * Hechizos **Evidentes**: Dificultad **9** (28% de chance con un +0)
 * Hechizos **Masivos**: Dificultad **10** (17% de chance con un +0)
 
+Requerimientos Adicionales para la Magia Masiva
+***********************************************
+
+Opcionalmente, el DJ puede determinar que para poder ejecutar un efecto de **Magia Masiva**, el hechicero debe además cumplir con una o más de las siguientes condiciones:
+
+* Te tomará horas/días/semanas/meses
+* Deberás ejecutarlo en un lugar o momento especial
+* Primero deberás hacer [X] u obtener ayuda de [X]
+* El efecto será limitado o con efectos adversos inciertos 
+* Tu y tus aliados se arriesgarán a un [X] peligro o consecuencia
+* Deberás sacrificar o consumir [X] antes
+
 Listas de Hechizos?
 ^^^^^^^^^^^^^^^^^^^
 
