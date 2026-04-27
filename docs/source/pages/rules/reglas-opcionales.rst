@@ -48,7 +48,54 @@ Los personajes **Sorprendidos** no tiran Iniciativa; simplemente actúan en la f
 Sistema de Magia
 ----------------
 
-TODO
+El sistema de Magia básico que se presenta en este apartado puede aplicarse o adaptarse a cualquier Mundo que lo requiera. Se basa en la "rareza" o "poder" de los hechizos, haciendo que los más simples resulten más comunes o fáciles de ejecutar, mientras que los más poderosos serán más raros o difíciles de realizar, dando una suerte de "balance" narrativo sin ahondar demasiado en mecánicas complejas de magia.
+
+Los "hechizos" pueden tener tres tipos, o niveles de poder: **Sutil**, **Evidente** y **Masivo**.
+
+* Los hechizos **Sutiles** son efectos que casi no se notan, no alteran demasiado al mundo, pasan desapercibidos a menos que se esté prestando mucha atención, o podrían confundirse con casualidades.
+
+  * Por ejemplo, un hechizo que adormece a un guardia que está sentado vigilando una entrada, podría considerarse **Sutil**.
+
+* Los hechizos **Evidentes** son obvios, inconfundibles en su naturaleza, con claros efectos mágicos, de poder y efectividad intermedios. 
+
+  * Por ejemplo, un hechizo que duerme repentinamente a un adversario activo en el medio de un combate, como si este se desmayara de la nada, podría considerarse **Evidente**.
+
+* Los hechizos **Masivos** son poderosísimos efectos mágicos capaces de alterar el mundo o el status-quo y/o dejar secuelas importantes en sus objetivos y/o alrededores.
+
+  * Por ejemplo, un hechizo que afecta a todo un pueblo, sometiendo a todos sus habitantes a un estupor de sueño del que nadie los puede despertar por medios mundanos, podría considerarse **Masivo**. 
+
+
+Cansancio Mágico
+^^^^^^^^^^^^^^^^
+
+La Magia puede ser cansadora; En ciertas situaciones un hechicero podría ganar una Condición como *Cansado* o *Exhausto* dependiendo del resultado de los dados.
+
+Cuando se tiran los dados para hacer Magia, el tipo de hechizo importa:
+
+* Para hechizos **Sutiles**, un **FALLO ROTUNDO** o **ÉPICO** te causa una Condición de *Cansado*. 
+* Para hechizos **Evidentes**, cualquier tipo de **FALLO** te causa una Condición de *Cansado*. 
+* Para hechizos **Masivos**, incluso con un **ÉXITO NORMAL** (además de con cualquier **FALLO**) sufres una Condición de *Cansado*.  
+
+A discresión del DJ, incluso si un hechicero no falla sus tiradas, este puede recibir Condiciones de cansancio si abusa demasiado del lanzamiento de hechizos de forma indiscriminada y sin descanso.
+
+Tiradas de Lanzar Hechizos
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La dificultad de la tirada depende de la naturaleza y/o la rareza del hechizo, pero también en su nivel de poder o potencia (**Sutil/Evidente/Masivo**), sumado a cualquier otra circunstancia contextual definida por el DJ. 
+
+Como regla general, toma la siguiente guía de dificultades, modificando con -1 o +1 dependiendo de si el Mundo en cuestión tiene magia muy común (*Alta Magia*; es más fácil o normal hacer hechizos) o no (*Baja Magia*; es más raro o difícil hacer hechizos). 
+
+* Hechizos **Sutiles**: Dificultad **8** (42% de chance con un +0)
+* Hechizos **Evidentes**: Dificultad **9** (28% de chance con un +0)
+* Hechizos **Masivos**: Dificultad **10** (17% de chance con un +0)
+
+Listas de Hechizos?
+^^^^^^^^^^^^^^^^^^^
+
+La "Lista de Hechizos", "Elementos" o "Escuelas" de Magia, o cualquier otra taxonomía que defina los hechizos o habilidades mágicas disponibles en tu Mundo, no alteran estas mecánicas; solo dan o quitan *permiso narrativo*. 
+
+Puedes tomar cualquier Lista de Hechizos o sistema de magia improvisada / mecanizada de otros juegos de rol o universos existentes, y aplicar estas simples reglas sobre eso.
+
 
 Rotura de Objetos para Protección
 ---------------------------------
