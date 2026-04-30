@@ -31,6 +31,47 @@ Creación de Personaje
    "", "5", "**SABANDIJA**: Vestimenta liviana, Bláster de desenfundado rápido, Vibro-cuchillo pequeño, Comunicador de mano, Púas de seguridad x2"
    "", "6", "**TÉCNICO**: Overol con bolsillos múltiples, Aturdidor de mano M-31, Kit de soldadura plasma portátil, Púas de seguridad x4, Bolsa con repuestos electrónicos"
 
+La Fuerza
+---------
+
+TODO
+
+El Lado Oscuro
+^^^^^^^^^^^^^^
+
+TODO
+
+Redención
+*********
+
+TODO
+
+Otros Detalles
+--------------
+
+TODO
+
+Especies
+^^^^^^^^
+
+TODO
+
+Nombres
+^^^^^^^
+
+TODO
+
+Generadores de Aventura
+-----------------------
+
+TODO
+
+Generadores de Locación
+-----------------------
+
+TODO
+
+
 Fuentes de Inspiración
 ----------------------
 
