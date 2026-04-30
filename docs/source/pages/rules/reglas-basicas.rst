@@ -24,7 +24,9 @@ Cada sección de **Mundo** lista una serie de Trasfondos sugeridos para ese tipo
 Resolución de acciones
 ----------------------
 
-Cuando un personaje intenta realizar una acción y el DJ determina que tiene una posibilidad de fallar, o que es suficientemente riesgosa, el jugador **tira 2d6** y **suma el nivel de cualquier Trasfondo** que sea relevante para esa acción, **± cualquier otro Modificador** que altere sus chances.
+Cuando un personaje intenta realizar una acción y el DJ determina que es riesgosa y tiene una posibilidad de fallar [#]_, el jugador **tira 2d6** y **suma el nivel de cualquier Trasfondo** que sea relevante para esa acción, **± cualquier otro Modificador** que altere sus chances.
+
+.. [#] alternativamente, el DJ puede determinar que la acción es **imposible** (fallaría automáticamente; el personaje debe intentar algo distinto) o **automática** (tendría éxito automáticamente; no hace falta tirar los dados).
 
 Si el resultado iguala o supera la **Dificultad** establecida por el DJ, la acción es un **Éxito**. Si el resultado es menor que la **Dificultad**, la acción es un **Fallo**.
 
