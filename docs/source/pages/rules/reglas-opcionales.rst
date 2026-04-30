@@ -148,12 +148,14 @@ El jugador está obligado a rolear a su personaje en uno de los 4 modos posibles
 * **Congelarse**: Quedar inmóvil, paralizado o shockeado; imposibilitado de actuar.
 * **Someterse**: Rendirse, entregarse, o incluso aliarse con el enemigo o peligro. 
 
-Contador de Estrés / Cordura / Pánico / etc
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Este efecto dura un tiempo indeterminado, aunque por regla general debe permanecer al menos hasta el final de la escena.
 
-Opcionalmente, el DJ puede decidir que en su juego, los personajes tienen un Contador de Estrés, Cordura, Pánico, etc (el nombre específico queda a elección del DJ y es para darle un "sabor" o connotación particular para su mundo).
+Contador de Estrés / Locura / Pánico / etc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Este Contador es un valor numérico que tienen los personajes, que se incrementa cuando se exponen a un miedo/dolor/peligro (+1 o +2, usualmente). Ese valor numérico luego es usado como penalizador negativo para los **Chequeos de Instinto**. 
+Opcionalmente, el DJ puede decidir que los personajes tienen un "Nivel de Estrés" (o "Locura", "Pánico", etc... el nombre específico queda a elección del DJ y es para darle un "sabor" o connotación particular para su mundo).
+
+Este Contador es un valor numérico que tienen los personajes, que se incrementa cuando se exponen a un miedo/dolor/peligro notable (+1 o +2, usualmente). Ese valor numérico luego es usado como penalizador negativo para los **Chequeos de Instinto** y cualquier otra tirada que el DJ considere relevante. 
 
 Se recupera (vuelve a 0) de la misma manera diegética que para las Condiciones: tomando las medidas necesarias dentro de la ficción (descansando, tomando un respiro, despejando la mente en otra cosa, con tratamiento psicológico, etc). 
 
