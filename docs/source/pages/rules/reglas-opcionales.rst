@@ -13,6 +13,11 @@ Este es el sistema de Iniciativa predeterminado de *2d6Mundos*, dado que no requ
 
 El DJ decide qué personaje actúa primero siguiendo la lógica de la narrativa y su estilo cinemático, preguntándole al jugador "¿Qué haces?". Una vez resuelta esa acción, pasa la atención a otro personaje, también basado en qué tendría más sentido desde un punto de vista narrativo y dramático. Esto se repite pasando por cada uno de los participantes hasta que todos hayan tenido su chance de actuar — aunque en ciertos casos, puede que algunos participantes tengan más o menos "turnos" que otros (el sistema es "cinemático" después de todo... Depende del gusto y criterio del DJ, y de como decida manejar el ritmo de la acción).
 
+Iniciativa Simultánea
+^^^^^^^^^^^^^^^^^^^^^
+
+Todos los participantes actúan a la vez. La descripción de sus acciones se realiza por turnos, obviamente (el DJ va pidiendo a cada jugador que describa lo que hace su personaje, mientras piensa en lo que va a hacer cada uno de los personajes no-jugadores que él controla). Una vez que todos han declarado sus intenciones, el DJ resuelve las acciones de todos los participantes al mismo tiempo, teniendo en cuenta las interacciones entre ellas. Si hace falta resolver tiradas, también se resuelven turnándose alrededor de la mesa, pero en la ficción todo se estará resolviendo en simultáneo. Al final de esa descripción, un nuevo "Round" comienza, y se vuelve a repetir el proceso.
+
 Iniciativa Clásica
 ^^^^^^^^^^^^^^^^^^
 
