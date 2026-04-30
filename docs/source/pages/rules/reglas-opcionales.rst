@@ -117,7 +117,22 @@ Puedes tomar cualquier Lista de Hechizos o sistema de magia improvisada / mecani
 Rotura de Objetos para Protección
 ---------------------------------
 
-TODO
+Con esta regla opcional, los jugadores pueden optar por sacrificar un objeto que sus personajes poseen, en vez de recibir una Condición a causa de una fuente de daño.
+
+El objeto roto debe ser algo que tenga sentido en la ficción (que se rompa tu espada o tu escudo para frenar el golpe del troll es bastante lógico... no así sacrificar un pergamino de mapa). El DJ determinará si acepta el ofrecimiento del jugador para el objeto a sacrificar si éste puede explicar convincentemente de qué manera lo utiliza para protegerse.
+
+El objeto puede quedar roto y e inutilizado hasta que se repare, perder su bonificación (o reducirla de +2 a +1, por ejemplo), o ser destruído completamente [#]_. 
+
+.. [#] No hay guías para esto dado que depende íntegramente del contexto de la ficción, pero como consejo para el DJ, es preferible dejar las pertenencias inutilizadas pero reparables, a menos que ese mismo objeto haya sufrido demasiado daño y varias reparaciones en el tiempo (nada tiene duración infinita... a menos que sea de naturaleza mágica o algo similar). 
+
+Durabilidad
+^^^^^^^^^^^
+
+Opcionalmente, el DJ puede pedirle a los jugadores que, cuando sus personajes rompen uno de sus objetos para protegerse, y luego lo reparan, hagan una marca al lado del mismo en sus hojas de personaje.
+
+A la tercera marca, el objeto ya no puede repararse más y la próxima que se sacrifique será completamente destruído.
+
+Quizá haya métodos especiales (mágicos, super-tecnología, etc) para reducir esas marcas y volver a dejarlo como nuevo, pero eso será seguramente más complejo, caro o raro que una reparación convencional.
 
 Corrupción
 ----------
@@ -159,10 +174,6 @@ Este Contador es un valor numérico que tienen los personajes, que se incrementa
 
 Se recupera (vuelve a 0) de la misma manera diegética que para las Condiciones: tomando las medidas necesarias dentro de la ficción (descansando, tomando un respiro, despejando la mente en otra cosa, con tratamiento psicológico, etc). 
 
-
-
-
-
 Dinero y Tesoro
 ---------------
 
@@ -180,3 +191,22 @@ Cualquier objeto, bien o servicio puede tener uno de cuatro valores distintos:
 El equipo y pertenencias de los personajes puede anotarse con una (B), (V), (P) o (I) para denotar su valor.
 
 Si se necesita comparar o intercambiar entre bienes de diferente valor, considera que **cada categoría equivale, a grandes rasgos, 100 veces la anterior**. Por ejemplo, un objeto Valioso podría comprar 100 Baratijas. Claro está que esto es una simple guía de base, y factores como oferta y demanda, disponibilidad y otros valores culturales afectarían estos rangos... pero eso ya quedará a discresión del DJ para que se evalúe y determine caso por caso.
+
+Capacidad de Carga
+------------------
+
+Los personajes en los juegos de 2d6Mundos no tienen un valor numérico como límite de objetos que pueden llevar, ni tampoco se considera importante cuantificar el peso de cada cosa que puedan encontrar. En cambio, se usa el sentido común y una guía básica.
+
+Los personajes...: 
+
+* pueden llevar dos objetos livianos **en cada mano**, o uno pesado/voluminoso **con ambas manos**.
+* pueden llevar un objeto pequeño/liviano en cada uno de **sus bolsillos**, si tienen. Lo normal es tener entre 0 a 4 bolsillos. 
+* pueden llevar objetos específicos en sus respectivas **cartucheras, vainas, correas**, etc (usualmente armas o escudos con enganches especiales).
+* pueden llevar 4 a 6 objetos pequeños/livianos, o 1 a 2 objetos pesados/voluminosos, en **mochilas, morrales, bolsas, colgados de sus cinturones**, etc.
+
+Como puede verse, la cantidad y tamaño de objetos que un personaje puede llevar consigo depende íntegramente de su vestimenta y artículos de carga. Es decir, el jugador debe poder explicar exactamente donde lleva sus cosas. Esto le da al DJ una idea de como lo ven los demás, si tiene objetos ocultos o a la vista, etc. No es lo mismo un personaje que lleva poco y nada, que alguno que tiene un petate, dos bolsas y un morral atestado de cosas. Tampoco es lo mismo un personaje que va al descubierto contra otro que tiene un sobretodo holgado en el que podría estar ocultando objetos debajo. Por ejemplo, un personaje que solo viste pantalón y camisa, tendrá problemas para explicar como "sorprende" a sus enemigos sacando una escopeta que llevaba oculta.
+
+Usualmente estos detalles no entran en juego, excepto en casos donde un personaje lleva demasiadas cosas (o pocas cosas pero demasiado voluminosas). Es ahí donde tendrá que explicar como lo hace, o conseguir la forma de hacerlo de manera lógica (vestimenta con más bolsillos, una mochila más grande, una vaina para su espada, etc). Además, si el DJ entiende que el personaje está "atestado" de cosas, podría darle un penalizador Circunstancial de -1 a cualquier tirada donde se vea afectado.
+
+Lo ideal es que cada jugador piense y explique como viste su personaje y donde lleva cada una de sus pertenencias.
+
