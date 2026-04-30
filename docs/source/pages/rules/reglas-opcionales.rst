@@ -128,3 +128,21 @@ Chequeos de Instinto
 --------------------
 
 TODO
+
+Dinero y Tesoro
+---------------
+
+Los juegos de 2d6Mundos no se enfocan demasiado en la acumulación de dinero y bienes (como sí lo hacen otros juegos de rol tradicionales). La mayoría de las aventuras de estilo "cinemático" no suelen tener necesidad de estar contando cuantas monedas de oro, créditos galácticos o billetes de dólares tienen los personajes, o cuánto necesitan gastar al reponer sus suministros. Todo se suele llevar más por el contexto y la lógica interna de la ficción, a discresión del DJ. Usualmente, en los casos en los que surje la necesidad de que un personaje gaste dinero o adquiera bienes, el DJ determina si su/s Trasfondo/s justifican tal gasto, y lo resuelve inmediatamente sin tener que llevar ningún tipo de contabilidad. 
+
+Pero a veces necesitamos tener una idea (aunque no sea muy específica) de cuánto valen las cosas, para comparar el costo entre bienes o servicios. De ser así, el DJ puede implementar esta guía:
+
+Cualquier objeto, bien o servicio puede tener uno de cuatro valores distintos:
+
+* **Baratija**: Objetos mundanos / usados / en mal estado; servicios menores, etc. *Un puñado de monedas*.
+* **Valioso**: Objetos comunes pero de gran utilidad; herramientas especializadas; servicios de calidad. *Una bolsa de monedas*. 
+* **Precioso**: Objetos de gran calidad / épicos; servicios únicos / lujosos; inmuebles de gran valor. *Un cofre lleno de oro*.
+* **Incalculable**: Objetos legendarios; servicios reservados para la realeza; bienes de gran escala. *Montañas de tesoros*.  
+
+El equipo y pertenencias de los personajes puede anotarse con una (B), (V), (P) o (I) para denotar su valor.
+
+Si se necesita comparar o intercambiar entre bienes de diferente valor, considera que **cada categoría equivale, a grandes rasgos, 100 veces la anterior**. Por ejemplo, un objeto Valioso podría comprar 100 Baratijas. Claro está que esto es una simple guía de base, y factores como oferta y demanda, disponibilidad y otros valores culturales afectarían estos rangos... pero eso ya quedará a discresión del DJ para que se evalúe y determine caso por caso.
