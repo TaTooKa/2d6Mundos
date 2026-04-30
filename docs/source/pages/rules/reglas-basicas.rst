@@ -41,11 +41,15 @@ El DJ determina la **Dificultad** de cada acción según su criterio, dependiend
    :widths: 10, 20, 70
    :header: "DIFICULTAD", "DESCRIPCIÓN", "PROBABILIDAD"
 
+   "4", "Trivial", "92% de chance con un +0"
+   "5", "Muy Fácil", "83% de chance con un +0"
    "6", "Fácil", "73% de chance con un +0"
    "7", "Moderado", "58% de chance con un +0"
    "**8**", "**Difícil**", "**42% de chance con un +0**"
    "9", "Muy Difícil", "28% de chance con un +0"
    "10", "Extremo", "17% de chance con un +0"
+   "11", "Improbable", "8% de chance con un +0"
+   "12", "Casi Imposible", "2% de chance con un +0"
 
 Modificadores
 ^^^^^^^^^^^^^
