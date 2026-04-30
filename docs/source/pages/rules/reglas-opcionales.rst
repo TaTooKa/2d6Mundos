@@ -127,7 +127,39 @@ TODO
 Chequeos de Instinto
 --------------------
 
-TODO
+En situaciones de miedo o dolor extremo, o ante un peligro que sea de vida o muerte, los personajes pueden verse obligados a hacer un **Chequeo de Insinto**. 
+
+La Dificultad es 8, por defecto, pero el DJ puede alterarla dependiendo de la naturaleza de la situación o de la fuente del peligro.
+
+Si el personaje supera el chequeo, mantiene su compostura sin problemas. Si falla, deberá optar [#]_ por: 
+
+.. [#] (En ciertos casos, a criterio del DJ, y especialmente con un **Fallo Rotundo** o **Épico**, podría ser que el personaje sufra ambas opciones en vez de optar por una).
+
+* Sufrir una Condición Leve (como "Preocupado", "Estresado", "Atemorizado", etc).
+* Adoptar una *Reacción de Lucha o Huída*.
+
+Reacción de Lucha o Huída
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+El jugador está obligado a rolear a su personaje en uno de los 4 modos posibles (del inglés *Fight, Flight, Freeze or Fawn*). Es el DJ quien determina cual de los 4 modos es el más adecuado para el personaje dada la situación y su personalidad.
+
+* **Luchar**: reaccionar ciega y violentamente, atacando a cualquiera (amigo o enemigo).
+* **Huir**: Escapar/distanciarse/esconderse del peligro lo más rápido posible por los métodos más desesperados.
+* **Congelarse**: Quedar inmóvil, paralizado o shockeado; imposibilitado de actuar.
+* **Someterse**: Rendirse, entregarse, o incluso aliarse con el enemigo o peligro. 
+
+Contador de Estrés / Cordura / Pánico / etc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Opcionalmente, el DJ puede decidir que en su juego, los personajes tienen un Contador de Estrés, Cordura, Pánico, etc (el nombre específico queda a elección del DJ y es para darle un "sabor" o connotación particular para su mundo).
+
+Este Contador es un valor numérico que tienen los personajes, que se incrementa cuando se exponen a un miedo/dolor/peligro (+1 o +2, usualmente). Ese valor numérico luego es usado como penalizador negativo para los **Chequeos de Instinto**. 
+
+Se recupera (vuelve a 0) de la misma manera diegética que para las Condiciones: tomando las medidas necesarias dentro de la ficción (descansando, tomando un respiro, despejando la mente en otra cosa, con tratamiento psicológico, etc). 
+
+
+
+
 
 Dinero y Tesoro
 ---------------
