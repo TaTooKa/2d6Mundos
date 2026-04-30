@@ -37,36 +37,59 @@ Elige o tira `d6, d6` para determinar tu Trasfondo y equipo inicial. Si comienza
 Ciber-Implantes
 ^^^^^^^^^^^^^^^
 
-TODO
+Elige hasta 4 implantes durante la creación de personaje:
 
-Choose up to 4 implants during character creation:
+**Piel sintética**: Protege contra daños superficiales como cortes o rasguños.
 
-Synth Skin: Protects against superficial harm like cuts or scratches.
-↳ Optical Camo Weave: Turns your skin invisible on command. Best when combined with Thermoptic Camo Clothing.
-↳ Pheromonal Secretor: helps on social interactions (specially if lots of touching is involved).
-↳ Self-healing Polymer: superficial harm takes half as long to heal.
-↳ Kevlar Lattice: bullet-proof plates. Improves defense. very obvious.
-Neuralink: Digital Interface for the brain. Access AR/VR without gadgets, directly through your senses. Includes 1 universal chip slot/port (installed behind the ear).
-↳ SenSim™ recorder: save 1 hour of sensory input.
-↳ Smart Link: connect to a weapon’s Smart Link Mod.
-↳ SkillSoft Slot: plug in SkillSoft chips. Installed on nape or behind ears.
-Skeletal Lacing: Titanium-alloy bone structure replacement. Improves defense; makes you heavier.
-Wired Reflexes: Enhanced nervous system replacement. Makes you faster and more agile.
-Cyber-Arms/Legs: Hard plastic or metallic limbs. Can attach other cyberware. Can be used for cover/protection.
-↳ Pneumatic joints: Increases your lifting capacity and core strength.
-↳ Spring servos: Makes your limbs act and react much faster than normal.
-↳ Concealable compartment: pocket/holster-sized.
-↳ Hydraulic articulations: silent joints and higher fine-control of noise during movement and object manipulation.
-Cyber-Eyes: Improved vision and overall perception. Replaces AR glasses.
-↳ Protective covers: embedded shades/goggles. Extremely cool and protects your eyeballs from shrapnel.
-↳ Enhanced scopes: 6X zoom, thermal, IR.
-Cyber-Ears: Improved hearing and overall auditory perception.
-↳ Echolocation: “see” through hearing.
-↳ Bio-stress meter: voice/biometrics lie detector.
-Retractable Blades: nails or claws. very sharp. concealable.
-Vocal Modulator: Can change voice pitch or volume.
-↳ Expanded Soundbank: Up to 10 pre-recorded voice banks and thousands of sound samples.
+   **↳ Capa de camuflaje termóptico**: Convierte tu piel en un lienzo que refleja el entorno, haciéndote difícil de detectar a simple vista. Funciona mejor en combinación con un Traje de Camuflaje Termóptico.
 
+   **↳ Secretor de feromonas**: Ayuda en interacciones sociales (especialmente si involucran mucho contacto físico).
+
+   **↳ Polímero autoreparable**: el daño superficial tarda la mitad de tiempo en sanar.
+
+   **↳ Sobrecapa de Kevlar**: refuerzo de kevlar debajo de la piel. Protege contra balas y objetos contundentes. Muy obvio, no es difícil de detectar.
+
+**Neuralink**: Interfaz digital para el cerebro. Accede a AR/VR sin dispositivos externos, directamente a través de tus sentidos. Incluye 1 ranura/puerto universal para chip (instalado detrás de la oreja).
+
+   **↳ Grabador de SenSim™**: Salva hasta 1 hora de input sensorial.
+
+   **↳ SmartLink™**: Se conecta al mod SmartLink™ de un arma para mejorar la puntería y el control de disparo.
+
+   **↳ Ranura SkillSoft™**: Permite instalar chips de software de habilidades (SkillSoft) en la nunca o detrás de la oreja. Estos chips contienen programas que mejoran tus habilidades físicas o mentales, o que te otorgan nuevas habilidades por un tiempo limitado. 
+
+**Cubierta Ósea**: Reemplazo de estructura ósea con aleación de titanio. Mejora la defensa; te hace más pesado.
+
+**Reflejos Cableados**: Reemplazo del sistema nervioso por uno mejorado artificialmente. Te hace más rápido y ágil.
+
+**Ciber-Brazos/Piernas**: Miembros de plástico duro o metálicos. Pueden acoplar otros ciber-implantes. Pueden usarse como cobertura/protección.
+
+   **↳ Articulaciones neumáticas**: Aumenta tu capacidad de levantamiento y fuerza de agarre.
+
+   **↳ Servomotores amortiguados**: Hace que tus movimientos sean más rápidos y que puedas amortiguar mejor el impacto de caídas o golpes.
+
+   **↳ Compartimiento oculto**: Tamaño de bolsillo o cartuchera. Ideal para guardar objetos pequeños o armas ocultas.
+
+   **↳ Compartimiento oculto**: Tamaño de bolsillo o cartuchera. Ideal para guardar objetos pequeños o armas ocultas.
+
+   **↳ Juntas Hidráulicas**: Articulaciones silenciosas y con mayor control fino del ruido durante el movimiento y la manipulación de objetos.
+
+**Ciber-Ojos**: Mejora la visión y la percepción general. Reemplaza a los anteojos AR.
+
+   **↳ Cubiertas protectoras**: Gafas integradas. Extremadamente cool y protegen tus ojos de esquirlas.
+
+   **↳ Lentes avanzados**: Aumento de zoom 6X, visión térmica, visión infrarroja.
+
+**Ciber-Oídos**: Mejoran la audición y la percepción auditiva general. 
+
+   **↳ Ecolocación**: Permite "ver" a través del sonido, como los murciélagos o los delfines. Emite ondas ultrasónicas y mide el tiempo que tardan en rebotar para crear un mapa mental del entorno.
+
+   **↳ Medidor de Estrés Biométrico**: Funciona como un detector de mentiras basado en la voz y señales biométricas. Puede detectar cambios sutiles en el tono de voz, ritmo, volumen y patrones de habla que podrían indicar estrés o engaño.
+
+**Cuchillas retraíbles**: Uñas o garras. Muy afiladas. Ocultables.
+
+**Modulador de voz**: Permite cambiar el tono o volumen de tu voz. Ideal para disfrazar tu identidad o para intimidar a otros. 
+
+   **↳ Banco de Sonidos expandido**: Hasta 10 bancos de voz pregrabados y miles de muestras de sonido variadas.
 
 
 Fuentes de Inspiración
