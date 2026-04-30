@@ -9,7 +9,24 @@ Creación de Personaje
 Orígen Cultural
 ^^^^^^^^^^^^^^^
 
-TODO
+Elige o tira `d6, d6` para determinar tu Orígen Cultural, y elige 2 lenguajes que sabes hablar y leer de ese Orígen.
+
+.. csv-table::
+   :widths: 10, 5, 30, 55
+   :header: "d6", "d6", "Orígen Cultural", "Posibles Lenguajes Conocidos"
+
+   "1 a 3", "1", "Norte américa", "Inglés, Chino, Creole, Francés, Navajo, Español"
+   "", "2", "Norte américa", "Inglés, Chino, Creole, Francés, Navajo, Español"
+   "", "3", "Este Asiático", "Chino cantonés, Chino mandarín, Inglés, Coreano, Japonés, Mongol"
+   "", "4", "Este Asiático", "Chino cantonés, Chino mandarín, Inglés, Coreano, Japonés, Mongol"
+   "", "5", "Centro/Sudamérica", "Inglés, Español, Alemán, Creole, Portugués, Guaraní, Maya, Quechua"
+   "", "6", "Europa Occidental", "Inglés, Español, Alemán, Francés, Italiano, Portugués, Holandés, Noruego"
+   "4 a 6", "1", "Europa Oriental", "Inglés, Finlandés, Polaco, Rumano, Ruso, Ucraniano"
+   "", "2", "Medio Oriente / Norte de África", "Árabe, Berebere, Inglés, Farsi, Francés, Hebreo, Turco"
+   "", "3", "África sub-sahariana", "Árabe, Inglés, Francés, Portugués, Hausa, Lingala, Oromo, Swahili, Twi, Yoruba"
+   "", "4", "Asia del sur", "Inglés, Indio, Bengalí, Darí, Nepalí, Cingalés, Tamil, Urdu"
+   "", "5", "Sur-este Asiático", "Inglés, Árabe, Birmano, Filipino, Indio, Indonés, Jemer, Malayo, Vietnamita"
+   "", "6", "Oceanía / Islas del Pacífico", "Inglés, Francés, Hawaiano, Maorí, Tahitiano, Pama-ñungano"
 
 
 Trasfondo y Equipo
@@ -46,7 +63,7 @@ Elige o tira `d6, d6` para determinar tu Trasfondo y equipo inicial. Si comienza
 Ciber-Implantes
 ^^^^^^^^^^^^^^^
 
-Elige hasta 4 implantes durante la creación de personaje. Las mejoras de cada tipo de ciber-implante adquieren por separado.
+Elige hasta 4 implantes durante la creación de personaje. Las mejoras de cada tipo de ciber-implante se adquieren por separado.
 
    **Piel sintética**: Protege contra daños superficiales como cortes o rasguños.
 
