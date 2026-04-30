@@ -46,7 +46,7 @@ Elige o tira `d6, d6` para determinar tu Trasfondo y equipo inicial. Si comienza
 Ciber-Implantes
 ^^^^^^^^^^^^^^^
 
-Elige hasta 4 implantes durante la creación de personaje:
+Elige hasta 4 implantes durante la creación de personaje. Las mejoras de cada tipo de ciber-implante adquieren por separado.
 
    **Piel sintética**: Protege contra daños superficiales como cortes o rasguños.
 
