@@ -6,6 +6,15 @@ El género "" ... TODO
 Creación de Personaje
 ---------------------
 
+Orígen Cultural
+^^^^^^^^^^^^^^^
+
+TODO
+
+
+Trasfondo y Equipo
+^^^^^^^^^^^^^^^^^^
+
 Elige o tira `d6, d6` para determinar tu Trasfondo y equipo inicial. Si comienzas con más de un Trasfondo, mezcla objetos de cada uno a voluntad, siempre y cuando tengas 5 objetos en total.
 
 .. csv-table::
@@ -106,6 +115,16 @@ Elige hasta 4 implantes durante la creación de personaje:
    **Modulador de voz**: Permite cambiar el tono o volumen de tu voz. Ideal para disfrazar tu identidad o para intimidar a otros. 
 
       **↳ Banco de Sonidos expandido**: Hasta 10 bancos de voz pregrabados y miles de muestras de sonido variadas.
+
+Equipamiento
+^^^^^^^^^^^^
+
+TODO
+
+Programas
+^^^^^^^^^
+
+TODO
 
 
 Fuentes de Inspiración
