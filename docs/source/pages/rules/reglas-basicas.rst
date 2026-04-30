@@ -33,7 +33,7 @@ Si el resultado iguala o supera la **Dificultad** establecida por el DJ, la acci
 Dificultad
 ^^^^^^^^^^
 
-El DJ determina la Dificultad de cada acción según su criterio, dependiendo de lo difícil que sea, y de las circunstancias del contexto. La Dificultad se expresa como un número entero, y comúnmente el valor predeterminado es 8 [#]_.
+El DJ determina la **Dificultad** de cada acción según su criterio, dependiendo de lo difícil que sea, y de las circunstancias del contexto. La Dificultad se expresa como un número entero, y comúnmente **el valor predeterminado es 8** [#]_.
 
 .. [#] Ten en cuenta que las "probabilidades con un +0" consideran a un personaje que ni siquiera tiene un nivel 1 ("aficionado") en un Trasfondo relevante para la acción (o un personaje con niveles en Trasfondos relevantes pero que está sufriendo penalizaciones por Condiciones que cancelan sus modificadores hasta volver a +0). Esto significa que alguien sin ningún tipo de entrenamiento ni conocimiento (o alguien que sufre desventajas contextuales) que intenta una acción de dificultad Difícil (8) tendrá más chances de fallar que de lograrlo (42% de chances), lo cual es lógico. Esto fomentará a los jugadores a maximizar sus chances, intentando cosas en las que sus personajes están entrenados, o buscando formas de obtener Modificadores positivos a través de objetos, equipo, habilidades especiales, ayuda de aliados, etc. 
 
@@ -43,7 +43,7 @@ El DJ determina la Dificultad de cada acción según su criterio, dependiendo de
 
    "6", "Fácil", "73% de chance con un +0"
    "7", "Moderado", "58% de chance con un +0"
-   "8", "Difícil", "42% de chance con un +0"
+   "**8**", "**Difícil**", "**42% de chance con un +0**"
    "9", "Muy Difícil", "28% de chance con un +0"
    "10", "Extremo", "17% de chance con un +0"
 
