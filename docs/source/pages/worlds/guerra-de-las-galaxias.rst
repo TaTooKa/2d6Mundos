@@ -6,6 +6,11 @@ El género "" ... TODO
 Creación de Personaje
 ---------------------
 
+Trasfondo y Equipo
+^^^^^^^^^^^^^^^^^^
+
+Elige o tira `d6, d6` para determinar tu Trasfondo y equipo inicial. Si comienzas con más de un Trasfondo, mezcla objetos de cada uno a voluntad, siempre y cuando tengas 5 objetos en total.
+
 .. csv-table::
    :widths: 10, 5, 85
    :header: "d6", "d6", "TRASFONDO y equipo inicial"
@@ -31,6 +36,21 @@ Creación de Personaje
    "", "5", "**SABANDIJA**: Vestimenta liviana, Bláster de desenfundado rápido, Vibro-cuchillo pequeño, Comunicador de mano, Púas de seguridad x2"
    "", "6", "**TÉCNICO**: Overol con bolsillos múltiples, Aturdidor de mano M-31, Kit de soldadura plasma portátil, Púas de seguridad x4, Bolsa con repuestos electrónicos"
 
+Especies
+^^^^^^^^
+
+TODO
+
+Detalles Físicos
+^^^^^^^^^^^^^^^^
+
+TODO
+
+Nombres
+^^^^^^^
+
+TODO
+
 La Fuerza
 ---------
 
@@ -43,21 +63,6 @@ TODO
 
 Redención
 *********
-
-TODO
-
-Otros Detalles
---------------
-
-TODO
-
-Especies
-^^^^^^^^
-
-TODO
-
-Nombres
-^^^^^^^
 
 TODO
 
