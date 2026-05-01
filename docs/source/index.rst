@@ -15,9 +15,6 @@ Necesitarás al menos dos jugadores (aunque lo ideal está entre tres a cinco), 
 
 También necesitarás al menos dos dados de seis caras (tirar dos dados y sumar su resultado se resume con "2d6"), y papel y lápiz para tomar notas.
 
-Contenido
----------
-
 .. toctree::
    :caption: Reglas
    :hidden:

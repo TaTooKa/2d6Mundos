@@ -28,7 +28,7 @@ Cuando un personaje intenta realizar una acción y el DJ determina que es riesgo
 
 .. [#] alternativamente, el DJ puede determinar que la acción es **imposible** (fallaría automáticamente; el personaje debe intentar algo distinto) o **automática** (tendría éxito automáticamente; no hace falta tirar los dados).
 
-.. [#] Si el **Trasfondo** no es del todo relevante para la acción, se aplica solo la mitad de su nivel (redondeado hacia abajo).
+.. [#] Si el **Trasfondo** no es del todo relevante para la acción, **se aplica solo la mitad de su nivel** (redondeado hacia abajo).
 
 .. math::
 
@@ -41,7 +41,7 @@ Dificultad
 
 El DJ determina la **Dificultad** de cada acción según su criterio, dependiendo de lo difícil que sea, y de las circunstancias del contexto. La Dificultad se expresa como un número entero, y comúnmente **el valor predeterminado es 8** [#]_.
 
-.. [#] Ten en cuenta que las "probabilidades con un +0" consideran a un personaje que ni siquiera tiene un nivel 1 ("aficionado") en un Trasfondo relevante para la acción (o un personaje con niveles en Trasfondos relevantes pero que está sufriendo penalizaciones por Condiciones que cancelan sus modificadores hasta volver a +0). Esto significa que alguien sin ningún tipo de entrenamiento ni conocimiento (o alguien que sufre desventajas contextuales) que intenta una acción de dificultad Difícil (8) tendrá más chances de fallar que de lograrlo (42% de chances), lo cual es lógico. Esto fomentará a los jugadores a maximizar sus chances, intentando cosas en las que sus personajes están entrenados, o buscando formas de obtener Modificadores positivos a través de objetos, equipo, habilidades especiales, ayuda de aliados, etc. 
+.. [#] Ten en cuenta que las "probabilidades con un +0" consideran a un personaje que ni siquiera tiene un nivel 1 (*aficionado*) en un Trasfondo relevante para la acción (o un personaje con niveles en Trasfondos relevantes pero que está sufriendo penalizaciones por Condiciones que cancelan sus modificadores hasta volver a +0). Esto significa que alguien sin ningún tipo de entrenamiento ni conocimiento (o alguien que sufre desventajas contextuales) que intenta una acción de dificultad Difícil (8) **tendrá más chances de fallar que de lograrlo** (42% de chances), lo cual es lógico. Esto fomentará a los jugadores a maximizar sus chances, intentando cosas en las que sus personajes están entrenados, o buscando formas de obtener Modificadores positivos a través de objetos, equipo, habilidades especiales, ayuda de aliados, etc. 
 
 .. csv-table:: 
    :widths: 10, 20, 70
@@ -66,7 +66,7 @@ Los **Modificadores** se suman o restan al resultado de los dados, y pueden repr
 * **Objetos/Equipo**: Usualmente los objetos o equipo del personaje dan "*permiso narrativo*" [#]_, pero cuando el DJ considere que otorgan una ventaja significativa (en contraste con no poseer el objeto para la acción), pueden otorgar un Modificador positivo: +1 si el objeto o herramienta es común o apto para la situación; +2 si el objeto o herramienta es especial o ideal para la situación. 
 * **Habilidades Especiales**: Usualmente las habilidades especiales de los personajes otorgan "*permiso narrativo*", aunque a criterio del DJ pueden considerarse como un *Modificador Circunstancial* (+1 o +2). 
 
-.. [#] "Permiso narrativo" se refiere a que el personaje puede hacer algo que de otra manera no podría. Por ejemplo, un personaje que tiene un hacha puede intentar talar un árbol, mientras que un personaje sin hacha no podría hacerlo. En este caso, el hacha le da *permiso narrativo* para intentar la acción, pero no le otorga un Modificador positivo a la tirada. En otro ejemplo, un personaje con una Habilidad Especial "*volar*" tiene *permiso narrativo* para alcanzar lugares que un personaje sin esa habilidad no podría.
+.. [#] *Permiso narrativo* se refiere a que el personaje puede hacer algo que de otra manera no podría. Por ejemplo, un personaje que tiene un hacha puede intentar talar un árbol, mientras que un personaje sin hacha no podría hacerlo. En este caso, el hacha le da *permiso narrativo* para intentar la acción, pero no le otorga un Modificador positivo a la tirada. En otro ejemplo, un personaje con una Habilidad Especial "*volar*" tiene *permiso narrativo* para alcanzar lugares que un personaje sin esa habilidad no podría.
 
 Efecto
 ^^^^^^
@@ -120,7 +120,7 @@ Al final de una aventura, o cuando se cumple una hazaña significativa, cada per
 
 Para **Subir de Nivel** en un Trasfondo, el jugador debe gastar una cantidad de PX de su personaje iguales al nuevo nivel que desea alcanzar. Por ejemplo, para ganar un nuevo Trasfondo en nivel 1, se gastaría 1 PX. Para subir de nivel 2 a nivel 3 en un Trasfondo, el jugador debe gastar 3 PX; para subir de nivel 3 a nivel 4, debe gastar 4 PX; y así sucesivamente [#]_. 
 
-.. [#] Para subir de nivel en un Trasfondo, el jugador debe gastar PX en orden ascendente y secuencial. Por ejemplo, para subir de nivel 1 a nivel 3 en un Trasfondo, el jugador debe primero gastar 2 PX para subir a nivel 2, y luego gastar 3 PX para subir a nivel 3, totalizando 5 PX. No se puede saltar niveles al subir de nivel en un Trasfondo.
+.. [#] Para subir de nivel en un Trasfondo, el jugador debe gastar PX en orden **ascendente** y **secuencial**. Por ejemplo, para subir de nivel 1 a nivel 3 en un Trasfondo, el jugador debe primero gastar 2 PX para subir a nivel 2, y luego gastar 3 PX para subir a nivel 3, totalizando 5 PX. No se puede saltar niveles al subir de nivel en un Trasfondo.
 
 -----
 

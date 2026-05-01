@@ -134,11 +134,6 @@ A la tercera marca, el objeto ya no puede repararse más y la próxima que se sa
 
 Quizá haya métodos especiales (mágicos, super-tecnología, etc) para reducir esas marcas y volver a dejarlo como nuevo, pero eso será seguramente más complejo, caro o raro que una reparación convencional.
 
-Corrupción
-----------
-
-TODO
-
 Chequeos de Instinto
 --------------------
 
