@@ -30,6 +30,10 @@ Cuando un personaje intenta realizar una acción y el DJ determina que es riesgo
 
 .. [#] Si el **Trasfondo** no es del todo relevante para la acción, se aplica solo la mitad de su nivel (redondeado hacia abajo).
 
+.. math::
+
+   \text{Resultado} = 2d6 + \text{Niveles de Trasfondos Relevantes } \pm \text{ Modificadores}
+
 Si el resultado iguala o supera la **Dificultad** establecida por el DJ, la acción es un **Éxito**. Si el resultado es menor que la **Dificultad**, la acción es un **Fallo**.
 
 Dificultad
