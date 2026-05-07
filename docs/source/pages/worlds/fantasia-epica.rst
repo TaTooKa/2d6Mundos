@@ -72,7 +72,7 @@ Clérigo
 Los Clérigos tienen acceso a los :hoverxref:`Milagros Divinos <fantasia-epica-milagros-divinos>`, y también pueden curar con imposición de manos (reducen la severidad de una *Condición* que representa una aflicción física), una cantidad de veces por día iguales a su Nivel de Clérigo.
 
 .. csv-table:: Títulos de Clérigo y requisitos para subir de nivel
-   :widths: 10, 30, 30, 30
+   :widths: 4, 32, 32, 32
    :header: "Nivel", "Legal", "Neutral", "Caótico"
 
    "1", "**ACÓLITO**: Conseguir un objeto o material útil para ceremonias religiosas en honor a sus dioses.", "**TESTIGO**: Observar un fenómeno de importancia divina o cósmica y vivir para documentarlo.", "**CONVERSO**: En un lugar donde los Dioses Legales han de escuchar, rechazar sus mandamientos con un acto de desafío o blasfemia notable."
@@ -90,7 +90,7 @@ Ladrón
 Los Ladrones son muy suertudos; Pueden repetir una tirada de cualquier tipo con un bonificador de +2, una cantidad de veces por día igual a su Nivel de Ladrón.
 
 .. csv-table:: Títulos de Ladrón y requisitos para subir de nivel
-   :widths: 10, 30, 30, 30
+   :widths: 4, 32, 32, 32
    :header: "Nivel", "Legal", "Neutral", "Caótico"
 
    "1", "**BANDIDO**: Cometer un crímen en un lugar público digno de conseguir una invitación a la Cofradía de los Ladrones.", "**RATERO**: Robarle a alguien de poca monta sin ser capturado.", "**MALHECHOR**: Robar violentamente a algún don nadie de forma descarada."
@@ -108,7 +108,7 @@ Mago
 Los Magos tienen acceso a la :hoverxref:`Magia Arcana <fantasia-epica-magia-arcana>`, y también pueden agregar su Nivel de Mago como modificador a cualquier tirada para resistir o evitar un efecto mágico.
 
 .. csv-table:: Títulos de Mago y requisitos para subir de nivel
-   :widths: 10, 30, 30, 30
+   :widths: 4, 32, 32, 32
    :header: "Nivel", "Legal", "Neutral", "Caótico"
 
    "1", "**ADEPTO**", "**VIDENTE**", "**MÉDIUM**"
@@ -126,7 +126,7 @@ Guerrero
 Los Guerreros son expertos en combate; Pueden agregar su Nivel de Guerrero como modificador a tiradas de Iniciativa o para cualquier tirada o dificultad para atacar o defenderse o resistir Condiciones físicas.
 
 .. csv-table:: Títulos de Guerrero y requisitos para subir de nivel
-   :widths: 10, 30, 30, 30
+   :widths: 4, 32, 32, 32
    :header: "Nivel", "Legal", "Neutral", "Caótico"
 
    "1", "**ESCUDERO**", "**LUCHADOR**", "**FORAJIDO**"
@@ -144,7 +144,7 @@ Enano
 Los Enanos tienen acceso a la :hoverxref:`Magia Rúnica <fantasia-epica-magia-runica>`, y además son muy resistentes; pueden agregar su Nivel de Enano como modificador a cualquier tirada para resistir Condiciones físicas.
 
 .. csv-table:: Títulos de Enano y requisitos para subir de nivel
-   :widths: 10, 30, 30, 30
+   :widths: 4, 32, 32, 32
    :header: "Nivel", "Legal", "Neutral", "Caótico"
 
    "1", "**MILICIANO**", "**MINERO**", "**REBELDE**"
@@ -180,7 +180,7 @@ Elfo
 Los Elfos tienen acceso a la :hoverxref:`Magia Natural <fantasia-epica-magia-natural>`, y además son muy ágiles; pueden agregar su Nivel de Elfo como modificador a cualquier tirada de Iniciativa o de chequeos de destreza física o precisión.
 
 .. csv-table:: Títulos de Elfo y requisitos para subir de nivel
-   :widths: 10, 90
+   :widths: 5, 95
    :header: "Nivel", "Cualquier Alineamiento"
 
    "1", "**GUARDIÁN**: Patrullar y proteger las cercanías de su tierra natal bajo las órdenes de un señor de los Elfos."
@@ -214,7 +214,7 @@ Mediano
 Los Medianos son muy escurridizos; pueden esquivar un peligro automáticamente, o "desaparecer de la vista" ocultandose, una cantidad de veces por día igual a su Nivel de Mediano.
 
 .. csv-table:: Títulos de Mediano y requisitos para subir de nivel
-   :widths: 10, 90
+   :widths: 5, 95
    :header: "Nivel", "Cualquier Alineamiento"
 
    "1", "**TROTAMUNDOS**: Viajar a un lugar lejano y desconocido, y regresar con una historia interesante que contar."
@@ -271,6 +271,7 @@ Los **Milagros Divinos** funcionan como hechizos, pero se realizan realizando un
 
 .. csv-table::
    :header: "d66", "Milagro Divino"
+   :widths: 5, 95
 
    "11", ""
    "12", ""
@@ -318,6 +319,7 @@ La **Magia Arcana** es el tipo de magia más común, y es la que los Magos puede
 
 .. csv-table::
    :header: "d66", "Hechizo Arcano"
+   :widths: 5, 95
 
    "11", ""
    "12", ""
@@ -366,6 +368,7 @@ La **Magia Rúnica** es un tipo de magia que se basa en la inscripción de símb
 
 .. csv-table::
    :header: "d66", "Runa y Efecto"
+   :widths: 5, 95
 
    "11", ""
    "12", ""
@@ -413,6 +416,7 @@ La **Magia Natural** es un tipo de magia que se basa en la conexión con la natu
 
 .. csv-table::
    :header: "d66", "Hechizo Natural"
+   :widths: 5, 95
 
    "11", ""
    "12", ""
