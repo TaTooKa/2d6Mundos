@@ -129,11 +129,11 @@ Los Guerreros son expertos en combate; Pueden agregar su Nivel de Guerrero como 
    :widths: 10, 30, 30, 30
    :header: "Nivel", "Legal", "Neutral", "Caótico"
 
-   "1", "", "", ""
-   "2", "", "", ""
-   "3", "", "", ""
-   "4", "", "", ""
-   "5", "", "", ""
+   "1", "**ESCUDERO**", "**LUCHADOR**", "**FORAJIDO**"
+   "2", "**BACHILLER**", "**CORSARIO**", "**MERCENARIO**"
+   "3", "**HIDALGO**", "**BÁRBARO**", "**SAQUEADOR**"
+   "4", "**CABALLERO**", "**GLADIADOR**", "**DESTRUCTOR**"
+   "5", "**SEÑOR (LORD/LADY)**", "**CAMPEÓN**", "**CONQUISTADOR**"
 
 Enano
 *****
@@ -143,7 +143,8 @@ Enano
 
 Los Enanos tienen acceso a la :hoverxref:`Magia Rúnica <fantasia-epica-magia-runica>`, y además son muy resistentes; pueden agregar su Nivel de Enano como modificador a cualquier tirada para resistir Condiciones físicas.
 
-.. csv-table::
+.. csv-table:: Títulos de Enano y requisitos para subir de nivel
+   :widths: 10, 30, 30, 30
    :header: "Nivel", "Legal", "Neutral", "Caótico"
 
    "1", "", "", ""
@@ -178,7 +179,8 @@ Elfo
 
 Los Elfos tienen acceso a la :hoverxref:`Magia Natural <fantasia-epica-magia-natural>`, y además son muy ágiles; pueden agregar su Nivel de Elfo como modificador a cualquier tirada de Iniciativa o de chequeos de destreza física o precisión.
 
-.. csv-table::
+.. csv-table:: Títulos de Elfo y requisitos para subir de nivel
+   :widths: 10, 90
    :header: "Nivel", "Cualquier Alineamiento"
 
    "1", ""
@@ -211,7 +213,8 @@ Mediano
 
 Los Medianos son muy escurridizos; pueden esquivar un peligro automáticamente, o "desaparecer de la vista" ocultandose, una cantidad de veces por día igual a su Nivel de Mediano.
 
-.. csv-table::
+.. csv-table:: Títulos de Mediano y requisitos para subir de nivel
+   :widths: 10, 90
    :header: "Nivel", "Cualquier Alineamiento"
 
    "1", ""
