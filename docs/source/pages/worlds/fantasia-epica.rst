@@ -150,6 +150,24 @@ Los Enanos tienen acceso a la **Magia Rúnica**, y además son muy resistentes; 
    "4", "", "", ""
    "5", "", "", ""
 
+.. csv-table:: d66 Nombres típicos de Enanos
+
+   "11. Nombre", "21. Nombre", "31. Nombre"
+   "12. Nombre", "22. Nombre", "32. Nombre"
+   "13. Nombre", "23. Nombre", "33. Nombre"
+   "14. Nombre", "24. Nombre", "34. Nombre"
+   "15. Nombre", "25. Nombre", "35. Nombre"
+   "16. Nombre", "26. Nombre", "36. Nombre"
+   "", "", ""
+   "41. Nombre", "51. Nombre", "61. Nombre"
+   "42. Nombre", "52. Nombre", "62. Nombre"
+   "43. Nombre", "53. Nombre", "63. Nombre"
+   "44. Nombre", "54. Nombre", "64. Nombre"
+   "45. Nombre", "55. Nombre", "65. Nombre"
+   "46. Nombre", "56. Nombre", "66. Nombre"
+
+
+
 Elfo
 ****
 
@@ -166,6 +184,22 @@ Los Elfos tienen acceso a la **Magia Natural**, y además son muy ágiles; puede
    "3", ""
    "4", ""
    "5", ""
+
+.. csv-table:: d66 Nombres típicos de Elfos
+
+   "11. Nombre", "21. Nombre", "31. Nombre"
+   "12. Nombre", "22. Nombre", "32. Nombre"
+   "13. Nombre", "23. Nombre", "33. Nombre"
+   "14. Nombre", "24. Nombre", "34. Nombre"
+   "15. Nombre", "25. Nombre", "35. Nombre"
+   "16. Nombre", "26. Nombre", "36. Nombre"
+   "", "", ""
+   "41. Nombre", "51. Nombre", "61. Nombre"
+   "42. Nombre", "52. Nombre", "62. Nombre"
+   "43. Nombre", "53. Nombre", "63. Nombre"
+   "44. Nombre", "54. Nombre", "64. Nombre"
+   "45. Nombre", "55. Nombre", "65. Nombre"
+   "46. Nombre", "56. Nombre", "66. Nombre"
 
 Mediano
 *******
@@ -184,11 +218,50 @@ Los Medianos son muy escurridizos; pueden esquivar un peligro automáticamente, 
    "4", ""
    "5", ""
 
+.. csv-table:: d66 Nombres típicos de Medianos
+
+   "11. Nombre", "21. Nombre", "31. Nombre"
+   "12. Nombre", "22. Nombre", "32. Nombre"
+   "13. Nombre", "23. Nombre", "33. Nombre"
+   "14. Nombre", "24. Nombre", "34. Nombre"
+   "15. Nombre", "25. Nombre", "35. Nombre"
+   "16. Nombre", "26. Nombre", "36. Nombre"
+   "", "", ""
+   "41. Nombre", "51. Nombre", "61. Nombre"
+   "42. Nombre", "52. Nombre", "62. Nombre"
+   "43. Nombre", "53. Nombre", "63. Nombre"
+   "44. Nombre", "54. Nombre", "64. Nombre"
+   "45. Nombre", "55. Nombre", "65. Nombre"
+   "46. Nombre", "56. Nombre", "66. Nombre"
+
+Humano
+******
+
+Si no se elige una Raza particular durante la creación del personaje, se asume que el personaje es Humano.
+
+.. csv-table:: d66 Nombres típicos de Humanos
+
+   "11. Nombre", "21. Nombre", "31. Nombre"
+   "12. Nombre", "22. Nombre", "32. Nombre"
+   "13. Nombre", "23. Nombre", "33. Nombre"
+   "14. Nombre", "24. Nombre", "34. Nombre"
+   "15. Nombre", "25. Nombre", "35. Nombre"
+   "16. Nombre", "26. Nombre", "36. Nombre"
+   "", "", ""
+   "41. Nombre", "51. Nombre", "61. Nombre"
+   "42. Nombre", "52. Nombre", "62. Nombre"
+   "43. Nombre", "53. Nombre", "63. Nombre"
+   "44. Nombre", "54. Nombre", "64. Nombre"
+   "45. Nombre", "55. Nombre", "65. Nombre"
+   "46. Nombre", "56. Nombre", "66. Nombre"
+
 Magia
 -----
 
 Milagros Divinos
 ^^^^^^^^^^^^^^^^
+
+Los **Milagros Divinos** funcionan como hechizos, pero se realizan realizando una plegaria al Dios o Panteón al que el Clérigo adora, y su efecto es otorgado por la gracia de ese Dios. 
 
 .. csv-table::
    :header: "d66", "Milagro Divino"
@@ -233,6 +306,8 @@ Milagros Divinos
 Magia Arcana
 ^^^^^^^^^^^^
 
+La **Magia Arcana** es el tipo de magia más común, y es la que los Magos pueden aprender. Se basa en el estudio de las fuerzas mágicas del mundo, y su manipulación a través de fórmulas, gestos y palabras mágicas.
+
 .. csv-table::
    :header: "d66", "Hechizo Arcano"
 
@@ -276,6 +351,9 @@ Magia Arcana
 Magia Rúnica
 ^^^^^^^^^^^^
 
+La **Magia Rúnica** es un tipo de magia que se basa en la inscripción de símbolos con significados poderosos. Los Enanos tienen acceso a esta magia, y pueden aprender a inscribir runas para crear objetos mágicos o para embeber efectos mágicos sobre artefactos, lugares o personas. Las runas pueden inscribirse **temporalmente** (con algún tipo de tinta o líquido, lo que lleva segundos o minutos) o de forma **permanente** (tallándolas o grabándolas en piedra, metal u otro material resistente, un proceso que lleva horas). Borrar o destruir una runa usualmente termina con su efecto mágico.
+
+
 .. csv-table::
    :header: "d66", "Runa y Efecto"
 
@@ -318,6 +396,8 @@ Magia Rúnica
 
 Magia Natural
 ^^^^^^^^^^^^^
+
+La **Magia Natural** es un tipo de magia que se basa en la conexión con la naturaleza y sus fuerzas. Los Elfos tienen acceso a esta magia, y pueden aprender a canalizar la energía natural y decir plegarias a los Espíritus Antiguos de la Naturaleza para crear efectos mágicos relacionados con plantas, animales, clima, elementos naturales, etc.
 
 .. csv-table::
    :header: "d66", "Hechizo Natural"
