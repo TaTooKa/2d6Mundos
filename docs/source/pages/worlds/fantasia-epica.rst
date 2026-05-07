@@ -147,11 +147,11 @@ Los Enanos tienen acceso a la :hoverxref:`Magia Rúnica <fantasia-epica-magia-ru
    :widths: 10, 30, 30, 30
    :header: "Nivel", "Legal", "Neutral", "Caótico"
 
-   "1", "", "", ""
-   "2", "", "", ""
-   "3", "", "", ""
-   "4", "", "", ""
-   "5", "", "", ""
+   "1", "**MILICIANO**", "**MINERO**", "**REBELDE**"
+   "2", "**PROTECTOR**", "**METALÚRGICO**", "**DISIDENTE**"
+   "3", "**CAPITÁN**", "**JOYERO**", "**EXILIADO**"
+   "4", "**CAUDILLO**", "**ARTÍFICE**", "**ICONOCLASTA**"
+   "5", "**VENGADOR**", "**MAESTRO DE LA FORJA**", "**RENEGADO**"
 
 .. csv-table:: d66 Nombres típicos de Enanos
 
