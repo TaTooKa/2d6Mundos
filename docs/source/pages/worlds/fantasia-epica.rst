@@ -71,14 +71,15 @@ Clérigo
 
 Los Clérigos tienen acceso a los **Milagros Divinos**, y también pueden curar con imposición de manos (reducen la severidad de una *Condición* que representa una aflicción física), una cantidad de veces por día iguales a su Nivel de Clérigo.
 
-.. csv-table::
+.. csv-table:: Títulos de Clérigo y requisitos para subir de nivel
+   :widths: 10, 30, 30, 30
    :header: "Nivel", "Legal", "Neutral", "Caótico"
 
-   "1", "", "", ""
-   "2", "", "", ""
-   "3", "", "", ""
-   "4", "", "", ""
-   "5", "", "", ""
+   "1", "**ACÓLITO**: Conseguir un objeto o material útil para ceremonias religiosas en honor a sus dioses.", "**TESTIGO**: Observar un fenómeno de importancia divina o cósmica y vivir para documentarlo.", "**CONVERSO**: En un lugar donde los Dioses Legales han de escuchar, rechazar sus mandamientos con un acto de desafío o blasfemia notable."
+   "2", "**CRUZADO**: Ejecutar o llevar ante la justicia a un líder de un culto sacrílego.", "**PUPILO**: Encontrar y servir a un clérigo veterano, o a un hermitaño seguidor de su religión por un año.", "**FANÁTICO**: Exterminar a un grupo de infieles en un acto de fe y de devoción."
+   "3", "**HERMANO/A**: Donar una pequeña fortuna a un monasterio y vivir allí durante un año.", "**CRONISTA**: Viajar a un lugar de importancia sagrada y documentar los eventos que se suceden durante un año.", "**CULTISTA**: Conseguir los materiales u ofrendas prohibidas para un ritual oscuro y ser partícipe de su realización."
+   "4", "**COADJUTOR**: Ayudar a administrar un templo, monasterio u otra institución de su religión durante un año.", "**JUEZ**: Participar en un juicio con potestad religiosa y arbitrar el veredicto.", "**APÓSTOL**: Unirse a la comitiva de un Profeta del Caos en su peregrinaje oscuro y servirlo durante un año."
+   "5", "**PADRE**: Limpiar una zona sacrílega y fundar un nuevo templo que albergue a su congregación.", "**PROFETA**: Lograr una hazaña digna de ser notada por un Dios, para luego compartir su palabra con la comunidad.", "**SUMO SACERDOTE**: Liderar una revolución que derroque a un régimen religoso opresivo y establezca el reino del caos, consigo a la cabeza."
 
 Ladrón
 ******
