@@ -69,7 +69,7 @@ Clérigo
 [DESCRIPCIÓN]
 [EQUIPO INICIAL: 5 objetos]
 
-Los Clérigos tienen acceso a los :hoverxref:`**Milagros Divinos** <fantasia-epica-milagros-divinos>`, y también pueden curar con imposición de manos (reducen la severidad de una *Condición* que representa una aflicción física), una cantidad de veces por día iguales a su Nivel de Clérigo.
+Los Clérigos tienen acceso a los :hoverxref:`Milagros Divinos <fantasia-epica-milagros-divinos>`, y también pueden curar con imposición de manos (reducen la severidad de una *Condición* que representa una aflicción física), una cantidad de veces por día iguales a su Nivel de Clérigo.
 
 .. csv-table:: Títulos de Clérigo y requisitos para subir de nivel
    :widths: 10, 30, 30, 30
@@ -105,7 +105,7 @@ Mago
 [DESCRIPCIÓN]
 [EQUIPO INICIAL: 5 objetos]
 
-Los Magos tienen acceso a la :hoverxref:`**Magia Arcana** <fantasia-epica-magia-arcana>`, y también pueden agregar su Nivel de Mago como modificador a cualquier tirada para resistir o evitar un efecto mágico.
+Los Magos tienen acceso a la :hoverxref:`Magia Arcana <fantasia-epica-magia-arcana>`, y también pueden agregar su Nivel de Mago como modificador a cualquier tirada para resistir o evitar un efecto mágico.
 
 .. csv-table::
    :header: "Nivel", "Legal", "Neutral", "Caótico"
@@ -139,7 +139,7 @@ Enano
 [DESCRIPCIÓN]
 [EQUIPO INICIAL: 5 objetos]
 
-Los Enanos tienen acceso a la :hoverxref:`**Magia Rúnica** <fantasia-epica-magia-runica>`, y además son muy resistentes; pueden agregar su Nivel de Enano como modificador a cualquier tirada para resistir Condiciones físicas.
+Los Enanos tienen acceso a la :hoverxref:`Magia Rúnica <fantasia-epica-magia-runica>`, y además son muy resistentes; pueden agregar su Nivel de Enano como modificador a cualquier tirada para resistir Condiciones físicas.
 
 .. csv-table::
    :header: "Nivel", "Legal", "Neutral", "Caótico"
@@ -174,7 +174,7 @@ Elfo
 [DESCRIPCIÓN]
 [EQUIPO INICIAL: 5 objetos]
 
-Los Elfos tienen acceso a la :hoverxref:`**Magia Natural** <fantasia-epica-magia-natural>`, y además son muy ágiles; pueden agregar su Nivel de Elfo como modificador a cualquier tirada de Iniciativa o de chequeos de destreza física o precisión.
+Los Elfos tienen acceso a la :hoverxref:`Magia Natural <fantasia-epica-magia-natural>`, y además son muy ágiles; pueden agregar su Nivel de Elfo como modificador a cualquier tirada de Iniciativa o de chequeos de destreza física o precisión.
 
 .. csv-table::
    :header: "Nivel", "Cualquier Alineamiento"
@@ -237,7 +237,7 @@ Los Medianos son muy escurridizos; pueden esquivar un peligro automáticamente, 
 Humano
 ******
 
-Si no se elige una Raza particular durante la creación del personaje, se asume que el personaje es Humano.
+Si no se elige una Raza particular durante la creación del personaje, se asume que el personaje es Humano. Los humanos no tienen ninguna habilidad especial ni cualidad particular y, por lo tanto, no hace falta tener un "Nivel de Humano" ni anotarlo en la hoja de personaje.
 
 .. csv-table:: d66 Nombres típicos de Humanos
 
