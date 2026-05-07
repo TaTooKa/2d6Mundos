@@ -8,11 +8,11 @@ Creación de Personaje
 
 Los Personajes de *Fantasía Épica* están definidos por su **Trasfondo** (profesión o conjunto de habilidades no necesariamente relacionadas a la aventura), su **Clase** (arquetipos de aventurero clásicos como *Mago*, *Guerrero*, *Ladrón* o *Clérigo*) y su **Raza** (*Enano*, *Elfo*, *Mediano*, etc). La Raza solo puede ser escogida durante la creación del personaje (se asume que el personaje es Humano si no se elige una Raza particular).
 
-Los personajes comienzan con 3 Niveles a distribuir a gusto entre **Trasfondos**, **Clases** y **Raza**. Por ejemplo, un personaje podría ser un *Enano 2, Clérigo 1*; o un *Herrero 1, Guerrero 2*; un *Erudito 1, Mago 1, Elfo 1*; un *Ladrón 3*; etc.
+Los personajes comienzan con 3 Niveles a distribuir a gusto entre **Trasfondos**, **Clases** y **Raza**. Por ejemplo, un personaje podría ser un *Enano 2, Clérigo 1*; o un *Herrero 1, Guerrero 2*; o un *Erudito 1, Mago 1, Elfo 1*; o un *Ladrón 3*; etc.
 
-Cada Trasfondo, Clase y Raza prové al personaje 5 objetos de equipo inicial. Si se escoje más de un Trasfondo/Clase/Raza, se ha de mezclar los objetos de cada una de ellas mientras se tenga un total de 5 elementos.
+Cada Trasfondo, Clase y Raza prové al personaje 5 objetos de equipo inicial. Si se escoje más de un Trasfondo/Clase/Raza, se ha de mezclar los objetos de cada una de ellas libremente, mientras se comience con un total de 5 elementos.
 
-Además, deberás escoger un **Alineamiento** entre Legal, Neutral o Caótico.
+Además, los jugadores deberan escoger un **Alineamiento** entre *Legal*, *Neutral* o *Caótico* para sus personajes.
 
 Trasfondos
 ^^^^^^^^^^
