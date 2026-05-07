@@ -44,7 +44,7 @@ Trasfondos
    "43", "**CERRAJERO**: item 1, item 2, item 3, item 4, item 5"
    "44", "**MERCADER**: item 1, item 2, item 3, item 4, item 5"
    "45", "**MINERO**: item 1, item 2, item 3, item 4, item 5"
-   "46", "**BAILARÍN**: item 1, item 2, item 3, item 4, item 5"
+   "46", "**ACRÓBATA**: item 1, item 2, item 3, item 4, item 5"
    "51", "**NOBLE**: item 1, item 2, item 3, item 4, item 5"
    "52", "**NÓMADA**: item 1, item 2, item 3, item 4, item 5"
    "53", "**SACERDOTE**: item 1, item 2, item 3, item 4, item 5"
