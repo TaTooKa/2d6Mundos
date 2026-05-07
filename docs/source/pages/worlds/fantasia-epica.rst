@@ -107,14 +107,15 @@ Mago
 
 Los Magos tienen acceso a la :hoverxref:`Magia Arcana <fantasia-epica-magia-arcana>`, y también pueden agregar su Nivel de Mago como modificador a cualquier tirada para resistir o evitar un efecto mágico.
 
-.. csv-table::
+.. csv-table:: Títulos de Mago y requisitos para subir de nivel
+   :widths: 10, 30, 30, 30
    :header: "Nivel", "Legal", "Neutral", "Caótico"
 
-   "1", "", "", ""
-   "2", "", "", ""
-   "3", "", "", ""
-   "4", "", "", ""
-   "5", "", "", ""
+   "1", "**ADEPTO**", "**VIDENTE**", "**MÉDIUM**"
+   "2", "**CONJURADOR**", "**CHAMÁN**", "**CANALIZADOR**"
+   "3", "**ARCANISTA**", "**ARÚSPICE**", "**BRUJO**"
+   "4", "**MAGUS**", "**SABIO**", "**DIABOLISTA**"
+   "5", "**ARCHI-MAGUS**", "**DRUIDA**", "**NIGROMANTE**"
 
 Guerrero
 ********
@@ -124,7 +125,8 @@ Guerrero
 
 Los Guerreros son expertos en combate; Pueden agregar su Nivel de Guerrero como modificador a tiradas de Iniciativa o para cualquier tirada o dificultad para atacar o defenderse o resistir Condiciones físicas.
 
-.. csv-table::
+.. csv-table:: Títulos de Guerrero y requisitos para subir de nivel
+   :widths: 10, 30, 30, 30
    :header: "Nivel", "Legal", "Neutral", "Caótico"
 
    "1", "", "", ""
