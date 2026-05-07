@@ -183,11 +183,11 @@ Los Elfos tienen acceso a la :hoverxref:`Magia Natural <fantasia-epica-magia-nat
    :widths: 10, 90
    :header: "Nivel", "Cualquier Alineamiento"
 
-   "1", "**GUARDIÁN**"
-   "2", "**EXPLORADOR**"
-   "3", "**AVENTURERO**"
-   "4", "**HÉROE**"
-   "5", "**LEGENDARIO**"
+   "1", "**GUARDIÁN**: Patrullar y proteger las cercanías de su tierra natal bajo las órdenes de un señor de los Elfos."
+   "2", "**EXPLORADOR**: Defender un amplio territorio natural de amenazas externas, hasta que lo conozca como la palma de su mano."
+   "3", "**AVENTURERO**: Embarcarse en una aventura para proteger, conseguir o recuperar un lugar, objeto o ser querido de importancia para una comunidad que lo necesite."
+   "4", "**HÉROE**: Realizar una hazaña de gran importancia para la civilización de una gran área, que se vuelva noticia y se conozca por toda la región."
+   "5", "**LEGENDARIO**: Realizar una hazaña de importancia épica, que se vuelva leyenda y se conozca por todo el mundo a través de las generaciones."
 
 .. csv-table:: d66 Nombres típicos de Elfos
 
@@ -217,12 +217,11 @@ Los Medianos son muy escurridizos; pueden esquivar un peligro automáticamente, 
    :widths: 10, 90
    :header: "Nivel", "Cualquier Alineamiento"
 
-   "1", "**TROTAMUNDOS**"
-   "2", "**BUSCADOR**"
-   "3", "**COLECCIONISTA**"
-   "4", "**ACAPARADOR**"
-   "5", "**SABIO**"
-
+   "1", "**TROTAMUNDOS**: Viajar a un lugar lejano y desconocido, y regresar con una historia interesante que contar."
+   "2", "**BUSCADOR**: Embarcarse en una aventura en busca de un objeto particular y encontrarlo."
+   "3", "**COLECCIONISTA**: Reunir y preservar cinco objetos raros o valiosos, para agregarlos a su colección."
+   "4", "**ACAPARADOR**: Acumular riquezas o posesiones de gran valor que le den fama y atraigan atención indeseada."
+   "5", "**SABIO**: Utilizar sus amplios conocimientos para sortear un dilema o acertijo de gran importancia contra un adversario digno de una historia legendaria."
 .. csv-table:: d66 Nombres típicos de Medianos
 
    "11. Nombre", "21. Nombre", "31. Nombre"
