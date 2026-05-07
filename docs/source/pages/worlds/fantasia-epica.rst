@@ -61,7 +61,7 @@ Trasfondos
 Clases y Razas
 ^^^^^^^^^^^^^^
 
-Cada Clase o Raza tiene diferentes Títulos en cada Nivel. Para subir de Nivel en esas, además de gastar PX, necesitas cumplir una misión o criterio para poder aplicar (descrita en las tablas a continuación, dependiendo de su Alineamiento). Si comienzas con niveles superiores a 1 en una Clase o Raza, asume que ya has cumplido esos requisitos en el pasado.
+Cada Clase o Raza tiene diferentes **Títulos** en cada Nivel. Para subir de Nivel en esas, además de gastar PX, necesitas cumplir una misión o criterio para poder aplicar al mismo (descrita en las tablas a continuación, dependiendo de su *Alineamiento*). Si comienzas con niveles superiores a 1 en una Clase o Raza, asume que ya has cumplido esos requisitos en el pasado.
 
 Clérigo
 *******
@@ -89,14 +89,15 @@ Ladrón
 
 Los Ladrones son muy suertudos; Pueden repetir una tirada de cualquier tipo con un bonificador de +2, una cantidad de veces por día igual a su Nivel de Ladrón.
 
-.. csv-table::
+.. csv-table:: Títulos de Ladrón y requisitos para subir de nivel
+   :widths: 10, 30, 30, 30
    :header: "Nivel", "Legal", "Neutral", "Caótico"
 
-   "1", "", "", ""
-   "2", "", "", ""
-   "3", "", "", ""
-   "4", "", "", ""
-   "5", "", "", ""
+   "1", "**BANDIDO**: Cometer un crímen en un lugar público digno de conseguir una invitación a la Cofradía de los Ladrones.", "**RATERO**: Robarle a alguien de poca monta sin ser capturado.", "**MALHECHOR**: Robar violentamente a algún don nadie de forma descarada."
+   "2", "**APRENDIZ**: Acompañar a un ladrón veterano durante 6 meses.", "**ASALTANTE**: Dar un golpe bien planificado a un carruaje o un lugar importante con artículos de gran valor; hecho que dará que hablar por mucho tiempo.", "**CRIMINAL**: Cometer un crímen atroz y escabroso para beneficio propio, que cause conmoción pública."
+   "3", "**ESBIRRO**: Cumplir con los trabajos pesados y poco prestigiosos que le asigna la Cofradía durante 6 meses.", "**PÍCARO**: Cometer un crímen con éxito valiéndose de su encanto y astucia, dejando su marca.", "**RUFIÁN**: Liderar una pequeña banda de delincuentes y cometer un crímen que dé que hablar." 
+   "4", "**LUGARTENIENTE**: Disciplinar a algunos súbditos soplones o que hayan robado a la persona equivocada, dando el ejemplo.", "**PROFANADOR**: Vulnerar un lugar seguro de índole sagrado o culturalmente protegido, robando un artículo preciado sin ser capturado.", "**MATADOR**: Matar a alguien por venganza de manera evidente para ganarse el respeto de sus pares."
+   "5", "**CAPO**: Tomar las riendas de la Cofradía y del crimen organizado de una ciudad, por la fuerza y demostrando poder y liderazgo.", "**BUSCADOR DE TESOROS**: Investigar y descubrir un lugar legendario, olvidado o extremadamente protegido, para robar un artefacto antiguo, poderoso o de gran valor e importancia cultural.", "**ASESINO**: Matar a alguien importante o poderoso durante una ceremonia o evento público con máxima seguridad."
 
 Mago
 ****
