@@ -183,11 +183,11 @@ Los Elfos tienen acceso a la :hoverxref:`Magia Natural <fantasia-epica-magia-nat
    :widths: 10, 90
    :header: "Nivel", "Cualquier Alineamiento"
 
-   "1", ""
-   "2", ""
-   "3", ""
-   "4", ""
-   "5", ""
+   "1", "**GUARDIÁN**"
+   "2", "**EXPLORADOR**"
+   "3", "**AVENTURERO**"
+   "4", "**HÉROE**"
+   "5", "**LEGENDARIO**"
 
 .. csv-table:: d66 Nombres típicos de Elfos
 
@@ -217,11 +217,11 @@ Los Medianos son muy escurridizos; pueden esquivar un peligro automáticamente, 
    :widths: 10, 90
    :header: "Nivel", "Cualquier Alineamiento"
 
-   "1", ""
-   "2", ""
-   "3", ""
-   "4", ""
-   "5", ""
+   "1", "**TROTAMUNDOS**"
+   "2", "**BUSCADOR**"
+   "3", "**COLECCIONISTA**"
+   "4", "**ACAPARADOR**"
+   "5", "**SABIO**"
 
 .. csv-table:: d66 Nombres típicos de Medianos
 
