@@ -143,8 +143,177 @@ Programas
 
 TODO
 
+Otros Detalles
+^^^^^^^^^^^^^^
+
+Estilo / Vestimenta
+~~~~~~~~~~~~~~~~~~~
+
+.. csv-table::
+   :widths: 10, 5, 85
+   :header: "d6", "d6", "Estilo de Moda y Vestimenta"
+
+   "1 a 3", "1", "**Gastado**. Harapiento como vagabundo, o viejo y reutilizado de segunda mano."
+   "", "2", "**Simbólico**. Urbano, con símbolos/logos de marcas, bandas, pandillas o corporaciones."
+   "", "3", "**Deportivo**. Ropa cómoda y ligera, prioriza movilidad y agilidad."
+   "", "4", "**Pop**. Brillante, llamativo y casi disfrazado. Estilo juvenil."
+   "", "4", "**Tecnológico**. Funcional, con ciberimplantes vistosos o gadgets portátiles."
+   "", "6", "**Corporativo**. Vestimenta formal para etiqueta y trabajo de alto nivel ejecutivo."
+   "", "", ""
+   "4 a 6", "1", "**Alta Costura**. Ropa exclusiva de diseñador. Moda de lujo."
+   "", "2", "**Cuero**. Rudo, colores naturales o cuero negro motoquero. Estética western o tribal."
+   "", "3", "**Militar**. Utilitario y severo. Táctico o camuflaje. La practicidad sobre el estilo."
+   "", "4", "**Mixto**. Tira dos veces en esta tabla y combina ambos estilos."
+   "", "5", "**Mixto**. Tira dos veces en esta tabla y combina ambos estilos."
+   "", "6", "**Mixto**. Tira dos veces en esta tabla y combina ambos estilos."
+
+
+Peinado o Corte de Pelo
+~~~~~~~~~~~~~~~~~~~~~~~
+
+.. csv-table::
+   :widths: 5, 45, 5, 45
+   :header: "d6", "Peinado", "d6", "Color / Decoraciones"
+
+   "1", "Cresta / mohicano", "1", "Multicolor"
+   "2", "Rastas / trenzas", "2", "Un color brillante"
+   "3", "Rapado / corte militar", "3", "Color natural"
+   "4", "Cepillo / jopo / copete", "4", "Recogido / colas / moño"
+   "5", "Mopa / dividido / flequillo", "5", "Lleno de adornos"
+   "6", "Afro / batido / *hairspray*", "6", "Rayado o con claritos"
+
+Adornos y Decoraciones
+~~~~~~~~~~~~~~~~~~~~~~
+
+.. csv-table::
+   :widths: 10, 5, 85
+   :header: "d6", "d6", "Adornos y Decoraciones"
+
+   "1 a 3", "1", "Tatuajes"
+   "", "2", "Gafas espejadas"
+   "", "3", "Cicatrices ritualísticas"
+   "", "4", "Líneas/divisiones de piel sintética"
+   "", "4", "Aros en la nariz"
+   "", "6", "Piercings en la lengua o el rostro"
+   "", "", ""
+   "4 a 6", "1", "Implantes decorativos en las uñas"
+   "", "2", "Botas o tacones con púas"
+   "", "3", "Guantes sin dedos"
+   "", "4", "Lentes de contacto extraños"
+   "", "5", "Placa metálica decorativa en rostro o cuello"
+   "", "6", "Placa metalizada o reflectiva en la piel del brazo/pierna"
+
+Personalidad
+~~~~~~~~~~~~
+
+.. csv-table::
+   :widths: 10, 5, 85
+   :header: "d6", "d6", "Personalidad"
+
+   "1 a 3", "1", "Cínico / Sarcástico"
+   "", "2", "Tímido / Reservado"
+   "", "3", "Rebelde / Antisocial"
+   "", "4", "Arrogante / Orgulloso"
+   "", "5", "Impulsivo / Temerario"
+   "", "6", "Exigente / Nervioso"
+   "", "", ""
+   "4 a 6", "1", "Amigable / Extrovertido" 
+   "", "2", "Carismático / Encantador"
+   "", "3", "Estable / Serio / Estoico"
+   "", "4", "Atolondrado / Cabeza dura"
+   "", "5", "Furtivo / Engañoso"
+   "", "6", "Intelectual / Desapegado"
+
+Manierismos
+~~~~~~~~~~~
+
+.. csv-table::
+   :widths: 10, 5, 85
+   :header: "d6", "d6", "Personalidad"
+
+   "1 a 3", "1", "Voz grave / Rasposa"
+   "", "2", "Habla arrastrada / Acento marcado"
+   "", "3", "Habla florida / Rebuscada"
+   "", "4", "Tartamudea / Murmura"
+   "", "5", "Monotonal / Frío"
+   "", "6", "Muy ruidoso / Se ríe mucho"
+   "", "", ""
+   "4 a 6", "1", "Hace largas pausas / Deja frases inconclusas" 
+   "", "2", "Habla solo / Susurra"
+   "", "3", "Da datos aleatorios / Lo explica todo"
+   "", "4", "Voz jadeante / Chillona"
+   "", "5", "Mezcla idiomas / Usa jerga o modismos"
+   "", "6", "Tono melódico / Canta"
+
+
+Infancia y Juventud
+~~~~~~~~~~~~~~~~~~~
+
+Crianza y Clase Social
+**********************
+
+.. csv-table::
+   :widths: 10, 90
+   :header: "2d6", "Crianza y Clase Social"
+
+   "3 o menos", "**Indigentes Urbanos**. Villas miserias, campamentos, contenedores, autos abandonados y basureros."
+   "4", "**Pandilleros**. Parte de la “familia” o un recurso para explotar. Probablemente nunca conociste a tus verdaderos padres."
+   "5", "**Habitantes de la Zona de Combate**. Algún edificio en ruinas dentro de la Zona, fortificado y abandonado por la sociedad."
+   "6", "**Manada Nómada**. Creciste en la ruta, viviendo en trailers, carpas o recuperando pueblos fantasma abandonados."
+   "7 u 8", "**Ratas de Megabloque**. Creciste en uno de los megabloques de posguerra. Departamento pequeño en los pisos bajos."
+   "9", "**Trabajadores Corporativos**. Clase media, suburbios, minivanes y escuelas técnicas manejadas por corporaciones."
+   "10", "**Gerentes Corporativos**. La gerencia media todavía significaba una buena casa y una vida segura."
+   "11 o más", "**Altos Corporativos**. Ricos y poderosos, con sirvientes y hogares de lujo."
+
+¿A dónde viviste durante tu adolescencia?
+*****************************************
+
+Tira "`d6 - d6`", y aplícaselo al resultado de la tabla anterior, luego consulta en la siguiente tabla. Si cambiaste rotundamente de clase o ámbito social, explica por qué. 
+ 
+
+.. csv-table::
+   :widths: 10, 90
+   :header: "#", "Adolescencia y Adultez Temprana"
+
+   "4 o menos", "En las calles, sin supervisión adulta."
+   "5", "Edificios destruidos, ocupas de ruinas o cerca de una Zona de Combate."
+   "6", "En las afueras o entre las ruinas de pueblos abandonados."
+   "7", "En un barrio decadente, antaño exclusivo y ahora muy venido a menos."
+   "8", "En un megabloque corporativo superpoblado."
+   "9", "En una Zona Corporativa segura, aislada del resto de la ciudad."
+   "10 o más", "En un lujoso rascacielos corporativo, muy por encima de la multitud miserable."
+
+Tu Crisis
+~~~~~~~~~
+
+TODO
+
+Amigos
+~~~~~~
+
+TODO
+
+Enemigos
+~~~~~~~~
+
+TODO
+
+Tu trágica historia de amor
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TODO
+
+Lo que más valoras en la vida
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TODO
 
 Fuentes de Inspiración
 ----------------------
 
-TODO
+* *Neuromancer* y la *Sprawl Trilogy* de William Gibson. 
+* *Blade Runner* de Ridley Scott. 
+* *Cyberpunk 2020* de R. Talsorian Games. 
+* *Ghost In The Shell* de Masamune Shirow. 
+* *Cyberpunk 2077* de CD Projekt Red. 
+* *Snatcher* y *Policenauts* de Hideo Kojima.
