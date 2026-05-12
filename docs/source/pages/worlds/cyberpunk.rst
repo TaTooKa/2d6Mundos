@@ -77,13 +77,13 @@ Elige hasta 4 implantes durante la creación de personaje. Las mejoras de cada t
 
 ----
 
-   **Neuralink**: Interfaz digital para el cerebro. Accede a AR/VR sin dispositivos externos, directamente a través de tus sentidos. Incluye 1 ranura/puerto universal para chip (instalado detrás de la oreja).
+   **Neuralink**: Interfaz digital para el cerebro. Accede a AR/VR sin dispositivos externos, directamente a través de tus sentidos. Incluye 1 ranura/puerto universal para chip de datos (instalado detrás de la oreja).
 
-      **↳ Grabador de SenSim™**: Salva hasta 1 hora de input sensorial.
+      **↳ Grabador de SenSim™**: Salva hasta 1 hora de input sensorial completo.
 
       **↳ SmartLink™**: Se conecta al mod SmartLink™ de un arma para mejorar la puntería y el control de disparo.
 
-      **↳ Ranura SkillSoft™**: Permite instalar chips de software de habilidades (SkillSoft) en la nunca o detrás de la oreja. Estos chips contienen programas que mejoran tus habilidades físicas o mentales, o que te otorgan nuevas habilidades por un tiempo limitado. 
+      **↳ Ranura SkillSoft™**: Permite instalar chips de software de habilidades (*SkillSoft™*) en la nunca o detrás de la oreja. Estos chips contienen programas que mejoran tus habilidades físicas o mentales, o que te otorgan nuevas como si fueras un experto en esa área. Cada ranura permite un chip activo a la vez y se instala por separado. 
 
 ----
 
@@ -136,7 +136,53 @@ Elige hasta 4 implantes durante la creación de personaje. Las mejoras de cada t
 Equipamiento
 ^^^^^^^^^^^^
 
-TODO
+Armadura y Protección
+~~~~~~~~~~~~~~~~~~~~~
+
+.. csv-table::
+   :widths: 90, 10
+   :header: "Artículo", "Coste en Recursos"
+
+   "**Traje ajustado (ligero):** Mono flexible entretejido con nano-fibras resistentes. Elegante, silencioso y diseñado para la movilidad. *ocultable*.","2"
+   "**Chaleco reforzado (medio):** Chaleco resistente a impactos, revestido con fibras inteligentes de *Armorgel™* que se endurecen al recibir golpes.","3"
+   "**Armadura táctica (pesada):** Blindaje corporal completo con capas antibalas de fibra de carbono, diseñado para el caos del frente de batalla. *aparatosa*. *muy obvia*.","3"
+   "**Ropa de camuflaje óptico:** Se vuelve invisible con un interruptor, o a demanda con un *Neuralink*. Funciona mejor combinada con el ciber-implante *Piel de Camuflaje Óptico*.","3"
+
+Armas, munición y accesorios
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. csv-table::
+   :widths: 90, 10
+   :header: "Artículo", "Coste en Recursos"
+
+   "**Katana:** Hoja de monofilamento con núcleo vibratorio; corta rápido y limpio.","3"
+   "**Arma cuerpo a cuerpo pesada:** (motosierra/mazo/etc). Diseñada para combate brutal a corta distancia. *a dos manos*. *lenta*. *contundente*. *voluminosa*.","2"
+   "**Táser:** Descarga una potente sacudida eléctrica a corta distancia. *a una mano*. *ocultable*.","1"
+   "**Pistola:** Compacta y confiable. *a una mano*. *ocultable*.","1"
+   "**Rifle de asalto:** Rifle modular diseñado para combate urbano y fuego sostenido. *a dos manos*.","3"
+   "**Rifle de francotirador:** Preciso; letal a larga distancia. *a dos manos*. *voluminoso*. *muy obvio*.","3"
+   "**Escopeta:** Arma de dispersión a corta distancia; devastadora en espacios cerrados. *a dos manos*.","2"
+   "**Lanza-Granadas/Cohetes:** Dispara cargas explosivas para despejar habitaciones o vehículos. Munición muy limitada. *a dos manos*. *muy voluminoso*/*pesado*.","3"
+   "**Silenciador:** Solo para pistolas. *silencioso*.","1"
+   "**Supresor:** Para rifles de asalto o francotirador. Reduce considerablemente el ruido.","1"
+   "**Munición especial:** elige: perforante/autoguiada/dardo tranquilizante/incendiaria/tóxica/humo. 1 cargador.","2"
+   "**Mod Smart Link™:** Instálalo en un arma de fuego para habilitar auto-apuntado, modo IFF (*Identify Friend or Foe*) y control preciso (reducción de temblores) mediante un *Smart Link*, usando *gafas AR* o *Ciber-Ojos* / *Neuralink*.","1 K฿"
+
+Herramientas y Misceláneos
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. csv-table::
+   :widths: 90, 10
+   :header: "Artículo", "Coste en Recursos"
+
+   "**Chip SkillSoft™:** Conéctalo en una ranura y aprende o mejora una habilidad instantáneamente (+1 o +2 a tiradas relacionadas). Requiere un *Neuralink* con *Ranura Skillsoft™*.","2"
+   "**Gafas VR:** Permiten acceder a la Red en modo *Realidad Virtual* sin necesidad de un *Neuralink*.","2"
+   "**Caja de herramientas electrónicas:** Equipo de hackeo, sensores de señales varias y micro-herramientas para vulnerar sistemas electrónicos.","2"
+   "**Caja de herramientas mecánicas:** Llaves, selladores y servo-herramientas para reparar máquinas sobre la marcha.","2"
+   "**Medkit:** Auto-inyectores de emergencia, parches de piel sintética y espuma anti-trauma para tratamiento de campo. 3 usos.","2"
+   "**Dron de combate:** Plataforma armada autónoma y flotante; pequeña, veloz y equipada con munición letal.","3"
+   "**Dron espía:** Aerodron silencioso con cámaras, micrófonos y rastreadores de señal.","3"
+   "**Almacenamiento digital:** Medio portátil para guardar datos. *minidiscs*, *thumbchips*, *shards* ópticos, *drives* reforzados, etc.","1"
 
 Programas
 ^^^^^^^^^
@@ -274,7 +320,6 @@ Manierismos
    "", "4", "Voz jadeante / Chillona"
    "", "5", "Mezcla idiomas / Usa jerga o modismos"
    "", "6", "Tono melódico / Canta"
-
 
 Infancia y Juventud
 ~~~~~~~~~~~~~~~~~~~
