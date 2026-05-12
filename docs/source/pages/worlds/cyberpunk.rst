@@ -166,7 +166,7 @@ Armas, munición y accesorios
    "**Silenciador:** Solo para pistolas. *silencioso*.","1"
    "**Supresor:** Para rifles de asalto o francotirador. Reduce considerablemente el ruido.","1"
    "**Munición especial:** elige: perforante/autoguiada/dardo tranquilizante/incendiaria/tóxica/humo. 1 cargador.","2"
-   "**Mod Smart Link™:** Instálalo en un arma de fuego para habilitar auto-apuntado, modo IFF (*Identify Friend or Foe*) y control preciso (reducción de temblores) mediante un *Smart Link*, usando *gafas AR* o *Ciber-Ojos* / *Neuralink*.","1 K฿"
+   "**Mod Smart Link™:** Instálalo en un arma de fuego para habilitar auto-apuntado, modo IFF (*Identify Friend or Foe*) y control preciso (reducción de temblores) mediante un *Smart Link*, usando *gafas AR* o *Ciber-Ojos* / *Neuralink*.","2"
 
 Herramientas y Misceláneos
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -181,7 +181,7 @@ Herramientas y Misceláneos
    "**Caja de herramientas mecánicas:** Llaves, selladores y servo-herramientas para reparar máquinas sobre la marcha.","2"
    "**Medkit:** Auto-inyectores de emergencia, parches de piel sintética y espuma anti-trauma para tratamiento de campo. 3 usos.","2"
    "**Dron de combate:** Plataforma armada autónoma y flotante; pequeña, veloz y equipada con munición letal.","3"
-   "**Dron espía:** Aerodron silencioso con cámaras, micrófonos y rastreadores de señal.","3"
+   "**Dron espía:** Aerodron silencioso como una mosca; con cámaras, micrófonos y rastreadores de señal.","3"
    "**Almacenamiento digital:** Medio portátil para guardar datos. *minidiscs*, *thumbchips*, *shards* ópticos, *drives* reforzados, etc.","1"
 
 Programas
