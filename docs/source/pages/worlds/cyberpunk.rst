@@ -141,7 +141,7 @@ TODO
 Programas
 ^^^^^^^^^
 
-Los PROGRAMAS son comandos o *quickhacks* que cualquier persona con un dispositivo con capacidad de acceso a la Red puede ejecutar, y son mucho más rápidos que programar una solución en el momento. El software se puede copiar o intercambiar fácilmente; lo que pagas es el almacenamiento (*minidisc*, *thumbchip*, *shard* óptico, almacenamiento en la nube, etc) y/o el tiempo de cómputo para compilarlo o ajustarlo a tu dispositivo [#]_. 
+Los PROGRAMAS son comandos o *quickhacks* que cualquier persona con un dispositivo con capacidad de acceso a la Red puede ejecutar, y son mucho más rápidos que programar una solución en el momento. El software se puede copiar o intercambiar fácilmente; lo que pagas con tus :hoverxref:`Recursos <cyberpunk-recursos>` es el almacenamiento (*minidisc*, *thumbchip*, *shard* óptico, almacenamiento en la nube, etc) y/o el tiempo de cómputo para compilarlo o ajustarlo a tu dispositivo [#]_. 
 
 .. [#] Esto significa que si quieres copiar un Programa que posees para compartirlo con un aliado, este deberá también pagar el coste de Recursos para almacenarlo/compilarlo/ajustarlo a su dispositivo, aunque tú no pierdas el acceso a él.
 
@@ -167,7 +167,7 @@ Los PROGRAMAS son comandos o *quickhacks* que cualquier persona con un dispositi
    "**/RIDE**: Obtienes acceso, en modo solo-lectura, a los sentidos de un drone/cámara/gafas AR o VR/ojos/*Neuralink*.", "2"
    "**/SCAN**: Busca tipos específicos de dispositivos o usuarios en un área amplia, o encuentra una ID concreta, obteniendo información básica y posición.", "2"
    "**/SHIELD**: Protege pasivamente contra ataques virtuales directos o intentos de inyección de *malware*.", "2"
-   "**/SPIKE**: Provoca un pico de estrés o pánico (Chequeo de Instinto) en alguien con *Neuralink*.", "3"
+   "**/SPIKE**: Provoca un pico de estrés o pánico (:hoverxref:`Chequeo de Instinto <reglas-opcionales-chequeos-instinto>`) en alguien con *Neuralink*.", "3"
    "**/SPOOF**: Genera identificaciones, credenciales o historiales falsos temporales, robados de un objetivo cercano o preseleccionado.", "2"
    "**/TRACK**: Instala *malware* en el objetivo para conocer siempre su ubicación sin importar la distancia (o saltos de red).", "2"
    "**/VIRUS**: Se instala en un dispositivo; provoca una Condición de *Malfuncionamiento* y se propaga lentamente a objetivos cercanos.", "3"
@@ -281,6 +281,8 @@ Infancia y Juventud
 
 Las siguientes tablas determinarán tu crianza, clase social y dónde viviste durante tu adolescencia y adultez temprana. Esto no es solo para darle color y detalle a la historia de tu personaje; también impactará en el tipo de etiqueta y conocimientos culturales que tienes. Las clases más bajas se llevarán mejor con la etiqueta del Callejeo y el crímen, mientras que las clases más altas se llevarán mejor con la etiqueta corporativa y el conocimiento de negocios. 
 
+Sea como fuere que hayas crecido, tu personaje comenzará con un nivel de :hoverxref:`Recursos <cyberpunk-recursos>` en 2 (Clase Media-Baja). Puedes buscarle una explicación a esto o no, pero tu status y recursos actuales son los que te llevan a tener que aceptar trabajos y misiones como mercenario.
+
 Crianza y Clase Social
 **********************
 
@@ -342,6 +344,8 @@ TODO
 
 Nuevas Mecánicas
 ----------------
+
+.. _cyberpunk-recursos:
 
 Recursos
 ^^^^^^^^
