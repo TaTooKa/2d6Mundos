@@ -141,7 +141,37 @@ TODO
 Programas
 ^^^^^^^^^
 
-TODO
+Los PROGRAMAS son comandos o *quickhacks* que cualquier persona con un dispositivo con capacidad de acceso a la Red puede ejecutar, y son mucho más rápidos que programar una solución en el momento. El software se puede copiar o intercambiar fácilmente; lo que pagas es el almacenamiento (*minidisc*, *thumbchip*, *shard* óptico, almacenamiento en la nube, etc) y/o el tiempo de cómputo para compilarlo o ajustarlo a tu dispositivo [#]_. 
+
+.. [#] Esto significa que si quieres copiar un Programa que posees para compartirlo con un aliado, este deberá también pagar el coste de Recursos para almacenarlo/compilarlo/ajustarlo a su dispositivo, aunque tú no pierdas el acceso a él.
+
+.. csv-table::
+   :widths: 90, 10
+   :header: "Programa", "Coste en Recursos"
+
+   "**/ALARM**: Activa alguno o todos los sistemas de alarma en las cercanías.", "2"
+   "**/BEFRIEND**: El bot/torreta/drone/cámara/etc objetivo te considera un aliado.", "2"
+   "**/BLIND**: Sobrecarga el input óptico o sistema visual del dispositivo o *Neuralink* objetivo, causando una Condición de *Ceguera*.", "2"
+   "**/BYPASS**: Abre una cerradura electrónica objetivo o desbloquea autenticaciones o software *SecGuard™*.", "2"
+   "**/CLEAN**: Escanea, localiza y elimina cualquier *malware* presente en el dispositivo o *Neuralink* objetivo. Toma unos minutos.", "2"
+   "**/DEFRAG**: Localiza y repara código y datos corruptos del dispositivo o *Neuralink* objetivo, eliminando Condiciones causadas por *Frag* o *Dumpshock*. Toma unos minutos por Condición.", "2"
+   "**/DELAY**: Hace que las directivas y movimientos del dispositivo o *Neuralink* objetivo sean 2X más lentos.", "2"
+   "**/FRAG**: “Fragmenta” o corrompe el código y datos del dispositivo, *Neuralink* o constructo VR objetivo, causando daño virtual en forma de Condiciones hasta dejarlo inutilizado o incapacitado.", "2"
+   "**/ISOLATE**: Bloquea todo el input/output del dispositivo o *Neuralink* objetivo, desconectándolo de la Red y aplicando una Condición de *Desconectado*.", "3"
+   "**/MUTE**: Bloquea las comunicaciones, voz, parlantes, comandos inalámbricos u otros outputs sensoriales del objetivo.", "3"
+   "**/OVERHEAT**: Los sistemas de refrigeración del dispositivo o ciber-implante objetivo dejan de funcionar; recibe daño por calor o se apaga por seguridad.", "2"
+   "**/PACIFY**: Todas las acciones del dispositivo o *Neuralink* objetivo quedan restringidas a comportamientos no violentos ni ofensivos.", "3"
+   "**/PING**: Revela la ubicación del objetivo y de los dispositivos cercanos, saltando a través de la Red. Más “profundidad” (en cantidad de saltos) requiere exponencialmente más tiempo.", "2"
+   "**/PUPPET**: “Posee” o toma control de un drone/bot/torreta/etc.", "3"
+   "**/RENDER**: Controla feeds AR locales o constructos VR para proyectar una breve ilusión simple creada por ti.", "3"
+   "**/RIDE**: Obtienes acceso, en modo solo-lectura, a los sentidos de un drone/cámara/gafas AR o VR/ojos/*Neuralink*.", "2"
+   "**/SCAN**: Busca tipos específicos de dispositivos o usuarios en un área amplia, o encuentra una ID concreta, obteniendo información básica y posición.", "2"
+   "**/SHIELD**: Protege pasivamente contra ataques virtuales directos o intentos de inyección de *malware*.", "2"
+   "**/SPIKE**: Provoca un pico de estrés o pánico (Chequeo de Instinto) en alguien con *Neuralink*.", "3"
+   "**/SPOOF**: Genera identificaciones, credenciales o historiales falsos temporales, robados de un objetivo cercano o preseleccionado.", "2"
+   "**/TRACK**: Instala *malware* en el objetivo para conocer siempre su ubicación sin importar la distancia (o saltos de red).", "2"
+   "**/VIRUS**: Se instala en un dispositivo; provoca una Condición de *Malfuncionamiento* y se propaga lentamente a objetivos cercanos.", "3"
+   "**/WIPE**: Borra los últimos 10 segundos de input sensorial y retención de memoria del dispositivo o *Neuralink* objetivo.", "3"
 
 Otros Detalles
 ^^^^^^^^^^^^^^
