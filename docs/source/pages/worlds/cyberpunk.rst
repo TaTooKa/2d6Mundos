@@ -310,6 +310,59 @@ Lo que más valoras en la vida
 
 TODO
 
+Nuevas Mecánicas
+----------------
+
+Recursos
+^^^^^^^^
+
+Cada personaje tiene un valor numérico de **RECURSOS** (dinero disponible, bienes liquidables, etc) que va de 1 a 5. El valor de RECURSOS también se usa para determinar de manera semi-abstracta el valor de productos y servicios.
+
+.. csv-table::
+   :widths: 10, 70, 20
+   :header: "Nivel de Recursos", "Gastos Típicos", "Clase Social"
+
+   "1", "Baratija / Descartables / Servicio Menor", "Pobreza"
+   "2", "Suministros simples / Productos baratos / Servicios Básicos", "Clase media baja"
+   "3", "Suministros avanzados / Productos caros / Servicios de Calidad", "Clase media alta"
+   "4", "Productos de lujo / Servicios Premium", "Clase alta"
+   "5", "Prototipos inconseguibles / Servicios de lujo extremo", "Billonarios o Clase 1%"
+
+Usar Recursos
+~~~~~~~~~~~~~
+
+Cuando un personaje quiere usar sus RECURSOS para pagar bienes/servicios [#]_:
+
+.. [#] Si el personaje abusa y tiene muchos gastos, el coste de RECURSOS se puede considerar +1 o superior, o bajar direcamente su nivel de RECURSOS en -1, a discresión del DJ.
+
+* Si el costo está por debajo de sus RECURSOS actuales, lo consigue automáticamente.
+* Si el costo es igual a su nivel de RECURSOS, debe tirar 1d6: Si el resultado es igual o menor a su nivel de RECURSOS lo consigue automáticamente; si es más alto, para lograr pagarlo debe "endeudarse" o liquidar más de lo normal, reduciendo su nivel de RECURSOS en 1.
+* Si el costo es superior a su nivel de RECURSOS, el bien o servicio está fuera de su alcance.
+
+
+Un personaje que queda con RECURSOS en 0 está en banca rota, limitado a un nivel de vida de Indigencia, y sin poder adquirir suministros de ningún tipo.
+
+Ganar Recursos
+~~~~~~~~~~~~~~
+
+Cuando un personaje recibe un ingreso económico de gran valor (la paga de una misión importante, la adquisión de un bien valioso, ingresos fijos por inversiones o negocios, etc), debe hacer una tirada de 1d6 para ver si logra incrementar sus RECURSOS. Si obtiene un resultado igual o menor a sus RECURSOS actuales, mantiene el mismo nivel. Si el resultado es superior, incrementa sus RECURSOS en +1 (máximo 5).
+
+Expensas y Gastos Corrientes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Al final de cada mes que transcurre en la ficción, el personaje debe pagar por su **Estilo de Vida**, siguiendo las reglas de usar sus RECURSOS de más arriba.
+
+.. csv-table::
+   :widths: 25, 60, 15
+   :header: "Estilo de Vida", "Descripción", "Coste Mensual de Recursos"
+
+   "Pobreza Extrema / Indigencia",  "El personaje no tiene un lugar fijo donde dormir y come sobras de la basura o mendiga para sobrevivir.",  "0"
+   "Pobreza / Mala Vida",  "El personaje vive en hoteles-cofre, o en edificios abandonados / ocupados, lidiando con pandilleros y casi sin servicios básicos.",  "1"
+   "Clase media-baja",  "El personaje vive en un mono-ambiente muy pequeño en una zona insegura y con servicios básicos intermitentes.",  "2"
+   "Clase media-alta",  "El personaje vive en una zona decente de la ciudad, en un departamento de 2 o 3 ambientes, con servicios básicos completos y puede darse algún que otro gusto en productos de marca o servicios premium.",  "3"
+   "Clase alta",  "El personaje vive en un piso lujoso en un edificio con clase y seguridad de primera, con servicios premium y acceso a casi cualquier producto de alto nivel.",  "4"
+   "1%",  "El personaje tiene múltiples propiedades, viaja en avión privado cuando quiere, se mueve en primera clase y atiende eventos del jet-set; con servidumbre para lo que necesite.",  "5"
+
 Fuentes de Inspiración
 ----------------------
 
@@ -319,3 +372,4 @@ Fuentes de Inspiración
 * *Ghost In The Shell* de Masamune Shirow. 
 * *Cyberpunk 2077* de CD Projekt Red. 
 * *Snatcher* y *Policenauts* de Hideo Kojima.
+* *Robocop* y *Total Recall* de Paul Verhoeven.
