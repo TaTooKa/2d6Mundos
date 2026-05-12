@@ -249,6 +249,8 @@ Manierismos
 Infancia y Juventud
 ~~~~~~~~~~~~~~~~~~~
 
+Las siguientes tablas determinarán tu crianza, clase social y dónde viviste durante tu adolescencia y adultez temprana. Esto no es solo para darle color y detalle a la historia de tu personaje; también impactará en el tipo de etiqueta y conocimientos culturales que tienes. Las clases más bajas se llevarán mejor con la etiqueta del Callejeo y el crímen, mientras que las clases más altas se llevarán mejor con la etiqueta corporativa y el conocimiento de negocios. 
+
 Crianza y Clase Social
 **********************
 
@@ -275,13 +277,13 @@ Tira "`d6 - d6`", y aplícaselo al resultado de la tabla anterior, luego consult
    :widths: 10, 90
    :header: "#", "Adolescencia y Adultez Temprana"
 
-   "4 o menos", "En las calles, sin supervisión adulta."
-   "5", "Edificios destruidos, ocupas de ruinas o cerca de una Zona de Combate."
+   "2 o menos", "En las calles, sin supervisión adulta."
+   "3 a 5", "Edificios destruidos, ocupas de ruinas o cerca de una Zona de Combate."
    "6", "En las afueras o entre las ruinas de pueblos abandonados."
    "7", "En un barrio decadente, antaño exclusivo y ahora muy venido a menos."
-   "8", "En un megabloque corporativo superpoblado."
-   "9", "En una Zona Corporativa segura, aislada del resto de la ciudad."
-   "10 o más", "En un lujoso rascacielos corporativo, muy por encima de la multitud miserable."
+   "8 a 10", "En un megabloque corporativo superpoblado."
+   "11 a 12", "En una Zona Corporativa segura, aislada del resto de la ciudad."
+   "13 o más", "En un lujoso rascacielos corporativo, muy por encima de la multitud miserable."
 
 Tu Crisis
 ~~~~~~~~~
