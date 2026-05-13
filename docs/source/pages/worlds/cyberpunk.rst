@@ -377,6 +377,10 @@ Elige o tira `d6, d6` para determinar tu **Trasfondo** y equipo inicial. Tienes 
 Ciber-Implantes
 ^^^^^^^^^^^^^^^
 
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-17.png
+
+   arte © `Deus Ex: Human Revolution - Eidos Software <https://www.eidosmontreal.com/games/deus-ex-human-revolution/>`_
+
 Puedes adquirir Ciber-Implantes durante la creación de personaje, siempre y cuando puedas pagarlos con tus :hoverxref:`Recursos <cyberpunk-recursos>`. Las mejoras de cada tipo de ciber-implante se adquieren por separado.
 
 Ten en cuenta que el exceso de Ciber-Implantes instalados conlleva una progresiva :hoverxref:`Pérdida de Humanidad <cyberpunk-perdida-humanidad>`, y puede resultar en ataques de *Ciber-psicosis*.
