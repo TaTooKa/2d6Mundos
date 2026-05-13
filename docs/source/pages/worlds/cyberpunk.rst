@@ -289,6 +289,10 @@ Adornos y Decoraciones
 Personalidad
 ~~~~~~~~~~~~
 
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-14.png
+
+   arte © `Jude Smith <https://www.artstation.com/jude_smith>`_
+
 .. csv-table::
    :widths: 10, 5, 85
    :header: "d6", "d6", "Personalidad"
@@ -309,6 +313,10 @@ Personalidad
 
 Manierismos
 ~~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-15.png
+
+   arte © **Katsuhiro Otomo - Toho**
 
 .. csv-table::
    :widths: 10, 5, 85
