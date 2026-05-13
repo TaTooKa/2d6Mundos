@@ -49,6 +49,10 @@ Elige o tira `d6, d6` para determinar tu Orígen Cultural, y elige 2 lenguajes q
 Historia de Vida
 ^^^^^^^^^^^^^^^^
 
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-12.jpg
+
+   arte © **CD PROJEKT RED**
+
 Las siguientes tablas definen tu historia de vida, tu personalidad y tu estilo.
 
 Infancia y Juventud
