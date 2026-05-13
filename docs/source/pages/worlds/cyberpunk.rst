@@ -482,8 +482,8 @@ Cuando un personaje quiere usar sus RECURSOS para pagar bienes/servicios [#]_:
 .. [#] Si el personaje abusa y tiene muchos gastos, el coste de RECURSOS se puede considerar +1 o superior, o bajar direcamente su nivel de RECURSOS en -1, a discresión del DJ.
 
 * Si el costo está por debajo de sus RECURSOS actuales, lo consigue automáticamente.
-* Si el costo es igual a su nivel de RECURSOS, debe tirar 1d6: Si el resultado es igual o menor a su nivel de RECURSOS lo consigue automáticamente; si es más alto, para lograr pagarlo debe "endeudarse" o liquidar más de lo normal, reduciendo su nivel de RECURSOS en 1.
-* Si el costo es superior a su nivel de RECURSOS, el bien o servicio está fuera de su alcance.
+* Si el costo es igual a su nivel de RECURSOS, debe tirar 1d6: Si el resultado es igual o menor a su nivel de RECURSOS lo consigue automáticamente; si es más alto, para lograr pagarlo debe liquidar más de lo normal, reduciendo su nivel de RECURSOS en 1.
+* Si el costo es superior a su nivel de RECURSOS, el bien o servicio está fuera de su alcance, o el personaje deberá :xhoveref:`endeudarse <cyberpunk-recursos-endeudarse>`.
 
 
 Un personaje que queda con RECURSOS en 0 está en banca rota, limitado a un nivel de vida de Indigencia, y sin poder adquirir suministros de ningún tipo.
@@ -491,7 +491,9 @@ Un personaje que queda con RECURSOS en 0 está en banca rota, limitado a un nive
 Ganar Recursos
 ~~~~~~~~~~~~~~
 
-Cuando un personaje recibe un ingreso económico de gran valor (la paga de una misión importante, la adquisión de un bien valioso, ingresos fijos por inversiones o negocios, etc), debe hacer una tirada de 1d6 para ver si logra incrementar sus RECURSOS. Si obtiene un resultado igual o menor a sus RECURSOS actuales, mantiene el mismo nivel. Si el resultado es superior, incrementa sus RECURSOS en +1 (máximo 5).
+Cuando un personaje recibe un ingreso económico de gran valor (la paga de una misión importante, la adquisión de un bien valioso, ingresos fijos por inversiones o negocios, etc), debe hacer una tirada de 1d6 para ver si logra incrementar sus RECURSOS. Si obtiene un resultado igual o menor a sus RECURSOS actuales, mantiene el mismo nivel. Si el resultado es superior, incrementa sus RECURSOS en +1 (máximo 5) [#]_.
+
+.. [#] Esta mecánica hace que sea cada vez más difícil incrementar tu nivel de Recursos y Estilo de Vida, y refuerza el riesgo de perderlo todo por malas decisiones, mala suerte, o simplemente por la naturaleza volátil del mundo en el que vives.
 
 Expensas y Gastos Corrientes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -508,6 +510,21 @@ Al final de cada mes que transcurre en la ficción, el personaje debe pagar por 
    "Clase media-alta",  "El personaje vive en una zona decente de la ciudad, en un departamento de 2 o 3 ambientes, con servicios básicos completos y puede darse algún que otro gusto en productos de marca o servicios premium.",  "3"
    "Clase alta",  "El personaje vive en un piso lujoso en un edificio con clase y seguridad de primera, con servicios premium y acceso a casi cualquier producto de alto nivel.",  "4"
    "1%",  "El personaje tiene múltiples propiedades, viaja en avión privado cuando quiere, se mueve en primera clase y atiende eventos del jet-set; con servidumbre para lo que necesite.",  "5"
+
+Si el personaje no puede pagar su coste mensual de Estilo de Vida, debe reducir su nivel de Estilo de Vida en uno (por ejemplo, de Clase Media-Alta a Clase Media-Baja), y pagar el nuevo coste. Si aún así no puede pagarlo, debe reducirlo nuevamente, y así sucesivamente hasta que pueda pagarlo [#]_ o quede en Indigencia.
+
+.. [#] Nótese que cada vez que el personaje deba pagar su **Estilo de Vida**, se le aplican las reglas de usar sus RECURSOS; es decir que si tiene un nivel de Recursos igual a lo que debe pagar tiene que hacer una tirada de 1d6 como se explica más arriba.
+
+.. _cyberpunk-recursos-endeudarse:
+
+Endeudarse
+~~~~~~~~~~
+
+Muchas veces, el personaje querrá conseguir algo que no puede pagar en el momento, porque el valor de Recursos es superior a su nivel actual. En ese caso, y solo si lo que quiere comprar es de un nivel de Recursos inmediatamente superior al suyo actual, puede endeudarse pidiendo dinero a un prestamista, pagando a crédito, etc. 
+
+En términos mecánicos, esto significa que en su próxima paga obligatoria de **Expensas y Gastos Corrientes**, el personaje deberá pagar un coste mensual de un nivel de Recursos superior en uno (por ejemplo, si tiene un Estilo de Vida de Clase Media-Alta [3], deberá pagar un coste de [4]) [#]_. La tirada de *Usar Recursos* se hace normalmente, pero con el coste de Recursos aumentado en +1. Si el personaje no puede pagar este nuevo coste, debe reducir su Estilo de Vida en uno, y así sucesivamente hasta que pueda pagarlo o quede en Indigencia. 
+
+.. [#] El personaje podría optar por no pagar sus deudas a tiempo, pero esto seguramente le traerá consecuencias peores a futuro, dependiendo de a quién le deba dinero. A discresión del DJ, el personaje podría verse acosado por cobradores de deudas, cazarrecompensas, o incluso perseguido por asesinos a sueldo.
 
 Fuentes de Inspiración
 ----------------------
