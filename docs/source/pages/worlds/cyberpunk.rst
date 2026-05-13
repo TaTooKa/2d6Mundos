@@ -516,7 +516,7 @@ Cuando el DJ le pida a un jugador que haga un :hoverxref:`Chequeo de Instinto <r
 
 * **FALLO NORMAL**: El personaje sufre una pérdida completa de empatía y/o tiene arranques violentos hacia quien tenga más a mano. El efecto dura algunos minutos.
 * **FALLO ROTUNDO**: El personaje, además de lo anterior, disocia de la realidad y sufre paranoia. El efecto dura algunas horas.
-* **FALLO ÉPICO**: el personaje, además de todo lo anterior, entra en un frenesí de violencia física y sadismo absoluto, inflamado por alucinaciones. Esto es la *Ciber-psicosis*. EL efecto dura varias horas, o hasta que el personaje quede completamente agotado.
+* **FALLO ÉPICO**: el personaje, además de todo lo anterior, entra en un frenesí de violencia física y sadismo absoluto, inflamado por alucinaciones. Esto es la *Ciber-psicosis*. El efecto dura varias horas, o hasta que el personaje quede completamente agotado.
 
 A discresión del DJ, el efecto puede ir incrementándose (al igual que la duración de cada episodio), con repetidas "recaídas".
 
