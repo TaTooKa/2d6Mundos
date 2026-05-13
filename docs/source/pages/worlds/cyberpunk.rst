@@ -33,12 +33,12 @@ Elige o tira `d6, d6` para determinar tu Orígen Cultural, y elige 2 lenguajes q
 Historia de Vida
 ^^^^^^^^^^^^^^^^
 
-Las siguientes tablas definen tu historia de vida, tu personalidad y tu estilo. 
+Las siguientes tablas definen tu historia de vida, tu personalidad y tu estilo.
 
 Infancia y Juventud
 ~~~~~~~~~~~~~~~~~~~
 
-Las siguientes tablas determinarán tu crianza, clase social y dónde viviste durante tu adolescencia y adultez temprana. Esto no es solo para darle color y detalle a la historia de tu personaje; también impactará en el tipo de etiqueta y conocimientos culturales que tienes. Las clases más bajas se llevarán mejor con la etiqueta del Callejeo y el crímen, mientras que las clases más altas se llevarán mejor con la etiqueta corporativa y el conocimiento de negocios. 
+Las siguientes tablas determinarán tu crianza, clase social y dónde viviste durante tu adolescencia y adultez temprana. Esto no es solo para darle color y detalle a la historia de tu personaje; también impactará en el tipo de etiqueta y conocimientos culturales que tienes. Las clases más bajas se llevarán mejor con la etiqueta del Callejeo y el crímen, mientras que las clases más altas se llevarán mejor con la etiqueta corporativa y el conocimiento de negocios.
 
 Sea como fuere que hayas crecido, tu personaje comenzará con un nivel de :hoverxref:`Recursos <cyberpunk-recursos>` en 2 (Clase Media-Baja). Puedes buscarle una explicación a esto o no, pero tu status y recursos actuales son los que te llevan a tener que aceptar trabajos y misiones como mercenario.
 
@@ -61,8 +61,7 @@ Crianza y Clase Social
 ¿A dónde viviste durante tu adolescencia?
 *****************************************
 
-Tira "`d6 - d6`", y aplícaselo al resultado de la tabla anterior, luego consulta en la siguiente tabla. Si cambiaste rotundamente de clase o ámbito social, explica por qué. 
- 
+Tira "`d6 - d6`", y aplícaselo al resultado de la tabla anterior, luego consulta en la siguiente tabla. Si cambiaste rotundamente de clase o ámbito social, explica por qué.
 
 .. csv-table::
    :widths: 10, 90
@@ -239,7 +238,7 @@ Personalidad
    "", "5", "Impulsivo / Temerario"
    "", "6", "Exigente / Nervioso"
    "", "", ""
-   "4 a 6", "1", "Amigable / Extrovertido" 
+   "4 a 6", "1", "Amigable / Extrovertido"
    "", "2", "Carismático / Encantador"
    "", "3", "Estable / Serio / Estoico"
    "", "4", "Atolondrado / Cabeza dura"
@@ -260,7 +259,7 @@ Manierismos
    "", "5", "Monotonal / Frío"
    "", "6", "Muy ruidoso / Se ríe mucho"
    "", "", ""
-   "4 a 6", "1", "Hace largas pausas / Deja frases inconclusas" 
+   "4 a 6", "1", "Hace largas pausas / Deja frases inconclusas"
    "", "2", "Habla solo / Susurra"
    "", "3", "Da datos aleatorios / Lo explica todo"
    "", "4", "Voz jadeante / Chillona"
@@ -344,7 +343,7 @@ Puedes adquirir Ciber-Implantes durante la creación de personaje, siempre y cua
 Equipamiento
 ^^^^^^^^^^^^
 
-Puedes adquirir más armas, armaduras o equipo durante la creación de personaje, siempre y cuando puedas pagarlos con tus :hoverxref:`Recursos <cyberpunk-recursos>`. 
+Puedes adquirir más armas, armaduras o equipo durante la creación de personaje, siempre y cuando puedas pagarlos con tus :hoverxref:`Recursos <cyberpunk-recursos>`.
 
 Armadura y Protección
 ~~~~~~~~~~~~~~~~~~~~~
@@ -397,7 +396,7 @@ Herramientas y Misceláneos
 Programas
 ^^^^^^^^^
 
-Los PROGRAMAS son comandos o *quickhacks* que cualquier persona con un dispositivo con capacidad de acceso a la Red puede ejecutar, y son mucho más rápidos que programar una solución en el momento. El software se puede copiar o intercambiar fácilmente; lo que pagas con tus :hoverxref:`Recursos <cyberpunk-recursos>` es el almacenamiento (*minidisc*, *thumbchip*, *shard* óptico, almacenamiento en la nube, etc) y/o el tiempo de cómputo para compilarlo o ajustarlo a tu dispositivo [#]_. 
+Los PROGRAMAS son comandos o *quickhacks* que cualquier persona con un dispositivo con capacidad de acceso a la Red puede ejecutar, y son mucho más rápidos que programar una solución en el momento. El software se puede copiar o intercambiar fácilmente; lo que pagas con tus :hoverxref:`Recursos <cyberpunk-recursos>` es el almacenamiento (*minidisc*, *thumbchip*, *shard* óptico, almacenamiento en la nube, etc) y/o el tiempo de cómputo para compilarlo o ajustarlo a tu dispositivo [#]_.
 
 .. [#] Esto significa que si quieres copiar un Programa que posees para compartirlo con un aliado, este deberá también pagar el coste de Recursos para almacenarlo/compilarlo/ajustarlo a su dispositivo, aunque tú no pierdas el acceso a él.
 
@@ -496,19 +495,19 @@ Si el personaje no puede pagar su coste mensual de Estilo de Vida, debe reducir 
 Endeudarse
 ~~~~~~~~~~
 
-Muchas veces, el personaje querrá conseguir algo que no puede pagar en el momento, porque el valor de Recursos es superior a su nivel actual. En ese caso, y solo si lo que quiere comprar es de un nivel de Recursos inmediatamente superior al suyo actual, puede endeudarse pidiendo dinero a un prestamista, pagando a crédito, etc. 
+Muchas veces, el personaje querrá conseguir algo que no puede pagar en el momento, porque el valor de Recursos es superior a su nivel actual. En ese caso, y solo si lo que quiere comprar es de un nivel de Recursos inmediatamente superior al suyo actual, puede endeudarse pidiendo dinero a un prestamista, pagando a crédito, etc.
 
-En términos mecánicos, esto significa que en su próxima paga obligatoria de **Expensas y Gastos Corrientes**, el personaje deberá pagar un coste mensual de un nivel de Recursos superior en uno (por ejemplo, si tiene un Estilo de Vida de Clase Media-Alta [3], deberá pagar un coste de [4]) [#]_. La tirada de *Usar Recursos* se hace normalmente, pero con el coste de Recursos aumentado en +1. Si el personaje no puede pagar este nuevo coste, debe reducir su Estilo de Vida en uno, y así sucesivamente hasta que pueda pagarlo o quede en Indigencia. 
+En términos mecánicos, esto significa que en su próxima paga obligatoria de **Expensas y Gastos Corrientes**, el personaje deberá pagar un coste mensual de un nivel de Recursos superior en uno (por ejemplo, si tiene un Estilo de Vida de Clase Media-Alta [3], deberá pagar un coste de [4]) [#]_. La tirada de *Usar Recursos* se hace normalmente, pero con el coste de Recursos aumentado en +1. Si el personaje no puede pagar este nuevo coste, debe reducir su Estilo de Vida en uno, y así sucesivamente hasta que pueda pagarlo o quede en Indigencia.
 
 .. [#] El personaje podría optar por no pagar sus deudas a tiempo, pero esto seguramente le traerá consecuencias peores a futuro, dependiendo de a quién le deba dinero. A discresión del DJ, el personaje podría verse acosado por cobradores de deudas, cazarrecompensas, o incluso perseguido por asesinos a sueldo.
 
 Fuentes de Inspiración
 ----------------------
 
-* *Neuromancer* y la *Sprawl Trilogy* de William Gibson. 
-* *Blade Runner* de Ridley Scott. 
-* *Cyberpunk 2020* de R. Talsorian Games. 
-* *Ghost In The Shell* de Masamune Shirow. 
-* *Cyberpunk 2077* de CD Projekt Red. 
+* *Neuromancer* y la *Sprawl Trilogy* de William Gibson.
+* *Blade Runner* de Ridley Scott.
+* *Cyberpunk 2020* de R. Talsorian Games.
+* *Ghost In The Shell* de Masamune Shirow.
+* *Cyberpunk 2077* de CD Projekt Red.
 * *Snatcher* y *Policenauts* de Hideo Kojima.
 * *Robocop* y *Total Recall* de Paul Verhoeven.
