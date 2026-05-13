@@ -306,7 +306,7 @@ Puedes adquirir Ciber-Implantes durante la creación de personaje, siempre y cua
    :header: "Ciber-Implante", "Coste en Recursos"
 
    "**Piel sintética**: Protege contra daños superficiales como cortes o rasguños.", "2"
-   "  **↳ Capa de camuflaje termóptico**: Convierte tu piel en un lienzo que refleja el entorno, haciéndote difícil de detectar a simple vista. Funciona mejor en combinación con un Traje de Camuflaje Termóptico.", "2"
+   "  **↳ Capa de camuflaje termóptico**: Convierte tu piel en un lienzo que refleja el entorno, haciéndote difícil de detectar a simple vista. Funciona mejor en combinación con un *Traje de Camuflaje Termóptico*.", "2"
    "  **↳ Secretor de feromonas**: Ayuda en interacciones sociales (especialmente si involucran mucho contacto físico).", "1"
    "  **↳ Polímero autoreparable**: el daño superficial tarda la mitad de tiempo en sanar.", "2"
    "  **↳ Sobrecapa de Kevlar**: refuerzo de kevlar debajo de la piel. Protege contra balas y objetos contundentes. Muy obvio, no es difícil de detectar.", "2"
@@ -316,7 +316,7 @@ Puedes adquirir Ciber-Implantes durante la creación de personaje, siempre y cua
    "  **↳ SmartLink™**: Se conecta al mod SmartLink™ de un arma para mejorar la puntería y el control de disparo.", "2"
    "  **↳ Ranura SkillSoft™**: Permite instalar chips de software de habilidades (*SkillSoft™*) en la nunca o detrás de la oreja. Estos chips contienen programas que mejoran tus habilidades físicas o mentales, o que te otorgan nuevas como si fueras un experto en esa área. Cada ranura permite un chip activo a la vez y se instala por separado.", "2"
 
-   "**Cubierta Ósea**: Reemplazo de estructura ósea con aleación de titanio. Mejora la defensa; te hace más pesado.", "2"
+   "**Cubierta Ósea**: Reemplazo de estructura ósea con aleación de titanio. Mejora la defensa; te hace más pesado.", "3"
 
    "**Reflejos Cableados**: Reemplazo del sistema nervioso por uno mejorado artificialmente. Te hace más rápido y ágil.", "3"
 
@@ -328,10 +328,10 @@ Puedes adquirir Ciber-Implantes durante la creación de personaje, siempre y cua
 
    "**Ciber-Ojos**: Mejora la visión y la percepción general. Reemplaza a los anteojos AR.", "2"
    "  **↳ Cubiertas protectoras**: Gafas integradas. Extremadamente cool y protegen tus ojos de esquirlas.", "1"
-   "  **↳ Lentes avanzados**: Aumento de zoom 6X, visión térmica, visión infrarroja.", "2"
+   "  **↳ Lentes avanzados**: Aumento de zoom 6X, visión térmica, visión infrarroja.", "3"
 
    "**Ciber-Oídos**: Mejoran la audición y la percepción auditiva general.", "2"
-   "  **↳ Ecolocación**: Permite 'ver' a través del sonido, como los murciélagos o los delfines. Emite ondas ultrasónicas y mide el tiempo que tardan en rebotar para crear un mapa mental del entorno.", "2"
+   "  **↳ Ecolocación**: Permite 'ver' a través del sonido, como los murciélagos o los delfines. Emite ondas ultrasónicas y mide el tiempo que tardan en rebotar para crear un mapa mental del entorno.", "3"
    "  **↳ Medidor de Estrés Biométrico**: Funciona como un detector de mentiras basado en la voz y señales biométricas. Puede detectar cambios sutiles en el tono de voz, ritmo, volumen y patrones de habla que podrían indicar estrés o engaño.", "2"
 
    "**Cuchillas retraíbles**: Uñas o garras. Muy afiladas. Ocultables.", "2"
@@ -383,7 +383,7 @@ Herramientas y Misceláneos
    :widths: 90, 10
    :header: "Artículo", "Coste en Recursos"
 
-   "**Chip SkillSoft™:** Conéctalo en una ranura y aprende o mejora una habilidad instantáneamente (+1 o +2 a tiradas relacionadas). Requiere un *Neuralink* con *Ranura Skillsoft™*.","2"
+   "**Chip SkillSoft™:** Conéctalo en una ranura y aprende o mejora una habilidad instantáneamente (+1 o +2 a tiradas relacionadas). Requiere un *Neuralink* con *Ranura Skillsoft™*.","3"
    "**Gafas VR:** Permiten acceder a la Red en modo *Realidad Virtual* sin necesidad de un *Neuralink*.","2"
    "**Caja de herramientas electrónicas:** Equipo de hackeo, sensores de señales varias y micro-herramientas para vulnerar sistemas electrónicos.","2"
    "**Caja de herramientas mecánicas:** Llaves, selladores y servo-herramientas para reparar máquinas sobre la marcha.","2"
