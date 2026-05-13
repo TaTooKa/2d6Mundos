@@ -483,7 +483,7 @@ Cuando un personaje quiere usar sus RECURSOS para pagar bienes/servicios [#]_:
 
 * Si el costo está por debajo de sus RECURSOS actuales, lo consigue automáticamente.
 * Si el costo es igual a su nivel de RECURSOS, debe tirar 1d6: Si el resultado es igual o menor a su nivel de RECURSOS lo consigue automáticamente; si es más alto, para lograr pagarlo debe liquidar más de lo normal, reduciendo su nivel de RECURSOS en 1.
-* Si el costo es superior a su nivel de RECURSOS, el bien o servicio está fuera de su alcance, o el personaje deberá :xhoveref:`endeudarse <cyberpunk-recursos-endeudarse>`.
+* Si el costo es superior a su nivel de RECURSOS, el bien o servicio está fuera de su alcance, o el personaje deberá :hoverxref:`endeudarse <cyberpunk-recursos-endeudarse>`.
 
 
 Un personaje que queda con RECURSOS en 0 está en banca rota, limitado a un nivel de vida de Indigencia, y sin poder adquirir suministros de ningún tipo.
