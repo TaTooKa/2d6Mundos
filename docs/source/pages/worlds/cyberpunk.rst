@@ -341,6 +341,10 @@ Manierismos
 Trasfondo y Equipo
 ^^^^^^^^^^^^^^^^^^
 
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-16.png
+
+   arte © `R Talsorian Games <https://rtalsoriangames.com/cyberpunk/>`_
+
 Elige o tira `d6, d6` para determinar tu **Trasfondo** y equipo inicial. Tienes 3 Niveles para repartir entre uno, dos o tres Trasfondos. Si comienzas con más de un Trasfondo, mezcla objetos de cada uno a voluntad, siempre y cuando tengas 5 objetos en total.
 
 .. csv-table::
