@@ -618,3 +618,4 @@ Fuentes de Inspiración
 * *Cyberpunk 2077* de CD Projekt Red.
 * *Snatcher* y *Policenauts* de Hideo Kojima.
 * *Robocop* y *Total Recall* de Paul Verhoeven.
+* Saga *Deus Ex* de Eidos Software.
