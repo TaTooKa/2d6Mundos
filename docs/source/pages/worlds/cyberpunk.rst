@@ -1,6 +1,10 @@
 Cyberpunk
 =========
 
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-1.png
+
+   arte © `CD PROJEKT RED <https://www.cdprojektred.com>`_
+
 El género *Cyberpunk* trata sobre un futuro cercano distópico donde la tecnología de punta convive con la mala vida causada por un capitalismo salvaje, donde las MegaCorporaciones tienen más poder que los estados soberanos, y la gente común es considerada deshechable. Los personajes son rebeldes, mercenarios a sueldo, revolucionarios o sobrevivientes, luchando entre la necesidad de subsistir hasta la próxima paga y sus deseos de combatir al sistema y derrocar a las corporaciones (usualmente sin éxito).
 
 Esa rebeldía es la parte "punk" en *Cyberpunk*. Lo "Cyber" refiere a la cibernética, al uso de implantes tecnológicos y prótesis funcionales (que los usuarios eligen instalarse a voluntad en vez de por necesidad) y a la integración total social y cultural de la informática, la tecnología y las redes virtuales a la vida cotidiana.
@@ -16,6 +20,10 @@ Si ya tienes una idea preparada de la historia de tu personaje, su aspecto y su 
 
 Orígen Cultural
 ^^^^^^^^^^^^^^^
+
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-2.jpg
+
+   arte © `Janet Aulisio <https://en.wikipedia.org/wiki/Janet_Aulisio>`_
 
 Elige o tira `d6, d6` para determinar tu Orígen Cultural, y elige 2 lenguajes que sabes hablar y leer de ese Orígen.
 
@@ -177,6 +185,10 @@ Lo que más valoras en la vida
 
 Estilo / Vestimenta
 ~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-3.jpg
+
+   arte © `CD PROJEKT RED <https://www.cdprojektred.com>`_ ⠀
 
 .. csv-table::
    :widths: 10, 5, 85
