@@ -8,6 +8,12 @@ Esa rebeldía es la parte "punk" en *Cyberpunk*. Lo "Cyber" refiere a la cibern�
 Creación de Personaje
 ---------------------
 
+Puedes crear tu personaje siguiendo los siguientes pasos, empezando por el :hoverxref:`Origen Cultural <cyberpunk-origen-cultural>` y la :hoverxref:`Historia de Vida <cyberpunk-historia-vida>`, para luego pasar a la selección de :hoverxref:`Trasfondos <cyberpunk-trasfondos>`, :hoverxref:`Equipo <cyberpunk-equipo>` y :hoverxref:`Ciber-Implantes <cyberpunk-ciber-implantes>`, etc.
+
+Si ya tienes una idea preparada de la historia de tu personaje, su aspecto y su personalidad, puedes saltarte toda la *Historia de Vida* y pasar directamente a la selección de :hoverxref:`Trasfondos <cyberpunk-trasfondos>` (¿qué es lo que se te da mejor?) y :hoverxref:`Equipo <cyberpunk-equipo>` (¿qué herramientas usas para ello?). 
+
+.. _cyberpunk-origen-cultural:
+
 Orígen Cultural
 ^^^^^^^^^^^^^^^
 
@@ -29,6 +35,8 @@ Elige o tira `d6, d6` para determinar tu Orígen Cultural, y elige 2 lenguajes q
    "", "4", "Asia del sur", "Inglés, Indio, Bengalí, Darí, Nepalí, Cingalés, Tamil, Urdu"
    "", "5", "Sur-este Asiático", "Inglés, Árabe, Birmano, Filipino, Indio, Indonés, Jemer, Malayo, Vietnamita"
    "", "6", "Oceanía / Islas del Pacífico", "Inglés, Francés, Hawaiano, Maorí, Tahitiano, Pama-ñungano"
+
+.. _cyberpunk-historia-vida:
 
 Historia de Vida
 ^^^^^^^^^^^^^^^^
@@ -266,6 +274,8 @@ Manierismos
    "", "5", "Mezcla idiomas / Usa jerga o modismos"
    "", "6", "Tono melódico / Canta"
 
+.. _cyberpunk-trasfondos:
+
 Trasfondo y Equipo
 ^^^^^^^^^^^^^^^^^^
 
@@ -296,6 +306,7 @@ Elige o tira `d6, d6` para determinar tu **Trasfondo** y equipo inicial. Tienes 
    "", "5", "**REPORTERO**: Grabador portátil SenSim™, Sobretodo sintético protector, Dron de filmación, Anteojos AR, Pistola compacta Arasaka"
    "", "6", "**SAMURAI**: Monokatana Orochi-Saki, Pistola Pesada Predator II, Sobretodo plástico reforzado, Estimulantes de combate x3, Cobertores protectores de antebrazos y piernas"
 
+.. _cyberpunk-ciber-impantes:
 
 Ciber-Implantes
 ^^^^^^^^^^^^^^^
@@ -341,6 +352,8 @@ Ten en cuenta que el exceso de Ciber-Implantes instalados conlleva una progresiv
 
    "**Modulador de voz**: Permite cambiar el tono o volumen de tu voz. Ideal para disfrazar tu identidad o para intimidar a otros.", "1"
    "  **↳ Banco de Sonidos expandido**: Hasta 10 bancos de voz pregrabados y miles de muestras de sonido variadas.", "2"
+
+.. _cyberpunk-equipo:
 
 Equipamiento
 ^^^^^^^^^^^^
