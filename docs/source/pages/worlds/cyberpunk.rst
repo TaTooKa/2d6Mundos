@@ -433,6 +433,10 @@ Puedes adquirir más armas, armaduras o equipo durante la creación de personaje
 Armadura y Protección
 ~~~~~~~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-18.png
+
+   arte © `Chester Ocampo <https://www.deviantart.com/chesterocampo/art/Papillon-Kotetsu-429036513>`_
+
 .. csv-table::
    :widths: 90, 10
    :header: "Artículo", "Coste en Recursos"
