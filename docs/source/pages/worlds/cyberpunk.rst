@@ -61,6 +61,10 @@ Sea como fuere que hayas crecido, tu personaje comenzará con un nivel de :hover
 Crianza y Clase Social
 **********************
 
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-5.jpg
+
+   arte © `Hector Garrido <https://en.wikipedia.org/wiki/Hector_Garrido>`_
+
 .. csv-table::
    :widths: 10, 90
    :header: "2d6", "Crianza y Clase Social"
@@ -77,7 +81,13 @@ Crianza y Clase Social
 ¿A dónde viviste durante tu adolescencia?
 *****************************************
 
-Tira "`d6 - d6`", y aplícaselo al resultado de la tabla anterior, luego consulta en la siguiente tabla. Si cambiaste rotundamente de clase o ámbito social, explica por qué.
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-6.jpg
+
+   arte © `Yong Yi Lee <https://leeyongyi.com/>`_
+
+Tira "`d6 - d6`" [#]_, y aplícaselo al resultado de la tabla anterior, luego consulta en la siguiente tabla. Si cambiaste rotundamente de clase o ámbito social, explica por qué.
+
+.. [#] elige cualquiera de los dos dados (puede ser el de la izquierda) y réstale el otro dado (puede ser el de la derecha) para obtener un resultado entre -5 y +5, que se aplicará al resultado de la tabla anterior. Por ejemplo, si tu resultado en la tabla anterior fue 7, y tiraste un 4 y un 2 (un -2), tu resultado final para esta tabla sería 5 (7 - 2 = 5).
 
 .. csv-table::
    :widths: 10, 90
