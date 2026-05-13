@@ -365,27 +365,94 @@ Tira "`d6 - d6`", y aplícaselo al resultado de la tabla anterior, luego consult
 Tu Crisis
 ~~~~~~~~~
 
-TODO
+Tu Crisis es lo que te llevó a la situación en la que estás ahora.
+
+.. csv-table::
+   :widths: 10, 90
+   :header: "d6", "Crisis"
+
+   "1", "Tu familia perdió todo por una traición o mala administración."
+   "2", "Tu familia fue exiliada o expulsada de su hogar/nación por política o guerra."
+   "3", "Tu familia desapareció o pereció; eres el único sobreviviente."
+   "4", "Te persiguen por una disputa o vendetta; heredada o causada por tus propios actos."
+   "5", "Tienes una enorme deuda; heredada o causada por tus propios actos."
+   "6", "La ley te busca por un crimen grave; seas culpable o no."
 
 Amigos
 ~~~~~~
 
-TODO
+¿Tienes amigos? Tira 1d6.
+
+* 1: No tienes amigos.
+* 2-5: Tienes un amigo.
+* 6: Tienes dos.
+
+.. csv-table::
+   :widths: 10, 90
+   :header: "d6", "¿Qué son para ti?"
+
+   "1", "Un ex-pareja/amante con quien aún tienes buena relación."
+   "2", "Alguien con quien creciste."
+   "3", "Un mentor o figura paternal/maternal."
+   "4", "Un antiguo jefe que todavía te recuerda con cariño."
+   "5", "Un viejo enemigo o rival con quien hiciste las paces."
+   "6", "Alguien con quien compartes un hobby y te obsesionas hablando del tema."
 
 Enemigos
 ~~~~~~~~
 
-TODO
+¿Tienes enemigos? Tira 1d6.
+
+* 1: No tienes enemigos.
+* 2-5: Tienes un enemigo.
+* 6: Tienes dos.
+
+.. csv-table::
+   :widths: 10, 90
+   :header: "d6", "¿Qué son para ti?"
+
+   "1", "Un antiguo amigo o amante."
+   "2", "Un enemigo de tu infancia/adolescencia."
+   "3", "Un viejo jefe que te traicionó."
+   "4", "Uno de tus familiares."
+   "5", "Un antiguo socio o compañero de trabajo."
+   "6", "Una figura misteriosa. Ni siquiera sabes que existe."
 
 Tu trágica historia de amor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-TODO
+Tu *Romance Trágico* es el que te arrancó el corazón.
+
+.. csv-table::
+   :widths: 10, 90
+   :header: "d6", "Trágica Historia de Amor"
+
+   "1", "Tu amante murió, ya sea por accidente o asesinato."
+   "2", "Tu amante desapareció misteriosamente."
+   "3", "Una meta personal o una vendetta se interpuso entre ustedes."
+   "4", "Tu amante fue encarcelado o exiliado."
+   "5", "Tu amante te dejó por otra persona."
+   "6", "Tu amante enloqueció o se convirtió en un ciberpsicópata."
 
 Lo que más valoras en la vida
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-TODO
+.. csv-table::
+   :widths: 10, 5, 85
+   :header: "d6", "d6", "Lo que más valoras en la vida"
+
+   "1 a 3",  "1", "Dinero"
+   "", "2", "Honor"
+   "", "3", "Tu palabra"
+   "", "4", "Honestidad"
+   "", "5", "Conocimiento"
+   "", "6", "Ley y orden"
+   "4 a 6",  "1", "Venganza"
+   "", "2", "Amor"
+   "", "3", "Poder"
+   "", "4", "Familia"
+   "", "5", "Amistad"
+   "", "6", "Proteger a los débiles"
 
 Nuevas Mecánicas
 ----------------
