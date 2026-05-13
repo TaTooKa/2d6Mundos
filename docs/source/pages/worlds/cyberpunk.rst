@@ -1,7 +1,7 @@
 Cyberpunk
 =========
 
-El género "" ... TODO
+El género *Cyberpunk* trata sobre un futuro cercano distópico donde la tecnología de punta convive con la mala vida causada por un capitalismo salvaje, donde las MegaCorporaciones tienen más poder que los estados soberanos, y la gente común es considerada deshechable. Los personajes son rebeldes, mercenarios a sueldo, revolucionarios o sobrevivientes, luchando entre la necesidad de subsistir hasta la próxima paga y sus deseos de combatir al sistema y derrocar a las corporaciones (usualmente sin éxito).
 
 Creación de Personaje
 ---------------------
