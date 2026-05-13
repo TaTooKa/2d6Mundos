@@ -188,7 +188,7 @@ Estilo / Vestimenta
 
 .. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-3.jpg
 
-   arte (2) © `CD PROJEKT RED <https://www.cdprojektred.com>`_
+   arte © **CD PROJEKT RED**
 
 .. csv-table::
    :widths: 10, 5, 85
@@ -211,6 +211,10 @@ Estilo / Vestimenta
 
 Peinado o Corte de Pelo
 ~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-4.jpg
+
+   arte © `Cyber City Oedo 808 - MADHOUSE <https://www.madhouse.co.jp/>`_
 
 .. csv-table::
    :widths: 5, 45, 5, 45
