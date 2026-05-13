@@ -188,7 +188,7 @@ Estilo / Vestimenta
 
 .. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-3.jpg
 
-   arte © `CD PROJEKT RED <https://www.cdprojektred.com>`_ ⠀
+   arte (2) © `CD PROJEKT RED <https://www.cdprojektred.com>`_
 
 .. csv-table::
    :widths: 10, 5, 85
