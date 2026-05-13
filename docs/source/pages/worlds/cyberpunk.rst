@@ -104,6 +104,10 @@ Tira "`d6 - d6`" [#]_, y aplícaselo al resultado de la tabla anterior, luego co
 Tu Crisis
 ~~~~~~~~~
 
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-7.jpg
+
+   arte © `Gunbuster - GAINAX <https://v-storage.jp/gunbuster/>`_
+
 Tu Crisis es lo que te llevó a la situación en la que estás ahora.
 
 .. csv-table::
@@ -119,6 +123,10 @@ Tu Crisis es lo que te llevó a la situación en la que estás ahora.
 
 Amigos
 ~~~~~~
+
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-8.jpg
+
+   arte © `Edgerunners - Studio TRIGGER <https://www.cyberpunk.net/en/edgerunners>`_
 
 ¿Tienes amigos? Tira 1d6.
 
@@ -140,6 +148,10 @@ Amigos
 Enemigos
 ~~~~~~~~
 
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-9.jpg
+
+   arte © `Angel Cop - Ichirō Itano <https://en.wikipedia.org/wiki/Ichir%C5%8D_Itano>`_
+
 ¿Tienes enemigos? Tira 1d6.
 
 * 1: No tienes enemigos.
@@ -160,6 +172,10 @@ Enemigos
 Tu trágica historia de amor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-10.png
+
+   arte © `AD Police Files - Youmex <https://en.wikipedia.org/wiki/Youmex>`_
+
 Tu *Romance Trágico* es el que te arrancó el corazón.
 
 .. csv-table::
@@ -175,6 +191,10 @@ Tu *Romance Trágico* es el que te arrancó el corazón.
 
 Lo que más valoras en la vida
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-11.jpg
+
+   arte © `TJ Foo <https://www.artstation.com/artwork/aRl2A9>`_
 
 .. csv-table::
    :widths: 10, 5, 85
