@@ -302,6 +302,8 @@ Ciber-Implantes
 
 Puedes adquirir Ciber-Implantes durante la creación de personaje, siempre y cuando puedas pagarlos con tus :hoverxref:`Recursos <cyberpunk-recursos>`. Las mejoras de cada tipo de ciber-implante se adquieren por separado.
 
+Ten en cuenta que el exceso de Ciber-Implantes instalados conlleva una progresiva :hoverxref:`Pérdida de Humanidad <cyberpunk-perdida-humanidad>`, y puede resultar en ataques de *Ciber-psicosis*.
+
 .. csv-table::
    :widths: 90, 10
    :header: "Ciber-Implante", "Coste en Recursos"
@@ -500,6 +502,24 @@ Muchas veces, el personaje querrá conseguir algo que no puede pagar en el momen
 En términos mecánicos, esto significa que en su próxima paga obligatoria de **Expensas y Gastos Corrientes**, el personaje deberá pagar un coste mensual de un nivel de Recursos superior en uno (por ejemplo, si tiene un Estilo de Vida de Clase Media-Alta [3], deberá pagar un coste de [4]) [#]_. La tirada de *Usar Recursos* se hace normalmente, pero con el coste de Recursos aumentado en +1. Si el personaje no puede pagar este nuevo coste, debe reducir su Estilo de Vida en uno, y así sucesivamente hasta que pueda pagarlo o quede en Indigencia.
 
 .. [#] El personaje podría optar por no pagar sus deudas a tiempo, pero esto seguramente le traerá consecuencias peores a futuro, dependiendo de a quién le deba dinero. A discresión del DJ, el personaje podría verse acosado por cobradores de deudas, cazarrecompensas, o incluso perseguido por asesinos a sueldo.
+
+.. _cyberpunk-perdida-humanidad:
+
+Pérdida de Humanidad
+^^^^^^^^^^^^^^^^^^^^
+
+En el mundo *Cyberpunk*, cuantos más ciber-implantes se instala una persona, más se deteriora su "humanidad". Esto se representa en una progresiva pérdida de su empatía y una creciente desconexión con otros humanos de carne y hueso, seguido de trastornos de personalidad, paranoia, y disociación. Cuando esto se lleva al límite, el usuario puede sufrir los efectos de la *Ciber-psicosis*.
+
+Se espera que los jugadores que tienen personajes con muchos ciber-implantes (5 o más) comiencen a interpretar esa progresiva pérdida de humanidad de forma adecuada. En términos de mecánicas de juego, se pueden hacer chequeos de dados que determinen como actúa un personaje en este contexto.
+
+Cuando el DJ le pida a un jugador que haga un :hoverxref:`Chequeo de Instinto <reglas-opcionales-chequeos-instinto>` en situaciones de estrés o similares, la dificultad de la tirada será igual a la cantidad de ciber-implantes que su personaje tenga instalados (los mods cuentan como 1 para este valor). Si la tirada es exitosa, no hay problema, el personaje logra controlarse y mantener su empatía. Si la falla, entonces sufrirá consecuencias que varían según el Efecto del resultado.
+
+* **FALLO NORMAL**: El personaje sufre una pérdida completa de empatía y/o tiene arranques violentos hacia quien tenga más a mano. El efecto dura algunos minutos.
+* **FALLO ROTUNDO**: El personaje, además de lo anterior, disocia de la realidad y sufre paranoia. El efecto dura algunas horas.
+* **FALLO ÉPICO**: el personaje, además de todo lo anterior, entra en un frenesí de violencia física y sadismo absoluto, inflamado por alucinaciones. Esto es la *Ciber-psicosis*. EL efecto dura varias horas, o hasta que el personaje quede completamente agotado.
+
+A discresión del DJ, el efecto puede ir incrementándose (al igual que la duración de cada episodio), con repetidas "recaídas".
+
 
 Fuentes de Inspiración
 ----------------------
