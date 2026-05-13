@@ -264,6 +264,10 @@ Peinado o Corte de Pelo
 Adornos y Decoraciones
 ~~~~~~~~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-13.png
+
+   arte © **CD PROJEKT RED**
+
 .. csv-table::
    :widths: 10, 5, 85
    :header: "d6", "d6", "Adornos y Decoraciones"
