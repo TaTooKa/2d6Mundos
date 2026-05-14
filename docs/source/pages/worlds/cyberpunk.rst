@@ -449,6 +449,10 @@ Armadura y Protección
 Armas, munición y accesorios
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-19.png
+
+   arte © `Elysium - Neill Blomkamp - Tristar Pictures <https://www.imdb.com/title/tt1535108/>`_
+
 .. csv-table::
    :widths: 90, 10
    :header: "Artículo", "Coste en Recursos"
@@ -469,6 +473,10 @@ Armas, munición y accesorios
 Herramientas y Misceláneos
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-20.png
+
+   arte © `Juan Giménez <https://www.juangimenez.com/>`_
+
 .. csv-table::
    :widths: 90, 10
    :header: "Artículo", "Coste en Recursos"
@@ -484,6 +492,8 @@ Herramientas y Misceláneos
 
 Programas
 ^^^^^^^^^
+
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-21.png
 
 Los PROGRAMAS son comandos o *quickhacks* que cualquier persona con un dispositivo con capacidad de acceso a la Red puede ejecutar, y son mucho más rápidos que programar una solución en el momento. El software se puede copiar o intercambiar fácilmente; lo que pagas con tus :hoverxref:`Recursos <cyberpunk-recursos>` es el almacenamiento (*minidisc*, *thumbchip*, *shard* óptico, almacenamiento en la nube, etc) y/o el tiempo de cómputo para compilarlo o ajustarlo a tu dispositivo [#]_.
 
