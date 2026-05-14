@@ -536,6 +536,10 @@ Nuevas Mecánicas
 Recursos
 ^^^^^^^^
 
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-22.png
+
+   arte © `Dean Spencer <https://www.drivethrurpg.com/en/product/375274/cover-full-page-cyberpunk-crimeboss-rpg-stock-art>`_
+
 Cada personaje tiene un valor numérico de **RECURSOS** (dinero disponible, bienes liquidables, etc) que va de 1 a 5. El valor de RECURSOS también se usa para determinar de manera semi-abstracta el valor de productos y servicios.
 
 .. csv-table::
@@ -604,6 +608,10 @@ En términos mecánicos, esto significa que en su próxima paga obligatoria de *
 
 Pérdida de Humanidad
 ^^^^^^^^^^^^^^^^^^^^
+
+.. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-23.png
+
+   arte © **CD PROJEKT RED**
 
 En el mundo *Cyberpunk*, cuantos más ciber-implantes se instala una persona, más se deteriora su "humanidad". Esto se representa en una progresiva pérdida de su empatía y una creciente desconexión con otros humanos de carne y hueso, seguido de trastornos de personalidad, paranoia, y disociación. Cuando esto se lleva al límite, el usuario puede sufrir los efectos de la *Ciber-psicosis*.
 
