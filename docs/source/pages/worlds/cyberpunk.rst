@@ -91,7 +91,7 @@ Crianza y Clase Social
 
 Tira "`d6 - d6`" [#]_, y aplícaselo al resultado de la tabla anterior, luego consulta en la siguiente tabla. Si cambiaste rotundamente de clase o ámbito social, explica por qué.
 
-.. [#] elige cualquiera de los dos dados (puede ser el de la izquierda) y réstale el otro dado (puede ser el de la derecha) para obtener un resultado entre -5 y +5, que se aplicará al resultado de la tabla anterior. Por ejemplo, si tu resultado en la tabla anterior fue 7, y tiraste un 4 y un 2 (un -2), tu resultado final para esta tabla sería 5 (7 - 2 = 5).
+.. [#] elige cualquiera de los dos dados (puede ser el de la izquierda) y réstale el otro dado (puede ser el de la derecha) para obtener un resultado entre -5 y +5, que se aplicará al resultado de la tabla anterior. Por ejemplo, si tu resultado en la tabla anterior fue 7, y tiraste un 3 y un 5 (un -2), tu resultado final para esta tabla sería 5 (7 - 2 = 5).
 
 .. csv-table::
    :widths: 10, 90
