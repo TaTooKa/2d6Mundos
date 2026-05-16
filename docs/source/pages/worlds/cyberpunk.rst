@@ -490,6 +490,8 @@ Herramientas y Misceláneos
    "**Dron espía:** Aerodron silencioso como una mosca; con cámaras, micrófonos y rastreadores de señal.","3"
    "**Almacenamiento digital:** Medio portátil para guardar datos. *minidiscs*, *thumbchips*, *shards* ópticos, *drives* reforzados, etc.","1"
 
+.. _cyberpunk-programas:
+
 Programas
 ^^^^^^^^^
 
@@ -629,8 +631,11 @@ A discresión del DJ, el efecto puede ir incrementándose (al igual que la durac
 Hacking
 ^^^^^^^
 
-TODO
+El *Hacking* (vulnerar/controlar/modificar/desactivar sistemas informáticos, redes, dispositivos electrónicos, etc) es una parte fundamental del género *Cyberpunk*, y se puede abordar de distintas formas.
 
+Los :hoverxref:`PROGRAMAS <cyberpunk-programas>` o *QuickHacks* funcionan como los típicos Hechizos de otros juegos de rol de fantasía. El personaje Hacker/Netrunner que tiene el programa en su dispositivo, puede ejecutarlo a voluntad (siguiendo las instrucciones de la descripción de cada programa). A veces el DJ determinará que se requiere una tirada de acción para ver como resulta, pero en otras situaciones puede que no sea necesario y se ejecute automáticamente. Usualmente la ejecución de un programa lleva unos segundos (o un *Round*, en términos de juego). Dado que muchas personas dependen de la tecnología o poseen un *SmartLink™*, los Programas muchas veces pueden afectar a otros personajes adversarios.
+
+El *Hacking* más avanzado, como puede ser una misión de infiltración digital compleja o un ataque virtual directo a un sistema con múltiples defensas, se puede abordar mediante un :hoverxref:`Desafío Extendido <reglas-opcionales-desafios-extendidos>`. El DJ determina la dificultad del desafío (en forma de un Contador), y el jugador debe hacer una serie de tiradas de acción para superar cada etapa del proceso de hackeo, hasta lograr su objetivo o fracasar. Se puede describir cada paso con detalles de como el *NetRunner* supera cada obstáculo, mientras los demás personajes aliados llevan a cabo otras acciones o lo protegen de amenazas físicas en el mundo real. Opcionalmente, el DJ puede poner un límite de tiempo, o un proceso de "escalada", donde cada cierta cantidad de intentos o Rounds, el sistema objetivo activa alarmas o contramedidas más agresivas y peligrosas.
 
 Fuentes de Inspiración
 ----------------------

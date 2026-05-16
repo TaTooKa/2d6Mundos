@@ -50,6 +50,21 @@ Cuando la última fase "*Lenta*" termina, el Round termina. La Iniciativa se vue
 
 Los personajes **Sorprendidos** no tiran Iniciativa; simplemente actúan en la fase "*Lenta*" del primer Round. A partir del segundo Round ya pueden tirar Iniciativa normalmente.
 
+.. _reglas-opcionales-desafios-extendidos:
+
+Desafíos Extendidos
+-------------------
+
+Cuando una acción no puede resolverse con una única tirada de dados, porque el DJ considera que es un proceso más complejo de lo común, o que requiere varios pasos o etapas, se puede resolver a través de un "Desafío Extendido".
+
+Desafío con Contador
+^^^^^^^^^^^^^^^^^^^^
+
+El DJ determina un contador númerico que representa el progreso o avance hacia la resolución de la acción. Puede ser 4, 6, 8, etc.
+
+Los jugadores realizan sus acciones de forma normal. Cada **ÉXITO NORMAL** contribuye con +1 al contador. los **ÉXITOS ROTUNDOS** contribuyen con +2 al contador. Los **ÉXITOS ÉPICOS** contribuyen con +3 al contador. Los **FALLOS** no contribuyen al contador, pero tampoco lo restan. El DJ puede decidir que ciertos tipos de FALLOS (como un FALLO ROTUNDO o ÉPICO) resten puntos al contador, o incluso que hagan retroceder el proceso a una etapa anterior. Cuando el contador alcanza el número objetivo, la acción se resuelve exitosamente.
+
+
 Sistema de Magia
 ----------------
 
