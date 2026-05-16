@@ -512,6 +512,7 @@ Los PROGRAMAS son comandos o *quickhacks* que cualquier persona con un dispositi
    "**/DELAY**: Hace que las directivas y movimientos del dispositivo o *Neuralink* objetivo sean 2X más lentos.", "2"
    "**/FRAG**: “Fragmenta” o corrompe el código y datos del dispositivo, *Neuralink* o constructo VR objetivo, causando daño virtual en forma de Condiciones hasta dejarlo inutilizado o incapacitado.", "2"
    "**/ISOLATE**: Bloquea todo el input/output del dispositivo o *Neuralink* objetivo, desconectándolo de la Red y aplicando una Condición de *Desconectado*.", "3"
+   "**/MASK**: Altera el aspecto físico de un sujeto o objeto cercano, para quienes lo observen a través de gafas AR/VR o por cámaras conectadas a la Red", "3"
    "**/MUTE**: Bloquea las comunicaciones, voz, parlantes, comandos inalámbricos u otros outputs sensoriales del objetivo.", "3"
    "**/OVERHEAT**: Los sistemas de refrigeración del dispositivo o ciber-implante objetivo dejan de funcionar; recibe daño por calor o se apaga por seguridad.", "2"
    "**/PACIFY**: Todas las acciones del dispositivo o *Neuralink* objetivo quedan restringidas a comportamientos no violentos ni ofensivos.", "3"
@@ -624,6 +625,11 @@ Cuando el DJ le pida a un jugador que haga un :hoverxref:`Chequeo de Instinto <r
 * **FALLO ÉPICO**: el personaje, además de todo lo anterior, entra en un frenesí de violencia física y sadismo absoluto, inflamado por alucinaciones. Esto es la *Ciber-psicosis*. El efecto dura varias horas, o hasta que el personaje quede completamente agotado.
 
 A discresión del DJ, el efecto puede ir incrementándose (al igual que la duración de cada episodio), con repetidas "recaídas".
+
+Hacking
+^^^^^^^
+
+TODO
 
 
 Fuentes de Inspiración
