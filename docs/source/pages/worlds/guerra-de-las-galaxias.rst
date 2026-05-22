@@ -90,9 +90,7 @@ A continuación se listan algunas de las especies más típicas o más vistas en
 Detalles Físicos
 ^^^^^^^^^^^^^^^^
 
-Disregard or reroll any result that wouldn’t make sense because of your Species / gender.
-
-Descarta o vuelve a tirar cualquier resultado que no tenga sentido debido a tu especie, género, u otra característica de tu personaje.
+Vuelve a tirar o adapta según tu criterio cualquier resultado que no tenga sentido debido a tu especie, género, u otra característica de tu personaje.
 
 .. list-table:: Detalles Físicos
    :align: center
@@ -106,7 +104,7 @@ Descarta o vuelve a tirar cualquier resultado que no tenga sentido debido a tu e
      -  5-6
  
    * -  1
-     -  Quemaduras de Bláster
+     -  Heridas de Bláster
      -  Piel cobriza
      -  Pelo largo / Extremidades
  
@@ -122,7 +120,7 @@ Descarta o vuelve a tirar cualquier resultado que no tenga sentido debido a tu e
  
    * -  4
      -  Marca de esclavitud / Pandilla
-     -  Cyber brazo
+     -  Cyber-brazo
      -  Cabeza rapada o pelado
  
    * -  5
@@ -131,9 +129,9 @@ Descarta o vuelve a tirar cualquier resultado que no tenga sentido debido a tu e
      -  Bigote / pecas
  
    * -  6
-     -  Tatuajes
-     -  Cyber pierna
-     -  *Piercings* / Ornamentos tribales
+     -  Tatuajes / *Piercings*
+     -  Cyber-pierna
+     -  Ornamentos tribales
 
 Nombres
 ^^^^^^^
@@ -422,17 +420,54 @@ Nombres Típicos de otras Especies
 La Fuerza
 ---------
 
-TODO
+Un personaje que tiene un Trasfondo relacionado con el uso de **La Fuerza** tiene *permiso narrativo* para crear diferentes efectos (improvisados o practicados) con la Fuerza.
+
+* **Percepción Extrasensorial** (, ganar nuevos sentidos sobrenaturales, como sentir energías invisibles, emociones, peligro, etc)
+* **Telepatía** (leer o comunicarse con otras mentes, engañar o confundir a aquellos de intelecto inferior, etc)
+* **Telequinesis** (mover o afectar físicamente objetos a distancia)
+* **[Pre/Post]cognición** (vislumbrar momentos o eventos del futuro/pasado)
+* **[elemento]quinesis** (control sobre fuego/agua/gravedad/energías/etc)
+* **Otros efectos exóticos** (sanación, ilusiones, metamorfosis, brujería, etc—a discreción del DJ).
+
+Similar al :hoverxref:`Sistema de Magia <reglas-opcionales-sistema-magia>` propuesto en la sección de Reglas Opcionales, una vez que el jugador explica el efecto deseado que quiere realizar su personaje, el DJ debe determinar si este es **Sutil**, **Evidente**, **Masivo**, o **Increíble**. 
+
+* Los **Efectos Sutiles** (causar un sonido a la distancia; tocar un botón remotamente; hacer un truco mental) funcionan automáticamente (no necesitan de una tirada de dados), o en ciertos casos, dan +1 a la tirada de dados de *Uso de la Fuerza*.
+* Los **Efectos Evidentes** (empujar a alguien o algo; mover algo remotamente con precisión; arrojar un *Sable de Luz* encendido como un boomerang y que vuelva a tu mano) normalmente requieren de una tirada de dados de *Uso de la Fuerza*. 
+* Los **Efectos Masivos** (levantar a un X-wing de debajo del agua; alzar en el aire a un escuadrón de Stormtroopers; Detener un disparo láser en el aire; leerle la mente a otro) probablemente le provoquen un -1 o un -2 a la tirada de dados de *Uso de la Fuerza*.
+* Los **Efectos Increíbles** (detener en el lugar a una nave gigante a larga distancia; proyectar tu mente a planetas distantes; encontrar a alguien particular en cualquier lugar de la galaxia) son comunmente imposibles sin algún factor externo como estar canalizando el poder de un *Nexo de la Fuerza*, o con ayuda de poderosos seres o artefactos sintonizados con *La Fuerza*.
+
+En cualquier momento que tengas que haer una tirada de *Uso de la Fuerza*, puedes ganar un Modificador Circunstancial de `+[NIVEL DE LADO OSCURO]` si dejas que **El Lado Oscuro Te Tiente**.
 
 El Lado Oscuro
 ^^^^^^^^^^^^^^
 
-TODO
+Los personajes tienen un **"Nivel de Lado Oscuro"** que va del 1 al 6: 
+
+1. **Ninguno** - La fuerza fluye libremente en tu ser. Actúas con compasión y claridad.
+2. **Tentado** - Haz vislumbrado el poder de la ira o el miedo; te susurra cuando estás más vulnerable.
+3. **Conflictuado** - El Lado Oscuro influye en tus emociones. Justificas decisiones duras o egoístas.
+4. **Corrompido** - La Oscuridad nubla tu juicio y brújula moral. La Fuerza se tuerce fácilmente a tu ira y tu pasión.
+5. **Sometido** - Sirves al Lado Oscuro por voluntad, manipulando su poder para tus propios fines—o eso crees.
+6. **Consumido** - Completamente subyugado al Lado Oscuro. Eres uno de sus agentes; tu personaje se convierte en un PNJ.
+
+En cualquier momento en que **El Lado Oscuro Te Tiente**, Tira 1d6 y compáralo con tu *Nivel de Lado Oscuro* actual. Si obtienes un resultado inferior al que tienes actualmente, lo mantienes. Si el resultado es igual o superior a tu nivel actual, lo incrementas en 1.
+
+A discresión del DJ, si la "acción malvada" cometida es leve o menor, tiras 2d6 y te quedas con el resultado más bajo. Si, al contrario, la acción es terriblemente malvada, tiras 2d6 y te quedas con el resultado más alto.
+
+   Ejemplos de "acciones malvadas leves" podrían ser: mentirle a alguien para beneficio personal; robar un objeto de poco valor; herir a alguien verbal o emocionalmente; abandonar a un aliado en apuros; usar los poderes de *La Fuerza* por razones egoístas; etc. 
+   
+   Ejemplos de "acciones terriblemente malvadas" podrían ser: matar a alguien intencionalmente; torturar o mutilar a alguien; traicionar a un aliado cercano a tí; cometer atrocidades contra una población inocente; usar poderes de *La Fuerza* para herir o matar; ser autor intelectual de un crímen atroz o con claras consecuencias severas; etc. 
+   
+   Si el DJ considera que una acción es de *pura maldad*, puede incluso decidir que incrementas tu **Nivel de Lado Oscuro** automáticamente X niveles, sin tirar los dados.  
+
+Usar *La Fuerza* canalizando al *Lado Oscuro* es una de las formas en que **El Lado Oscuro Te Tienta**, pero en realidad cualquier acción que un personaje haga que se pueda considerar "malvada" (a discresión del DJ), puede también hacer que ese jugador tenga que tirar el dado para ver si incrementa su *Nivel de Lado Oscuro*. 
 
 Redención
-*********
+~~~~~~~~~
 
-TODO
+Cuando un personaje con un *Nivel de Lado Oscuro* entre 2 a 5 lleva a cabo una buena acción notoria, el jugador puede tirar 1d6: Si el resultado es igual o menor que su *Nivel de Lado Oscuro* actual, lo reduce en 1 (mínimo de 1). De lo contrario, lo mantiene en su nivel actual. A discresión del DJ, si la buena acción es leve o demasiado casual, el jugador tira 2d6 y se queda con el resultado más alto. Si, en cambio, la buena acción es considerable o conlleva un gran sacrificio o actitud de altruismo, tirará 2d6 quedándose con el resultado más bajo.
+
+Es posible que los *Usuarios de La Fuerza* coqueteen con el *Lado Oscuro* de vez en cuando, sin ser completamente consumidos por él. No es fácil, pero puede hacerse. Esos individuos son llamados *"Jedis Grises"* o *"Usuarios de la Fuerza Grises"*, y están constantemente balanceando sus acciones entre el bien y el mal.
 
 Generadores de Aventura
 -----------------------
