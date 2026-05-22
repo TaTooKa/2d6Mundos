@@ -422,7 +422,7 @@ La Fuerza
 
 Un personaje que tiene un Trasfondo relacionado con el uso de **La Fuerza** tiene *permiso narrativo* para crear diferentes efectos (improvisados o practicados) con la Fuerza.
 
-* **Percepción Extrasensorial** (, ganar nuevos sentidos sobrenaturales, como sentir energías invisibles, emociones, peligro, etc)
+* **Percepción Extrasensorial** (ganar nuevos sentidos sobrenaturales, como sentir energías invisibles, emociones, peligro, etc)
 * **Telepatía** (leer o comunicarse con otras mentes, engañar o confundir a aquellos de intelecto inferior, etc)
 * **Telequinesis** (mover o afectar físicamente objetos a distancia)
 * **[Pre/Post]cognición** (vislumbrar momentos o eventos del futuro/pasado)
