@@ -472,7 +472,152 @@ Es posible que los *Usuarios de La Fuerza* coqueteen con el *Lado Oscuro* de vez
 Generadores de Aventura
 -----------------------
 
-TODO
+El texto en *itálicas* se refiere a otra columna de resultados al azar de la tabla. 
+
+.. list-table:: 
+   :align: center
+   :header-rows: 1
+   :stub-columns: 1
+   :widths: 5 20 20 20 20
+
+   * - d6
+     - GANCHO
+     - OBJETIVO
+     - AMENAZA
+     - PROBLEMA MAYOR
+
+   * - 1
+     - Capturar *Objetivo*
+     - *Contrabando*
+     - *Cartel*
+     - Caza-recompensas
+
+   * - 2
+     - Eliminar *Objetivo*
+     - Operativo
+     - El Imperio
+     - Escaramuza espacial
+
+   * - 3
+     - Entregar *Objetivo*
+     - Nave Espacial
+     - La Rebelión
+     - Traición!
+
+   * - 4
+     - Adquirir *Objetivo*
+     - Recurso
+     - *Facción*
+     - Falla Mecánica
+
+   * - 5
+     - Restaurar *Objetivo*
+     - Líder
+     - Animal(es)
+     - Civil(es) Inocente(s)
+
+   * - 6
+     - Localizar *Objetivo*
+     - Inteligencia
+     - *PNJ*
+     - Mejor Oferta
+
+.. list-table:: 
+   :align: center
+   :header-rows: 1
+   :stub-columns: 1
+   :widths: 5 20 20 20 20
+
+   * - d6
+     - CARTEL
+     - FACCIÓN
+     - CONTRABANDO
+     - PROBLEMA MENOR
+
+   * - 1
+     - Sindicato Pyke
+     - Partisanos Rebeldes
+     - Drogas Restringidas
+     - Droide de Seguridad
+
+   * - 2
+     - Clan Hutt
+     - BSI (Buró de Seguridad del Imperio)
+     - Especia no-refinada
+     - Cargamento Volátil / Inestable
+
+   * - 3
+     - Black Sun (Sol Negro)
+     - Corporación Czerka
+     - Detonadores Termales
+     - Identidad Confundida
+
+   * - 4
+     - Kanjiklub
+     - Clanes Mandalorianos
+     - Disidente Político
+     - Polizón
+
+   * - 5
+     - Sindicato Crymorah
+     - Sistemas de Flotas Sienar
+     - Prototipos de Armas
+     - Alarma de Proximidad
+
+   * - 6
+     - Crimson Dawn (Amanecer Carmesí)
+     - Gremio de los Cazarrecompensas
+     - Gas Tibanna
+     - Pérdida de Recursos
+
+
+.. list-table:: 
+   :align: center
+   :header-rows: 1
+   :stub-columns: 1
+   :widths: 5 20 20 20 20
+
+   * - d6
+     - RUMOR
+     - EQUIPO EXÓTICO
+     - PNJ 1
+     - PNJ 2
+
+   * - 1
+     - Investigaciones Paranormales
+     - Armadura Beskar
+     - Adepto de La Fuerza
+     - Artillero Pesado
+
+   * - 2
+     - Base Rebelde Oculta
+     - MWC-35c Staccato
+     - Capitán de Nave Traficante / Pirata
+     - Técnico / Slicer
+
+   * - 3
+     - Escape de una Prisión
+     - Droide Asesino
+     - Droide Técnico
+     - Explorador / Scout
+
+   * - 4
+     - Clon Avejentado + Secretos
+     - Disruptor MS-32
+     - Desertor
+     - Agente Secreto
+
+   * - 5
+     - Puesto de Avanzada s/respuesta
+     - Dark Trooper / Exo-esqueleto
+     - Caza-recompensas
+     - Exiliado Sith
+
+   * - 6
+     - Locación de un Jedi
+     - Sable de Luz
+     - Experto en Demoliciones
+     - Piloto Ás Espacial
 
 Generadores de Locación
 -----------------------
