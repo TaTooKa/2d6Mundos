@@ -436,7 +436,7 @@ Similar al :hoverxref:`Sistema de Magia <reglas-opcionales-sistema-magia>` propu
 * Los **Efectos Masivos** (levantar a un X-wing de debajo del agua; alzar en el aire a un escuadrón de Stormtroopers; Detener un disparo láser en el aire; leerle la mente a otro) probablemente le provoquen un -1 o un -2 a la tirada de dados de *Uso de la Fuerza*.
 * Los **Efectos Increíbles** (detener en el lugar a una nave gigante a larga distancia; proyectar tu mente a planetas distantes; encontrar a alguien particular en cualquier lugar de la galaxia) son comunmente imposibles sin algún factor externo como estar canalizando el poder de un *Nexo de la Fuerza*, o con ayuda de poderosos seres o artefactos sintonizados con *La Fuerza*.
 
-En cualquier momento que tengas que haer una tirada de *Uso de la Fuerza*, puedes ganar un Modificador Circunstancial de `+[NIVEL DE LADO OSCURO]` si dejas que **El Lado Oscuro Te Tiente**.
+En cualquier momento que tengas que hacer una tirada de *Uso de la Fuerza*, puedes ganar un Modificador Circunstancial de `+[NIVEL DE LADO OSCURO]` si dejas que **El Lado Oscuro Te Tiente**.
 
 El Lado Oscuro
 ^^^^^^^^^^^^^^
