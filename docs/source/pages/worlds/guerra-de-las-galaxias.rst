@@ -641,9 +641,9 @@ Tira d6, d6 para generar una locación y una sub-locación, luego refiérete a s
    :header-rows: 1
 
     "3","LUGARES BÉLICOS","4","LUGARES LIMINALES"
-    "","1. :hoverxref:`BASE <places-base>`","","1. :hoverxref:`ASTEROIDE <places-asteroid>`"
+    "","1. :hoverxref:`BASE MILITAR <places-base>`","","1. :hoverxref:`ASTEROIDE <places-asteroid>`"
     "","2. :hoverxref:`CENTRO BUROCRÁTICO <places-bureaucracy>`","","2. :hoverxref:`VACÍO ESPACIAL <places-void>`"
-    "","3. :hoverxref:`BASE-ARMA DE DESTRUCCIÓN <places-wmd-base>`","","3. :hoverxref:`ESPACIO-PUERTO <places-spaceport>`"
+    "","3. :hoverxref:`BASE DE DESTRUCCIÓN MASIVA<places-wmd-base>`","","3. :hoverxref:`ESPACIO-PUERTO <places-spaceport>`"
     "","4. :hoverxref:`CAMPO DE BATALLA <places-battleground>`","","4. :hoverxref:`CARAVANA <places-caravan>`"
     "","5. :hoverxref:`LABORATORIO <places-laboratory>`","","5. :hoverxref:`PORTAL <places-gateway>`"
     "","6. :hoverxref:`ENFERMERÍA <places-infirmary>`","","6. :hoverxref:`ESPEJISMO <places-mirage>`"
@@ -654,10 +654,10 @@ Tira d6, d6 para generar una locación y una sub-locación, luego refiérete a s
 
     "5","LUGARES CONCURRIDOS","6","LUGARES ÍNTIMOS"
     "","1. :hoverxref:`METRÓPOLIS <places-metropolis>`","","1. :hoverxref:`ACANTILADO <places-cliff>`"
-    "","2. :hoverxref:`CALLEJÓN <places-alley>`","","2. :hoverxref:`BIBLIOTECA <places-library>`"
+    "","2. :hoverxref:`CALLES <places-alley>`","","2. :hoverxref:`BIBLIOTECA <places-library>`"
     "","3. :hoverxref:`MERCADO <places-market>`","","3. :hoverxref:`TALLER <places-workshop>`"
     "","4. :hoverxref:`GRANJA <places-farm>`","","4. :hoverxref:`NAVE ESPACIAL <places-ship>`"
-    "","5. :hoverxref:`BAR <places-bar>`","","5. :hoverxref:`DORMITORIO <places-quarters>`"
+    "","5. :hoverxref:`BAR <places-bar>`","","5. :hoverxref:`APOSENTOS <places-quarters>`"
     "","6. :hoverxref:`GALA <places-gala>`","","6. :hoverxref:`ACADEMIA <places-academy>`"
 
 
@@ -869,66 +869,66 @@ LUGARES OLVIDADOS
 
 .. _places-ruin:
 
-3. RUIN
-^^^^^^^
+3. RUINAS
+~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
-   * - 1. Crumbling pillars
-     - 1. An ancient curse
-   * - 2. A monument to an unknown god
-     - 2. A secret Imperial excavation
-   * - 3. The lingering shadow of war
-     - 3. A conspiracy that caused its destruction
-   * - 4. Secured remains or active dig site
-     - 4. Ghosts
-   * - 5. Tourist traps
-     - 5. A trapped hidden chamber
-   * - 6. A lonely and profound silence
-     - 6. Denizens of the deep, about to awake
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
+   * - 1. Pilares desmoronándose
+     - 1. Una antigua maldición
+   * - 2. Un monumento a una deidad antigua
+     - 2. Una excavación secreta del Imperio
+   * - 3. La remanente sombra de la guerra
+     - 3. Una conspiración que causó esta destrucción
+   * - 4. Artículos encontrados en un campamento arqueológico activo
+     - 4. Fantasmas
+   * - 5. Trampas para turistas
+     - 5. Una cámara oculta llena de trampas
+   * - 6. Un silencio profundo y asolador
+     - 6. Criaturas de las profundidades, a punto de despertar
 
 .. _places-shipwreck:
 
-4. SHIPWRECK
-^^^^^^^^^^^^
+4. NAVE EN RUINAS
+~~~~~~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
-   * - 1. Rusting metal
-     - 1. Something else living there now
-   * - 2. Plants reclaiming its surface
-     - 2. A long-lost treasure
-   * - 3. An old and strange-looking model
-     - 3. The stored memory of its captain
-   * - 4. A giant crater
-     - 4. Nothing left of any value at this point
-   * - 5. Subtle hints of a greater mystery
-     - 5. Ghosts of its crew
-   * - 6. A sense of majesty despite the disrepair
-     - 6. A plague or hazard polluting its hallways
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
+   * - 1. Metal oxidándose
+     - 1. Algo nuevo que está viviendo ahí
+   * - 2. Vegetación reclamando la superficie
+     - 2. Un legendario tesoro perdido
+   * - 3. Una maqueta antigua y extraña
+     - 3. La memoria almacenada de su capitán
+   * - 4. Un agujero enorme
+     - 4. Nada de valor que quede por salvar
+   * - 5. Pistas sutiles de un misterio más grande
+     - 5. Fantasmas de su tripulación
+   * - 6. Un sentido majestuoso más allá de su ruinoso estado
+     - 6. Una plaga o peligro contaminando sus pasillos
 
 .. _places-cave:
 
-5. CAVE
-^^^^^^^
+5. CUEVA
+~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Barely enough light to see
      - 1. A creature unknowable and alien
    * - 2. Damp walls and slippery ground
@@ -944,16 +944,16 @@ LUGARES OLVIDADOS
 
 .. _places-junkyard:
 
-6. JUNKYARD
-^^^^^^^^^^^
+6. CHATARRERÍA
+~~~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Mountains of rusting metal
      - 1. An old spaceship with a fast engine
    * - 2. Smoke hanging in the air
@@ -967,21 +967,21 @@ LUGARES OLVIDADOS
    * - 6. Signs warning to keep out
      - 6. A strange creature swims in its pools
 
-WAR PLACES
-~~~~~~~~~~
+LUGARES BÉLICOS
+^^^^^^^^^^^^^^^
 
 .. _places-base:
 
-1. BASE
-^^^^^^^
+1. BASE MILITAR
+~~~~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Ships in hangars
      - 1. An emissary returned
    * - 2. Projected maps
@@ -997,16 +997,16 @@ WAR PLACES
 
 .. _places-bureaucracy:
 
-2. BUREAUCRACY
-^^^^^^^^^^^^^^
+2. CENTRO BUROCRÁTICO
+~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Long bare hallways
      - 1. A meeting with many imperial officers
    * - 2. Idle chit-chat
@@ -1022,16 +1022,16 @@ WAR PLACES
 
 .. _places-wmd-base:
 
-3. WMD-BASE
-^^^^^^^^^^^
+3. BASE DE DESTRUCCIÓN MASIVA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. A silent air of domination
      - 1. A secret vulnerability
    * - 2. Absurd formality
@@ -1047,16 +1047,16 @@ WAR PLACES
 
 .. _places-battleground:
 
-4. BATTLEGROUND
-^^^^^^^^^^^^^^^
+4. CAMPO DE BATALLA
+~~~~~~~~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Dilapidated tents
      - 1. A new kind of weapon
    * - 2. Destroyed landscapes
@@ -1072,16 +1072,16 @@ WAR PLACES
 
 .. _places-laboratory:
 
-5. LABORATORY
-^^^^^^^^^^^^^
+5. LABORATORIO
+~~~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Bubbling vials
      - 1. A serious security system
    * - 2. Note-covered whiteboards
@@ -1097,16 +1097,16 @@ WAR PLACES
 
 .. _places-infirmary:
 
-6. INFIRMARY
-^^^^^^^^^^^^
+6. ENFERMERÍA
+~~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Bloodied shirts
      - 1. Scarce supplies
    * - 2. Crowded beds
@@ -1120,21 +1120,21 @@ WAR PLACES
    * - 6. Automated but glitched doctor droids
      - 6. A healer attuned to the Force
 
-LIMINAL PLACES
-~~~~~~~~~~~~~~
+LUGARES LIMINALES
+^^^^^^^^^^^^^^^^^
 
 .. _places-asteroid:
 
-1. ASTEROID
-^^^^^^^^^^^
+1. ASTEROIDE
+~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Cracks and crevices
      - 1. just enough time to refuel
    * - 2. View of the vast ocean of stars
@@ -1150,16 +1150,16 @@ LIMINAL PLACES
 
 .. _places-void:
 
-2. VOID
-^^^^^^^
+2. VACÍO ESPACIAL
+~~~~~~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Stars twinkling in the distance
      - 1. A path we’re supposed to follow
    * - 2. Not a soul in sight
@@ -1175,16 +1175,16 @@ LIMINAL PLACES
 
 .. _places-spaceport:
 
-3. SPACEPORT
-^^^^^^^^^^^^
+3. ESPACIO-PUERTO
+~~~~~~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Painfully long lines
      - 1. A huge shipment of smuggled goods
    * - 2. Diverse cultures and fashions
@@ -1200,16 +1200,16 @@ LIMINAL PLACES
 
 .. _places-caravan:
 
-4. CARAVAN
-^^^^^^^^^^
+4. CARAVANA
+~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. A slow pace
      - 1. An expert of navigation
    * - 2. Whispered secrets
@@ -1225,16 +1225,16 @@ LIMINAL PLACES
 
 .. _places-gateway:
 
-5. GATEWAY
-^^^^^^^^^^
+5. PORTAL
+~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Warping light
      - 1. The only way out
    * - 2. Unknown constellations
@@ -1250,16 +1250,16 @@ LIMINAL PLACES
 
 .. _places-mirage:
 
-6. MIRAGE
-^^^^^^^^^
+6. ESPEJISMO
+~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Everything out of focus
      - 1. A celebration
    * - 2. Swirling lights
@@ -1273,21 +1273,21 @@ LIMINAL PLACES
    * - 6. The urge to cry
      - 6. Enlightenment in the form of a vision
 
-CROWDED PLACES
-~~~~~~~~~~~~~~
+LUGARES CONCURRIDOS
+^^^^^^^^^^^^^^^^^^^
 
 .. _places-metropolis:
 
-1. METROPOLIS
-^^^^^^^^^^^^^
+1. METRÓPOLIS
+~~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Towering skyscrapers
      - 1. A shady politician, helps for a price
    * - 2. Shining chrome
@@ -1303,16 +1303,16 @@ CROWDED PLACES
 
 .. _places-alley:
 
-2. ALLEY
-^^^^^^^^
+2. CALLES
+~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Cramped walkways
      - 1. An infamous, retired smuggler
    * - 2. Eclectic apartments
@@ -1328,16 +1328,16 @@ CROWDED PLACES
 
 .. _places-market:
 
-3. MARKET
-^^^^^^^^^
+3. MERCADO
+~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. An air of business
      - 1. Fuel crystals on the cheap
    * - 2. “Wanted” posters with familiar faces
@@ -1353,16 +1353,16 @@ CROWDED PLACES
 
 .. _places-farm:
 
-4. FARM
-^^^^^^^
+4. GRANJA
+~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Crops as far as the eye can see
      - 1. An old retired Jedi with war stories
    * - 2. Automated machinery hovering above
@@ -1379,15 +1379,15 @@ CROWDED PLACES
 .. _places-bar:
 
 5. BAR
-^^^^^^
+~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. A live band in the corner
      - 1. An illicit gambling operation
    * - 2. Shady figures looking for work
@@ -1404,15 +1404,15 @@ CROWDED PLACES
 .. _places-gala:
 
 6. GALA
-^^^^^^^
+~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Fake smiles
      - 1. Someone who committed a war crime
    * - 2. Genuine sneers
@@ -1426,21 +1426,21 @@ CROWDED PLACES
    * - 6. Beautiful and extravagant decorations
      - 6. A Crime Lord flaunting their power
 
-INTIMATE PLACES
-~~~~~~~~~~~~~~~
+LUGARES ÍNTIMOS
+^^^^^^^^^^^^^^^
 
 .. _places-cliff:
 
-1. CLIFF
-^^^^^^^^
+1. ACANTILADO
+~~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. A beautiful meadow
      - 1. A lost Jedi living as a hermit
    * - 2. Sight of the water below
@@ -1456,16 +1456,16 @@ INTIMATE PLACES
 
 .. _places-library:
 
-2. LIBRARY
-^^^^^^^^^^
+2. BIBLIOTECA
+~~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Towering shelves of books
      - 1. The original draft of the Jedi code
    * - 2. A thick layer of dust
@@ -1481,16 +1481,16 @@ INTIMATE PLACES
 
 .. _places-workshop:
 
-3. WORKSHOP
-^^^^^^^^^^^
+3. TALLER
+~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. The whirring sounds of machines
      - 1. A special lightsaber-repairing tool
    * - 2. An assortment of niche tools
@@ -1506,16 +1506,16 @@ INTIMATE PLACES
 
 .. _places-ship:
 
-4. SHIP
-^^^^^^^
+4. NAVE ESPACIAL
+~~~~~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Exposed wires
      - 1. Forged ownership papers
    * - 2. Flashing lights
@@ -1531,16 +1531,16 @@ INTIMATE PLACES
 
 .. _places-quarters:
 
-5. QUARTERS
-^^^^^^^^^^^
+5. APOSTENTOS
+~~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Pictures on the walls
      - 1. An old friend
    * - 2. Memories from a different life
@@ -1556,16 +1556,16 @@ INTIMATE PLACES
 
 .. _places-academy:
 
-6. ACADEMY
-^^^^^^^^^^
+6. ACADEMIA
+~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
    :stub-columns: 0
    :widths: 50 50
 
-   * - AESTHETIC ELEMENTS
-     - RUMORED TO BE HERE
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
    * - 1. Bored students
      - 1. Force-sensitive children kidnapped
    * - 2. Hallway chatter
@@ -1583,4 +1583,13 @@ INTIMATE PLACES
 Fuentes de Inspiración
 ----------------------
 
-TODO
+* **Trilogía original de Star Wars** de George Lucas (A New Hope, The Empire Strikes Back, The Return Of The Jedi).
+* **Clone Wars** (serie animada de Genndy Tartakovsky, película animada de Dave Filoni, serie animada de Dave Filoni).
+* Cómics y Novelas de la Trilogía **Heredero del Imperio** de Timothy Zahn.
+* Serie **Andor** y película **Rogue One** de Tony Gilroy.
+* Sagas de Videojuegos **DARK FORCES**, **JEDI KNIGHT/OUTCAST**, **KNIGHTS OF THE OLD REPUBLIC**. 
+* Serie **The Mandalorian** de John Favreau.
+* Series animadas y actuadas varias de Dave Filoni (Ahsoka, The Bad Batch, Maul: Shadow Lord, Tales, etc).
+* Trilogía de **Precuelas de Star Wars** de George Lucas (The Phantom Menace, Attack Of The Clones, Revenge Of The Sith).
+* Saga de Cómics **Dark Empire** de Dark Horse.
+* Videojuegos "space-sim" como **X-wing**, **Tie Fighter**, **Star Wars: Squadrons**, etc.
