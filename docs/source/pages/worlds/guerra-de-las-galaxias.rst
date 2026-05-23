@@ -929,18 +929,18 @@ LUGARES OLVIDADOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Barely enough light to see
-     - 1. A creature unknowable and alien
-   * - 2. Damp walls and slippery ground
-     - 2. The lingering spirits of those who died
-   * - 3. Bioluminescent flora growing in cracks
-     - 3. The remnants of an old crystal mine
-   * - 4. Rock formations jutting out
-     - 4. Nothing at all but a cold damp darkness
-   * - 5. Creatures slithering around
-     - 5. A hidden camp of refugees
-   * - 6. A pronounced echo
-     - 6. An introspective vision of the force
+   * - 1. Luz apenas suficiente para ver siluetas
+     - 1. Una criatura desconocida y alienígena
+   * - 2. Paredes húmedas y pisos resbalosos
+     - 2. Los espíritus remanentes de los que perecieron aquí
+   * - 3. Flora bio-luminicente surgiendo de las rajaduras
+     - 3. Los restos de una vieja mina de cristales
+   * - 4. Formaciones de roca puntiaguda en ángulos extraños
+     - 4. Nada excepto la húmeda y fría oscuridad
+   * - 5. Criaturas arrastrándose a tu alrededor
+     - 5. Un campamento escondido de refugiados
+   * - 6. Un eco creciente y ominoso
+     - 6. Una visión introspectiva de La Fuerza
 
 .. _places-junkyard:
 
@@ -954,18 +954,18 @@ LUGARES OLVIDADOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Mountains of rusting metal
-     - 1. An old spaceship with a fast engine
-   * - 2. Smoke hanging in the air
-     - 2. Droid parts for cheap
-   * - 3. Overpowering sounds of machinery
-     - 3. More than a few illegal dealings
-   * - 4. A barbed wire fence
-     - 4. Not what we’re looking for (but close)
-   * - 5. Not another soul in sight
-     - 5. The hideout of a gang of youngsters
-   * - 6. Signs warning to keep out
-     - 6. A strange creature swims in its pools
+   * - 1. Montañas de metal oxidado
+     - 1. Una vieja nave con un motor rápido
+   * - 2. Volutas de humo constantes en el aire
+     - 2. Partes y repuestos de droides
+   * - 3. Ensordecedores ruidos de maquinaria
+     - 3. Más de un negocio o trato ilegal
+   * - 4. Una cerca alambrada y con alambre de púas
+     - 4. No exactamente lo que buscabas, pero casi
+   * - 5. Ningún otro alma a la vista
+     - 5. El escondite de una banda de adolescentes
+   * - 6. Señales de "prohibido pasar"
+     - 6. Una extraña criatura que nada en sus charcos
 
 LUGARES BÉLICOS
 ^^^^^^^^^^^^^^^
@@ -982,18 +982,18 @@ LUGARES BÉLICOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Ships in hangars
-     - 1. An emissary returned
-   * - 2. Projected maps
-     - 2. A stolen Empire secret
-   * - 3. Hushed discussions of battle and loss
-     - 3. The next hot-shot pilot
-   * - 4. Casual card games played with drinks
-     - 4. A vigil for the dead
-   * - 5. Eager new recruits
-     - 5. An important leader of the people
-   * - 6. soldiers recovering from wounds
-     - 6. A heavily modded prototype spaceship
+   * - 1. Naves en sus hangares
+     - 1. Un emisario con noticias de su misión
+   * - 2. Mapas proyectados a gran tamaño 
+     - 2. Un secreto imperial bien guardado o robado
+   * - 3. Discusiones en voz baja de una batalla perdida
+     - 3. El próximo piloto Ás espacial
+   * - 4. Juegos de cartas casuales y bebida
+     - 4. Una vigilia para los caídos
+   * - 5. Ansiosos nuevos reclutas en entrenamiento
+     - 5. Un importante y carismático líder
+   * - 6. Soldados recuperándose de sus heridas
+     - 6. Una nave de prototipo altamente modificada
 
 .. _places-bureaucracy:
 
@@ -1007,18 +1007,18 @@ LUGARES BÉLICOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Long bare hallways
-     - 1. A meeting with many imperial officers
-   * - 2. Idle chit-chat
-     - 2. The holding cell for a few rebels
-   * - 3. Self-important uniforms
-     - 3. Plans for a new and powerful technology
-   * - 4. Over-complicated language
-     - 4. Paperwork needed to get a new license
-   * - 5. Evil turned banal
-     - 5. Evidence of a politician’s dirty deeds
-   * - 6. Hovering water coolers
-     - 6. The meeting place of conspirators
+   * - 1. Amplios y vacíos pasillos estériles
+     - 1. Una importante reunión entre oficiales de alto rango
+   * - 2. Conversaciones casuales de pasillo
+     - 2. Celdas de detención con algunos insurgentes
+   * - 3. Uniformes de importancia y alta alcurnia
+     - 3. Planos para una nueva y poderosa tecnología
+   * - 4. Dialecto y documentación exageradamente complicados
+     - 4. Papeles y trámites necesarios para obtener una licencia
+   * - 5. El mal convertido en la banalidad
+     - 5. Evidencia de casos de corrupción de algún político
+   * - 6. Dispensadores de bebidas que flotan en los pasillos
+     - 6. El lugar de encuentro de unos conspiradores
 
 .. _places-wmd-base:
 
@@ -1032,18 +1032,18 @@ LUGARES BÉLICOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. A silent air of domination
-     - 1. A secret vulnerability
-   * - 2. Absurd formality
-     - 2. the largest imperial prison in the system
-   * - 3. Glee in horrific destruction
-     - 3. A rebel spy in deep cover
-   * - 4. Unfettered jingoism and pride
-     - 4. A sinister and ruinous plan
-   * - 5. Cold and calculated violence
-     - 5. The lair of a powerful nemesis
-   * - 6. A looming and threatening presence
-     - 6. A hidden hangar of defensive fighters
+   * - 1. Un palpable aire de dominación absoluta
+     - 1. Una vulnerabilidad secreta
+   * - 2. Formalidad llevada al absurdo
+     - 2. La prisión imperial más grande del sector
+   * - 3. La satisfacción por la opresión y el sufrimiento
+     - 3. Un espía rebelde de encubierto
+   * - 4. Símbolos de exagerado orgullo militar y patriótico
+     - 4. Un plan siniestro y escabroso
+   * - 5. Altos y amenazantes salones, columnas y pasillos  
+     - 5. La guarida o trono de un poderoso némesis
+   * - 6. Amplios balcones o vistas del objetivo a subyugar
+     - 6. Un hangar oculto de cazas defensivos
 
 .. _places-battleground:
 
@@ -1057,18 +1057,18 @@ LUGARES BÉLICOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Dilapidated tents
-     - 1. A new kind of weapon
-   * - 2. Destroyed landscapes
-     - 2. Reinforcements on the way
-   * - 3. The cacophony of battle
-     - 3. Hazardous or inconvenient flora / fauna
-   * - 4. Long days
-     - 4. The last chance we have
-   * - 5. Close calls
-     - 5. A natural, strategic chokepoint
-   * - 6. Solidarity among survivors
-     - 6. Natives that could help if convinced
+   * - 1. Tiendas de campaña gastadas
+     - 1. Un nuevo tipo de arma
+   * - 2. Paisajes destruídos
+     - 2. Resfuerzos en camino
+   * - 3. La cacofonía de la batalla
+     - 3. Flora y Fauna dificultosa o peligrosa
+   * - 4. Un improvisado centro de mando lejos del combate
+     - 4. La última chance que nos queda
+   * - 5. Trincheras sucias y llenas de escombros
+     - 5. Un punto estrecho o embudo natural y estratégico
+   * - 6. Solidaridad entre los sobrevivientes
+     - 6. Nativos que podrían ayudar si se los convence
 
 .. _places-laboratory:
 
@@ -1082,18 +1082,18 @@ LUGARES BÉLICOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Bubbling vials
-     - 1. A serious security system
-   * - 2. Note-covered whiteboards
-     - 2. A kidnapped engineer
-   * - 3. Murmurs of new innovations
-     - 3. A terrifying and deadly discovery
-   * - 4. Exhausted and overworked scientists
-     - 4. The full version of a redacted report
-   * - 5. Creatures in cages
-     - 5. A bioengineered creature / ubermensch
-   * - 6. An air of importance
-     - 6. A bioweapon or virus in development
+   * - 1. Tubos y frascos burbujeantes
+     - 1. Un sistema de seguridad de alta complejidad
+   * - 2. Pizarras cubiertas de notas y ecuaciones
+     - 2. Un ingeniero secuestrado o desertor
+   * - 3. Murmullos de nuevas innovaciones polémicas
+     - 3. Un descubrimiento terrible y mortal
+   * - 4. Científicos presionados, cansados y nerviosos
+     - 4. La versión completa de un reporte redactado
+   * - 5. Criaturas en jaulas de contención
+     - 5. Una criatura mutante / de bio-ingeniería / ubermensch
+   * - 6. Pantallas y computadoras calculando y haciendo ruidos
+     - 6. Un arma biológica o virus en desarrollo
 
 .. _places-infirmary:
 
@@ -1107,18 +1107,18 @@ LUGARES BÉLICOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Bloodied shirts
-     - 1. Scarce supplies
-   * - 2. Crowded beds
-     - 2. The sole survivor of an ambush
-   * - 3. Screams of pain
-     - 3. An old friend
-   * - 4. Kind nurses trying their best
-     - 4. The antidote
-   * - 5. The smell of antiseptic
-     - 5. A barely functional Bacta Tank
-   * - 6. Automated but glitched doctor droids
-     - 6. A healer attuned to the Force
+   * - 1. Ropas y vendas ensangrentadas
+     - 1. Suministros que escasean
+   * - 2. Camillas ocupadas y camastros improvisados
+     - 2. El único sobreviviente de una emboscada
+   * - 3. Gritos de dolor y quejidos de agonía
+     - 3. Un viejo amigo
+   * - 4. Enfermeros altruístas dando lo mejor de sí
+     - 4. El antídoto que necesitas
+   * - 5. Olor antiséptico
+     - 5. Un tanque Bacta que apenas funciona
+   * - 6. Droides-doctor automatizados con algunas fallas
+     - 6. Un curandero en sintonía con La Fuerza
 
 LUGARES LIMINALES
 ^^^^^^^^^^^^^^^^^
