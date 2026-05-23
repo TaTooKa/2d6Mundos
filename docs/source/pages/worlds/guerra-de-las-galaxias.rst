@@ -622,7 +622,962 @@ El texto en *itálicas* se refiere a otra columna de resultados al azar de la ta
 Generadores de Locación
 -----------------------
 
-TODO
+Tira d6, d6 para generar una locación y una sub-locación, luego refiérete a sus correspondientes tablas.
+
+.. csv-table:: 
+   :widths: 5 45 5 45
+   :header-rows: 1
+
+    "1","LUGARES NATURALES","2","LUGARES OLVIDADOS"
+    "","1. :hoverxref:`DESIERTO <places-desert>`","","1. :hoverxref:`LUGAR SAGRADO <places-hallow>`"
+    "","2. :hoverxref:`PANTANO <places-swamp>`","","2. :hoverxref:`MONTAÑA <places-mountain>`"
+    "","3. :hoverxref:`BOSQUE <places-forest>`","","3. :hoverxref:`RUINAS <places-ruin>`"
+    "","4. :hoverxref:`TUNDRA <places-tundra>`","","4. :hoverxref:`NAVE EN RUINAS <places-shipwreck>`"
+    "","5. :hoverxref:`OCÉANO <places-ocean>`","","5. :hoverxref:`CUEVA <places-cave>`"
+    "","6. :hoverxref:`TORMENTA <places-storm>`","","6. :hoverxref:`CHATARRERÍA <places-junkyard>`"
+
+.. csv-table:: 
+   :widths: 5 45 5 45
+   :header-rows: 1
+
+    "3","LUGARES BÉLICOS","4","LUGARES LIMINALES"
+    "","1. :hoverxref:`BASE <places-base>`","","1. :hoverxref:`ASTEROIDE <places-asteroid>`"
+    "","2. :hoverxref:`CENTRO BUROCRÁTICO <places-bureaucracy>`","","2. :hoverxref:`VACÍO ESPACIAL <places-void>`"
+    "","3. :hoverxref:`BASE-ARMA DE DESTRUCCIÓN <places-wmd-base>`","","3. :hoverxref:`ESPACIO-PUERTO <places-spaceport>`"
+    "","4. :hoverxref:`CAMPO DE BATALLA <places-battleground>`","","4. :hoverxref:`CARAVANA <places-caravan>`"
+    "","5. :hoverxref:`LABORATORIO <places-laboratory>`","","5. :hoverxref:`PORTAL <places-gateway>`"
+    "","6. :hoverxref:`ENFERMERÍA <places-infirmary>`","","6. :hoverxref:`ESPEJISMO <places-mirage>`"
+
+.. csv-table:: 
+   :widths: 5 45 5 45
+   :header-rows: 1
+
+    "5","LUGARES CONCURRIDOS","6","LUGARES ÍNTIMOS"
+    "","1. :hoverxref:`METRÓPOLIS <places-metropolis>`","","1. :hoverxref:`ACANTILADO <places-cliff>`"
+    "","2. :hoverxref:`CALLEJÓN <places-alley>`","","2. :hoverxref:`BIBLIOTECA <places-library>`"
+    "","3. :hoverxref:`MERCADO <places-market>`","","3. :hoverxref:`TALLER <places-workshop>`"
+    "","4. :hoverxref:`GRANJA <places-farm>`","","4. :hoverxref:`NAVE ESPACIAL <places-ship>`"
+    "","5. :hoverxref:`BAR <places-bar>`","","5. :hoverxref:`DORMITORIO <places-quarters>`"
+    "","6. :hoverxref:`GALA <places-gala>`","","6. :hoverxref:`ACADEMIA <places-academy>`"
+
+
+LUGARES NATURALES
+^^^^^^^^^^^^^^^^^
+
+.. _places-desert:
+
+1. DESIERTO
+~~~~~~~~~~~
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
+   * - 1. Dunas gigantescas
+     - 1. Un oásis de aguas curativas
+   * - 2. Varios soles en el cielo
+     - 2. Una criatura alienígena subterránea
+   * - 3. Extraños pilares de metal
+     - 3. Un aquelarre de profetas místicos
+   * - 4. Ruinas de naves medio enterradas
+     - 4. Llanuras de cristal
+   * - 5. Espejismos en la neblina
+     - 5. Un antiguo templo Jedi enterrado
+   * - 6. Una criatura solitaria terrible
+     - 6. Ruinas ocultas con poderosa presencia del Lado Oscuro
+
+.. _places-swamp:
+
+2. PANTANO
+~~~~~~~~~~
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
+   * - 1. Humedad que se filtra en tus ropas
+     - 1. Una criatura del pantano extraña pero amable
+   * - 2. Pesadez y densidad en el aire
+     - 2. Un Adepto de la Fuerza entrenando en soledad
+   * - 3. Flora hostil
+     - 3. Un artefacto perdido
+   * - 4. Lodo burbujeante
+     - 4. Un portal al planeta perdido en el tiempo
+   * - 5. Enjambres de insectos
+     - 5. Una cueva que desciende al inframundo mítico
+   * - 6. Criaturas gigantes y lentas
+     - 6. Las ruinas de una nave abandonada
+
+.. _places-forest:
+
+3. BOSQUE
+~~~~~~~~~
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
+   * - 1. Bosques altísimos
+     - 1. Una comunidad de pequeñas criaturas peludas
+   * - 2. Raíces gigantes expuestas
+     - 2. Una antigua biblioteca de textos de los Jedi
+   * - 3. Una llovizna fina y constante
+     - 3. Una batalla de guerrillas en acción
+   * - 4. La luz del sol apenas penetrando entre el follaje
+     - 4. Una voz sabia en el viento
+   * - 5. Una cascada escondida
+     - 5. Una instalación militar oculta por el follaje
+   * - 6. Criaturas camufladas
+     - 6. El territorio de caza de un depredador gigante
+
+.. _places-tundra:
+
+4. TUNDRA
+~~~~~~~~~
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
+   * - 1. Lluvia helada
+     - 1. Granizo del tamaño de meteoritos
+   * - 2. Interminables planicies de nieve
+     - 2. Una base Rebelde (escasa de personal)
+   * - 3. Árboles secos
+     - 3. Una criatura legendaria enterrada en el hielo
+   * - 4. Sobretodos peludos y abrigados
+     - 4. Los comienzos de una glaciación
+   * - 5. Rastros en la nieve
+     - 5. Una cueva de hielo laberíntica con sonidos misteriosos
+   * - 6. Domos habitables
+     - 6. Un lago congelado con viejas naves medio hundidas
+
+.. _places-ocean:
+
+5. OCÉANO
+~~~~~~~~~
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
+   * - 1. Aguas tan profundas que podrían no tener fondo
+     - 1. El naufragio de una nave legendaria
+   * - 2. Pequeñas islas con playas de arena blanca
+     - 2. Minerales raros que valen una fortuna
+   * - 3. Naves destruídas oxidándose bajo el mar
+     - 3. Mareas impredecibles y traicioneras
+   * - 4. Ciudades construídas sobre picos que emergen del mar
+     - 4. Extrañas criaturas que desafían todo lo conocido
+   * - 5. Volcanes submarinos
+     - 5. Laboratorios flotantes de una civilización secreta
+   * - 6. Violentas tormentas
+     - 6. Una ciudad de domos submarinos
+
+.. _places-storm:
+
+6. TORMENTA
+~~~~~~~~~~~
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
+   * - 1. Vientos aullantes
+     - 1. El ojo de la tormenta
+   * - 2. Relámpagos de luz
+     - 2. La voz atronadora de una antigua deidad
+   * - 3. Residuos y restos volando
+     - 3. Una fuente artificial que la causa
+   * - 4. Nubes de polvo
+     - 4. La respuesta a una pregunta aterradora
+   * - 5. Un extraño ritmo lejano
+     - 5. Un altar a los antiguos Lords Sith
+   * - 6. Un canto distante
+     - 6. Un oculto paraíso pequeño con clima despejado
+
+LUGARES OLVIDADOS
+^^^^^^^^^^^^^^^^^
+
+.. _places-hallow:
+
+1. LUGAR SAGRADO
+~~~~~~~~~~~~~~~~
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
+   * - 1. Un suave murmullo
+     - 1. Los restos de la primera estrella
+   * - 2. Torres de libros y pergaminos
+     - 2. Una vieja máquina intrincada e indescifrable
+   * - 3. El peso de la historia
+     - 3. Un pergamino que decodifica un antiguo Holocron
+   * - 4. Un cristal que muestra el futuro
+     - 4. Un LightSaber de la Vieja República
+   * - 5. Una gruesa capa de polvo
+     - 5. Una poderosa Convergencia de La Fuerza
+   * - 6. Un espejo de piedra oscura y pulida
+     - 6. La prisión de un ser maligno e invencible
+
+.. _places-mountain:
+
+2. MONTAÑA
+~~~~~~~~~~
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - ELEMENTOS ESTÉTICOS
+     - SE RUMOREA QUE PUEDES ENCONTRAR...
+   * - 1. El ocaso detrás de los picos
+     - 1. Una escalada imposible
+   * - 2. El viento azotándote
+     - 2. Una ruptura en el tejido de La Fuerza
+   * - 3. Rocas filosas
+     - 3. Un gigante durmiendo
+   * - 4. Un campamento abandonado
+     - 4. Una cultura aislada
+   * - 5. Una vista que alcanza a ver casi todo
+     - 5. Una base oculta tras una falsa ladera
+   * - 6. Caminos estrechos y serpenteantes
+     - 6. Un altar de poder, tocando las estrellas
+
+.. _places-ruin:
+
+3. RUIN
+^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Crumbling pillars
+     - 1. An ancient curse
+   * - 2. A monument to an unknown god
+     - 2. A secret Imperial excavation
+   * - 3. The lingering shadow of war
+     - 3. A conspiracy that caused its destruction
+   * - 4. Secured remains or active dig site
+     - 4. Ghosts
+   * - 5. Tourist traps
+     - 5. A trapped hidden chamber
+   * - 6. A lonely and profound silence
+     - 6. Denizens of the deep, about to awake
+
+.. _places-shipwreck:
+
+4. SHIPWRECK
+^^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Rusting metal
+     - 1. Something else living there now
+   * - 2. Plants reclaiming its surface
+     - 2. A long-lost treasure
+   * - 3. An old and strange-looking model
+     - 3. The stored memory of its captain
+   * - 4. A giant crater
+     - 4. Nothing left of any value at this point
+   * - 5. Subtle hints of a greater mystery
+     - 5. Ghosts of its crew
+   * - 6. A sense of majesty despite the disrepair
+     - 6. A plague or hazard polluting its hallways
+
+.. _places-cave:
+
+5. CAVE
+^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Barely enough light to see
+     - 1. A creature unknowable and alien
+   * - 2. Damp walls and slippery ground
+     - 2. The lingering spirits of those who died
+   * - 3. Bioluminescent flora growing in cracks
+     - 3. The remnants of an old crystal mine
+   * - 4. Rock formations jutting out
+     - 4. Nothing at all but a cold damp darkness
+   * - 5. Creatures slithering around
+     - 5. A hidden camp of refugees
+   * - 6. A pronounced echo
+     - 6. An introspective vision of the force
+
+.. _places-junkyard:
+
+6. JUNKYARD
+^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Mountains of rusting metal
+     - 1. An old spaceship with a fast engine
+   * - 2. Smoke hanging in the air
+     - 2. Droid parts for cheap
+   * - 3. Overpowering sounds of machinery
+     - 3. More than a few illegal dealings
+   * - 4. A barbed wire fence
+     - 4. Not what we’re looking for (but close)
+   * - 5. Not another soul in sight
+     - 5. The hideout of a gang of youngsters
+   * - 6. Signs warning to keep out
+     - 6. A strange creature swims in its pools
+
+WAR PLACES
+~~~~~~~~~~
+
+.. _places-base:
+
+1. BASE
+^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Ships in hangars
+     - 1. An emissary returned
+   * - 2. Projected maps
+     - 2. A stolen Empire secret
+   * - 3. Hushed discussions of battle and loss
+     - 3. The next hot-shot pilot
+   * - 4. Casual card games played with drinks
+     - 4. A vigil for the dead
+   * - 5. Eager new recruits
+     - 5. An important leader of the people
+   * - 6. soldiers recovering from wounds
+     - 6. A heavily modded prototype spaceship
+
+.. _places-bureaucracy:
+
+2. BUREAUCRACY
+^^^^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Long bare hallways
+     - 1. A meeting with many imperial officers
+   * - 2. Idle chit-chat
+     - 2. The holding cell for a few rebels
+   * - 3. Self-important uniforms
+     - 3. Plans for a new and powerful technology
+   * - 4. Over-complicated language
+     - 4. Paperwork needed to get a new license
+   * - 5. Evil turned banal
+     - 5. Evidence of a politician’s dirty deeds
+   * - 6. Hovering water coolers
+     - 6. The meeting place of conspirators
+
+.. _places-wmd-base:
+
+3. WMD-BASE
+^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. A silent air of domination
+     - 1. A secret vulnerability
+   * - 2. Absurd formality
+     - 2. the largest imperial prison in the system
+   * - 3. Glee in horrific destruction
+     - 3. A rebel spy in deep cover
+   * - 4. Unfettered jingoism and pride
+     - 4. A sinister and ruinous plan
+   * - 5. Cold and calculated violence
+     - 5. The lair of a powerful nemesis
+   * - 6. A looming and threatening presence
+     - 6. A hidden hangar of defensive fighters
+
+.. _places-battleground:
+
+4. BATTLEGROUND
+^^^^^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Dilapidated tents
+     - 1. A new kind of weapon
+   * - 2. Destroyed landscapes
+     - 2. Reinforcements on the way
+   * - 3. The cacophony of battle
+     - 3. Hazardous or inconvenient flora / fauna
+   * - 4. Long days
+     - 4. The last chance we have
+   * - 5. Close calls
+     - 5. A natural, strategic chokepoint
+   * - 6. Solidarity among survivors
+     - 6. Natives that could help if convinced
+
+.. _places-laboratory:
+
+5. LABORATORY
+^^^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Bubbling vials
+     - 1. A serious security system
+   * - 2. Note-covered whiteboards
+     - 2. A kidnapped engineer
+   * - 3. Murmurs of new innovations
+     - 3. A terrifying and deadly discovery
+   * - 4. Exhausted and overworked scientists
+     - 4. The full version of a redacted report
+   * - 5. Creatures in cages
+     - 5. A bioengineered creature / ubermensch
+   * - 6. An air of importance
+     - 6. A bioweapon or virus in development
+
+.. _places-infirmary:
+
+6. INFIRMARY
+^^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Bloodied shirts
+     - 1. Scarce supplies
+   * - 2. Crowded beds
+     - 2. The sole survivor of an ambush
+   * - 3. Screams of pain
+     - 3. An old friend
+   * - 4. Kind nurses trying their best
+     - 4. The antidote
+   * - 5. The smell of antiseptic
+     - 5. A barely functional Bacta Tank
+   * - 6. Automated but glitched doctor droids
+     - 6. A healer attuned to the Force
+
+LIMINAL PLACES
+~~~~~~~~~~~~~~
+
+.. _places-asteroid:
+
+1. ASTEROID
+^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Cracks and crevices
+     - 1. just enough time to refuel
+   * - 2. View of the vast ocean of stars
+     - 2. An obstacle to passing ships
+   * - 3. Veins of shining metal
+     - 3. An abandoned helper droid
+   * - 4. A feeling of precarity
+     - 4. Life forms adapted to the void
+   * - 5. A feeling of weightlessness
+     - 5. Old but functional mining equipment
+   * - 6. The unimpeded cold of space
+     - 6. A gargantuan space worm
+
+.. _places-void:
+
+2. VOID
+^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Stars twinkling in the distance
+     - 1. A path we’re supposed to follow
+   * - 2. Not a soul in sight
+     - 2. Foreign objects, projectiles or debris
+   * - 3. Fuel running out
+     - 3. A habitable planet nearby
+   * - 4. Tensions running high
+     - 4. A long journey ahead
+   * - 5. Ringing in your ears
+     - 5. The song of the Force
+   * - 6. Nothing to do but wait around
+     - 6. A natural passage into Hyperspace
+
+.. _places-spaceport:
+
+3. SPACEPORT
+^^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Painfully long lines
+     - 1. A huge shipment of smuggled goods
+   * - 2. Diverse cultures and fashions
+     - 2. An important politician and entourage
+   * - 3. Blaring announcements
+     - 3. The only direct flight out of the planet
+   * - 4. Secret passageways
+     - 4. News from home
+   * - 5. Overpriced snacks
+     - 5. A hangar with lax custom controls
+   * - 6. Some time to breathe
+     - 6. Undercover Imps in search of a fugitive
+
+.. _places-caravan:
+
+4. CARAVAN
+^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. A slow pace
+     - 1. An expert of navigation
+   * - 2. Whispered secrets
+     - 2. The finest crafts credits can buy
+   * - 3. Marks of otherness
+     - 3. A cult of the Force
+   * - 4. A lingua franca
+     - 4. Mutual aid
+   * - 5. Curious children
+     - 5. A refuge for those that need hiding
+   * - 6. Weary travelers 
+     - 6. An exiled soldier from an old war
+
+.. _places-gateway:
+
+5. GATEWAY
+^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Warping light
+     - 1. The only way out
+   * - 2. Unknown constellations
+     - 2. An ambush on the other side
+   * - 3. Glimpses into another plane
+     - 3. Consequences of a failed experiment
+   * - 4.  A station to dock and buy entrance
+     - 4. Something calling out into the darkness
+   * - 5. A scientific expedition
+     - 5. The aftermath of a great space battle
+   * - 6. A pulsating energy
+     - 6. The only pathway to a lost planet
+
+.. _places-mirage:
+
+6. MIRAGE
+^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Everything out of focus
+     - 1. A celebration
+   * - 2. Swirling lights
+     - 2. Someone who went missing years ago
+   * - 3. Someone you remember
+     - 3. Something more sinister than normal
+   * - 4. An answer just out of reach
+     - 4. Nothing at all—it doesn’t make sense
+   * - 5. Beautiful flora
+     - 5. An echo of your past and future
+   * - 6. The urge to cry
+     - 6. Enlightenment in the form of a vision
+
+CROWDED PLACES
+~~~~~~~~~~~~~~
+
+.. _places-metropolis:
+
+1. METROPOLIS
+^^^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Towering skyscrapers
+     - 1. A shady politician, helps for a price
+   * - 2. Shining chrome
+     - 2. A jedi conclave
+   * - 3. Holographic billboards with Ads
+     - 3. An exiled force user
+   * - 4. Absurd and extravagant fashion
+     - 4. Manufacturers of illegal goods
+   * - 5. A monorail
+     - 5. A conman posing as a Jedi
+   * - 6. A projected blue sky
+     - 6. A ship repair-shop with rebel ties
+
+.. _places-alley:
+
+2. ALLEY
+^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Cramped walkways
+     - 1. An infamous, retired smuggler
+   * - 2. Eclectic apartments
+     - 2. A young girl with prophetic abilities
+   * - 3. Clotheslines crisscrossing the streets
+     - 3. Constant Imperial surveillance
+   * - 4. Smog in the air
+     - 4. Preparations for a festival
+   * - 5. A feeling of community
+     - 5. An informant that also sells deathsticks
+   * - 6. Children playing
+     - 6. A Fake-ID forger’s shop
+
+.. _places-market:
+
+3. MARKET
+^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. An air of business
+     - 1. Fuel crystals on the cheap
+   * - 2. “Wanted” posters with familiar faces
+     - 2. A former lover
+   * - 3. Rare and beautiful fabrics
+     - 3. Detachments on patrol
+   * - 4. Overpriced trinkets
+     - 4. The best street food in the sector
+   * - 5. Loud and stubborn haggling
+     - 5. A cunning cutpurse on the loose
+   * - 6. Free samples
+     - 6. A crime syndicate racketeering ops
+
+.. _places-farm:
+
+4. FARM
+^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Crops as far as the eye can see
+     - 1. An old retired Jedi with war stories
+   * - 2. Automated machinery hovering above
+     - 2. A childhood best friend
+   * - 3. A small cluster of homes on the fringes
+     - 3. A force user hidden in safety
+   * - 4. Tired workers
+     - 4. A rebel cell of disgruntled workers
+   * - 5. The consequences of an Imperial attack
+     - 5. Smuggled cargo hidden in a farm
+   * - 6. Alien creatures kept as livestock
+     - 6. Grumpy farmer rats out to the empire
+
+.. _places-bar:
+
+5. BAR
+^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. A live band in the corner
+     - 1. An illicit gambling operation
+   * - 2. Shady figures looking for work
+     - 2. Someone you still owe
+   * - 3. An ongoing arm wrestling match
+     - 3. The 2nd fastest smuggler in the system
+   * - 4. Gossip thrown left and right
+     - 4. A bartender with rebellious sympathies
+   * - 5. Imperial soldiers on leave
+     - 5. Crime lord on his reserved booth
+   * - 6. Colorful aliens of many species
+     - 6. Fugitive with a bounty, in hiding
+
+.. _places-gala:
+
+6. GALA
+^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Fake smiles
+     - 1. Someone who committed a war crime
+   * - 2. Genuine sneers
+     - 2. Gambling with planetary budget bets
+   * - 3. Offensively expensive suits and dresses
+     - 3. A Rebel spy in deep cover
+   * - 4. Vaguely upbeat music
+     - 4. Your old celebrity crush
+   * - 5. Idle gossip
+     - 5. A politician making deals in subterfuge
+   * - 6. Beautiful and extravagant decorations
+     - 6. A Crime Lord flaunting their power
+
+INTIMATE PLACES
+~~~~~~~~~~~~~~~
+
+.. _places-cliff:
+
+1. CLIFF
+^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. A beautiful meadow
+     - 1. A lost Jedi living as a hermit
+   * - 2. Sight of the water below
+     - 2. Rare flora which only bloom at night
+   * - 3. Strong winds
+     - 3. The perfect spot for a ship to hide
+   * - 4. The nests of flying creatures
+     - 4. An old abandoned Imperial telescope
+   * - 5. A feeling of calm
+     - 5. An elusive creature, highly sought after
+   * - 6. Big boulders
+     - 6. A Force Vergence over a historical site
+
+.. _places-library:
+
+2. LIBRARY
+^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Towering shelves of books
+     - 1. The original draft of the Jedi code
+   * - 2. A thick layer of dust
+     - 2. Copies of books banned by the Empire
+   * - 3. Unfamiliar names from long ago
+     - 3. A friendly librarian who helps find things
+   * - 4. Strict rules against taking books out
+     - 4. A scandalous romance section
+   * - 5. A clock ticking
+     - 5. Genealogy of force-sensitive prospects
+   * - 6. Windows letting light pour in
+     - 6. Old maps of secret hyperspace lanes
+
+.. _places-workshop:
+
+3. WORKSHOP
+^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. The whirring sounds of machines
+     - 1. A special lightsaber-repairing tool
+   * - 2. An assortment of niche tools
+     - 2. The best engineer in the system
+   * - 3. Unfinished projects piled up
+     - 3. A retired Rebel pilot repairs old ships
+   * - 4. Helper droids running to and fro
+     - 4. Unbeatable deals if you know a guy
+   * - 5. An air of focus and concentration
+     - 5. A prototype hyperdrive on the works
+   * - 6. Something huge being repaired
+     - 6. Custom armor tools from Mandalore
+
+.. _places-ship:
+
+4. SHIP
+^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Exposed wires
+     - 1. Forged ownership papers
+   * - 2. Flashing lights
+     - 2. Dangerously out-of-date parts
+   * - 3. Cramped spaces
+     - 3. An Imperial ship following close behind
+   * - 4. Shouted commands
+     - 4. Secret hidden compartment
+   * - 5. Random patches of duct tape
+     - 5. Retrofitted laser turret mount
+   * - 6. A bumpy ride
+     - 6. Custom hyperdrive, unsafe but unique
+
+.. _places-quarters:
+
+5. QUARTERS
+^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Pictures on the walls
+     - 1. An old friend
+   * - 2. Memories from a different life
+     - 2. A concealed weapon
+   * - 3. A steady routine
+     - 3. Incriminating evidence
+   * - 4. Hidden snacks
+     - 4. A place to rest
+   * - 5. A cluttered desk
+     - 5. Box safekeeping an ancient artifact
+   * - 6. Something… off about this whole thing
+     - 6. Mementos of a charged past
+
+.. _places-academy:
+
+6. ACADEMY
+^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Bored students
+     - 1. Force-sensitive children kidnapped
+   * - 2. Hallway chatter
+     - 2. Suppressed student protests
+   * - 3. Rows of lockers
+     - 3. New halls under construction
+   * - 4. Lectures on soft and hard sciences
+     - 4. A hangout from your childhood
+   * - 5. Writing on the walls
+     - 5. A teacher with rebellious sympathies
+   * - 6. An upcoming student election
+     - 6. Unguarded droid-training grounds
 
 
 Fuentes de Inspiración
