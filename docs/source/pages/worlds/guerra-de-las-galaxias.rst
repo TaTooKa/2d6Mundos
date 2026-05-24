@@ -1,7 +1,7 @@
 Guerra de las Galaxias
 ======================
 
-El género "" ... TODO
+Este Mundo adapta el universo de **La Guerra De Las Galaxias** al rol, especialmente la *Era de la Rebelión* (el período abarcado por las películas originales y algunas otras obras del universo expandido), pero también soporta los años de *La Caída de la República* y *Las Guerras Clónicas* con muy pocos ajustes. También está pensado para soportar otras eras más lejanas como las de *La Vieja República* u otras más avanzadas en el futuro.
 
 Creación de Personaje
 ---------------------
