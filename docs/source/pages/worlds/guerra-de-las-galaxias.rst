@@ -1288,18 +1288,18 @@ LUGARES CONCURRIDOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Towering skyscrapers
-     - 1. A shady politician, helps for a price
-   * - 2. Shining chrome
-     - 2. A jedi conclave
-   * - 3. Holographic billboards with Ads
-     - 3. An exiled force user
-   * - 4. Absurd and extravagant fashion
-     - 4. Manufacturers of illegal goods
-   * - 5. A monorail
-     - 5. A conman posing as a Jedi
-   * - 6. A projected blue sky
-     - 6. A ship repair-shop with rebel ties
+   * - 1. Rascacielos imponentes
+     - 1. Un político inescrupuloso, ayuda por un precio
+   * - 2. Brillante acero y cromo
+     - 2. Un cónclave Jedi
+   * - 3. Carteles holográficos con anuncios
+     - 3. Un usuario de La Fuerza en el exilio
+   * - 4. Moda absurda y extravagante
+     - 4. Fabricantes de productos ilegales
+   * - 5. Un monoriel de alta velocidad
+     - 5. Un estafador haciéndose pasar por un Jedi
+   * - 6. Un cielo azul proyectado
+     - 6. Un taller de reparación de naves con lazos con la Rebelión
 
 .. _places-alley:
 
@@ -1313,18 +1313,18 @@ LUGARES CONCURRIDOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Cramped walkways
-     - 1. An infamous, retired smuggler
-   * - 2. Eclectic apartments
-     - 2. A young girl with prophetic abilities
-   * - 3. Clotheslines crisscrossing the streets
-     - 3. Constant Imperial surveillance
-   * - 4. Smog in the air
-     - 4. Preparations for a festival
-   * - 5. A feeling of community
-     - 5. An informant that also sells deathsticks
-   * - 6. Children playing
-     - 6. A Fake-ID forger’s shop
+   * - 1. Sendas peatonales atestadas y concurridas
+     - 1. Un infame traficante, ya retirado
+   * - 2. Departamentos eclécticos y variopintos
+     - 2. Una jovencita con abilidades proféticas
+   * - 3. Ropa colgada secándose, cruzando entre balcones 
+     - 3. Vigilancia imperial constante y opresiva
+   * - 4. Smog en el aire, vapor saliendo de alcantarillas
+     - 4. Preparaciones para un festival
+   * - 5. Una sensación de comunidad, con niños jugando
+     - 5. Un informante que además vende estupefacientes
+   * - 6. Obreros moviendo contenedores y transportadores flotantes
+     - 6. El local de un falsificador de identidades y credenciales
 
 .. _places-market:
 
@@ -1338,18 +1338,18 @@ LUGARES CONCURRIDOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. An air of business
-     - 1. Fuel crystals on the cheap
-   * - 2. “Wanted” posters with familiar faces
-     - 2. A former lover
-   * - 3. Rare and beautiful fabrics
-     - 3. Detachments on patrol
-   * - 4. Overpriced trinkets
-     - 4. The best street food in the sector
-   * - 5. Loud and stubborn haggling
-     - 5. A cunning cutpurse on the loose
-   * - 6. Free samples
-     - 6. A crime syndicate racketeering ops
+   * - 1. Un palpable aire a negocios y tratos
+     - 1. Cristales de combustible baratos
+   * - 2. Pósters de "SE BUSCA" con caras familiares
+     - 2. Un antiguo romance
+   * - 3. Telas y tejidos raros y hermosos
+     - 3. Parejas de guardias patrullando en rondas
+   * - 4. Chucherías con sobreprecio
+     - 4. La mejor comida callejera del sector
+   * - 5. Un regateo en curso, ruidoso y testarudo
+     - 5. Un ratero hábil, haciendo de las suyas
+   * - 6. Vendedores ambulantes ofreciendo muestras gratis
+     - 6. Un sindicato criminal extorsionando a los locales
 
 .. _places-farm:
 
@@ -1363,18 +1363,18 @@ LUGARES CONCURRIDOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Crops as far as the eye can see
-     - 1. An old retired Jedi with war stories
-   * - 2. Automated machinery hovering above
-     - 2. A childhood best friend
-   * - 3. A small cluster of homes on the fringes
-     - 3. A force user hidden in safety
-   * - 4. Tired workers
-     - 4. A rebel cell of disgruntled workers
-   * - 5. The consequences of an Imperial attack
-     - 5. Smuggled cargo hidden in a farm
-   * - 6. Alien creatures kept as livestock
-     - 6. Grumpy farmer rats out to the empire
+   * - 1. Campos de siembra extendiéndose hasta donde puedas ver
+     - 1. Un viejo Jedi retirado con historias de guerra
+   * - 2. Maquinaria automatizada volando por sobre sus cabezas
+     - 2. Un mejor amigo de la infancia
+   * - 3. Un pequeño grupo de viviendas en los límites de los campos
+     - 3. Un usuario de La Fuerza oculto y a salvo
+   * - 4. Campesinos cansados
+     - 4. Una celda rebelde de trabajadores hartos de la opresión
+   * - 5. Las consecuencias de un ataque imperial
+     - 5. Cargamento traficado, escondido en una granja
+   * - 6. Criaturas alienígenas mantenidas como ganado
+     - 6. Un granjero malhumorado, informante para el imperio
 
 .. _places-bar:
 
@@ -1388,18 +1388,18 @@ LUGARES CONCURRIDOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. A live band in the corner
-     - 1. An illicit gambling operation
-   * - 2. Shady figures looking for work
-     - 2. Someone you still owe
-   * - 3. An ongoing arm wrestling match
-     - 3. The 2nd fastest smuggler in the system
-   * - 4. Gossip thrown left and right
-     - 4. A bartender with rebellious sympathies
-   * - 5. Imperial soldiers on leave
-     - 5. Crime lord on his reserved booth
-   * - 6. Colorful aliens of many species
-     - 6. Fugitive with a bounty, in hiding
+   * - 1. Una banda tocando en vivo en un rincón
+     - 1. Una operación de apuestas ilegales
+   * - 2. Sujetos sospechosos en busca de trabajo
+     - 2. Alguien con quien todavía estás en deuda
+   * - 3. Una competencia de pulseadas con audiencia
+     - 3. El segundo traficante más rápido de la galaxia
+   * - 4. Rumores y chismerío por doquier
+     - 4. Un camarero con simpatía por la Rebelión
+   * - 5. Soldados imperiales de licencia
+     - 5. Un lord del crímen organizado en su cabina reservada
+   * - 6. Aliens coloridos y variopintos, de infinidad de especies
+     - 6. Fugitivo con una recompensa en su cabeza, ocultándose
 
 .. _places-gala:
 
@@ -1413,18 +1413,18 @@ LUGARES CONCURRIDOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Fake smiles
-     - 1. Someone who committed a war crime
-   * - 2. Genuine sneers
-     - 2. Gambling with planetary budget bets
-   * - 3. Offensively expensive suits and dresses
-     - 3. A Rebel spy in deep cover
-   * - 4. Vaguely upbeat music
-     - 4. Your old celebrity crush
-   * - 5. Idle gossip
-     - 5. A politician making deals in subterfuge
-   * - 6. Beautiful and extravagant decorations
-     - 6. A Crime Lord flaunting their power
+   * - 1. Sonrisas falsas
+     - 1. Alguien que cometió un crímen de guerra
+   * - 2. Genuinas muecas de disgusto y miradas de desdén
+     - 2. Apuestas con montos del presupuesto de un planeta entero
+   * - 3. Trajes y vestidos ofensivamente caros
+     - 3. Un espía rebelde de encubierto
+   * - 4. Música rítmica lavada y repetitiva
+     - 4. Una celebridad a quien amabas/admirabas cuando eras joven
+   * - 5. Chusmerío banal con confidencias suculentas
+     - 5. Un político haciendo tratos espurios
+   * - 6. Decoraciones y adornos extravagantes y exóticos
+     - 6. Un Lord del crímen organizado haciendo alarde de su poder
 
 LUGARES ÍNTIMOS
 ^^^^^^^^^^^^^^^
@@ -1441,18 +1441,18 @@ LUGARES ÍNTIMOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. A beautiful meadow
-     - 1. A lost Jedi living as a hermit
-   * - 2. Sight of the water below
-     - 2. Rare flora which only bloom at night
-   * - 3. Strong winds
-     - 3. The perfect spot for a ship to hide
-   * - 4. The nests of flying creatures
-     - 4. An old abandoned Imperial telescope
-   * - 5. A feeling of calm
-     - 5. An elusive creature, highly sought after
-   * - 6. Big boulders
-     - 6. A Force Vergence over a historical site
+   * - 1. Vista a hermosas praderas
+     - 1. Un viejo Jedi, viviendo como un hermitaño
+   * - 2. Una corriente de agua o lago allí debajo
+     - 2. Vegetación extraña que solo florece de noche
+   * - 3. Fuertes vientos
+     - 3. El lugar perfecto para esconder una nave
+   * - 4. Los nidos de criaturas voladoras
+     - 4. Un viejo telescopio imperial, abandonado
+   * - 5. Una sensación de calma y soledad
+     - 5. Una criatura escurridiza, muy preciada
+   * - 6. Grandes rocas y formaciones naturales
+     - 6. Una convergencia de La Fuerza sobre un lugar histórico
 
 .. _places-library:
 
@@ -1466,18 +1466,18 @@ LUGARES ÍNTIMOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Towering shelves of books
-     - 1. The original draft of the Jedi code
-   * - 2. A thick layer of dust
-     - 2. Copies of books banned by the Empire
-   * - 3. Unfamiliar names from long ago
-     - 3. A friendly librarian who helps find things
-   * - 4. Strict rules against taking books out
-     - 4. A scandalous romance section
-   * - 5. A clock ticking
-     - 5. Genealogy of force-sensitive prospects
-   * - 6. Windows letting light pour in
-     - 6. Old maps of secret hyperspace lanes
+   * - 1. Altísimas paredes de estanterías llenas de libros
+     - 1. El escrito original del código de una órden famosa
+   * - 2. Una gruesa capa de polvo en todos lados
+     - 2. Copias de libros censurados y prohibidos por el imperio
+   * - 3. Nombres llamativos y famosos de eras pasadas
+     - 3. Un bibliotecario amigable que ayuda en tus búsqueadas
+   * - 4. Reglas estrictas sobre el retiro y devolución de artículos
+     - 4. Secciones escandalosas de categorías como política y filosofía
+   * - 5. Un reloj demasiado ruidoso para el silencio del lugar
+     - 5. La genealogía de millones de prospectos sensibles a La Fuerza
+   * - 6. Ventanales abiertos, dejando entrar el viento o la lluvia
+     - 6. Viejos mapas de rutas hiper-espaciales secretas
 
 .. _places-workshop:
 
@@ -1491,18 +1491,18 @@ LUGARES ÍNTIMOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. The whirring sounds of machines
-     - 1. A special lightsaber-repairing tool
-   * - 2. An assortment of niche tools
-     - 2. The best engineer in the system
-   * - 3. Unfinished projects piled up
-     - 3. A retired Rebel pilot repairs old ships
-   * - 4. Helper droids running to and fro
-     - 4. Unbeatable deals if you know a guy
-   * - 5. An air of focus and concentration
-     - 5. A prototype hyperdrive on the works
-   * - 6. Something huge being repaired
-     - 6. Custom armor tools from Mandalore
+   * - 1. Los chirridos y golpeteos de las máquinas
+     - 1. Una herramienta especial para reparar Sables de Luz
+   * - 2. Una pequeña colección de herramientas super-especializadas
+     - 2. El mejor ingeniero en el sistema
+   * - 3. Proyectos sin terminar, apilados encima de otros
+     - 3. Un piloto Rebelde retirado, arregla viejas naves
+   * - 4. Droides-ayudantes corriendo de aquí para allá
+     - 4. Las mejores gangas, si conoces a la persona indicada
+   * - 5. Un aire de concentración y enfoque en las tareas
+     - 5. Un prototipo de hipermotor en proceso de ensamblado
+   * - 6. Algo gigante colgado y siendo reparado aquí y allá
+     - 6. Herramientas especializadas para armaduras, hechas en Mandalore
 
 .. _places-ship:
 
@@ -1516,23 +1516,23 @@ LUGARES ÍNTIMOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Exposed wires
-     - 1. Forged ownership papers
-   * - 2. Flashing lights
-     - 2. Dangerously out-of-date parts
-   * - 3. Cramped spaces
-     - 3. An Imperial ship following close behind
-   * - 4. Shouted commands
-     - 4. Secret hidden compartment
-   * - 5. Random patches of duct tape
-     - 5. Retrofitted laser turret mount
-   * - 6. A bumpy ride
-     - 6. Custom hyperdrive, unsafe but unique
+   * - 1. Cables expuestos y paneles abiertos
+     - 1. Papeles de propietario, falsificados
+   * - 2. Luces parpadeantes e intermitentes
+     - 2. Componentes peligrosamente desactualizados
+   * - 3. Espacios estrechos y atestados de trastes
+     - 3. Una nave imperial siguiéndolos de cerca
+   * - 4. gritos de órdenes y reportes de estado
+     - 4. Un compartimiento secreto
+   * - 5. Arreglos con ataduras y chapucerías improvisadas
+     - 5. Montura de torreta láser modificada
+   * - 6. Un viaje ajetreado y turbulento
+     - 6. Hipermotor personalizado, poco seguro pero único
 
 .. _places-quarters:
 
-5. APOSTENTOS
-~~~~~~~~~~~~~
+5. APOSENTOS
+~~~~~~~~~~~~
 
 .. list-table:: 
    :header-rows: 1
@@ -1541,18 +1541,18 @@ LUGARES ÍNTIMOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Pictures on the walls
-     - 1. An old friend
-   * - 2. Memories from a different life
-     - 2. A concealed weapon
-   * - 3. A steady routine
-     - 3. Incriminating evidence
-   * - 4. Hidden snacks
-     - 4. A place to rest
-   * - 5. A cluttered desk
-     - 5. Box safekeeping an ancient artifact
-   * - 6. Something… off about this whole thing
-     - 6. Mementos of a charged past
+   * - 1. Cuadros y fotos en las paredes
+     - 1. Un viejo amigo
+   * - 2. Recuerdos de una vida distinta
+     - 2. Un arma escondida
+   * - 3. Objetos o accesorios de un viejo hobbie
+     - 3. Evidencia incriminadora
+   * - 4. Tentempiés escondidos por varias partes
+     - 4. Un lugar para descansar placenteramente
+   * - 5. Un escritorio atestado de cosas
+     - 5. Una caja fuerte guardando un antiguo artefacto
+   * - 6. Demasiada ropa para la temporada y clima incorrectos
+     - 6. Una revelación de algo que oculta de su dueño
 
 .. _places-academy:
 
@@ -1566,18 +1566,18 @@ LUGARES ÍNTIMOS
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Bored students
-     - 1. Force-sensitive children kidnapped
-   * - 2. Hallway chatter
-     - 2. Suppressed student protests
-   * - 3. Rows of lockers
-     - 3. New halls under construction
-   * - 4. Lectures on soft and hard sciences
-     - 4. A hangout from your childhood
-   * - 5. Writing on the walls
-     - 5. A teacher with rebellious sympathies
-   * - 6. An upcoming student election
-     - 6. Unguarded droid-training grounds
+   * - 1. Estudiantes aburridos
+     - 1. Niños sensibles a La Fuerza, secuestrados
+   * - 2. Charlas y chismeríos de pasillo
+     - 2. Protestas de estudiantes siendo censuradas
+   * - 3. Hileras de casilleros para estudiantes 
+     - 3. Un nuevo salón en construcción
+   * - 4. Clases de ciencias blandas y duras
+     - 4. Un conocido de la infancia
+   * - 5. Escritos y símbolos en las paredes
+     - 5. Un profesor con simpatía por la Rebelión
+   * - 6. Una inminente elección estudiantil
+     - 6. Salas de entrenamiento sin cerradura
 
 
 Fuentes de Inspiración
