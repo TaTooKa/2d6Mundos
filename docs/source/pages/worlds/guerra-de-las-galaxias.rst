@@ -1135,18 +1135,18 @@ LUGARES LIMINALES
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Cracks and crevices
-     - 1. just enough time to refuel
-   * - 2. View of the vast ocean of stars
-     - 2. An obstacle to passing ships
-   * - 3. Veins of shining metal
-     - 3. An abandoned helper droid
-   * - 4. A feeling of precarity
-     - 4. Life forms adapted to the void
-   * - 5. A feeling of weightlessness
-     - 5. Old but functional mining equipment
-   * - 6. The unimpeded cold of space
-     - 6. A gargantuan space worm
+   * - 1. Quebraduras y huecos en la roca
+     - 1. El tiempo necesario para recargar o repararte
+   * - 2. Vista del ámplio océano de las estrellas
+     - 2. Un obstáculo para naves que te persiguen
+   * - 3. Venas de brillantes metales preciosos
+     - 3. Un Droide-ayudante abandonado
+   * - 4. Cráteres grandes como cavernas
+     - 4. Formas de vida adaptadas al vacío
+   * - 5. Gravedad extremadamente baja
+     - 5. Equipo de minería viejo pero funcional
+   * - 6. El frío absoluto del espacio
+     - 6. Un gusano espacial gigantesco
 
 .. _places-void:
 
@@ -1160,18 +1160,18 @@ LUGARES LIMINALES
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Stars twinkling in the distance
-     - 1. A path we’re supposed to follow
-   * - 2. Not a soul in sight
-     - 2. Foreign objects, projectiles or debris
-   * - 3. Fuel running out
-     - 3. A habitable planet nearby
-   * - 4. Tensions running high
-     - 4. A long journey ahead
-   * - 5. Ringing in your ears
-     - 5. The song of the Force
-   * - 6. Nothing to do but wait around
-     - 6. A natural passage into Hyperspace
+   * - 1. Estrellas titilando a la distancia
+     - 1. La ruta hiper-espacial que buscas
+   * - 2. Ni una forma de vida en parsecs a la redonda
+     - 2. Objetos extraños, proyectiles u obstáculos
+   * - 3. La desconcertante sensación de ingravidez
+     - 3. Un planeta habitable en las cercanías
+   * - 4. El silencio absoluto es ensordecedor
+     - 4. Un largo viaje por delante
+   * - 5. Extrañas nebulosas y galaxias distantes
+     - 5. El canto de La Fuerza
+   * - 6. Las largas horas de espera
+     - 6. Un pasaje natural al hiper-espacio
 
 .. _places-spaceport:
 
@@ -1185,18 +1185,18 @@ LUGARES LIMINALES
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Painfully long lines
-     - 1. A huge shipment of smuggled goods
-   * - 2. Diverse cultures and fashions
-     - 2. An important politician and entourage
-   * - 3. Blaring announcements
-     - 3. The only direct flight out of the planet
-   * - 4. Secret passageways
-     - 4. News from home
-   * - 5. Overpriced snacks
-     - 5. A hangar with lax custom controls
-   * - 6. Some time to breathe
-     - 6. Undercover Imps in search of a fugitive
+   * - 1. Filas de gente extremadamente largas
+     - 1. Un gran cargamento de productos traficados
+   * - 2. Culturas y modas muy diversas
+     - 2. Un político importante con su comitiva
+   * - 3. Anuncios fuertes e ininteligibles por altavoz
+     - 3. El único vuelo directo para salir del planeta
+   * - 4. Pasajes secretos y pasillos laberínticos
+     - 4. Noticias de casa
+   * - 5. Tentempiés y chucherías con sobreprecio
+     - 5. Un hangar con controles aduaneros permisivos
+   * - 6. Grandes halls con asientos de espera
+     - 6. Agentes imperiales encubiertos buscando a un fugitivo
 
 .. _places-caravan:
 
@@ -1210,18 +1210,18 @@ LUGARES LIMINALES
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. A slow pace
-     - 1. An expert of navigation
-   * - 2. Whispered secrets
-     - 2. The finest crafts credits can buy
-   * - 3. Marks of otherness
-     - 3. A cult of the Force
-   * - 4. A lingua franca
-     - 4. Mutual aid
-   * - 5. Curious children
-     - 5. A refuge for those that need hiding
-   * - 6. Weary travelers 
-     - 6. An exiled soldier from an old war
+   * - 1. Una marcha muy lenta
+     - 1. Un experto en navegación
+   * - 2. Secretos susurrados
+     - 2. Las artesanías más finas que se pueden conseguir
+   * - 3. Choques culturales exacerbados
+     - 3. Un culto a La Fuerza
+   * - 4. Una "lingua franca"
+     - 4. Ayuda mutua y altruísmo
+   * - 5. Niños curiosos y juguetones
+     - 5. Un refugio para los que buscan ocultarse
+   * - 6. Viajeros exhaustos y ocupados
+     - 6. Un soldado exiliado de una vieja guerra
 
 .. _places-gateway:
 
@@ -1235,18 +1235,18 @@ LUGARES LIMINALES
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Warping light
-     - 1. The only way out
-   * - 2. Unknown constellations
-     - 2. An ambush on the other side
-   * - 3. Glimpses into another plane
-     - 3. Consequences of a failed experiment
-   * - 4.  A station to dock and buy entrance
-     - 4. Something calling out into the darkness
-   * - 5. A scientific expedition
-     - 5. The aftermath of a great space battle
-   * - 6. A pulsating energy
-     - 6. The only pathway to a lost planet
+   * - 1. Luz que se tuerce y se distorsiona
+     - 1. La única forma de escapar
+   * - 2. Constelaciones desconocidas
+     - 2. Una emboscada esperando del otro lado
+   * - 3. Vistazos a otro plano o realidad
+     - 3. Consecuencias de un experimento fallido
+   * - 4. Una estación donde aparcar y pagar pasaje
+     - 4. Algo que llama a entrar a lo desconocido
+   * - 5. Una expedición científica
+     - 5. Los restos y resultados de una gran batalla espacial
+   * - 6. Una perceptible energía pulsante y creciente
+     - 6. El único camino a un planeta perdido
 
 .. _places-mirage:
 
@@ -1260,18 +1260,18 @@ LUGARES LIMINALES
 
    * - ELEMENTOS ESTÉTICOS
      - SE RUMOREA QUE PUEDES ENCONTRAR...
-   * - 1. Everything out of focus
-     - 1. A celebration
-   * - 2. Swirling lights
-     - 2. Someone who went missing years ago
-   * - 3. Someone you remember
-     - 3. Something more sinister than normal
-   * - 4. An answer just out of reach
-     - 4. Nothing at all—it doesn’t make sense
-   * - 5. Beautiful flora
-     - 5. An echo of your past and future
-   * - 6. The urge to cry
-     - 6. Enlightenment in the form of a vision
+   * - 1. Todo se ve desenfocado
+     - 1. Una celebración
+   * - 2. Luces danzantes o revoloteantes
+     - 2. Alguien que se extravió años atrás
+   * - 3. Alguien a quien recuerdas
+     - 3. Algo más siniestro de lo normal
+   * - 4. Una respuesta siempre fuera de tu alcance
+     - 4. Nada en absoluto—no tiene sentido alguno
+   * - 5. Hermosas plantas y vegetación exótica
+     - 5. Un eco de tu pasado y tu futuro
+   * - 6. La fuerte necesidad de llorar
+     - 6. Iluminación en forma de una visión reveladora
 
 LUGARES CONCURRIDOS
 ^^^^^^^^^^^^^^^^^^^
