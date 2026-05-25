@@ -8,6 +8,8 @@ Este Mundo adapta el universo de **La Guerra De Las Galaxias** al rol, especialm
 Creación de Personaje
 ---------------------
 
+.. figure:: /_static/images/worlds/guerra-de-las-galaxias/guerra-de-las-galaxias-img-2.jpg
+
 Trasfondo y Equipo
 ^^^^^^^^^^^^^^^^^^
 
@@ -40,6 +42,8 @@ Elige o tira `d6, d6` para determinar tu Trasfondo y equipo inicial. Si comienza
 
 Especies
 ^^^^^^^^
+
+.. figure:: /_static/images/worlds/guerra-de-las-galaxias/guerra-de-las-galaxias-img-3.jpg
 
 Las distintas especies en el universo de *La Guerra de las Galaxias* otorgan un trasfondo cultural y una distinción visual (física o estética). Si la especie tiene alguna habilidad especial, el PJ podría ganar esa habilidad en ciertas situaciones, a discreción del DJ.
 
