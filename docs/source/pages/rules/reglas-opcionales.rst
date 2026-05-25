@@ -4,6 +4,8 @@ Reglas Opcionales
 Iniciativa
 ----------
 
+.. figure:: /_static/images/rules/rpg-image-1.png
+
 En muchos juegos de rol, se le llama "Iniciativa" a una o más mecánicas que se utilizan para determinar el órden en el que distintos personajes actúan en una situación de tensión (usualmente en combate, persecusiones, etc). Estas son las distintas opciones disponibles:
 
 Iniciativa Cinemática
@@ -155,6 +157,8 @@ Quizá haya métodos especiales (mágicos, super-tecnología, etc) para reducir 
 
 Chequeos de Instinto
 --------------------
+
+.. figure:: /_static/images/rules/rpg-image-2.jpg
 
 En situaciones de miedo o dolor extremo, o ante un peligro que sea de vida o muerte, los personajes pueden verse obligados a hacer un **Chequeo de Insinto**. 
 
