@@ -74,6 +74,8 @@ Los jugadores realizan sus acciones de forma normal. Cada **ÉXITO NORMAL** cont
 Sistema de Magia
 ----------------
 
+.. figure:: /_static/images/rules/rpg-image-8.jpg
+
 El sistema de Magia básico que se presenta en este apartado puede aplicarse o adaptarse a cualquier Mundo que lo requiera. Se basa en la "rareza" o "poder" de los hechizos, haciendo que los más simples resulten más comunes o fáciles de ejecutar, mientras que los más poderosos serán más raros o difíciles de realizar, dando una suerte de "balance" narrativo sin ahondar demasiado en mecánicas complejas de magia.
 
 Los "hechizos" pueden tener tres tipos, o niveles de poder: **Sutil**, **Evidente** y **Masivo**.
