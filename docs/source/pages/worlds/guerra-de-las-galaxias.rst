@@ -96,6 +96,8 @@ A continuación se listan algunas de las especies más típicas o más vistas en
 Detalles Físicos
 ^^^^^^^^^^^^^^^^
 
+.. figure:: /_static/images/worlds/guerra-de-las-galaxias/guerra-de-las-galaxias-img-4.jpg
+
 Vuelve a tirar o adapta según tu criterio cualquier resultado que no tenga sentido debido a tu especie, género, u otra característica de tu personaje.
 
 .. list-table:: Detalles Físicos
@@ -426,6 +428,8 @@ Nombres Típicos de otras Especies
 La Fuerza
 ---------
 
+.. figure:: /_static/images/worlds/guerra-de-las-galaxias/guerra-de-las-galaxias-img-5.png
+
 Un personaje que tiene un Trasfondo relacionado con el uso de **La Fuerza** tiene *permiso narrativo* para crear diferentes efectos (improvisados o practicados) con la Fuerza.
 
 * **Percepción Extrasensorial** (ganar nuevos sentidos sobrenaturales, como sentir energías invisibles, emociones, peligro, etc)
@@ -446,6 +450,8 @@ En cualquier momento que tengas que hacer una tirada de *Uso de la Fuerza*, pued
 
 El Lado Oscuro
 ^^^^^^^^^^^^^^
+
+.. figure:: /_static/images/worlds/guerra-de-las-galaxias/guerra-de-las-galaxias-img-6.png
 
 Los personajes tienen un **"Nivel de Lado Oscuro"** que va del 1 al 6: 
 
@@ -477,6 +483,8 @@ Es posible que los *Usuarios de La Fuerza* coqueteen con el *Lado Oscuro* de vez
 
 Generadores de Aventura
 -----------------------
+
+.. figure:: /_static/images/worlds/guerra-de-las-galaxias/guerra-de-las-galaxias-img-7.png
 
 El texto en *itálicas* se refiere a otra columna de resultados al azar de la tabla. 
 
@@ -627,6 +635,8 @@ El texto en *itálicas* se refiere a otra columna de resultados al azar de la ta
 
 Generadores de Locación
 -----------------------
+
+.. figure:: /_static/images/worlds/guerra-de-las-galaxias/guerra-de-las-galaxias-img-8.png
 
 Tira d6, d6 para generar una locación y una sub-locación, luego refiérete a sus correspondientes tablas.
 
@@ -1593,7 +1603,7 @@ Fuentes de Inspiración
 * **Clone Wars** (serie animada de Genndy Tartakovsky, película animada de Dave Filoni, serie animada de Dave Filoni).
 * Cómics y Novelas de la Trilogía **Heredero del Imperio** de Timothy Zahn.
 * Serie **Andor** y película **Rogue One** de Tony Gilroy.
-* Sagas de Videojuegos **DARK FORCES**, **JEDI KNIGHT/OUTCAST**, **KNIGHTS OF THE OLD REPUBLIC**. 
+* Sagas de Videojuegos **DARK FORCES**, **JEDI KNIGHT/OUTCAST**, **KNIGHTS OF THE OLD REPUBLIC**, **THE FORCE UNLEASHED**. 
 * Serie **The Mandalorian** de John Favreau.
 * Series animadas y actuadas varias de Dave Filoni (Ahsoka, The Bad Batch, Maul: Shadow Lord, Tales, etc).
 * Trilogía de **Precuelas de Star Wars** de George Lucas (The Phantom Menace, Attack Of The Clones, Revenge Of The Sith).
