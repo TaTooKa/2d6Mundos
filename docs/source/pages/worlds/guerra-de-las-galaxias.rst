@@ -435,6 +435,7 @@ Un personaje que tiene un Trasfondo relacionado con el uso de **La Fuerza** tien
 * **Percepción Extrasensorial** (ganar nuevos sentidos sobrenaturales, como sentir energías invisibles, emociones, peligro, etc)
 * **Telepatía** (leer o comunicarse con otras mentes, engañar o confundir a aquellos de intelecto inferior, etc)
 * **Telequinesis** (mover o afectar físicamente objetos a distancia)
+* **Mejora física** (hacerse más rápido por un instante, saltar más alto y lejos, esquivar o hacer acrobacias increíbles, resistir el dolor, etc)
 * **[Pre/Post]cognición** (vislumbrar momentos o eventos del futuro/pasado)
 * **[elemento]quinesis** (control sobre fuego/agua/gravedad/energías/etc)
 * **Otros efectos exóticos** (sanación, ilusiones, metamorfosis, brujería, etc—a discreción del DJ).
