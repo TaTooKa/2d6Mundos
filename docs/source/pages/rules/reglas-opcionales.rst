@@ -195,6 +195,8 @@ Se recupera (vuelve a 0) de la misma manera diegética que para las Condiciones:
 Dinero y Tesoro
 ---------------
 
+.. figure:: /_static/images/rules/rpg-image-3.jpg
+
 Los juegos de 2d6Mundos no se enfocan demasiado en la acumulación de dinero y bienes (como sí lo hacen otros juegos de rol tradicionales). La mayoría de las aventuras de estilo "cinemático" no suelen tener necesidad de estar contando cuantas monedas de oro, créditos galácticos o billetes de dólares tienen los personajes, o cuánto necesitan gastar al reponer sus suministros. Todo se suele llevar más por el contexto y la lógica interna de la ficción, a discresión del DJ. Usualmente, en los casos en los que surje la necesidad de que un personaje gaste dinero o adquiera bienes, el DJ determina si su/s Trasfondo/s justifican tal gasto, y lo resuelve inmediatamente sin tener que llevar ningún tipo de contabilidad. 
 
 Pero a veces necesitamos tener una idea (aunque no sea muy específica) de cuánto valen las cosas, para comparar el costo entre bienes o servicios. De ser así, el DJ puede implementar esta guía:
