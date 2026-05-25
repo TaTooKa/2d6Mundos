@@ -24,6 +24,8 @@ Cada sección de **Mundo** lista una serie de Trasfondos sugeridos para ese tipo
 Resolución de acciones
 ----------------------
 
+.. figure:: /_static/images/rules/rpg-image-6.jpg
+
 Cuando un personaje intenta realizar una acción y el DJ determina que es riesgosa y tiene una posibilidad de fallar [#]_, el jugador **tira 2d6** y **suma el nivel de cualquier Trasfondo** [#]_ que sea relevante para esa acción, **± cualquier otro Modificador** que altere sus chances.
 
 .. [#] alternativamente, el DJ puede determinar que la acción es **imposible** (fallaría automáticamente; el personaje debe intentar algo distinto) o **automática** (tendría éxito automáticamente; no hace falta tirar los dados).
@@ -38,6 +40,8 @@ Si el resultado iguala o supera la **Dificultad** establecida por el DJ, la acci
 
 Dificultad
 ^^^^^^^^^^
+
+.. figure:: /_static/images/rules/rpg-image-7.jpg
 
 El DJ determina la **Dificultad** de cada acción según su criterio, dependiendo de lo difícil que sea, y de las circunstancias del contexto. La Dificultad se expresa como un número entero, y comúnmente **el valor predeterminado es 8** [#]_.
 
