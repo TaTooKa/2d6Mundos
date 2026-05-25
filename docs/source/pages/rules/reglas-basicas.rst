@@ -84,6 +84,8 @@ Cuan por encima o por debajo de la Dificultad se encuentra el resultado de la ti
 Condiciones
 -----------
 
+.. figure:: /_static/images/rules/rpg-image-5.jpg
+
 las **Condiciones** son estados o circunstancias negativas que afectan a un personaje, en forma de palabras o frases cortas como "*brazo roto*", "*avergonzado*", "*envenenado*", "*cansado*", "*desorientado*", "*en pánico*", etc.
 
 Pueden ser de tipo **Leve**, **Moderada** o **Severa**. Un personaje puede tener solo una de cada tipo. Si fuese a recibir una nueva Condición de un tipo que ya tiene, **debe obtener una de un tipo superior**. Si no puede, porque ya tiene Condiciones de todos los tipos superiores, entonces queda "**DERROTADO**" [#]_. 
