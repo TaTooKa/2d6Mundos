@@ -104,8 +104,9 @@ Los Ladrones son muy suertudos; Pueden repetir una tirada de cualquier tipo con 
 Mago
 ****
 
-[DESCRIPCIÓN]
-[EQUIPO INICIAL: 5 objetos]
+Los Magos se dedican al estudio y la ejecución de hechizos y rituales arcanos. Algunos son más estudiosos y prefieren investigar en bibliotecas y laboratorios, mientras que otros son más prácticos y prefieren aventurarse a lo desconocido, probar sus sortilegios en el campo de batalla, y descubrir nuevos conjuros desenterrando pergaminos viejos y grimorios olvidados. 
+
+**EQUIPO INICIAL**: Los Magos comienzan con una Túnica de mago con gorro o capucha, un Bastón, báculo o cetro adornado, un Libro de hechizos, Una bolsa o morral con componentes e ingredientes mágicos, y un Cristal de enfoque utilizado para potenciar hechizos o rituales. 
 
 Los Magos tienen acceso a la :hoverxref:`Magia Arcana <fantasia-epica-magia-arcana>`, y también pueden agregar su Nivel de Mago como modificador a cualquier tirada para resistir o evitar un efecto mágico.
 
@@ -122,8 +123,9 @@ Los Magos tienen acceso a la :hoverxref:`Magia Arcana <fantasia-epica-magia-arca
 Guerrero
 ********
 
-[DESCRIPCIÓN]
-[EQUIPO INICIAL: 5 objetos]
+Los Guerreros se especializan en el combate físico, en tácticas y estrategias de guerra a gran escala como también en escaramuzas contenidas, o en duelos y otros tipos de peleas exóticas. Algunos venden sus habilidades al mejor postor, ya sea como mercenarios o guardaespaladas, mientras que otros siguen el honor, la caballerosidad, o la sed de conquista y destrucción.
+
+**EQUIPO INICIAL**: Los Guerreros comienzan con una armadura de cota de malla, un Yelmo de acero, una Espada larga o Gran Hacha de Guerra, Un Escudo de cometa, y una Piedra de afilar.
 
 Los Guerreros son expertos en combate; Pueden agregar su Nivel de Guerrero como modificador a tiradas de Iniciativa o para cualquier tirada o dificultad para atacar o defenderse o resistir Condiciones físicas.
 
@@ -170,8 +172,6 @@ Los Enanos tienen acceso a la :hoverxref:`Magia Rúnica <fantasia-epica-magia-ru
    "44. Nombre", "54. Nombre", "64. Nombre"
    "45. Nombre", "55. Nombre", "65. Nombre"
    "46. Nombre", "56. Nombre", "66. Nombre"
-
-
 
 Elfo
 ****
