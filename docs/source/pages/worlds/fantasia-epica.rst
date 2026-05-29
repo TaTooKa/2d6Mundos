@@ -160,19 +160,19 @@ La Raza de los Enanos proviene de grandes ciudades en lo profundo de las montañ
 
 .. csv-table:: d66 Nombres típicos de Enanos
 
-   "11. Nombre", "21. Nombre", "31. Nombre"
-   "12. Nombre", "22. Nombre", "32. Nombre"
-   "13. Nombre", "23. Nombre", "33. Nombre"
-   "14. Nombre", "24. Nombre", "34. Nombre"
-   "15. Nombre", "25. Nombre", "35. Nombre"
-   "16. Nombre", "26. Nombre", "36. Nombre"
+   "11. Farnur", "21. Escudopiedra", "31. Dwalin"
+   "12. Baernir", "22. Martillorrojo", "32. Balin"
+   "13. Borik", "23. Barbaceniza", "33. Thorin"
+   "14. Durm", "24. Rompehachas", "34. Durin"
+   "15. Tharn", "25. Barbanegra", "35. Óin"
+   "16. Rurik", "26. Escudogris", "36. Gróin"
    "", "", ""
-   "41. Nombre", "51. Nombre", "61. Nombre"
-   "42. Nombre", "52. Nombre", "62. Nombre"
-   "43. Nombre", "53. Nombre", "63. Nombre"
-   "44. Nombre", "54. Nombre", "64. Nombre"
-   "45. Nombre", "55. Nombre", "65. Nombre"
-   "46. Nombre", "56. Nombre", "66. Nombre"
+   "41. Runvar", "51. Martilloreal", "61. Skorgrin"
+   "42. Thorgund", "52. Tallarroca", "62. Ulrik"
+   "43. Kharzul", "53. Forjaruna", "63. Durlan"
+   "44. Dulgor", "54. Inquebrantable", "64. Skorrim"
+   "45. Molgrin", "55. Matadracos", "65. Grendak"
+   "46. Ylgmar", "56. Forjatormentas", "66. Skalthor"
 
 Elfo
 ****
@@ -195,19 +195,19 @@ La Raza de los Elfos proviene de los bosques más antiguos y de los valles ocult
 
 .. csv-table:: d66 Nombres típicos de Elfos
 
-   "11. Nombre", "21. Nombre", "31. Nombre"
-   "12. Nombre", "22. Nombre", "32. Nombre"
-   "13. Nombre", "23. Nombre", "33. Nombre"
-   "14. Nombre", "24. Nombre", "34. Nombre"
-   "15. Nombre", "25. Nombre", "35. Nombre"
-   "16. Nombre", "26. Nombre", "36. Nombre"
+   "11. Elrion", "21. Isilwen", "31. Erevan"
+   "12. Calenor", "22. Ethiriel", "32. Caerthas"
+   "13. Myrrhael", "23. Amarion", "33. Thurien"
+   "14. Lirael", "24. Lindariel", "34. Galioneth"
+   "15. Galadion", "25. Thalion", "35. Mirwen"
+   "16. Silvren", "26. Melianor", "36. Andrion"
    "", "", ""
-   "41. Nombre", "51. Nombre", "61. Nombre"
-   "42. Nombre", "52. Nombre", "62. Nombre"
-   "43. Nombre", "53. Nombre", "63. Nombre"
-   "44. Nombre", "54. Nombre", "64. Nombre"
-   "45. Nombre", "55. Nombre", "65. Nombre"
-   "46. Nombre", "56. Nombre", "66. Nombre"
+   "41. Thirandil", "51. Aerithiel", "61. Velamir"
+   "42. Liorael", "52. Syrelia", "62. Elorion"
+   "43. Solareth", "53. Lothian", "63. Mytherion"
+   "44. Valior", "54. Ellaria", "64. Lórieneth"
+   "45. Althirath", "55. Ilmare", "65. Eledhriel"
+   "46. Thalareth", "56. Thaliel", "66. Elaethan"
 
 Mediano
 *******
@@ -229,19 +229,19 @@ La Raza de los Medianos proviene de pequeños pueblos de las praderas, o de humi
    "5", "**SABIO**: Utilizar sus amplios conocimientos para sortear un dilema o acertijo de gran importancia contra un adversario digno de una historia legendaria."
 .. csv-table:: d66 Nombres típicos de Medianos
 
-   "11. Nombre", "21. Nombre", "31. Nombre"
-   "12. Nombre", "22. Nombre", "32. Nombre"
-   "13. Nombre", "23. Nombre", "33. Nombre"
-   "14. Nombre", "24. Nombre", "34. Nombre"
-   "15. Nombre", "25. Nombre", "35. Nombre"
-   "16. Nombre", "26. Nombre", "36. Nombre"
+   "11. Silma", "21. Piegrande", "31. Sam"
+   "12. Tomás", "22. Cebadón", "32. Tom"
+   "13. Lila", "23. Campoverde", "33. Tito"
+   "14. Hugo", "24. Trébol", "34. Bernie"
+   "15. Mina", "25. Manzanera", "35. Jago"
+   "16. Ned", "26. Plantón", "36. Lenora"
    "", "", ""
-   "41. Nombre", "51. Nombre", "61. Nombre"
-   "42. Nombre", "52. Nombre", "62. Nombre"
-   "43. Nombre", "53. Nombre", "63. Nombre"
-   "44. Nombre", "54. Nombre", "64. Nombre"
-   "45. Nombre", "55. Nombre", "65. Nombre"
-   "46. Nombre", "56. Nombre", "66. Nombre"
+   "41. Rosa", "51. Pieltrigo", "61. Brego"
+   "42. Seda", "52. Mielpan", "62. Teo"
+   "43. Tilly", "53. Riachica", "63. Conrad"
+   "44. Benny", "54. Calabaza", "64. Rodolfo"
+   "45. Baya", "55. Piesligeros", "65. Gilberto"
+   "46. Cedric", "56. Saviaseca", "66. Marduq"
 
 Humano
 ******
@@ -250,19 +250,19 @@ Si no se elige una Raza particular durante la creación del personaje, se asume 
 
 .. csv-table:: d66 Nombres típicos de Humanos
 
-   "11. Nombre", "21. Nombre", "31. Nombre"
-   "12. Nombre", "22. Nombre", "32. Nombre"
-   "13. Nombre", "23. Nombre", "33. Nombre"
-   "14. Nombre", "24. Nombre", "34. Nombre"
-   "15. Nombre", "25. Nombre", "35. Nombre"
-   "16. Nombre", "26. Nombre", "36. Nombre"
+   "11. Tharion", "21. Morven", "31. Rolf"
+   "12. Kaelric", "22. Naelros", "32. Kaelen"
+   "13. Drovan", "23. Theryn", "33. Roderic"
+   "14. Almerek", "24. Helgar", "34. Baldren"
+   "15. Velgor", "25. Alric", "35. Alric"
+   "16. Brandal", "26. Berengar", "36. Rathor"
    "", "", ""
-   "41. Nombre", "51. Nombre", "61. Nombre"
-   "42. Nombre", "52. Nombre", "62. Nombre"
-   "43. Nombre", "53. Nombre", "63. Nombre"
-   "44. Nombre", "54. Nombre", "64. Nombre"
-   "45. Nombre", "55. Nombre", "65. Nombre"
-   "46. Nombre", "56. Nombre", "66. Nombre"
+   "41. Jorhen", "51. Oswin", "61. Karn"
+   "42. Edric", "52. Godric", "62. Hadrik"
+   "43. Aldemar", "53. Thibault", "63. Isandor"
+   "44. Haraldus", "54. Wulfric", "64. Calrian"
+   "45. Ravion", "55. Derek", "65. Droven"
+   "46. Torvald", "56. Joren", "66. Haleon"
 
 Magia
 -----
