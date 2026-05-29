@@ -66,8 +66,9 @@ Cada Clase o Raza tiene diferentes **Títulos** en cada Nivel. Para subir de Niv
 Clérigo
 *******
 
-[DESCRIPCIÓN]
-[EQUIPO INICIAL: 5 objetos]
+Los Clérigos son sacerdotes de una religión que, en vez de quedarse en un templo o monasterio, han decidido aventurarse hacia lo desconocido, para llevar la palabra de sus dioses, evangelizar a los aún no creyentes, y combatir a los enemigos de su credo.
+
+**EQUIPO INICIAL**: Los Clérigos comienzan con un Mazo o Estrella del Alba, un Escudo Pavés con el símbolo de su religión, una Cota de malla, una túnica o capa con los colores de su órden, y rosarios o cuentas de oración.
 
 Los Clérigos tienen acceso a los :hoverxref:`Milagros Divinos <fantasia-epica-milagros-divinos>`, y también pueden curar con imposición de manos (reducen la severidad de una *Condición* que representa una aflicción física), una cantidad de veces por día iguales a su Nivel de Clérigo.
 
@@ -84,8 +85,9 @@ Los Clérigos tienen acceso a los :hoverxref:`Milagros Divinos <fantasia-epica-m
 Ladrón
 ******
 
-[DESCRIPCIÓN]
-[EQUIPO INICIAL: 5 objetos]
+Los Ladrones son habilidosos rateros, ágiles saqueadores de tumbas, expertos buscadores de tesoros, o fugaces caminantes de las sombras.
+
+**EQUIPO INICIAL**: Los Ladrones comienzan con un par de dagas, una túnica o capa con capucha oscuras, unas botas con suela suave, un kit de ganzúas y artilugios para abrir cerraduras y mecanismos, y una soga con gancho. 
 
 Los Ladrones son muy suertudos; Pueden repetir una tirada de cualquier tipo con un bonificador de +2, una cantidad de veces por día igual a su Nivel de Ladrón.
 
