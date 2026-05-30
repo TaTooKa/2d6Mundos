@@ -8,11 +8,13 @@ Creación de Personaje
 
 Los Personajes de *Fantasía Épica* están definidos por su **Trasfondo** (profesión o conjunto de habilidades no necesariamente relacionadas a la aventura), su **Clase** (arquetipos de aventurero clásicos como *Mago*, *Guerrero*, *Ladrón* o *Clérigo*) y su **Raza** (*Enano*, *Elfo*, *Mediano*, etc). La Raza solo puede ser escogida durante la creación del personaje (se asume que el personaje es Humano si no se elige una Raza particular).
 
-Los personajes comienzan con 3 Niveles a distribuir a gusto entre **Trasfondos**, **Clases** y **Raza**. Por ejemplo, un personaje podría ser un *Enano 2, Clérigo 1*; o un *Herrero 1, Guerrero 2*; o un *Erudito 1, Mago 1, Elfo 1*; o un *Ladrón 3*; etc.
+Los personajes comienzan con 3 Niveles a distribuir a gusto entre **Trasfondos**, **Clases** y **Raza**. Por ejemplo, un personaje podría ser un *Enano 2, Clérigo 1*; o un *Herrero 1, Guerrero 2*; o un *Erudito 1, Mago 1, Elfo 1*; o un *Ladrón 3*; etc. No hace falta que un personaje tenga uno de cada Trasfondo/Clase/Raza; el jugador puede optar por cualquier combinación, sin utilizar alguno de esos tipos si así lo deseara.
 
 Cada Trasfondo, Clase y Raza prové al personaje 5 objetos de equipo inicial. Si se escoje más de un Trasfondo/Clase/Raza, se ha de mezclar los objetos de cada una de ellas libremente, mientras se comience con un total de 5 elementos.
 
-Además, los jugadores deberan escoger un **Alineamiento** entre *Legal*, *Neutral* o *Caótico* para sus personajes.
+Además, los jugadores deberan escoger un **Alineamiento** entre *Legal*, *Neutral* o *Caótico* [#]_ para sus personajes. Aquellos que siguen la senda o ideología de la Ley y el Órden respetan las estructuras, la organización y los cargos y responsabilidades bien delimitadas y claras, sintiéndose más a gusto entendiendo su lugar en la cadena de mando, y en culturas que resfuerzan los derechos y los castigos. Aquellos que prefieren la senda del Caos prefieren la libertad que viene de la mano de la anarquía, la falta de líderes u obligaciones, la entropía causada por las fuerzas de la naturaleza, el concepto de "El fin justifica los medios", y la ideología de "la supervivencia del más apto". La Neutralidad es el punto medio entre ambas ideologías; no se inclina ni se interesa demasiado por una ni por la otra, o varía su comportamiento equitativamente entre ambas dependiendo de la ocasión.
+
+.. [#] nótese que *Legal* no necesariamente significa "Bueno", ni *Caótico* significa necesariamente "Malvado".
 
 Trasfondos
 ^^^^^^^^^^
