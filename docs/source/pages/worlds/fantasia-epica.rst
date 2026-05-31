@@ -288,7 +288,7 @@ Los **Milagros Divinos** funcionan como hechizos, pero se realizan realizando un
    :header: "d66", "Milagro Divino"
    :widths: 5, 95
 
-   "11", "**CURACIÓN**: Sana heridas físicas directas, reduciendo el nivel de una Condición médica."
+   "11", "**CURACIÓN**: Sana heridas físicas directas, reduciendo el nivel de una Condición física."
    "12", "**SANTUARIO**: Una barrera divina impide que los enemigos te ataquen mientras no dañes a nadie."
    "13", "**REPRENDER LO IMPÍO**: Una luz sagrada ahuyenta o paraliza a los muertos vivientes y demonios."
    "14", "**BENEDICCIÓN**: Otorga favor divino a un aliado, mejorando su próxima acción importante."
@@ -298,7 +298,7 @@ Los **Milagros Divinos** funcionan como hechizos, pero se realizan realizando un
    "22", "**ZONA DE VERDAD**: Una presencia divina impide que cualquier criatura mienta deliberadamente en el área."
    "23", "**MARTIRIO**: Transfieres una Condición física o herida de un aliado hacia ti mismo."
    "24", "**ESCUDO DE FE**: Un destello de fe desvía un golpe mortal justo antes de impactar."
-   "25", "**CALMAR EMOCIONES**: Disipa instantáneamente el miedo místico, la ira o el pánico en un grupo."
+   "25", "**IRA DE DIOS**: Rayos de energía divina castigan a los pecadores enemigos de tu religión en el área."
    "26", "**ÚLTIMO ALIENTO**: Estabiliza a una criatura moribunda, impidiendo que fallezca por ahora."
    "31", "**ARMA SAGRADA**: Imbuye un arma con energía radiante que inflige daño grave a seres oscuros."
    "32", "**OJO DEL INQUISIDOR**: Detecta instantáneamente si una criatura alberga intenciones malévolas."
@@ -344,15 +344,15 @@ La **Magia Arcana** es el tipo de magia más común, y es la que los Magos puede
    "16", "**LECTURA RÁPIDA**: Te permite leer y comprender cualquier texto o idioma al instante."
    "21", "**PANTALLA**: Crea un escudo invisible que desvía ataques físicos directos."
    "22", "**CERRADURA ARCANA**: Sella mágicamente una puerta o cofre; solo una palabra mágica clave puede abrirla."
-   "23", "**APAGAR**: Extingue instantáneamente todas las fuentes de luz no mágicas visibles."
-   "24", "**LUCES DANZANTES**: Esferas de luz flotante que obedecen tus órdenes de movimiento."
+   "23", "**EXTINGUIR**: Apaga instantáneamente todas las fuentes de luz, fuego o energía no mágicas visibles."
+   "24", "**INVISIBILIDAD**: Tú o un objetivo se hacen invisibles mientras no ataquen o hagan algo demasiado brusco."
    "25", "**ILUSIÓN MENOR**: Crea un sonido o una imagen estática que parece real."
    "26", "**PASO BRUMOSO**: Te teletransportas instantáneamente a un lugar cercano que puedas ver."
    "31", "**BOLA DE FUEGO**: Una explosión térmica que calcina un área pequeña."
    "32", "**RÁFAGA DE ESCARCHA**: Congela una superficie o reduce drásticamente la temperatura de un objetivo."
-   "33", "**DESCARGA ELÉCTRICA**: Un arco voltaico salta de tus dedos hacia un enemigo en armadura."
+   "33", "**DESCARGA ELÉCTRICA**: Un arco voltaico salta entre enemigos u objetos que conduzcan la electricidad."
    "34", "**OBNUBILAR**: Ciega o ensordece temporalmente a un ser vivo con un destello."
-   "35", "**LEVITAR**: Te permite flotar verticalmente a ti o a un objeto en el aire."
+   "35", "**LEVITAR**: Te permite flotar lentamente a ti o a un objeto en el aire."
    "36", "**DISIPAR MAGIA**: Rompe o cancela un efecto mágico activo en la zona."
    "41", "**FANTASMAL**: Te vuelve parcialmente incorpóreo para atravesar rejas o cuerdas."
    "42", "**COMPRENSIÓN**: Traduce instantáneamente un idioma hablado desconocido."
@@ -366,12 +366,12 @@ La **Magia Arcana** es el tipo de magia más común, y es la que los Magos puede
    "54", "**NARRATIVA DEL PASADO**: Al tocar un objeto, ves un destello de su último dueño."
    "55", "**SUEÑO PESADO**: Condena a una criatura dormida a no poder despertar por ruidos comunes."
    "56", "**DESPLAZAMIENTO**: Engaña la percepción espacial; pareces estar unos pasos más allá de donde estás."
-   "61", "**GOLPE INTERPLANAR**: Envías un objeto o criatura pequeña al vacío por unos segundos."
+   "61", "**CONTRAHECHIZO**: Cancelas el efecto de un hechizo que está siendo lanzado, o lo reviertes de vuelta a su lanzador."
    "62", "**FARO MÁGICO**: Marcas a un objetivo; todos tus hechizos dirigidos a él ganan precisión."
    "63", "**ALTERAR PESO**: Vuelve un objeto tan pesado que nadie pueda moverlo, o ligero como pluma."
    "64", "**VÍNCULO MENTAL**: Permite la comunicación telepática bidireccional con un aliado."
-   "65", "**AMULETO DE RECHAZO**: Imbuye energía destructiva en un objeto que estalla si un extraño lo toca."
-   "66", "**PORTAL MENOR**: Conecta dos puntos visibles con un arco de entrada y salida instantánea."
+   "65", "**SILENCIO**: Dentro de un área pequeña no se escucha ningún sonido, ni nadie puede hablar."
+   "66", "**PORTAL**: Crea un portal que conecta a otro que habías creado anteriormente."
 
 .. _fantasia-epica-magia-runica:
 
@@ -407,7 +407,7 @@ La **Magia Rúnica** es un tipo de magia que se basa en la inscripción de símb
    "42", "**RUNA DEL ECO**: Grabada en una pared; graba las conversaciones de la sala para reproducirlas al tocarla."
    "43", "**RUNA DE LA REGENERACIÓN**: Grabada en un vendaje; acelera la curación natural mientras esté puesta."
    "44", "**RUNA DEL ENGAÑO**: Dibujada en una superficie; hace que parezca un muro sólido, ocultando pasajes."
-   "45", "**RUNA DE LA RIQUEZA**: Grabada en una bolsa; tintinea con fuerza falsa, haciendo creer que está llena."
+   "45", "**RUNA GATILLO**: Si se invoca un hechizo Arcano mientras se la graba, este puede ejecutarse después cuando se toque la Runa."
    "46", "**RUNA DE LA FATIGA**: Grabada en una silla o cama; duplica el cansancio de quien se pose en ella."
    "51", "**RUNA DEL VIGÍA**: Esculpida en una gárgola u objeto; abre un ojo místico que el usuario puede vigilar desde otra runa del mismo tipo."
    "52", "**RUNA DE LA CALIDEZ**: Grabada en la ropa; mantiene al portador cómodo en climas árticos."
@@ -416,9 +416,9 @@ La **Magia Rúnica** es un tipo de magia que se basa en la inscripción de símb
    "55", "**RUNA DE LA UNIÓN**: Grabada en dos objetos diferentes; lo que le pase a uno físicamente le ocurre al otro."
    "56", "**RUNA DEL RASTREO**: Dibujada en una brújula; su aguja apunta siempre hacia la runa gemela."
    "61", "**RUNA DE LA TRAMPA**: Grabada en una baldosa; lanza una descarga eléctrica al ser pisada por un rival."
-   "62", "**RUNA DE LA ABSORCIÓN**: Grabada en un guantelete; atrapa un hechizo lanzado hacia ti para convertirlo en energía potencial."
+   "62", "**RUNA DE LA ABSORCIÓN**: Grabada en un guantelete; atrapa un hechizo lanzado hacia ti para disiparlo o convertirlo en energía potencial."
    "63", "**RUNA DEL SUEÑO**: Grabada en una almohada; garantiza un descanso libre de pesadillas y maleficios."
-   "64", "**RUNA DE LA VELOCIDAD**: Grabada en las botas; permite correr distancias largas sin desgastar las piernas."
+   "64", "**RUNA DE LA VELOCIDAD**: Grabada en las botas; permite correr a alta velocidad, o durante distancias largas sin desgastar las piernas."
    "65", "**RUNA DEL COLAPSO**: Grabada en un pilar estructural; al ser borrada a propósito, hace caer la estructura."
    "66", "**RUNA DEL MITRIL**: Grabada en cualquier metal común; le otorga la ligereza y durabilidad del mitril."
 
@@ -460,7 +460,7 @@ La **Magia Natural** es un tipo de magia que se basa en la conexión con la natu
    "51", "**ESPÍRITU DEL RÍO**: Invoca una corriente de agua que arrastra a los enemigos o limpia el fango."
    "52", "**PICAZÓN FORESTAL**: Lanza esporas que provocan una picazón insoportable a un enemigo, distrayéndolo."
    "53", "**PIEDRA FLOTANTE**: Permite cruzar un pantano o río caminando sobre piedras que flotan mágicamente."
-   "54", "**FUEGO DE ENGAÑO**: Crea fuegos fatuos en la espesura para desorientar y perder a los perseguidores."
+   "54", "**TELARAÑA**: Creas telarañas resistentes como sogas o como redes en un área mediana."
    "55", "**MADERA DOMADA**: Ablanda las ramas verdes para moldearlas como cuerdas o puentes improvisados."
    "56", "**MIMETISMO DE BOSQUE**: Tu ropa cambia de color para hacerte idéntico a las hojas y cortezas del entorno."
    "61", "**FORMA DE PEZ**: Te transformas en un pez o criatura acuática para nadar a velocidades increíbles."
@@ -473,4 +473,10 @@ La **Magia Natural** es un tipo de magia que se basa en la conexión con la natu
 Fuentes de Inspiración
 ----------------------
 
-TODO
+* *El Señor de los Anillos*, *El Hobbit* y *El Silmarilion* de J.R.R. Tolkien
+* *Dungeons & Dragons* de TSR / Wizards of the Coast
+* *Record of Lodoss War* de Ryo Mizuno
+* *Frieren: Beyond Journey's End* de  Kanehito Yamada / Tsukasa Abe
+* Saga *Dragon's Dogma* de Capcom
+* Saga *The Elder Scrolls* de Bethesda Softworks
+* Saga *The Legend of Zelda* de Nintendo
