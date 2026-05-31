@@ -1,7 +1,7 @@
 Fantasía Épica
 ==============
 
-El género "" ... TODO
+El género de *Fantasía Épica* suele desarrollarse en mundos fantásticos similares al nuestro en la época medieval, pero con geografía, reinos y razas particulares. Los protagonistas suelen comenzar como aprendices, neófitos o "don nadies" que, siguiendo el *Camino del Héroe*, se embarcan en aventuras que se conectan en una odisea de escala épica. Lo normal en los juegos de rol es que estos aventureros comiencen de a poco, con misiones simples como la exploración de lugares peligrosos como mazmorras o ruinas, la caza de algún monstruo o criatura mitológica, y luego con el pasar de sus hazañas, estas se vuelvan cada vez más complejas y abarcativas. Para el final de su "campaña" estarán lidiando con problemas entre reinos y ejércitos, villanos de gran poder, e incluso podrían estar entrometiéndose entre las gestas de los Dioses.
 
 Creación de Personaje
 ---------------------
