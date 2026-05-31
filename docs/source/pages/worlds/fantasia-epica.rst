@@ -74,6 +74,8 @@ Los Clérigos son sacerdotes de una religión que, en vez de quedarse en un temp
 
 **HABILIDADES ESPECIALES**: Los Clérigos tienen acceso a los :hoverxref:`Milagros Divinos <fantasia-epica-milagros-divinos>`, y también pueden curar con imposición de manos (reducen la severidad de una *Condición* que representa una aflicción física), una cantidad de veces por día iguales a su Nivel de Clérigo.
 
+Los Clérigos comienzan conociendo 3 :hoverxref:`Milagros Divinos <fantasia-epica-milagros-divinos>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Clérigo. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
+
 .. csv-table:: Títulos de Clérigo y requisitos para subir de nivel
    :widths: 4, 32, 32, 32
    :header: "Nivel", "Legal", "Neutral", "Caótico"
@@ -111,6 +113,8 @@ Los Magos se dedican al estudio y la ejecución de hechizos y rituales arcanos. 
 **EQUIPO INICIAL**: Los Magos comienzan con una Túnica de mago con gorro o capucha, un Bastón, báculo o cetro adornado, un Libro de hechizos, Una bolsa o morral con componentes e ingredientes mágicos, y un Cristal de enfoque utilizado para potenciar hechizos o rituales. 
 
 **HABILIDADES ESPECIALES**: Los Magos tienen acceso a la :hoverxref:`Magia Arcana <fantasia-epica-magia-arcana>`, y también pueden agregar su Nivel de Mago como modificador a cualquier tirada para resistir o evitar un efecto mágico.
+
+Los Magos comienzan conociendo 3 :hoverxref:`Hechizos Arcanos <fantasia-epica-magia-arcana>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Mago. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
 
 .. csv-table:: Títulos de Mago y requisitos para subir de nivel
    :widths: 4, 32, 32, 32
@@ -150,6 +154,8 @@ La Raza de los Enanos proviene de grandes ciudades en lo profundo de las montañ
 
 **HABILIDADES ESPECIALES**: Los Enanos tienen acceso a la :hoverxref:`Magia Rúnica <fantasia-epica-magia-runica>`, y además son muy resistentes; pueden agregar su Nivel de Enano como modificador a cualquier tirada para resistir Condiciones físicas.
 
+Los Enanos comienzan conociendo 3 :hoverxref:`Runas <fantasia-epica-magia-runica>`, y ganan automáticamente una nueva cada vez que suben un Nivel de Enano. Si quieren aprender más, deberán encontrarlas en sus aventuras o aprenderlas de algún maestro.
+
 .. csv-table:: Títulos de Enano y requisitos para subir de nivel
    :widths: 4, 32, 32, 32
    :header: "Nivel", "Legal", "Neutral", "Caótico"
@@ -184,6 +190,8 @@ La Raza de los Elfos proviene de los bosques más antiguos y de los valles ocult
 **EQUIPO INICIAL**: Los Elfos comienzan con un atuendo ceñido de cuero liviano, una capa verdigris con capucha, un arco corto y un carcaj de 15 flechas, una espada corta curva, y una soga de seda fina pero muy resistente. 
 
 **HABILIDADES ESPECIALES**: Los Elfos tienen acceso a la :hoverxref:`Magia Natural <fantasia-epica-magia-natural>`, y además son muy ágiles; pueden agregar su Nivel de Elfo como modificador a cualquier tirada de Iniciativa o de chequeos de destreza física o precisión.
+
+Los Elfos comienzan conociendo 3 :hoverxref:`Hechizos Naturales <fantasia-epica-magia-natural>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Elfo. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
 
 .. csv-table:: Títulos de Elfo y requisitos para subir de nivel
    :widths: 5, 95
@@ -274,193 +282,193 @@ Magia
 Milagros Divinos
 ^^^^^^^^^^^^^^^^
 
-Los **Milagros Divinos** funcionan como hechizos, pero se realizan realizando una plegaria al Dios o Panteón al que el Clérigo adora, y su efecto es otorgado por la gracia de ese Dios. 
+Los **Milagros Divinos** funcionan como hechizos, pero se realizan realizando una plegaria al Dios o Panteón al que el Clérigo adora, y su efecto es otorgado por la gracia de ese Dios. Otros Magos con Trasfondos de CURANDERO o SACERDOTE podrían llegar a aprender a lanzar Milagros como si fuesen Hechizos, si consiguen un Clérigo que les enseñe las plegarias correctas y los rituales religiosos apropiados.
 
 .. csv-table::
    :header: "d66", "Milagro Divino"
    :widths: 5, 95
 
-   "11", ""
-   "12", ""
-   "13", ""
-   "14", ""
-   "15", ""
-   "16", ""
-   "21", ""
-   "22", ""
-   "23", ""
-   "24", ""
-   "25", ""
-   "26", ""
-   "31", ""
-   "32", ""
-   "33", ""
-   "34", ""
-   "35", ""
-   "36", ""
-   "41", ""
-   "42", ""
-   "43", ""
-   "44", ""
-   "45", ""
-   "46", ""
-   "51", ""
-   "52", ""
-   "53", ""
-   "54", ""
-   "55", ""
-   "56", ""
-   "61", ""
-   "62", ""
-   "63", ""
-   "64", ""
-   "65", ""
-   "66", ""
+   "11", "**CURACIÓN**: Sana heridas físicas directas, reduciendo el nivel de una Condición médica."
+   "12", "**SANTUARIO**: Una barrera divina impide que los enemigos te ataquen mientras no dañes a nadie."
+   "13", "**REPRENDER LO IMPÍO**: Una luz sagrada ahuyenta o paraliza a los muertos vivientes y demonios."
+   "14", "**BENEDICCIÓN**: Otorga favor divino a un aliado, mejorando su próxima acción importante."
+   "15", "**PURIFICAR**: Limpia instantáneamente la comida o el agua de venenos y enfermedades."
+   "16", "**GUÍA ESPIRITUAL**: Una corazonada divina te indica el camino correcto cuando estás perdido."
+   "21", "**LUZ CELESTIAL**: Tu símbolo sagrado brilla con la intensidad del sol, disipando la oscuridad."
+   "22", "**ZONA DE VERDAD**: Una presencia divina impide que cualquier criatura mienta deliberadamente en el área."
+   "23", "**MARTIRIO**: Transfieres una Condición física o herida de un aliado hacia ti mismo."
+   "24", "**ESCUDO DE FE**: Un destello de fe desvía un golpe mortal justo antes de impactar."
+   "25", "**CALMAR EMOCIONES**: Disipa instantáneamente el miedo místico, la ira o el pánico en un grupo."
+   "26", "**ÚLTIMO ALIENTO**: Estabiliza a una criatura moribunda, impidiendo que fallezca por ahora."
+   "31", "**ARMA SAGRADA**: Imbuye un arma con energía radiante que inflige daño grave a seres oscuros."
+   "32", "**OJO DEL INQUISIDOR**: Detecta instantáneamente si una criatura alberga intenciones malévolas."
+   "33", "**DIAGNÓSTICO**: Revela la causa exacta de una enfermedad, maldición o veneno en un cuerpo."
+   "34", "**RESTAURACIÓN**: Cura una Condición de ceguera, sordera o parálisis no natural."
+   "35", "**VIGILIA**: Te permite pasar la noche en vela sin sufrir los efectos del cansancio."
+   "36", "**PLEGARIA DE CONSUELO**: Otorga calma espiritual, permitiendo recuperar energías rápidamente."
+   "41", "**SENTENCIA**: Invoca un rayo abrasador del cielo que castiga únicamente a quien ha pecado."
+   "42", "**ANATEMA**: Pronuncia una palabra que debilita la fuerza física de un enemigo declarado del templo."
+   "43", "**MANTO DE PENITENCIA**: Vuelve la piel del Clérigo resistente al dolor y a los castigos físicos."
+   "44", "**COMUNIÓN**: Haz una pregunta directa a tu deidad; recibirás una respuesta ambigua pero verídica."
+   "45", "**PAN DE CADA DÍA**: Bendice un puñado de raciones para que sacie el hambre de un grupo entero."
+   "46", "**AURÉOLA DE VALOR**: Alienta a tus aliados, haciéndolos inmunes al miedo temporalmente."
+   "51", "**MILAGRO DE LA LLUVIA**: Invoca una llovizna pacífica que apaga fuegos e incendios profanos."
+   "52", "**CONFESIÓN EN REVERBERACIÓN**: Fuerza a un enemigo debilitado a decir un secreto en voz alta."
+   "53", "**CÚPULA BENDITA**: Crea un espacio cerrado donde ningún muerto viviente puede entrar."
+   "54", "**EXORCISMO**: Expulsa una entidad poseedora o espíritu maligno del cuerpo de una víctima."
+   "55", "**LENGUA DE PALOMA**: Tu voz suena pacífica y diplomática, reduciendo la hostilidad de los rivales."
+   "56", "**JUICIO SALOMÓNICO**: Revela visualmente quién es el culpable de un crimen si está presente."
+   "61", "**MUERTE POSTERGADA**: Un aliado caído puede actuar un turno más antes de quedar inconsciente."
+   "62", "**PILAR DE SAL**: Paraliza temporalmente las piernas de un sacrílego, anclándolo al suelo."
+   "63", "**BENDICIÓN DE VIAJE**: Protege las botas de tus aliados, evitando el desgaste y las ampollas."
+   "64", "**VISTA SAGRADA**: Tus ojos brillan, permitiéndote ver las intenciones de las almas flotantes."
+   "65", "**ESTIGMA**: Deja una marca invisible en un pecador que brilla solo ante los ojos de los justos."
+   "66", "**RESCATE CELESTIAL**: Una fuerza invisible arrastra a un aliado caído hacia tu posición segura."
 
 .. _fantasia-epica-magia-arcana:
 
 Magia Arcana
 ^^^^^^^^^^^^
 
-La **Magia Arcana** es el tipo de magia más común, y es la que los Magos pueden aprender. Se basa en el estudio de las fuerzas mágicas del mundo, y su manipulación a través de fórmulas, gestos y palabras mágicas.
+La **Magia Arcana** es el tipo de magia más común, y es la que los Magos pueden aprender. Se basa en el estudio de las fuerzas mágicas del mundo, y su manipulación a través de fórmulas, gestos y palabras mágicas. 
 
 .. csv-table::
    :header: "d66", "Hechizo Arcano"
    :widths: 5, 95
 
-   "11", ""
-   "12", ""
-   "13", ""
-   "14", ""
-   "15", ""
-   "16", ""
-   "21", ""
-   "22", ""
-   "23", ""
-   "24", ""
-   "25", ""
-   "26", ""
-   "31", ""
-   "32", ""
-   "33", ""
-   "34", ""
-   "35", ""
-   "36", ""
-   "41", ""
-   "42", ""
-   "43", ""
-   "44", ""
-   "45", ""
-   "46", ""
-   "51", ""
-   "52", ""
-   "53", ""
-   "54", ""
-   "55", ""
-   "56", ""
-   "61", ""
-   "62", ""
-   "63", ""
-   "64", ""
-   "65", ""
-   "66", ""
+   "11", "**PROYECTIL MÁGICO**: Lanza un dardo de energía pura que nunca falla su objetivo."
+   "12", "**MANO MÁGICA**: Permite interactuar con un objeto liviano a la distancia."
+   "13", "**DORMIR**: Adormece profundamente a un objetivo vivo por unos minutos."
+   "14", "**SUSURRO**: Envía un mensaje de voz a alguien a la distancia directamente a su oído."
+   "15", "**DETECTAR MAGIA**: Revela la presencia y la naturaleza de fuerzas místicas cercanas."
+   "16", "**LECTURA RÁPIDA**: Te permite leer y comprender cualquier texto o idioma al instante."
+   "21", "**PANTALLA**: Crea un escudo invisible que desvía ataques físicos directos."
+   "22", "**CERRADURA ARCANA**: Sella mágicamente una puerta o cofre; solo una palabra mágica clave puede abrirla."
+   "23", "**APAGAR**: Extingue instantáneamente todas las fuentes de luz no mágicas visibles."
+   "24", "**LUCES DANZANTES**: Esferas de luz flotante que obedecen tus órdenes de movimiento."
+   "25", "**ILUSIÓN MENOR**: Crea un sonido o una imagen estática que parece real."
+   "26", "**PASO BRUMOSO**: Te teletransportas instantáneamente a un lugar cercano que puedas ver."
+   "31", "**BOLA DE FUEGO**: Una explosión térmica que calcina un área pequeña."
+   "32", "**RÁFAGA DE ESCARCHA**: Congela una superficie o reduce drásticamente la temperatura de un objetivo."
+   "33", "**DESCARGA ELÉCTRICA**: Un arco voltaico salta de tus dedos hacia un enemigo en armadura."
+   "34", "**OBNUBILAR**: Ciega o ensordece temporalmente a un ser vivo con un destello."
+   "35", "**LEVITAR**: Te permite flotar verticalmente a ti o a un objeto en el aire."
+   "36", "**DISIPAR MAGIA**: Rompe o cancela un efecto mágico activo en la zona."
+   "41", "**FANTASMAL**: Te vuelve parcialmente incorpóreo para atravesar rejas o cuerdas."
+   "42", "**COMPRENSIÓN**: Traduce instantáneamente un idioma hablado desconocido."
+   "43", "**IMPACTO CINÉTICO**: Una onda de fuerza empuja y derriba a los enemigos cercanos."
+   "44", "**REVELAR LO INVISIBLE**: Hace visibles las estructuras, trampas o seres ocultos por magia."
+   "45", "**CAJA DE ECO**: Captura un sonido del ambiente para reproducirlo más tarde."
+   "46", "**LENTITUD**: Altera el tiempo local haciendo que un objetivo se mueva a mitad de velocidad."
+   "51", "**CONOCIMIENTO PRESTADO**: Obtienes temporalmente la pericia en una habilidad que no posees."
+   "52", "**ALIENTO DE ASFIXIA**: Roba el aire de los pulmones de un objetivo, impidiéndole hablar o conjurar."
+   "53", "**ESPEJISMO**: Creas duplicados borrosos de ti mismo para confundir a los atacantes."
+   "54", "**NARRATIVA DEL PASADO**: Al tocar un objeto, ves un destello de su último dueño."
+   "55", "**SUEÑO PESADO**: Condena a una criatura dormida a no poder despertar por ruidos comunes."
+   "56", "**DESPLAZAMIENTO**: Engaña la percepción espacial; pareces estar unos pasos más allá de donde estás."
+   "61", "**GOLPE INTERPLANAR**: Envías un objeto o criatura pequeña al vacío por unos segundos."
+   "62", "**FARO MÁGICO**: Marcas a un objetivo; todos tus hechizos dirigidos a él ganan precisión."
+   "63", "**ALTERAR PESO**: Vuelve un objeto tan pesado que nadie pueda moverlo, o ligero como pluma."
+   "64", "**VÍNCULO MENTAL**: Permite la comunicación telepática bidireccional con un aliado."
+   "65", "**AMULETO DE RECHAZO**: Imbuye energía destructiva en un objeto que estalla si un extraño lo toca."
+   "66", "**PORTAL MENOR**: Conecta dos puntos visibles con un arco de entrada y salida instantánea."
 
 .. _fantasia-epica-magia-runica:
 
 Magia Rúnica
 ^^^^^^^^^^^^
 
-La **Magia Rúnica** es un tipo de magia que se basa en la inscripción de símbolos con significados poderosos. Los Enanos tienen acceso a esta magia, y pueden aprender a inscribir runas para crear objetos mágicos o para embeber efectos mágicos sobre artefactos, lugares o personas. Las runas pueden inscribirse **temporalmente** (con algún tipo de tinta o líquido, lo que lleva segundos o minutos) o de forma **permanente** (tallándolas o grabándolas en piedra, metal u otro material resistente, un proceso que lleva horas). Borrar o destruir una runa usualmente termina con su efecto mágico.
+La **Magia Rúnica** es un tipo de magia que se basa en la inscripción de símbolos con significados poderosos. Los Enanos tienen acceso a esta magia, y pueden aprender a inscribir runas para crear objetos mágicos o para embeber efectos mágicos sobre artefactos, lugares o personas. Otros Magos con Trasfondos de ARTESANO o HERRERO podrían llegar a aprender a inscribir runas sin un enano les enseña la técnica. Las runas pueden inscribirse **temporalmente** (con algún tipo de tinta o líquido, lo que lleva segundos o minutos) o de forma **permanente** (tallándolas o grabándolas en piedra, metal u otro material resistente, un proceso que lleva horas). Borrar o destruir una runa usualmente termina con su efecto mágico.
 
 
 .. csv-table::
    :header: "d66", "Runa y Efecto"
    :widths: 5, 95
 
-   "11", ""
-   "12", ""
-   "13", ""
-   "14", ""
-   "15", ""
-   "16", ""
-   "21", ""
-   "22", ""
-   "23", ""
-   "24", ""
-   "25", ""
-   "26", ""
-   "31", ""
-   "32", ""
-   "33", ""
-   "34", ""
-   "35", ""
-   "36", ""
-   "41", ""
-   "42", ""
-   "43", ""
-   "44", ""
-   "45", ""
-   "46", ""
-   "51", ""
-   "52", ""
-   "53", ""
-   "54", ""
-   "55", ""
-   "56", ""
-   "61", ""
-   "62", ""
-   "63", ""
-   "64", ""
-   "65", ""
-   "66", ""
+   "11", "**RUNA DEL FILO**: Tallada en un arma; nunca pierde el filo y corta materiales duros más fácil."
+   "12", "**RUNA DE LA CORAZA**: Grabada en armadura; absorbe impactos pesados sin abollarse."
+   "13", "**RUNA DEL ANCLA**: Grabada en las botas o suelo; impide que el portador sea derribado o movido."
+   "14", "**RUNA DEL CANDADO**: Dibujada en un cerrojo; traba el mecanismo contra ganzúas comunes."
+   "15", "**RUNA DE LA FORJA**: Esculpida en una herramienta; calienta el metal al tacto sin necesidad de carbón."
+   "16", "**RUNA DEL LAR**: Grabada en el umbral de una casa; alerta con un zumbido si entra un extraño."
+   "21", "**RUNA DE LA LUZ**: Trazada en una piedra u objeto; emite una luz constante como una linterna."
+   "22", "**RUNA DE LA CARGA**: Grabada en una mochila; reduce a la mitad el peso aparente de lo que contenga."
+   "23", "**RUNA DEL EQUILIBRIO**: Grabada en un bastón o calzado; otorga pasos perfectos sobre superficies estrechas."
+   "24", "**RUNA DE LA ALERTA**: Grabada en un escudo; vibra sutilmente cuando un enemigo apunta hacia ti."
+   "25", "**RUNA DEL SILENCIO**: Dibujada sobre una superficie; amortigua completamente los ruidos en esa habitación."
+   "26", "**RUNA DE LA SALUD**: Grabada en un anillo o colgante; hace al portador inmune a venenos comunes."
+   "31", "**RUNA DEL FUEGO**: Grabada en un arma; hace que la hoja se encienda en llamas al desenvainarla."
+   "32", "**RUNA DE LA ESCARCHA**: Tallada en un contenedor; mantiene los alimentos helados y preservados."
+   "33", "**RUNA DE LA PIEDRA**: Grabada en la piel (tatuaje o pintura); endurece la carne como roca ante cortes."
+   "34", "**RUNA DE LA VERDAD**: Grabada en una mesa; cualquiera que apoye sus manos ahí no puede mentir."
+   "35", "**RUNA DEL VIENTO**: Grabada en una capa; permite planear distancias cortas al saltar al vacío."
+   "36", "**RUNA DEL RETORNO**: Grabada en un arma arrojadiza; vuela de regreso a la mano tras ser lanzada."
+   "41", "**RUNA DE LA MAZA**: Aumenta el impacto de un arma contundente, permitiendo romper muros de piedra."
+   "42", "**RUNA DEL ECO**: Grabada en una pared; graba las conversaciones de la sala para reproducirlas al tocarla."
+   "43", "**RUNA DE LA REGENERACIÓN**: Grabada en un vendaje; acelera la curación natural mientras esté puesta."
+   "44", "**RUNA DEL ENGAÑO**: Dibujada en una superficie; hace que parezca un muro sólido, ocultando pasajes."
+   "45", "**RUNA DE LA RIQUEZA**: Grabada en una bolsa; tintinea con fuerza falsa, haciendo creer que está llena."
+   "46", "**RUNA DE LA FATIGA**: Grabada en una silla o cama; duplica el cansancio de quien se pose en ella."
+   "51", "**RUNA DEL VIGÍA**: Esculpida en una gárgola u objeto; abre un ojo místico que el usuario puede vigilar desde otra runa del mismo tipo."
+   "52", "**RUNA DE LA CALIDEZ**: Grabada en la ropa; mantiene al portador cómodo en climas árticos."
+   "53", "**RUNA DEL PESO**: Grabada en un objeto; lo vuelve tan denso que requiere la fuerza de tres hombres para levantarlo."
+   "54", "**RUNA DE LA AGUDEZA**: Grabada en unas gafas o casco; permite ver en la oscuridad absoluta de las minas."
+   "55", "**RUNA DE LA UNIÓN**: Grabada en dos objetos diferentes; lo que le pase a uno físicamente le ocurre al otro."
+   "56", "**RUNA DEL RASTREO**: Dibujada en una brújula; su aguja apunta siempre hacia la runa gemela."
+   "61", "**RUNA DE LA TRAMPA**: Grabada en una baldosa; lanza una descarga eléctrica al ser pisada por un rival."
+   "62", "**RUNA DE LA ABSORCIÓN**: Grabada en un guantelete; atrapa un hechizo lanzado hacia ti para convertirlo en energía potencial."
+   "63", "**RUNA DEL SUEÑO**: Grabada en una almohada; garantiza un descanso libre de pesadillas y maleficios."
+   "64", "**RUNA DE LA VELOCIDAD**: Grabada en las botas; permite correr distancias largas sin desgastar las piernas."
+   "65", "**RUNA DEL COLAPSO**: Grabada en un pilar estructural; al ser borrada a propósito, hace caer la estructura."
+   "66", "**RUNA DEL MITRIL**: Grabada en cualquier metal común; le otorga la ligereza y durabilidad del mitril."
 
 .. _fantasia-epica-magia-natural:
 
 Magia Natural
 ^^^^^^^^^^^^^
 
-La **Magia Natural** es un tipo de magia que se basa en la conexión con la naturaleza y sus fuerzas. Los Elfos tienen acceso a esta magia, y pueden aprender a canalizar la energía natural y decir plegarias a los Espíritus Antiguos de la Naturaleza para crear efectos mágicos relacionados con plantas, animales, clima, elementos naturales, etc.
+La **Magia Natural** es un tipo de magia que se basa en la conexión con la naturaleza y sus fuerzas. Los Elfos tienen acceso a esta magia, y pueden aprender a canalizar la energía natural y decir plegarias a los Espíritus Antiguos de la Naturaleza para crear efectos mágicos relacionados con plantas, animales, clima, elementos naturales, etc. Otros Magos con Trasfondos de GUARDABOSQUES o HERBORISTA podrían llegar a aprender hechizos de Magia Natural si un Elfo les enseña a comulgar con los espíritus de la naturaleza.
 
 .. csv-table::
    :header: "d66", "Hechizo Natural"
    :widths: 5, 95
 
-   "11", ""
-   "12", ""
-   "13", ""
-   "14", ""
-   "15", ""
-   "16", ""
-   "21", ""
-   "22", ""
-   "23", ""
-   "24", ""
-   "25", ""
-   "26", ""
-   "31", ""
-   "32", ""
-   "33", ""
-   "34", ""
-   "35", ""
-   "36", ""
-   "41", ""
-   "42", ""
-   "43", ""
-   "44", ""
-   "45", ""
-   "46", ""
-   "51", ""
-   "52", ""
-   "53", ""
-   "54", ""
-   "55", ""
-   "56", ""
-   "61", ""
-   "62", ""
-   "63", ""
-   "64", ""
-   "65", ""
-   "66", ""
+   "11", "**ENTRELAZAR**: Raíces y maleza brotan del suelo para apresar los pies de tus enemigos."
+   "12", "**HABLAR CON ANIMALES**: Te permite comunicarte e interrogar a cualquier bestia silvestre."
+   "13", "**PIEL DE CORTEZA**: Tu piel adopta la textura de la madera, protegiéndote de golpes."
+   "14", "**FORMA DE LOBO**: Te transformas temporalmente en un lobo veloz y de sentidos agudos."
+   "15", "**CONJURAR NIEBLA**: Una densa niebla forestal brota del suelo, ocultando la visión en el área."
+   "16", "**PASO SIN RASTRO**: Tus pies no dejan huellas ni marcas, y eres imposible de rastrear por olor."
+   "21", "**FORMA DE AVE**: Te transformas en un halcón o cuervo, permitiéndote volar y explorar desde el cielo."
+   "22", "**CRECER FLORA**: Hace que plantas o cosechas maduren, florezcan o den frutos al instante."
+   "23", "**LLAMAR AL RAYO**: Invoca un relámpago tormentoso directamente desde el cielo hacia un punto."
+   "24", "**SENTIDO DE LA TIERRA**: Al tocar el suelo, sientes las vibraciones de criaturas moviéndose cerca."
+   "25", "**ZARZA ESPINOSA**: Convierte un arbusto común en una muralla de espinas venenosas e infranqueable."
+   "26", "**ALIENTO DE AGUA**: Otorga a un grupo la capacidad de respirar bajo el agua como peces."
+   "31", "**FORMA DE OSO**: Te transformas en un gran oso, aumentando drásticamente tu fuerza y resistencia."
+   "32", "**CALMAR BESTIAS**: Pacífica instantáneamente a un animal salvaje o monstruo natural hostil."
+   "33", "**MARCHA DEL BOSQUE**: Los árboles apartan sus ramas y la maleza se abre para facilitar tu viaje."
+   "34", "**FRUTA SANADORA**: Encanta una baya silvestre para que sane una Condición leve al ser consumida."
+   "35", "**OJOS DE GATO**: Tus pupilas se adaptan para ver perfectamente en la penumbra del bosque."
+   "36", "**CANTAR DE LOS ÁRBOLES**: Pides información a los espíritus de los árboles sobre qué pasó aquí recientemente."
+   "41", "**FORMA DE SERPIENTE**: Te transformas en una serpiente pequeña, ideal para infiltración y sigilo."
+   "42", "**GOLPE DE VIENTO**: Una ráfaga huracanada dispersa proyectiles y apaga fuegos en una línea."
+   "43", "**ENCONTRAR AGUA**: Te revela la ubicación de la fuente de agua pura más cercana."
+   "44", "**CUERPO DE ENJAMBRE**: Te disuelves temporalmente en un enjambre de insectos para escapar de un peligro."
+   "45", "**DESTELLO SOLAR**: Concentra los rayos del sol a través de las copas de los árboles para cegar a un rival."
+   "46", "**PISO RESBALADIZO**: Cubre el suelo con musgo denso o algas, haciendo que todos se patinen."
+   "51", "**ESPÍRITU DEL RÍO**: Invoca una corriente de agua que arrastra a los enemigos o limpia el fango."
+   "52", "**PICAZÓN FORESTAL**: Lanza esporas que provocan una picazón insoportable a un enemigo, distrayéndolo."
+   "53", "**PIEDRA FLOTANTE**: Permite cruzar un pantano o río caminando sobre piedras que flotan mágicamente."
+   "54", "**FUEGO DE ENGAÑO**: Crea fuegos fatuos en la espesura para desorientar y perder a los perseguidores."
+   "55", "**MADERA DOMADA**: Ablanda las ramas verdes para moldearlas como cuerdas o puentes improvisados."
+   "56", "**MIMETISMO DE BOSQUE**: Tu ropa cambia de color para hacerte idéntico a las hojas y cortezas del entorno."
+   "61", "**FORMA DE PEZ**: Te transformas en un pez o criatura acuática para nadar a velocidades increíbles."
+   "62", "**ALERTA ANIMAL**: Los pájaros del área cantan con fuerza si detectan emboscadas o enemigos ocultos."
+   "63", "**ROCIADA DE POLEN**: Adormece o confunde a una criatura que respire el polen que lanzas al aire."
+   "64", "**TIERRA TRAGANTE**: Vuelve el suelo un terreno lodoso similar a arenas movedizas bajo los pies de un rival."
+   "65", "**FLECHA DE ESPINA**: Transforma una simple flecha de madera en un dardo orgánico que inyecta veneno de hiedra."
+   "66", "**REVERDECER**: Purifica una zona de tierra marchita o corrompida por la magia arcana o impía."
 
 Fuentes de Inspiración
 ----------------------
