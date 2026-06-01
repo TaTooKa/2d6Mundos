@@ -393,18 +393,18 @@ Los *Rituales de Invocación* demoníacos implican recitar palabras de magia pro
    :header: "d6", "d6", "Demonio y poder otorgado"
    :widths: 10, 5, 85
 
-   "1 a 3", "1", "**Demonio de la Lujuria**: Te concede un carisma sobrenatural que atrae a los demás, que te hace peligrosamente irresistible."
+   "1 a 3", "1", "**Demonio de la Lujuria**: A tí o a un objetivo de tu elección se le concede un carisma sobrenatural que atrae a los demás, que lo hace peligrosamente irresistible."
    "1 a 3", "2", "**Demonio del Abismo**: Un objetivo se torna monstruoso, desfigurado o deforme, causando asco y miedo, pero gana una fuerza y resistencia sobrehumana." 
-   "1 a 3", "3", "**Demonio de la Envidia**: Un objetivo se desespera por conseguir un objeto cercano de tu elección, arrebatándolo por la fuerza si es necesario."
+   "1 a 3", "3", "**Demonio de la Envidia**: Un objetivo se desespera por conseguir un objeto cercano de tu elección, arrebatándolo por la fuerza si es necesario. Su obsesión escalará hasta el punto de volverse loco si no consigue lo que desea."
    "1 a 3", "4", "**Demonio del Miedo**: Aprendes el miedo más profundo de un objetivo de tu elección, pero este aprende el tuyo."
-   "1 a 3", "5", "**Demonio de la Codicia**: Conviertes pequeños objetos mundanos como semillas, piedras, o porotos en monedas de oro, que se revierten a su forma original luego del transcurso de una hora."
-   "1 a 3", "6", "**Demonio del Odio**: Un objetivo se llena de un odio irracional hacia alguien o algo cercano a él, que lo consume y lo hace actuar de manera violenta e imprudente."
-   "4 a 6", "1", "**Demonio de la Gula**: Un objetivo se vuelve insaciable, devorando cualquier comida o bebida que tenga a su alcance, sin importar lo desagradable o dañina que sea."
-   "4 a 6", "2", "**Demonio de la Pereza**: Un objetivo se vuelve extremadamente apático, sin energía ni motivación para hacer nada, incluso para defenderse o cuidarse a sí mismo."
-   "4 a 6", "3", "**Demonio de la Ruina**: Un objetivo se vuelve propenso a la mala suerte, atrayendo accidentes, enfermedades, o desgracias a su vida."
-   "4 a 6", "4", "**Demonio del Olvido**: Un objetivo desaparece de la memoria de los demás, como si nunca hubiera existido, durante una semana."
-   "4 a 6", "5", "**Demonio de la Sospecha**: Un sujeto se vuelve extremadamente desconfiado y paranoico contra un objetivo de tu elección."
-   "4 a 6", "6", "**Demonio de la Locura**: Un objetivo se vuelve loco, perdiendo el contacto con la realidad y actuando de manera errática e impredecible."
+   "1 a 3", "5", "**Demonio de la Codicia**: Conviertes pequeños objetos mundanos como semillas, piedras, o porotos en monedas de oro, que se revierten a su forma original luego del transcurso de una hora. Estas monedas son muy atractivas, capaces de tornar hasta al más honesto en un ladrón compulsivo."
+   "1 a 3", "6", "**Demonio del Odio**: Un objetivo se llena de un odio irracional hacia alguien o algo cercano a él que tú elijas, que lo consume y lo hace actuar de manera violenta e imprudente."
+   "4 a 6", "1", "**Demonio de la Gula**: Un objetivo se vuelve insaciable, devorando cualquier comida o bebida que tenga a su alcance, sin importar lo desagradable o dañina que sea. Es capaz de atacar criaturas o cometer actos de canibalismo si se desespera."
+   "4 a 6", "2", "**Demonio de la Pereza**: Un objetivo se vuelve extremadamente apático, sin energía ni motivación para hacer nada, incluso para defenderse o cuidarse a sí mismo. Puede que muera de inanición o postrado en una cama si no se lo ayuda a levantarse o alimentarse."
+   "4 a 6", "3", "**Demonio de la Ruina**: Un objetivo se vuelve propenso a la mala suerte, atrayendo accidentes, enfermedades, o desgracias a su vida. Si es un objeto, decae y se percude rápidamente."
+   "4 a 6", "4", "**Demonio del Olvido**: Un objetivo desaparece de la memoria de los demás, como si nunca hubiera existido."
+   "4 a 6", "5", "**Demonio de la Sospecha**: Un sujeto se vuelve extremadamente desconfiado y paranoico contra un objetivo de tu elección. Su obsesión se incrementará hasta el punto de volverse loco, y podría llegar a atacar o asesinar a su objetivo si se lo provoca lo suficiente."
+   "4 a 6", "6", "**Demonio de la Muerte**: Puedes revivir a alguien en forma de un muerto viviente que obedecerá tus órdenes; su agilidad y fuerza dependerán del estado del cadáver."
 
 .. csv-table::
    :header: "2d6", "Para tu parte del Pacto deberás pagar..."
@@ -461,16 +461,11 @@ Los *Rituales de Invocación* de espíritus implican cantar canciones antiguas, 
    :header: "2d6", "Para tu parte del Pacto deberás pagar..."
    :widths: 10, 90
 
-   "1 a 5", "Una de tus posesiones, que el Espíritu aceptará como ofrenda."
-   "6 a 7", "Con tu carne, sufriendo una herida en forma de Condición leve."
+   "1 a 4", "Una de tus posesiones de su elección, que el Espíritu aceptará como ofrenda."
+   "5 a 7", "Con tu carne, sufriendo una herida en forma de Condición leve."
    "8 a 10", "Dejándolo poseer tu cuerpo durante un día (luego una semana, luego un año)."
    "11", "Prometiendo que aprisionarás o destruirás un enemigo mundano (criatura o persona) de los Espíritus, en menos de un mes."
    "12 o más", "Prometiendo que aprisionarás o destruirás otro Espíritu enemigo a este, en menos de un año."
-
-Pactos con Hadas
-****************
-
-TODO
 
 .. _fantasia-epica-magia-runica:
 
