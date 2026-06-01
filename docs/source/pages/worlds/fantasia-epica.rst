@@ -139,11 +139,11 @@ Los Guerreros se especializan en el combate físico, en tácticas y estrategias 
    :widths: 4, 32, 32, 32
    :header: "Nivel", "Legal", "Neutral", "Caótico"
 
-   "1", "**ESCUDERO**", "**LUCHADOR**", "**FORAJIDO**"
-   "2", "**BACHILLER**", "**CORSARIO**", "**MERCENARIO**"
-   "3", "**HIDALGO**", "**BÁRBARO**", "**SAQUEADOR**"
-   "4", "**CABALLERO**", "**GLADIADOR**", "**DESTRUCTOR**"
-   "5", "**SEÑOR (LORD/LADY)**", "**CAMPEÓN**", "**CONQUISTADOR**"
+   "1", "**ESCUDERO**: Servir a un caballero como su escudero durante al menos un año.", "**LUCHADOR**: Participar en una pelea organizada de los bajos mundos o en una escaramuza de taberna y salir victorioso.", "**FORAJIDO**: Participar en un crímen violento en el cual tu uso de la fuerza hace la diferencia."
+   "2", "**BACHILLER**: Estudiar las artes de estrategia y táctica militar en una academia acorde, mientras persigues la carrera por un título nobiliario yendo a una campaña (durante un año) como guerrero de tu señor.", "**CORSARIO**: Formar parte de una tripulación y luchar junto a otros marineros codo a codo, durante al menos un año. ", "**MERCENARIO**: Vender tus capacidades de combate por una paga, cumpliendo una misión de manera satisfactoria sin otro interés que el económico."
+   "3", "**HIDALGO**: Cumplir una encomienda o misión de tu señor que fomente tu avance nobiliario y te otorgue un título de tierras.", "**BÁRBARO**: Sobrevivir por tus propios medios en entornos salvajes, luchando contra criaturas peligrosas o grupos de bandidos, durante al menos un año.", "**SAQUEADOR**: Formar parte de una banda de forajidos o asaltantes, cumpliendo atracos o saqueos que tienen éxito en gran parte por tus habilidades de combate o liderazgo en el campo de batalla."
+   "4", "**CABALLERO**: Ser el líder de una gran gesta para tu reino, y así ser nombrado caballero por tu señor (o uno superior a él).", "**GLADIADOR**: Participar en combates de arena o campeonatos similares de combate armado, siendo victorioso y vitoreado por el público.", "**DESTRUCTOR**: Liderar una banda de mercenarios y conseguir la victoria en misiones de invasión o destrucción de un ejército o de una comunidad enemiga."
+   "5", "**SEÑOR (LORD/LADY)**: Comandar un pequeño ejército en una campaña de conquista que favorezca a tu reino, y así ser el Lord/Lady de un castillo/fortaleza/mansión en ese territorio (capturada o construída).", "**CAMPEÓN**: Participar en una gran gesta donde tus habilidades de combate hagan la diferencia, que te hagan famoso y un héroe indiscutible en una comunidad.", "**CONQUISTADOR**: Comandar un pequeño ejército en la conquista de un lugar, región o punto estratégico, consiguiendo la infamia de caudillo despiadado mientras se ejerce el control y poder sobre el área tomada."
 
 Enano
 *****
