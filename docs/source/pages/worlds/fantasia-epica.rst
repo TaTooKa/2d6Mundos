@@ -160,11 +160,11 @@ Los Enanos comienzan conociendo 3 :hoverxref:`Runas <fantasia-epica-magia-runica
    :widths: 4, 32, 32, 32
    :header: "Nivel", "Legal", "Neutral", "Caótico"
 
-   "1", "**MILICIANO**", "**MINERO**", "**REBELDE**"
-   "2", "**PROTECTOR**", "**METALÚRGICO**", "**DISIDENTE**"
-   "3", "**CAPITÁN**", "**JOYERO**", "**EXILIADO**"
-   "4", "**CAUDILLO**", "**ARTÍFICE**", "**ICONOCLASTA**"
-   "5", "**VENGADOR**", "**MAESTRO DE LA FORJA**", "**RENEGADO**"
+   "1", "**MILICIANO**: Cumplir un año de servicio como guardia o soldado de una ciudad o fortaleza enana.", "**MINERO**: Cumplir un año al servicio del cuerpo minero de una ciudad o fortaleza enana.", "**REBELDE**: Desobedecer las órdenes directas de un lord enano, y pagar el precio de prisión o trabajos forzados por ello."
+   "2", "**PROTECTOR**: Formar parte de la guardia personal de un lord enano, viajando donde quiera que vaya protegiendo su vida de cualquier tipo de peligro.", "**METALÚRGICO**: Ser aceptado como aprendiz en la forja de su comunidad enana, llevando a cabo la manufactura o reparación de un artefacto de cierta relevancia.", "**DISIDENTE**: Organizar una revuelta contra el status quo de una comunidad enana y obtener una victoria, aunque esta sea pírrica o temporal."
+   "3", "**CAPITÁN**: Liderar una patrulla de enanos en misiones de exploración, batalla o rescate y dar el ejemplo de liderazgo con los guerreros a tu cargo.", "**JOYERO**: Conseguir la materia prima, perfeccionar y manufacturar un artefacto con joyas o piedras preciosas, que sea apreciado por un lord enano de importancia.", "**EXILIADO**: Cometer una falta o crímen dentro de una comunidad enana, que tenga cierta validez para tu interés propio o de otro grupo, que provoque tu inmediato exilio."
+   "4", "**CAUDILLO**: Llevar a la victoria a un ejército de enanos en una campaña, cumpliendo el cargo de general mientras das el ejemplo al frente de la batalla.", "**ARTÍFICE**: Liderar y ver la conclusión de una obra estructural de gran importancia para una ciudad o fortaleza enana, que dé orgullo a su comunidad.", "**ICONOCLASTA**: Convertirse en el líder de una organización o grupo rebelde y tomar acciones notorias directas contra el poder establecido de una comunidad enana, logrando algún cambio o mejora aunque este sea frágil o temporal."
+   "5", "**VENGADOR**: Ser el héroe indiscutible de una gran gesta que reivindique o restaure el honor de una comunidad enana.", "**MAESTRO DE LA FORJA**: Conseguir la materia prima de materiales preciosos necesaria para construir un artefacto legendario, y llevar la obra a cabo en la gran forja, consiguiendo el título de maestro de la misma.", "**RENEGADO**: Derrocar o destruir el orden establecido y la cúpula al poder de una comunidad enana de importancia, tomando el control o desbaratando toda la estructura pre-existente para reformarla a tu voluntad."
 
 .. csv-table:: d66 Nombres típicos de Enanos
 
