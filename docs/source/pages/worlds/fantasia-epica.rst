@@ -112,7 +112,7 @@ Los Magos se dedican al estudio y la ejecución de hechizos y rituales arcanos. 
 
 **EQUIPO INICIAL**: Los Magos comienzan con una Túnica de mago con gorro o capucha, un Bastón, báculo o cetro adornado, un Libro de hechizos, Una bolsa o morral con componentes e ingredientes mágicos, y un Cristal de enfoque utilizado para potenciar hechizos o rituales. 
 
-**HABILIDADES ESPECIALES**: Los Magos tienen acceso a la :hoverxref:`Magia Arcana <fantasia-epica-magia-arcana>`, y también pueden agregar su Nivel de Mago como modificador a cualquier tirada para resistir o evitar un efecto mágico.
+**HABILIDADES ESPECIALES**: Los Magos tienen acceso a la :hoverxref:`Magia Arcana <fantasia-epica-magia-arcana>` y a los :hoverxref:`Pactos de Poder <fantasia-epica-pactos-de-poder>`, y también pueden agregar su Nivel de Mago como modificador a cualquier tirada para resistir o evitar un efecto mágico.
 
 Los Magos comienzan conociendo 3 :hoverxref:`Hechizos Arcanos <fantasia-epica-magia-arcana>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Mago. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
 
@@ -372,6 +372,76 @@ La **Magia Arcana** es el tipo de magia más común, y es la que los Magos puede
    "64", "**VÍNCULO MENTAL**: Permite la comunicación telepática bidireccional con un aliado."
    "65", "**SILENCIO**: Dentro de un área pequeña no se escucha ningún sonido, ni nadie puede hablar."
    "66", "**PORTAL**: Crea un portal que conecta a otro que habías creado anteriormente."
+
+.. _fantasia-epica-pactos-de-poder:
+
+Pactos de Poder
+^^^^^^^^^^^^^^^
+
+Los **Pactos de Poder** son un tipo de magia que se basa en la invocación de entidades sobrenaturales para que otorguen su poder a cambio de un precio. Los Magos pueden hacer pactos con demonios, espíritus, o cualquier ser poderoso que pueda concederles habilidades o conocimientos especiales. Sin embargo, estos pactos suelen tener consecuencias negativas a largo plazo, como la pérdida de la libertad, la corrupción del alma, o la atracción de enemigos peligrosos. 
+
+Para llamar a una Entidad, el Mago debe realizar un **Ritual de Invocación** particular dependiendo del tipo de entidad convocada.
+
+Pactos Demoníacos
+*****************
+
+Cuando invoques a un Demonio siguiendo un *Ritual de invocación*, puedes llamar a uno al azar (tira d6,d6 en la siguiente tabla). Si quieres invocar a un Demonio específico, puedes elegirlo, pero el precio que deberás pagar será más alto (tira 2d6+3 en la tabla de pagar el precio).
+
+Los *Rituales de Invocación* demoníacos implican recitar palabras de magia prohibida, dibujar símbolos infernales con tintas, cenizas o sangre y ofrecer un sacrificio de sangre o carne a la entidad que se desea invocar. 
+
+.. csv-table::
+   :header: "d6", "d6", "Demonio y poder otorgado"
+   :widths: 5, 5, 90
+
+   "1 a 3", "1", "**Demonio de la Lujuria**: Te concede un carisma sobrenatural que atrae a los demás, que te hace peligrosamente irresistible."
+   "1 a 3", "2", "**Demonio del Abismo**: Un objetivo se torna monstruoso, desfigurado o deforme, causando asco y miedo, pero gana una fuerza y resistencia sobrehumana." 
+   "1 a 3", "3", "**Demonio de la Envidia**: Un objetivo se desespera por conseguir un objeto cercano de tu elección, arrebatándolo por la fuerza si es necesario."
+   "1 a 3", "4", "**Demonio del Miedo**: Aprendes el miedo más profundo de un objetivo de tu elección, pero este aprende el tuyo."
+   "1 a 3", "5", "**Demonio de la Codicia**: Conviertes pequeños objetos mundanos como semillas, piedras, o porotos en monedas de oro, que se revierten a su forma original luego del transcurso de una hora."
+   "1 a 3", "6", "**Demonio del Odio**: Un objetivo se llena de un odio irracional hacia alguien o algo cercano a él, que lo consume y lo hace actuar de manera violenta e imprudente."
+   "4 a 6", "1", "**Demonio de la Gula**: Un objetivo se vuelve insaciable, devorando cualquier comida o bebida que tenga a su alcance, sin importar lo desagradable o dañina que sea."
+   "4 a 6", "2", "**Demonio de la Pereza**: Un objetivo se vuelve extremadamente apático, sin energía ni motivación para hacer nada, incluso para defenderse o cuidarse a sí mismo."
+   "4 a 6", "3", "**Demonio de la Ruina**: Un objetivo se vuelve propenso a la mala suerte, atrayendo accidentes, enfermedades, o desgracias a su vida."
+   "4 a 6", "4", "**Demonio del Olvido**: Un objetivo desaparece de la memoria de los demás, como si nunca hubiera existido, durante una semana."
+   "4 a 6", "5", "**Demonio de la Sospecha**: Un sujeto se vuelve extremadamente desconfiado y paranoico contra un objetivo de tu elección."
+   "4 a 6", "6", "**Demonio de la Locura**: Un objetivo se vuelve loco, perdiendo el contacto con la realidad y actuando de manera errática e impredecible."
+
+.. csv-table::
+   :header: "2d6", "Para tu parte del Pacto deberás pagar..."
+   :widths: 10, 90
+
+   "1 a 5", "Una de tus posesiones, que el Demonio te robará o destruirá."
+   "6 a 7", "Un recuerdo preciado, que el Demonio borrará de tu mente para siempre."
+   "8 a 9", "Con tu carne, que el Demonio marcará con una cicatriz o tatuaje infernal, y que te causará dolor o molestias ocasionales."
+   "10", "Con tu sangre, que el Demonio usará para crear un vínculo mágico contigo, permitiéndole rastrearte o influenciarte a distancia."
+   "11", "Con tu libertad, que el Demonio usará para manipularte: la próxima vez deberás invocarlo a él."
+   "12 o más", "Con tu alma, que el Demonio reclamará para sí mismo al morir, condenándote a una eternidad de sufrimiento."
+
+.. csv-table:: d66 Nombres de Demonios
+
+   "11. Beleth", "21. Ashurban", "31. Furcas"
+   "12. Abaddon", "22. Ordog", "32. Keldim"
+   "13. Ulshedra", "23. Charun", "33. Gorgon"
+   "14. Marduk", "24. Surgat", "34. Rahab"
+   "15. Raum", "25. Ahriman", "35. Gaki"
+   "16. Halphas", "26. Wissigo", "36. Samnu"
+   "", "", ""
+   "41. Namtar", "51. Abezi", "61. Astaroth"
+   "42. Baalberith", "52. Abraxas", "62. Aradia"
+   "43. Akarat", "53. Adramelec", "63. Eblis"
+   "44. Belial", "54. Baphomet", "64. Mefistófeles"
+   "45. Lilith", "55. Asmodeo", "65. Nergal"
+   "46. Nehek", "56. Mammón", "66. Samael"
+
+Pactos con Espíritus
+********************
+
+TODO
+
+Pactos con Hadas
+****************
+
+TODO
 
 .. _fantasia-epica-magia-runica:
 
