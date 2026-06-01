@@ -382,6 +382,8 @@ Los **Pactos de Poder** son un tipo de magia que se basa en la invocación de en
 
 Para llamar a una Entidad, el Mago debe realizar un **Ritual de Invocación** particular dependiendo del tipo de entidad convocada.
 
+Por defecto, un Mago que invoca a una entidad poderosa puede hacerle preguntas, ya sea que acepta las habilidades que ésta le ofrezca o no. El precio a pagar será el mismo, aunque no acepte el poder. Si el Mago hace demasiadas preguntas o pone a prueba la paciencia de la entidad, esta puede cobrarse más de una paga por la interacción. Las respuestas a las preguntas pueden ser vagas, ambiguas o engañosas, dado que la entidad puede saber la respuesta o no, y está en ella (a criterio del DJ) responder de la manera que más le convenga.
+
 Pactos Demoníacos
 *****************
 
