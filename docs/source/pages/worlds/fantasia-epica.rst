@@ -511,7 +511,7 @@ La **Magia Rúnica** es un tipo de magia que se basa en la inscripción de símb
    "56", "**RUNA DEL RASTREO**: Dibujada en una brújula; su aguja apunta siempre hacia la runa gemela."
    "61", "**RUNA DE LA TRAMPA**: Grabada en una baldosa; lanza una descarga eléctrica al ser pisada por un rival."
    "62", "**RUNA DE LA ABSORCIÓN**: Grabada en un guantelete; atrapa un hechizo lanzado hacia ti para disiparlo o convertirlo en energía potencial."
-   "63", "**RUNA DEL SUEÑO**: Grabada en una almohada; garantiza un descanso libre de pesadillas y maleficios."
+   "63", "**RUNA DEL SUEÑO**: Grabada en una almohada; garantiza un descanso efectivo y revitalizante, y libre de pesadillas y maleficios."
    "64", "**RUNA DE LA VELOCIDAD**: Grabada en las botas; permite correr a alta velocidad, o durante distancias largas sin desgastar las piernas."
    "65", "**RUNA DEL COLAPSO**: Grabada en un pilar estructural; al ser borrada a propósito, hace caer la estructura."
    "66", "**RUNA DEL MITRIL**: Grabada en cualquier metal común; le otorga la ligereza y durabilidad del mitril."
@@ -568,6 +568,8 @@ Fuentes de Inspiración
 ----------------------
 
 * *El Señor de los Anillos*, *El Hobbit* y *El Silmarilion* de J.R.R. Tolkien
+* *Stormbringer* y la *Saga de Elric* de Michael Moorcock
+* Saga de *Fafhrd y el Ratonero Gris* de Fritz Leiber
 * *Dungeons & Dragons* de TSR / Wizards of the Coast
 * *Record of Lodoss War* de Ryo Mizuno
 * *Frieren: Beyond Journey's End* de  Kanehito Yamada / Tsukasa Abe
