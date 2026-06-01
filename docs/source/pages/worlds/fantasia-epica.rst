@@ -391,7 +391,7 @@ Los *Rituales de Invocación* demoníacos implican recitar palabras de magia pro
 
 .. csv-table::
    :header: "d6", "d6", "Demonio y poder otorgado"
-   :widths: 5, 5, 90
+   :widths: 10, 5, 85
 
    "1 a 3", "1", "**Demonio de la Lujuria**: Te concede un carisma sobrenatural que atrae a los demás, que te hace peligrosamente irresistible."
    "1 a 3", "2", "**Demonio del Abismo**: Un objetivo se torna monstruoso, desfigurado o deforme, causando asco y miedo, pero gana una fuerza y resistencia sobrehumana." 
@@ -436,7 +436,36 @@ Los *Rituales de Invocación* demoníacos implican recitar palabras de magia pro
 Pactos con Espíritus
 ********************
 
-TODO
+Cuando invoques a un Espíritu de la Naturaleza siguiendo un *Ritual de invocación*, puedes llamar a uno al azar (tira d6,d6 en la siguiente tabla). Si quieres invocar a un Espíritu específico, puedes elegirlo, pero el precio que deberás pagar será más alto (tira 2d6+3 en la tabla de pagar el precio).
+
+Los *Rituales de Invocación* de espíritus implican cantar canciones antiguas, dibujar símbolos rúnicos en la tierra o en los árboles, y ofrecer un sacrificio de comida o bebida a la entidad que se desea invocar.
+
+.. csv-table::
+   :header: "d6", "d6", "Espíritu y poder otorgado"
+   :widths: 10, 5, 85
+
+   "1 a 3", "1", "**Espíritu de los Ancestros**: Te concede la sabiduría y el conocimiento de tus antepasados, permitiéndote recordar información particular o saber exactamente lo que necesitas para una tarea específica."
+   "1 a 3", "2", "**Espíritu Animal**: Invocas al espíritu ideal del animal que elijas, y obtienes una habilidad o característica relacionada con ese animal durante un breve tiempo."
+   "1 a 3", "3", "**Espíritu de la Enfermedad**: Le causa a un objetivo una enfermedad tremendamente debilitante y contagiosa, mientras que te concede a tí inmunidad a la misma."
+   "1 a 3", "4", "**Espíritu de la Muerte**: Te concede la capacidad de comunicarte con los muertos, y de pedirles información o favores."
+   "1 a 3", "5", "**Espíritu del Fuego**: Te concede la capacidad de controlar el fuego, pudiendo incrementarlo, reducirlo, apagarlo o moldearlo a tu voluntad."
+   "1 a 3", "6", "**Espíritu del Viento**: Te concede la capacidad de controlar el viento, pudiendo incrementar o reducir su fuerza, o moldearlo a tu voluntad."
+   "4 a 6", "1", "**Espíritu del Bosque**: Te concede la capacidad de orientarte en los bosques, y controlar las plantas, pudiendo hacerlas crecer, marchitarse o moverse a tu voluntad."
+   "4 a 6", "2", "**Espíritu del Hambre**: Un objetivo se vuelve voraz, buscando cualquier comida o bebida, devorándola hasta saciarse."
+   "4 a 6", "3", "**Espíritu de la Oscuridad**: Te concede la capacidad de ver en la oscuridad, y de ocultarte en las sombras, volviéndote invisible mientras estés en ellas."
+   "4 a 6", "4", "**Espíritu del Río**: Te concede la capacidad de controlar el agua, pudiendo incrementarla, reducirla o moldearla a tu voluntad."
+   "4 a 6", "5", "**Espíritu del Dolor**: Te concede la capacidad de sentir el dolor de los demás, y de transferirlo a ti mismo o a otro objetivo."
+   "4 a 6", "6", "**Espíritu del Relámpago**: Te concede la capacidad de controlar la electricidad, pudiendo incrementarla, reducirla o moldearla a tu voluntad."
+
+  .. csv-table::
+   :header: "2d6", "Para tu parte del Pacto deberás pagar..."
+   :widths: 10, 90
+
+   "1 a 5", "Una de tus posesiones, que el Espíritu aceptará como ofrenda."
+   "6 a 7", "Con tu carne, sufriendo una herida en forma de Condición leve."
+   "8 a 10", "Dejándolo poseer tu cuerpo durante un día (luego una semana, luego un año)."
+   "11", "Prometiendo que aprisionarás o destruirás un enemigo mundano (criatura o persona) de los Espíritus, en menos de un mes."
+   "12 o más", "Prometiendo que aprisionarás o destruirás otro Espíritu enemigo a este, en menos de un año."
 
 Pactos con Hadas
 ****************
