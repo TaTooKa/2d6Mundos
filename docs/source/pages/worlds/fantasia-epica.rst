@@ -457,7 +457,7 @@ Los *Rituales de Invocación* de espíritus implican cantar canciones antiguas, 
    "4 a 6", "5", "**Espíritu del Dolor**: Te concede la capacidad de sentir el dolor de los demás, y de transferirlo a ti mismo o a otro objetivo."
    "4 a 6", "6", "**Espíritu del Relámpago**: Te concede la capacidad de controlar la electricidad, pudiendo incrementarla, reducirla o moldearla a tu voluntad."
 
-  .. csv-table::
+.. csv-table::
    :header: "2d6", "Para tu parte del Pacto deberás pagar..."
    :widths: 10, 90
 
