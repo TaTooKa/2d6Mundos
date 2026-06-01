@@ -120,11 +120,11 @@ Los Magos comienzan conociendo 3 :hoverxref:`Hechizos Arcanos <fantasia-epica-ma
    :widths: 4, 32, 32, 32
    :header: "Nivel", "Legal", "Neutral", "Caótico"
 
-   "1", "**ADEPTO**", "**VIDENTE**", "**MÉDIUM**"
-   "2", "**CONJURADOR**", "**CHAMÁN**", "**CANALIZADOR**"
-   "3", "**ARCANISTA**", "**ARÚSPICE**", "**BRUJO**"
-   "4", "**MAGUS**", "**SABIO**", "**DIABOLISTA**"
-   "5", "**ARCHI-MAGUS**", "**DRUIDA**", "**NIGROMANTE**"
+   "1", "**ADEPTO**: Demostrar capacidades arcanas, pasar las pruebas y ser aceptado en la Academia de Magia.", "**VIDENTE**: Tener una visión o certeza futura que se termina cumpliendo, ya sea con un hechizo o por medio de un Pacto Espiritual.", "**MÉDIUM**: Comulgar con una entidad superior y usar sus habilidades en beneficio propio o de alguien que pague por tus servicios."
+   "2", "**CONJURADOR**: Cumplir una misión de la Academia de Magia, que implique un viaje de unas semanas, acompañado por un Maestro Arcanista.", "**CHAMÁN**: Comulgar con un Espíritu y llevar a cabo una misión otorgada por el mismo que promueva el balance entre el Órden y el Caos en la zona.", "**CANALIZADOR**: Permitir voluntariamente a una entidad superior que controle tu cuerpo por tiempo prolongado para llevar a cabo sus propósitos en el plano terrenal, a cambio de gran poder para tí."
+   "3", "**ARCANISTA**: Tener a cargo uno o más aprendices en una sede de la Academia de Magia, transmitiéndoles varios hechizos y acompañándolos en sus misiones, durante un año.", "**ARÚSPICE**: Ser el más consultado en un pueblo o pequeña comunidad sobre eventos del futuro, dando presagios y ganando su  confianza y dependencia.", "**BRUJO**: Embarcarse en una misión que implique un viaje prolongado, siguiendo los designios de una entidad superior, para derrotar a un enemigo o recuperar un lugar u objeto de su interés."
+   "4", "**MAGUS**: Cumplir una tésis arcana, descubriendo o recuperando un poderoso artefacto mágico de ruinas remotas o fortalezas prohibidas.", "**SABIO**: Acumular conocimientos antiguos o prohibidos, conseguidos de lugares remotos o de otros eruditos, formando una biblioteca o sanctasantórum de gran relevancia donde otros Magos puedan investigar y absorber tu sabiduría.", "**DIABOLISTA**: Someter a una entidad demoníaca a que te sirva y lleve a cabo tus órdenes, atándola o aprisionándola de manera segura."
+   "5", "**ARCHI-MAGUS**: Diseñar un hechizo propio con tu nombre, enseñarlo, y lograr estar a cargo de una sede de la Academia de Magia durante al menos un año.", "**DRUIDA**: Ser el nexo de uno o más Espíritus en el plano terrenal y con otros hechiceros, llevando a cabo sus requerimientos, y asignando tareas y misiones a otros magos, logrando el balance ideal entre las fuerzas del Órden y el Caos en el mundo.", "**NIGROMANTE**: Levantar un pequeño ejército de muertos vivientes y usarlo para conquistar un territorio o someter a una comunidad."
 
 Guerrero
 ********
