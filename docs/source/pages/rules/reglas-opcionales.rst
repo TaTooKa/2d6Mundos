@@ -253,14 +253,28 @@ Las armas meleé y ataques CaC pueden ser de *corto*, *medio* o *largo alcance*.
 
 Por cada nivel de diferencia en alcance, el contrincante beneficiado gana +1. Por ejemplo, si dos luchadores pelean con los puños, están igualados y no hay bonificadores de alcance. Pero si uno de ellos tiene un palo de medio alcance, entonces ese tiene un +1. Si un contrincante tiene un cuchillo y su enemigo tiene una lanza larga, entonces la diferencia de alcance es de 2 niveles, es decir el del cuchillo tiene un -2, o el de la lanza larga tiene un +2, depende quién tire y defienda en esa acción (el modificador de alcance se aplica solo una vez en cada acción, ya sea de ataque o defensa).
 
+Daño
+****
+
+El daño es un bonificador que solo se suma al resultado de la tirada si se acierta al objetivo, y cuenta para mejorar el EFECTO de la acción (pero solo si se logró el impacto).
 
 
 .. csv-table:: Lista de Armas Meleé
-   :widths: 40, 30, 30
-   :header: "Tipo de Arma", "Daño", "Alcance"
+   :widths: 25, 25, 25, 25
+   :header: "Tipo de Arma", "Daño", "Alcance", "Especial"
 
-   "Puñetazos",  "+0", "corto alcance"
-   "Cuchillo", "+1", "corto alcance"
+   "Puñetazos",  "+0", "corto alcance", "Sin armas"
+   "Patadas",  "+0", "medio alcance", "Sin armas"
+   "Cuchillo", "+1", "corto alcance", "Una mano, ocultable"
+   "Daga", "+1", "corto alcance", "Una mano, ocultable"
+   "Hacha de mano", "+1", "corto alcance", "Una mano, arrojable"
+   "Espada corta", "+1", "medio alcance", "Una mano"
+   "Espada larga", "+2", "medio alcance", "Una o Dos manos"
+   "Lanza corta / Javalina", "+1", "medio alcance", "Arrojable"
+   "Hacha", "+2", "medio alcance", "Una o Dos manos"
+   "Lanza larga", "+2", "largo alcance", "Dos manos"
+   "Alabarda", "+3", "largo alcance", "Dos manos"
+   "Zwëihander", "+3", "largo alcance", "Dos manos"
 
 Presas y Agarres
 ****************
@@ -270,15 +284,15 @@ TODO
 Condiciones y consecuencias de Violencia
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-(TODO: Tabla con muchos ejemplos de condiciones en sus 3 estados leve/moderada/severa)
+Los siguientes son ejemplos de Condiciones que resultan de distintos tipos de daño, dependiendo de su severidad. 
 
 .. csv-table::
    :widths: 25, 25, 25, 25
    :header: "Tipo de Daño", "Condición Leve", "Condición Moderada", "Condición Severa"
 
-   "Daño Perforante", "Leve", "Moderada", "Severa"
-   "Daño Contundente", "Leve", "Moderada", "Severa"
-   "Daño Cortante", "Leve", "Moderada", "Severa"
+   "**Daño Perforante**", "Pinchazo / roce superficial", "Perforación en extremidad / sangrado", "Órgano vital perforado / sangrado interno"
+   "**Daño Contundente**", "Golpe / Porrazo / Moretón / Luxación", "Esguince / Lesión muscular / Hueso dislocado / Fisura", "Hueso roto / Hemorragia interna / Órgano roto / Conmoción cerebral"
+   "**Daño Cortante**", "Corte superficial / Rasguño", "Corte profundo / sangrado", "Músculo/hueso/órgano expuesto / Extremidad cortada / sangrado masivo"
 
 Rotura de Objetos para Protección
 ---------------------------------
