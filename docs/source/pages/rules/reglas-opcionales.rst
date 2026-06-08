@@ -188,6 +188,8 @@ Si uno de los participantes del combate tiene una armadura o pieza de protecció
 
 Las armaduras u objetos de protección, como los escudos, también pueden romperse para evitar que el daño se reciba directamente. Ver la regla opcional de :ref:`Rotura de Objetos para Protección <reglas-opcionales-rotura-objetos-proteccion>`. 
 
+.. _reglas-opcionales-combate-distancia-cobertura:
+
 Cobertura
 *********
 
@@ -234,7 +236,17 @@ Gastar un round (o fase de velocidad) apuntando da +1 a la tirada, hasta un máx
 Fuego de cobertura
 ~~~~~~~~~~~~~~~~~~
 
-TODO
+Disparar "*fuego de cobertura*" no requiere tirada por parte del agresor; El personaje decide si va a efectuar algunos disparos, una *Ráfaga*, o varias en modo *Full-Auto* (gastando la cantidad de balas necesaria), contra un área o espacio particular donde se estén cubriendo o atrincherando los enemigos. 
+
+Los enemigos que están a cubierto harán bien en esperar a que el *Fuego de Cobertura* finalice, pero si deciden asomarse o abandonar el lugar, entonces deberán hacer una tirada defensiva para evitar ser alcanzados por los disparos. La dificultad de esa tirada será 8, modificada por las otras :hoverxref:`reglas de Cobertura <reglas-opcionales-combate-distancia-cobertura>`, y por la cantidad de balas disparadas:
+
+* Algunos pocos disparos no afectan la dificultad.
+* Si les están disparando **en Ráfaga**, sufrirán +1 a la dificultad de la tirada defensiva.
+* Si les están disparando **en Full-Auto**, sufrirán +2 a la dificultad de la tirada defensiva.
+* +1 a la Dificultad de la tirada defensivapor cada tirador extra que se suma al primero en dar *Fuego de Cobertura* contra la misma área.
+
+  Si más de un personaje se suma al *Fuego de Cobertura* contra el mismo espacio o área, entonces se aplica un +1 por cada nuevo tirador, y además el modificador a la dificultad se acumula. Por ejemplo, si dos personajes disparan en Ráfaga contra el mismo espacio (+1 cada uno), entonces los enemigos que estén a cubierto ahí sufrirán +3 a la dificultad de su tirada defensiva si se asoman (+1 por el nuevo tirador, +2 por las 2 Ráfagas). Si un personaje dispara en Ráfaga y otro en Full-Auto contra el mismo espacio, entonces los enemigos que estén a cubierto ahí sufrirán +4 a la dificultad de su tirada defensiva (+1 por el nuevo tirador, +1 por la Ráfaga y +2 por el Full-Auto).
+
 
 Explosivos
 **********
