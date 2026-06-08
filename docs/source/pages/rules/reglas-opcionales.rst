@@ -152,7 +152,7 @@ Distancia
 Dificultad para acertar a un objetivo "normal" (tamaño/silueta de una persona adulta):
 
 .. csv-table::
-   :widths: 90, 10
+   :widths: 70, 30
    :header: "Distancia", "Dificultad"
 
    "A quemarropa (0~1m)", "6"
@@ -194,26 +194,27 @@ Si el objetivo está a cubierto detrás de algo parcial, del que se puede ver ap
 Armas
 *****
 
-Las armas a distancia tienen un bonificador +X por potencial de "daño", y una "distancia óptima".
+Las armas a distancia tienen un bonificador +X por potencial de "**daño**", y una "**distancia óptima**".
 
   **Daño**: El daño es un bonificador que solo se suma al resultado de la tirada si se acierta al objetivo, y cuenta para mejorar el EFECTO de la acción (pero solo si se logró el impacto).
 
-  **Distancia óptima**: disparar fuera de esa distancia otorga un -1 por cada diferencia de :hoverxref:`rango de distancia <reglas-opcionales-combate-distancia>` (excepto "a quemarropa"; cualquier arma de fuego considera la distancia "A quemarropa" como una de sus distancias óptimas).
+  **Distancia óptima**: disparar fuera de esa distancia otorga un -1 por cada diferencia de :hoverxref:`rango de distancia <reglas-opcionales-combate-distancia>` (excepto "a quemarropa"[#]_)
+  
+.. [#] cualquier arma de fuego considera la distancia "*A quemarropa*" como una de sus distancias óptimas; es decir no recibe penalizadores por distancia si se dispara *a quemarropa*.
 
-Lista de armas
+.. csv-table:: Lista de Armas a Distancia
+   :widths: 25, 25, 25, 25
+   :header: "Tipo de Arma", "Daño", "Distancia Óptima", "Especial"
 
-.. csv-table::
-   :widths: 40, 30, 30
-   :header: "Tipo de Arma", "Daño", "Distancia Óptima"
-
-   "Arco corto", "+0", "corta/media"
-   "Arco largo", "+0", "media/larga/muy larga"
-   "Arco compuesto", "+1", "media/larga/muy larga"
-   "Pistolas/revólveres", "+1", "corta/media"
-   "Escopetas", "+3 daño en corta distancia o a quemarropa; +1 daño en media distancia",  "corta/media"
-   "Automáticas (pistolas, SMGs)", "+2", "corta/media/larga"
-   "Automáticas (rifles de asalto)", "+3", "media/larga"
-   "Rifle de francotirador", "+4", "muy larga/extrema"
+   "Arco corto", "+0", "corta/media", ""
+   "Arco largo", "+0", "media/larga/muy larga", ""
+   "Arco compuesto", "+1", "media/larga/muy larga", ""
+   "Ballesta", "+2", "media/larga/muy larga", "Recarga lenta"
+   "Pistolas/revólveres", "+1", "corta/media", ""
+   "Escopetas", "+3 daño en corta distancia o a quemarropa; +1 daño en media distancia",  "corta/media", ""
+   "Automáticas (pistolas, SMGs)", "+2", "corta/media/larga", "Ráfaga/Full-Auto"
+   "Automáticas (rifles de asalto)", "+3", "media/larga", "Ráfaga/Full-Auto"
+   "Rifle de francotirador", "+4", "muy larga/extrema", "Recarga lenta"
 
 Disparos en Ráfaga/Full-Auto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -252,9 +253,9 @@ Las armas meleé y ataques CaC pueden ser de *corto*, *medio* o *largo alcance*.
 
 Por cada nivel de diferencia en alcance, el contrincante beneficiado gana +1. Por ejemplo, si dos luchadores pelean con los puños, están igualados y no hay bonificadores de alcance. Pero si uno de ellos tiene un palo de medio alcance, entonces ese tiene un +1. Si un contrincante tiene un cuchillo y su enemigo tiene una lanza larga, entonces la diferencia de alcance es de 2 niveles, es decir el del cuchillo tiene un -2, o el de la lanza larga tiene un +2, depende quién tire y defienda en esa acción (el modificador de alcance se aplica solo una vez en cada acción, ya sea de ataque o defensa).
 
-Lista de Armas Meleé
 
-.. csv-table::
+
+.. csv-table:: Lista de Armas Meleé
    :widths: 40, 30, 30
    :header: "Tipo de Arma", "Daño", "Alcance"
 
