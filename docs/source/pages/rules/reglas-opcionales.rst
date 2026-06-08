@@ -136,6 +136,148 @@ La "Lista de Hechizos", "Elementos" o "Escuelas" de Magia, o cualquier otra taxo
 
 Puedes tomar cualquier Lista de Hechizos o sistema de magia improvisada / mecanizada de otros juegos de rol o universos existentes, y aplicar estas simples reglas sobre eso.
 
+Combates y Violencia
+--------------------
+
+Además de lo indicado en las :ref:`Reglas Básicas <reglas-basicas>` y los :hoverxref:`Modificadores <reglas-basicas-modificadores>` típicos por Trasfondo y otros factores relevantes del atacante y el atacado, considera implementar estas reglas opcionales para todo lo relacionado a Combates y Violencia:
+
+Combate con Armas a Distancia
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _reglas-opcionales-combate-distancia:
+
+Distancia
+*********
+
+Dificultad para acertar a un objetivo "normal" (tamaño/silueta de una persona adulta):
+
+.. csv-table::
+   :widths: 90, 10
+   :header: "Distancia", "Dificultad"
+
+   "A quemarropa (0~1m)", "6"
+   "Corta distancia (2~3m)", "7"
+   "Media distancia (4~10m)", "8"
+   "Larga distancia (10~40m)", "10"
+   "Muy larga distancia (50~150m)", "11"
+   "Distancia extrema (200m o más)", "12"
+   "Distancia imposible (1000m o más)", "14"
+
+Silueta
+*******
+
+Por cada incremento de tamaño (persona > automóvil > camión > casa, etc), la dificultad se reduce en -1. Por cada decremento de tamaño (persona > niño > mascota > objeto maleable, etc) la dificultad se incrementa en +1.
+
+.. csv-table::
+   :widths: 70, 30
+   :header: "Silueta", "Modificador a la Dificultad"
+
+   "Rata / Objeto de mano", "+3"
+   "Mascota / Mochila", "+2"
+   "Niño / persona agachada", "+1"
+   "**Persona adulta**", "**+0**"
+   "Caballo / Motocicleta", "-1"
+   "Automóvil / Carruaje", "-2"
+   "Autobús / Camión", "-3"
+   "Casa / Cabaña", "-4"
+
+Armadura / Protección
+*********************
+
+Si uno de los participantes del combate tiene una armadura o pieza de protección gana +1 a las tiradas para defenderse (u otorga -1 a las tiradas de sus adversarios al atacarlo). Si la armadura/protección es especialmente ideal para ese tipo de daño (por ejemplo, un chaleco de kevlar para un ataque de disparos de balas, o una cota de malla para un ataque cortante de una espada), entonces el bonificador es +2 (o -2 de penalización para su atacante). Los tipos de armadura/protección (contra daño perforante/contundente/cortante/etc) y su eficacia quedan a discresión del DJ.
+
+Cobertura
+*********
+
+Si el objetivo está a cubierto detrás de algo parcial, del que se puede ver aproximadamente la mitad de su cuerpo, tiene +1 de defensa (o da -1 de penalización para sus atacantes a distancia). Si está cubierto de manera casi total, y solo se puede ver una parte de su cuerpo, como sus brazos, hombros o cabeza, entonces recibe +2 de defensa (o -2 de penalización a sus atacantes). Si está completamente a cubierto, entonces es imposible que se le acierte con ataques a distancia.
+
+Armas
+*****
+
+Las armas a distancia tienen un bonificador +X por potencial de "daño", y una "distancia óptima".
+
+  **Daño**: El daño es un bonificador que solo se suma al resultado de la tirada si se acierta al objetivo, y cuenta para mejorar el EFECTO de la acción (pero solo si se logró el impacto).
+
+  **Distancia óptima**: disparar fuera de esa distancia otorga un -1 por cada diferencia de :hoverxref:`rango de distancia <reglas-opcionales-combate-distancia>` (excepto "a quemarropa"; cualquier arma de fuego considera la distancia "A quemarropa" como una de sus distancias óptimas).
+
+Lista de armas
+
+.. csv-table::
+   :widths: 40, 30, 30
+   :header: "Tipo de Arma", "Daño", "Distancia Óptima"
+
+   "Arco corto", "+0", "corta/media"
+   "Arco largo", "+0", "media/larga/muy larga"
+   "Arco compuesto", "+1", "media/larga/muy larga"
+   "Pistolas/revólveres", "+1", "corta/media"
+   "Escopetas", "+3 daño en corta distancia o a quemarropa; +1 daño en media distancia",  "corta/media"
+   "Automáticas (pistolas, SMGs)", "+2", "corta/media/larga"
+   "Automáticas (rifles de asalto)", "+3", "media/larga"
+   "Rifle de francotirador", "+4", "muy larga/extrema"
+
+Disparos en Ráfaga/Full-Auto
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Algunas armas modernas tienen la opción de disparar en Ráfaga ("*burst-fire*") o Full-Automática (dispara todo el cargador mientras se aprete el gatillo).
+
+* Disparar **en Ráfaga** gasta 3 balas, y da +1 a la tirada.
+* Disparar **en Full-Auto** gasta de a 10 balas, y da +2 a la tirada y +2 al daño (acumulativo en el EFECTO si impacta) por cada ráfaga de 10 balas disparada en el mismo round. 
+
+Apuntar
+~~~~~~~
+
+Gastar un round (o fase de velocidad) apuntando da +1 a la tirada, hasta un máximo de +3 (provisto que el objetivo no se haya movido demasiado erráticamente o las circunstancias del contexto no hayan cambiado considerablemente, a discresión del DJ).
+
+Fuego de cobertura
+~~~~~~~~~~~~~~~~~~
+
+TODO
+
+Explosivos
+**********
+
+TODO
+
+Combate Meleé / Cuerpo a Cuerpo
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Alcance
+*******
+
+Las armas meleé y ataques CaC pueden ser de *corto*, *medio* o *largo alcance*.
+
+* Puñetazos, cuchillos, dagas: **corto alcance**.
+* Patadas, espadas, hachas, bates de béisbol, lanzas cortas: **medio alcance**.
+* Lanzas largas, alabardas, zwëihander: **largo alcance**.
+
+Por cada nivel de diferencia en alcance, el contrincante beneficiado gana +1. Por ejemplo, si dos luchadores pelean con los puños, están igualados y no hay bonificadores de alcance. Pero si uno de ellos tiene un palo de medio alcance, entonces ese tiene un +1. Si un contrincante tiene un cuchillo y su enemigo tiene una lanza larga, entonces la diferencia de alcance es de 2 niveles, es decir el del cuchillo tiene un -2, o el de la lanza larga tiene un +2, depende quién tire y defienda en esa acción (el modificador de alcance se aplica solo una vez en cada acción, ya sea de ataque o defensa).
+
+Lista de Armas Meleé
+
+.. csv-table::
+   :widths: 40, 30, 30
+   :header: "Tipo de Arma", "Daño", "Alcance"
+
+   "Puñetazos",  "+0", "corto alcance"
+   "Cuchillo", "+1", "corto alcance"
+
+Presas y Agarres
+****************
+
+TODO
+
+Condiciones y consecuencias de Violencia
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+(TODO: Tabla con muchos ejemplos de condiciones en sus 3 estados leve/moderada/severa)
+
+.. csv-table::
+   :widths: 25, 25, 25, 25
+   :header: "Tipo de Daño", "Condición Leve", "Condición Moderada", "Condición Severa"
+
+   "Daño Perforante", "Leve", "Moderada", "Severa"
+   "Daño Contundente", "Leve", "Moderada", "Severa"
+   "Daño Cortante", "Leve", "Moderada", "Severa"
 
 Rotura de Objetos para Protección
 ---------------------------------

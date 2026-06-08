@@ -1,3 +1,5 @@
+.. _reglas-basicas:
+
 Reglas Básicas
 ==============
 
@@ -60,6 +62,8 @@ El DJ determina la **Dificultad** de cada acción según su criterio, dependiend
    "10", "Extremo", "17% de chance con un +0"
    "11", "Improbable", "8% de chance con un +0"
    "12", "Casi Imposible", "2% de chance con un +0"
+
+.. _reglas-basicas-modificadores:
 
 Modificadores
 ^^^^^^^^^^^^^
