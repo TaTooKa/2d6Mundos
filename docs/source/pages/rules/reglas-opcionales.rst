@@ -181,6 +181,8 @@ Por cada incremento de tamaño (persona > automóvil > camión > casa, etc), la 
    "Autobús / Camión", "-3"
    "Casa / Cabaña", "-4"
 
+.. _reglas-opcionales-combate-distancia-armadura:
+
 Armadura / Protección
 *********************
 
@@ -251,7 +253,14 @@ Si más de un personaje se suma al *Fuego de Cobertura* contra el mismo espacio 
 Explosivos
 **********
 
-TODO
+Los explosivos funcionan como un ataque que afecta un área determinada (el radio de la explosión). Los personajes que estén dentro del área de la explosión deben hacer una tirada defensiva para evitar ser alcanzados por ella. La dificultad de esa tirada será 8, modificada por las otras :hoverxref:`reglas de Cobertura <reglas-opcionales-combate-distancia-cobertura>` y de :hoverxref:`Armadura/Protección <reglas-opcionales-combate-distancia-armadura>`.
+
+Adicionalmente, una explosión tiene dos áreas de efecto: 
+
+* **Epicentro**: el área más cercana a la explosión, donde el daño es máximo. El tipo de daño es *contundente*, *cortante* y *perforante*. La Dificultad de la tirada defensiva para los personajes que estén en el epicentro es +2, y el Daño (que se suma al EFECTO en caso de impacto) es de +2, acumulativo.
+* **Zona de Metralla/Esquirlas**: El área que rodea al epicentro, donde el daño es menor pero sigue siendo peligroso. El tipo de daño es *cortante* y *perforante*. No tiene modificadores a la Dificultad de la tirada defensiva.
+
+A discresión del DJ, incluso si los personajes quedan fuera de la zona de explosión (o logran defenderse o esquivarla exitosamente), pueden sufrir daños colaterales por la onda expansiva, el ruido ensordecedor, la caída de escombros, etc.
 
 Combate Meleé / Cuerpo a Cuerpo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -306,7 +315,7 @@ Los siguientes son ejemplos de Condiciones que resultan de distintos tipos de da
 
    "**Daño Perforante**", "Pinchazo / roce superficial", "Perforación en extremidad / sangrado", "Órgano vital perforado / sangrado interno"
    "**Daño Contundente**", "Golpe / Porrazo / Moretón / Luxación", "Esguince / Lesión muscular / Hueso dislocado / Fisura", "Hueso roto / Hemorragia interna / Órgano roto / Conmoción cerebral"
-   "**Daño Cortante**", "Corte superficial / Rasguño", "Corte profundo / sangrado", "Músculo/hueso/órgano expuesto / Extremidad cortada / sangrado masivo"
+   "**Daño Cortante**", "Corte superficial / Rasguño / Laceración / Sangrado leve", "Corte profundo / sangrado profuso", "Músculo/hueso/órgano expuesto / Extremidad cortada / sangrado masivo"
 
 .. _reglas-opcionales-rotura-objetos-proteccion:
 
