@@ -141,6 +141,8 @@ Puedes tomar cualquier Lista de Hechizos o sistema de magia improvisada / mecani
 Combates y Violencia
 --------------------
 
+.. figure:: /_static/images/rules/rpg-image-9.jpg
+
 Además de lo indicado en las :ref:`Reglas Básicas <reglas-basicas>` y los :hoverxref:`Modificadores <reglas-basicas-modificadores>` típicos por Trasfondo y otros factores relevantes del atacante y el atacado, considera implementar estas reglas opcionales para todo lo relacionado a Combates y Violencia:
 
 Combate con Armas a Distancia
@@ -150,6 +152,8 @@ Combate con Armas a Distancia
 
 Distancia
 *********
+
+.. figure:: /_static/images/rules/rpg-image-10.webp
 
 Dificultad para acertar a un objetivo "normal" (tamaño/silueta de una persona adulta):
 
@@ -198,6 +202,8 @@ Las armaduras u objetos de protección, como los escudos, también pueden romper
 
 Cobertura
 *********
+
+.. figure:: /_static/images/rules/rpg-image-11.avif
 
 Si el objetivo está a cubierto detrás de algo parcial, del que se puede ver aproximadamente la mitad de su cuerpo, tiene +1 de defensa (o da -1 de penalización para sus atacantes a distancia). Si está cubierto de manera casi total, y solo se puede ver una parte de su cuerpo, como sus brazos, hombros o cabeza, entonces recibe +2 de defensa (o -2 de penalización a sus atacantes). Si está completamente a cubierto, entonces es imposible que se le acierte con ataques a distancia.
 
@@ -272,6 +278,8 @@ Combate Meleé / Cuerpo a Cuerpo
 Alcance
 *******
 
+.. figure:: /_static/images/rules/rpg-image-13.jpg
+
 Las armas meleé y ataques CaC pueden ser de *corto*, *medio* o *largo alcance*.
 
 * Puñetazos, cuchillos, dagas: **corto alcance**.
@@ -284,6 +292,8 @@ Daño
 ****
 
 El daño es un bonificador que solo se suma al resultado de la tirada si se acierta al objetivo, y cuenta para mejorar el EFECTO de la acción (pero solo si se logró el impacto).
+
+.. figure:: /_static/images/rules/rpg-image-12.webp
 
 .. csv-table:: Lista de Armas Meleé
    :widths: 25, 25, 25, 25
@@ -322,6 +332,8 @@ Los otros personajes aliados del atacante que quieran afectar al adversario atra
 Condiciones y consecuencias de Violencia
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. figure:: /_static/images/rules/rpg-image-14.avif
+
 Los siguientes son ejemplos de Condiciones que resultan de distintos tipos de daño, dependiendo de su severidad. 
 
 .. csv-table::
@@ -336,6 +348,8 @@ Los siguientes son ejemplos de Condiciones que resultan de distintos tipos de da
 
 Rotura de Objetos para Protección
 ---------------------------------
+
+.. figure:: /_static/images/rules/rpg-image-15.avif
 
 Con esta regla opcional, los jugadores pueden optar por sacrificar un objeto que sus personajes poseen, en vez de recibir una Condición a causa de una fuente de daño.
 
@@ -415,6 +429,8 @@ Si se necesita comparar o intercambiar entre bienes de diferente valor, consider
 
 Capacidad de Carga
 ------------------
+
+.. figure:: /_static/images/rules/rpg-image-16.png
 
 Los personajes en los juegos de 2d6Mundos no tienen un valor numérico como límite de objetos que pueden llevar, ni tampoco se considera importante cuantificar el peso de cada cosa que puedan encontrar. En cambio, se usa el sentido común y una guía básica.
 
