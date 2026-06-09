@@ -308,14 +308,22 @@ El daño es un bonificador que solo se suma al resultado de la tirada si se acie
    "Garrote", "+1 contundente", "corto alcance", "Una mano, ocultable"
    "Hacha de mano", "+1 cortante", "corto alcance", "Una mano, arrojable"
    "Espada corta", "+1 cortante/perforante", "medio alcance", "Una mano"
+   "Martillo", "+2 contundente", "medio alcance", "Una mano"
+   "Estoque", "+2 perforante", "medio alcance", "Una mano"
    "Espada larga", "+2 cortante/perforante", "medio alcance", "Una o Dos manos"
    "Lanza corta / Javalina", "+1 perforante", "medio alcance", "Arrojable"
    "Hacha", "+2 cortante", "medio alcance", "Una o Dos manos"
-   "Mazo de guerra", "+2 contundente", "medio alcance", "Dos manos"
-   "Gran Hacha", "+2 cortante", "medio alcance", "Dos manos"
+   "Mazo de guerra", "+3 contundente", "medio alcance", "Dos manos"
+   "Gran Hacha", "+4 cortante", "medio alcance", "Dos manos"
    "Lanza larga", "+2 perforante", "largo alcance", "Dos manos"
-   "Alabarda", "+3 cortante", "largo alcance", "Dos manos"
-   "Zwëihander", "+3 cortante/perforante", "largo alcance", "Dos manos"
+   "Alabarda", "+4 cortante", "largo alcance", "Dos manos"
+   "Zwëihander", "+4 cortante/perforante", "largo alcance", "Dos manos"
+
+A Dos manos, o Dos Armas
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Las armas que son a *Una o Dos manos* pueden usarse con una sola mano, pero si se usan *a Dos manos*, hacen +1 Daño.
+* Usar dos armas de *Una mano* en cada mano te penaliza en -1 a tus tiradas de ataque, pero puedes usar el alcance más largo de las dos, y si impactas, combinas el Daño de ambas. Además, te da un +1 a la defensa, siempre que tenga sentido que sea ventajoso defenderte con el tipo de armas que portas, a discresión del DJ.
 
 Presas y Agarres
 ****************
