@@ -194,6 +194,8 @@ Por cada incremento de tamaño (persona > automóvil > camión > casa, etc), la 
 Armadura / Protección
 *********************
 
+.. figure:: /_static/images/rules/rpg-image-17.jpg
+
 Si uno de los participantes del combate tiene una armadura o pieza de protección gana +1 a las tiradas para defenderse (u otorga -1 a las tiradas de sus adversarios al atacarlo). Si la armadura/protección es especialmente ideal para ese tipo de daño (por ejemplo, un chaleco de kevlar para un ataque de disparos de balas, o una cota de malla para un ataque cortante de una espada), entonces el bonificador es +2 (o -2 de penalización para su atacante). Los tipos de armadura/protección (contra daño perforante/contundente/cortante/etc) y su eficacia quedan a discresión del DJ.
 
 Las armaduras u objetos de protección, como los escudos, también pueden romperse para evitar que el daño se reciba directamente. Ver la regla opcional de :ref:`Rotura de Objetos para Protección <reglas-opcionales-rotura-objetos-proteccion>`. 
