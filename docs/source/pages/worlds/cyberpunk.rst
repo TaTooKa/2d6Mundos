@@ -428,7 +428,9 @@ Ten en cuenta que el exceso de Ciber-Implantes instalados conlleva una progresiv
 Equipamiento
 ^^^^^^^^^^^^
 
-Puedes adquirir más armas, armaduras o equipo durante la creación de personaje, siempre y cuando puedas pagarlos con tus :hoverxref:`Recursos <cyberpunk-recursos>`.
+Puedes adquirir más armas, armaduras o equipo durante la creación de personaje, siempre y cuando puedas pagarlos con tus :hoverxref:`Recursos <cyberpunk-recursos>`. [#]_
+
+.. [#] Si buscas más realismo y/o mecánicas más complejas y profundas de combate y acción, considera aplicar las reglas opcionales de :hoverxref:`Combates y Violencia <reglas-opcionales-combate>`.
 
 Armadura y Protección
 ~~~~~~~~~~~~~~~~~~~~~

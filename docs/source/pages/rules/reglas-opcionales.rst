@@ -136,6 +136,8 @@ La "Lista de Hechizos", "Elementos" o "Escuelas" de Magia, o cualquier otra taxo
 
 Puedes tomar cualquier Lista de Hechizos o sistema de magia improvisada / mecanizada de otros juegos de rol o universos existentes, y aplicar estas simples reglas sobre eso.
 
+.. _reglas-opcionales-combate:
+
 Combates y Violencia
 --------------------
 
