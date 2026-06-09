@@ -166,6 +166,8 @@ Dificultad para acertar a un objetivo "normal" (tamaño/silueta de una persona a
 Silueta
 *******
 
+La "Silueta" es una simplificación de la sección visible y el tamaño del objetivo al cual disparar. Cuanto más grande su silueta, más fácil será acertarle.
+
 Por cada incremento de tamaño (persona > automóvil > camión > casa, etc), la dificultad se reduce en -1. Por cada decremento de tamaño (persona > niño > mascota > objeto maleable, etc) la dificultad se incrementa en +1.
 
 .. csv-table::
