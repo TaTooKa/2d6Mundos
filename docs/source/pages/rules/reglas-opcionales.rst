@@ -260,7 +260,7 @@ Adicionalmente, una explosión tiene dos áreas de efecto:
 * **Epicentro**: el área más cercana a la explosión, donde el daño es máximo. El tipo de daño es *contundente*, *cortante* y *perforante*. La Dificultad de la tirada defensiva para los personajes que estén en el epicentro es +2, y el Daño (que se suma al EFECTO en caso de impacto) es de +2, acumulativo.
 * **Zona de Metralla/Esquirlas**: El área que rodea al epicentro, donde el daño es menor pero sigue siendo peligroso. El tipo de daño es *cortante* y *perforante*. No tiene modificadores a la Dificultad de la tirada defensiva.
 
-A discresión del DJ, incluso si los personajes quedan fuera de la zona de explosión (o logran defenderse o esquivarla exitosamente), pueden sufrir daños colaterales por la onda expansiva, el ruido ensordecedor, la caída de escombros, etc.
+A discresión del DJ, incluso si los personajes quedan fuera de la zona de explosión (o logran defenderse o esquivarla exitosamente), pueden sufrir daños colaterales por la onda expansiva, el ruido ensordecedor, la caída de escombros, el humo o polvo, etc.
 
 Combate Meleé / Cuerpo a Cuerpo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -281,28 +281,39 @@ Daño
 
 El daño es un bonificador que solo se suma al resultado de la tirada si se acierta al objetivo, y cuenta para mejorar el EFECTO de la acción (pero solo si se logró el impacto).
 
-
 .. csv-table:: Lista de Armas Meleé
    :widths: 25, 25, 25, 25
    :header: "Tipo de Arma", "Daño", "Alcance", "Especial"
 
-   "Puñetazos",  "+0", "corto alcance", "Sin armas"
-   "Patadas",  "+0", "medio alcance", "Sin armas"
-   "Cuchillo", "+1", "corto alcance", "Una mano, ocultable"
-   "Daga", "+1", "corto alcance", "Una mano, ocultable"
-   "Hacha de mano", "+1", "corto alcance", "Una mano, arrojable"
-   "Espada corta", "+1", "medio alcance", "Una mano"
-   "Espada larga", "+2", "medio alcance", "Una o Dos manos"
-   "Lanza corta / Javalina", "+1", "medio alcance", "Arrojable"
-   "Hacha", "+2", "medio alcance", "Una o Dos manos"
-   "Lanza larga", "+2", "largo alcance", "Dos manos"
-   "Alabarda", "+3", "largo alcance", "Dos manos"
-   "Zwëihander", "+3", "largo alcance", "Dos manos"
+   "Puñetazos",  "+0 contundente", "corto alcance", "Sin armas"
+   "Patadas",  "+0 contundente", "medio alcance", "Sin armas"
+   "Cuchillo", "+1 cortante/perforante", "corto alcance", "Una mano, ocultable"
+   "Daga", "+1 cortante/perforante", "corto alcance", "Una mano, ocultable"
+   "Garrote", "+1 contundente", "corto alcance", "Una mano, ocultable"
+   "Hacha de mano", "+1 cortante", "corto alcance", "Una mano, arrojable"
+   "Espada corta", "+1 cortante/perforante", "medio alcance", "Una mano"
+   "Espada larga", "+2 cortante/perforante", "medio alcance", "Una o Dos manos"
+   "Lanza corta / Javalina", "+1 perforante", "medio alcance", "Arrojable"
+   "Hacha", "+2 cortante", "medio alcance", "Una o Dos manos"
+   "Mazo de guerra", "+2 contundente", "medio alcance", "Dos manos"
+   "Gran Hacha", "+2 cortante", "medio alcance", "Dos manos"
+   "Lanza larga", "+2 perforante", "largo alcance", "Dos manos"
+   "Alabarda", "+3 cortante", "largo alcance", "Dos manos"
+   "Zwëihander", "+3 cortante/perforante", "largo alcance", "Dos manos"
 
 Presas y Agarres
 ****************
 
-TODO
+Intentar un agarre u otras tomas físicas es una acción de ataque cuerpo a cuerpo que no inflige daño, al menos en principio. El DJ determina la dificultad de la tirada de forma convencional, aplicando los niveles de Trasfondos relevantes y otros modificadores circunstanciales. 
+
+Si la tirada resulta exitosa, entonces el atacante puede:
+
+* **Empujar** al adversario, moviéndolo a un lugar cercano que el atacante elija, o tirándolo contra algún otro objeto que le cause daño (la severidad dependerá del Efecto de la tirada y la discresión del DJ) o que provoque algún otro efecto o ventaja (por ejemplo, haciéndolo caer o romper una mesa).
+* **Apresar** al adversario, con tomas de sujeción que le impidan moverse o actuar libremente, como un "*headlock*", "abrazo de oso", "guillotina", etc. El adversario puede intentar liberarse de esa presa con una tirada de acción física en su próximo round, pero el atacante puede intentar mantenerla con una tirada de acción física también, y así sucesivamente hasta que uno de los dos logre romper la presa. Mientras tanto, el adversario se ve severamente limitado en sus acciones.
+* **Arrastrar** al adversario, agarrándolo por la ropa o por alguna parte de su cuerpo, y trasladándolo violentamente a un lugar cercano que el atacante elija. Esta toma funciona de manera muy similar a la opción de "*Empujar*", pudiendo incluso hacer chocar al adversario contra algún otro objeto que le cause daño, pero con la diferencia de que el atacante siempre se mantiene en contacto con su víctima hasta que éste logre soltarse.
+* **Ahorcar** o someter al adversario por medio de asfixia, apretamiento o torcedura que cause dolor extremo. Para usar esta opción, primero el atacante debe haber logrado una toma de "*Apresar*" exitosa en un round anterior. Cada round que se mantenga el *Ahorque*, el adversario sufre una Condición de daño modificada por el Efecto de la tirada. 
+
+Los otros personajes aliados del atacante que quieran afectar al adversario atrapado tendrán un bonificador de +1 a sus tiradas.
 
 Condiciones y consecuencias de Violencia
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
