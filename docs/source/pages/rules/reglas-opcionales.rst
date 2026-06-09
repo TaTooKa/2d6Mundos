@@ -328,6 +328,8 @@ A Dos manos, o Dos Armas
 Presas y Agarres
 ****************
 
+.. figure:: /_static/images/rules/rpg-image-18.webp
+
 Intentar un agarre u otras tomas físicas es una acción de ataque cuerpo a cuerpo que no inflige daño, al menos en principio. El DJ determina la dificultad de la tirada de forma convencional, aplicando los niveles de Trasfondos relevantes y otros modificadores circunstanciales. 
 
 Si la tirada resulta exitosa, entonces el atacante puede:
