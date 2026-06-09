@@ -41,4 +41,5 @@ También necesitarás al menos dos dados de seis caras (tirar dos dados y sumar 
    pages/worlds/edad-del-bronce
    pages/worlds/lejano-oeste
    pages/worlds/aventura-pulp
+   pages/worlds/mundo-actual
    
