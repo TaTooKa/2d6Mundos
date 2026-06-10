@@ -29,7 +29,7 @@ Trasfondos
 #. Soldado
 #. Doble de Riesgo
 #. Oficinista
-#. Astronaura
+#. Astronauta
 #. Astrónomo
 #. Oficial Militar
 #. Piloto
@@ -71,7 +71,7 @@ Trasfondos
 #. Intérprete
 #. Periodista de Investigación
 #. Cerrajero
-#. Guarda-parques
+#. Guardaparques
 #. Carpintero
 #. Dentista
 #. Pescador
