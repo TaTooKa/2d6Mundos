@@ -5,6 +5,8 @@ Reglas Básicas
 
 En esta sección se describen las reglas básicas de 2d6Mundos, que son las que se aplican en todos los juegos de rol que utilizan este sistema. El DJ debe estar familiarizado con el reglamento. El resto de los jugadores pueden conocerlas o no; siguiendo las directivas del DJ cuando sea necesario.
 
+.. _reglas-basicas-personajes:
+
 Personajes
 ----------
 
@@ -43,6 +45,8 @@ Cuando un personaje intenta realizar una acción y el DJ determina que es riesgo
    \text{Resultado} = 2d6 + \text{Niveles de Trasfondos Relevantes } \pm \text{ Modificadores}
 
 Si el resultado iguala o supera la **Dificultad** establecida por el DJ, la acción es un **Éxito**. Si el resultado es menor que la **Dificultad**, la acción es un **Fallo**.
+
+.. _reglas-basicas-dificultad:
 
 Dificultad
 ^^^^^^^^^^
@@ -84,6 +88,8 @@ Los **Modificadores** se suman o restan al resultado de los dados, y pueden repr
 
 .. [#] *Permiso narrativo* se refiere a que el personaje puede hacer algo que de otra manera no podría. Por ejemplo, un personaje que tiene un hacha puede intentar talar un árbol, mientras que un personaje sin hacha no podría hacerlo. En este caso, el hacha le da *permiso narrativo* para intentar la acción, pero no le otorga un Modificador positivo a la tirada. En otro ejemplo, un personaje con una Habilidad Especial "*volar*" tiene *permiso narrativo* para alcanzar lugares que un personaje sin esa habilidad no podría.
 
+.. _reglas-basicas-efecto:
+
 Efecto
 ^^^^^^
 
@@ -99,6 +105,8 @@ Cuan por encima o por debajo de la Dificultad se encuentra el resultado de la ti
    "Excede la Dificultad por 6 o más: **ÉXITO ÉPICO**", "Fallar por 6 o más: **FALLO ÉPICO**"
 
 .. reglas-basicas-efecto-table-end
+
+.. _reglas-basicas-condiciones:
 
 Condiciones
 -----------
