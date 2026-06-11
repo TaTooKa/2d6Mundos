@@ -115,9 +115,17 @@ Cuando se recibe una **Condición**, el DJ determina su descripción basándose 
 
 Cada **Condición** otorga un **Modificador negativo de -1** a las acciones del personaje donde sea relevante. Este modificador es acumulable (pudiendo otorgar -3 a un personaje que tiene una Condición de cada tipo).
 
-* Las Condiciones **Leves** representan molestias o inconvenientes menores, como "*cansado*", "*avergonzado*", "*desorientado*", etc. Tardan minutos o horas en curarse.
-* Las Condiciones **Moderadas** representan problemas o dificultades significativas, como "*intoxicado*", "*herido*", "*en pánico*", etc. Tardan horas o días en curarse.
-* Las Condiciones **Severas** representan situaciones críticas o extremas, como "*pierna rota*", "*paralizado*", "*envenenado mortal*", etc. Tardan semanas o meses en curarse.
+.. reglas-basicas-condiciones-table-start
+
+.. csv-table::
+   :widths: 15, 55, 20
+   :header: "Tipo de Condición", "¿Qué representa?", "¿Cuánto tarda en curarse?"
+
+   "Leve", "molestias o inconvenientes menores, como *cansado*, *avergonzado*, o *desorientado*", "minutos u horas"
+   "Moderada", "problemas o dificultades significativas, como *intoxicado*, *herido*, o *en pánico*", "horas o días"
+   "Severa", "situaciones críticas o extremas, como *pierna rota*, *paralizado*, o *envenenado mortalmente*", "semanas o meses"
+
+.. reglas-basicas-condiciones-table-end
 
 Curación y Recuperación
 ^^^^^^^^^^^^^^^^^^^^^^^

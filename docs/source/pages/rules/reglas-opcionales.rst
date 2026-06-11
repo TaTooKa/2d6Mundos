@@ -348,6 +348,8 @@ Condiciones y consecuencias de Violencia
 
 Los siguientes son ejemplos de Condiciones que resultan de distintos tipos de daño, dependiendo de su severidad. 
 
+.. reglas-basicas-ejemplos-condiciones-table-start
+
 .. csv-table::
    :widths: 25, 25, 25, 25
    :header: "Tipo de Daño", "Condición Leve", "Condición Moderada", "Condición Severa"
@@ -355,6 +357,8 @@ Los siguientes son ejemplos de Condiciones que resultan de distintos tipos de da
    "**Daño Perforante**", "Pinchazo / roce superficial", "Perforación en extremidad / sangrado", "Órgano vital perforado / sangrado interno"
    "**Daño Contundente**", "Golpe / Porrazo / Moretón / Luxación", "Esguince / Lesión muscular / Hueso dislocado / Fisura", "Hueso roto / Hemorragia interna / Órgano roto / Conmoción cerebral"
    "**Daño Cortante**", "Corte superficial / Rasguño / Laceración / Sangrado leve", "Corte profundo / sangrado profuso", "Músculo/hueso/órgano expuesto / Extremidad cortada / sangrado masivo"
+
+.. reglas-basicas-ejemplos-condiciones-table-end
 
 .. _reglas-opcionales-rotura-objetos-proteccion:
 
