@@ -142,9 +142,9 @@ Cuando se aplica o se recibe una Condición, el tipo (o gravedad) de la misma de
 .. csv-table::
    :header: "EFECTO del ÉXITO/FALLO", "Aplica o Recibe una..."
 
-   "ÉXITO o FALLO NORMAL", "Condición Leve"
-   "ÉXITO o FALLO ROTUNDO", "Condición Moderada"
-   "ÉXITO o FALLO ÉPICO", "Condición Severa"
+   "ÉXITO o FALLO **NORMAL**", "Condición *Leve*"
+   "ÉXITO o FALLO **ROTUNDO**", "Condición *Moderada*"
+   "ÉXITO o FALLO **ÉPICO**", "Condición *Severa*"
 
 .. reglas-basicas-aplicando-recibiendo-condiciones-table-end
 
