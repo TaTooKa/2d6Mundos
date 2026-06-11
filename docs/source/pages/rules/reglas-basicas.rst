@@ -11,11 +11,15 @@ Personajes
 Los Personajes están definidos por sus **Trasfondos** (algunos los llaman "**Clases**"), y el nivel en cada uno de ellos (por ejemplo, "*Cazarrecompensas 2*", "*Hacker 1*", "*Guerrero 3*", etc.). 
 Los niveles en cada Trasfondo van de 1 a 5, y los personajes pueden tener múltiples Trasfondos en diferentes niveles.
 
+.. reglas-basicas-niveles-table-start
+
 .. csv-table:: 
    :align: center
 
    "NIVEL 1", "NIVEL 2", "NIVEL 3", "NIVEL 4", "NIVEL 5"
    "AFICIONADO", "ENTRENADO", "EXPERTO", "VETERANO", "MAESTRO"
+
+.. reglas-basicas-niveles-table-end
 
 Los personajes nuevos comunmente comienzan con tres niveles en uno, dos o tres Trasfondos, a elección del jugador [#]_.
 
@@ -49,6 +53,8 @@ El DJ determina la **Dificultad** de cada acción según su criterio, dependiend
 
 .. [#] Ten en cuenta que las "probabilidades con un +0" consideran a un personaje que ni siquiera tiene un nivel 1 (*aficionado*) en un Trasfondo relevante para la acción (o un personaje con niveles en Trasfondos relevantes pero que está sufriendo penalizaciones por Condiciones que cancelan sus modificadores hasta volver a +0). Esto significa que alguien sin ningún tipo de entrenamiento ni conocimiento (o alguien que sufre desventajas contextuales) que intenta una acción de dificultad Difícil (8) **tendrá más chances de fallar que de lograrlo** (42% de chances), lo cual es lógico. Esto fomentará a los jugadores a maximizar sus chances, intentando cosas en las que sus personajes están entrenados, o buscando formas de obtener Modificadores positivos a través de objetos, equipo, habilidades especiales, ayuda de aliados, etc. 
 
+.. reglas-basicas-dificultades-table-start
+
 .. csv-table:: 
    :widths: 10, 20, 70
    :header: "DIFICULTAD", "DESCRIPCIÓN", "PROBABILIDAD"
@@ -62,6 +68,8 @@ El DJ determina la **Dificultad** de cada acción según su criterio, dependiend
    "10", "Extremo", "17% de chance con un +0"
    "11", "Improbable", "8% de chance con un +0"
    "12", "Casi Imposible", "2% de chance con un +0"
+
+.. reglas-basicas-dificultades-table-end
 
 .. _reglas-basicas-modificadores:
 
@@ -81,6 +89,8 @@ Efecto
 
 Cuan por encima o por debajo de la Dificultad se encuentra el resultado de la tirada, determina el **Efecto** de la acción, o el tipo de Éxito o Fallo.
 
+.. reglas-basicas-efecto-table-start
+
 .. csv-table:: 
    :header: "ÉXITO", "FALLO"
 
@@ -88,6 +98,7 @@ Cuan por encima o por debajo de la Dificultad se encuentra el resultado de la ti
    "Excede la Dificultad por 3 a 5: **ÉXITO ROTUNDO**", "Fallar por 3 a 5: **FALLO ROTUNDO**"
    "Excede la Dificultad por 6 o más: **ÉXITO ÉPICO**", "Fallar por 6 o más: **FALLO ÉPICO**"
 
+.. reglas-basicas-efecto-table-end
 
 Condiciones
 -----------

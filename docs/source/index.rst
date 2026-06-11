@@ -22,6 +22,7 @@ También necesitarás al menos dos dados de seis caras (tirar dos dados y sumar 
    pages/rules/reglas-basicas
    pages/rules/reglas-opcionales
    pages/rules/preceptos
+   pages/rules/referencias
 
 .. toctree::
    :caption: Mundos
