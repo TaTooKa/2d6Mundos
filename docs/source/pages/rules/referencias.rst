@@ -35,3 +35,10 @@ Ejemplos de Condiciones
 .. include:: reglas-opcionales.rst
    :start-after: reglas-basicas-ejemplos-condiciones-table-start
    :end-before: reglas-basicas-ejemplos-condiciones-table-end
+
+Aplicando y Recibiendo Condiciones
+**********************************
+
+.. include:: reglas-basicas.rst
+   :start-after: reglas-basicas-aplicando-recibiendo-condiciones-table-start
+   :end-before: reglas-basicas-aplicando-recibiendo-condiciones-table-end

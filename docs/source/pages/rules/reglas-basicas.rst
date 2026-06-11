@@ -137,9 +137,16 @@ Aplicando y Recibiendo Condiciones
 
 Cuando se aplica o se recibe una Condición, el tipo (o gravedad) de la misma depende del **Efecto** de la tirada.
 
-* Por defecto, con un **ÉXITO o FALLO NORMAL** se aplica o recibe una **Condición Leve**.
-* Con un **ÉXITO o FALLO ROTUNDO** se aplica o recibe una **Condición Moderada**.
-* Con un **ÉXITO o FALLO ÉPICO** se aplica o recibe una **Condición Severa**.
+.. reglas-basicas-aplicando-recibiendo-condiciones-table-start
+
+.. csv-table::
+   :header: "EFECTO del ÉXITO/FALLO", "Aplica o Recibe una..."
+
+   "ÉXITO o FALLO NORMAL", "Condición Leve"
+   "ÉXITO o FALLO ROTUNDO", "Condición Moderada"
+   "ÉXITO o FALLO ÉPICO", "Condición Severa"
+
+.. reglas-basicas-aplicando-recibiendo-condiciones-table-end
 
 
 Experiencia y Subida de nivel
