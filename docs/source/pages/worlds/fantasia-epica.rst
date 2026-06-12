@@ -474,7 +474,7 @@ Los *Rituales de Invocación* de espíritus implican cantar canciones antiguas, 
 Magia Rúnica
 ^^^^^^^^^^^^
 
-La **Magia Rúnica** es un tipo de magia que se basa en la inscripción de símbolos con significados poderosos. Los Enanos tienen acceso a esta magia, y pueden aprender a inscribir runas para crear objetos mágicos o para embeber efectos mágicos sobre artefactos, lugares o personas. Otros Magos con Trasfondos de ARTESANO o HERRERO podrían llegar a aprender a inscribir runas sin un enano les enseña la técnica. Las runas pueden inscribirse **temporalmente** (con algún tipo de tinta o líquido, lo que lleva segundos o minutos) o de forma **permanente** (tallándolas o grabándolas en piedra, metal u otro material resistente, un proceso que lleva horas). Borrar o destruir una runa usualmente termina con su efecto mágico.
+La **Magia Rúnica** es un tipo de magia que se basa en la inscripción de símbolos con significados poderosos. Los Enanos tienen acceso a esta magia, y pueden aprender a inscribir runas para crear objetos mágicos o para embeber efectos mágicos sobre artefactos, lugares o personas. Otros Magos con Trasfondos de ARTESANO o HERRERO podrían llegar a aprender a inscribir runas sin un enano les enseña la técnica. Las runas pueden inscribirse **temporalmente** (con algún tipo de tinta o líquido, lo que lleva segundos o minutos) o de forma **permanente** (tallándolas o grabándolas en piedra, metal u otro material resistente, un proceso que lleva horas). Borrar o destruir una runa usualmente termina con su efecto mágico. Por defecto, un objeto solo puede tener una runa. Si se le inscribe otra, la anterior queda "desactivada".
 
 
 .. csv-table::
@@ -482,21 +482,21 @@ La **Magia Rúnica** es un tipo de magia que se basa en la inscripción de símb
    :widths: 5, 95
 
    "11", "**RUNA DEL FILO**: Tallada en un arma; nunca pierde el filo y corta materiales duros más fácil."
-   "12", "**RUNA DE LA CORAZA**: Grabada en armadura; absorbe impactos pesados sin abollarse."
+   "12", "**RUNA DE LA CORAZA**: Grabada en armadura; resiste más de lo normal, y absorbe impactos pesados sin abollarse."
    "13", "**RUNA DEL ANCLA**: Grabada en las botas o suelo; impide que el portador sea derribado o movido."
    "14", "**RUNA DEL CANDADO**: Dibujada en un cerrojo; traba el mecanismo contra ganzúas comunes."
    "15", "**RUNA DE LA FORJA**: Esculpida en una herramienta; calienta el metal al tacto sin necesidad de carbón."
    "16", "**RUNA DEL LAR**: Grabada en el umbral de una casa; alerta con un zumbido si entra un extraño."
    "21", "**RUNA DE LA LUZ**: Trazada en una piedra u objeto; emite una luz constante como una linterna."
    "22", "**RUNA DE LA CARGA**: Grabada en una mochila; reduce a la mitad el peso aparente de lo que contenga."
-   "23", "**RUNA DEL EQUILIBRIO**: Grabada en un bastón o calzado; otorga pasos perfectos sobre superficies estrechas."
-   "24", "**RUNA DE LA ALERTA**: Grabada en un escudo; vibra sutilmente cuando un enemigo apunta hacia ti."
+   "23", "**RUNA DEL EQUILIBRIO**: Grabada en un bastón o calzado; otorga pasos perfectos sobre superficies estrechas o difíciles de cruzar."
+   "24", "**RUNA DE LA ALERTA**: Grabada en un escudo; vibra sutilmente cuando un enemigo apunta hacia ti o está por atacarte."
    "25", "**RUNA DEL SILENCIO**: Dibujada sobre una superficie; amortigua completamente los ruidos en esa habitación."
-   "26", "**RUNA DE LA SALUD**: Grabada en un anillo o colgante; hace al portador inmune a venenos comunes."
+   "26", "**RUNA DE LA SALUD**: Grabada en un anillo o colgante; hace al portador inmune a venenos y enfermedades comunes."
    "31", "**RUNA DEL FUEGO**: Grabada en un arma; hace que la hoja se encienda en llamas al desenvainarla."
-   "32", "**RUNA DE LA ESCARCHA**: Tallada en un contenedor; mantiene los alimentos helados y preservados."
-   "33", "**RUNA DE LA PIEDRA**: Grabada en la piel (tatuaje o pintura); endurece la carne como roca ante cortes."
-   "34", "**RUNA DE LA VERDAD**: Grabada en una mesa; cualquiera que apoye sus manos ahí no puede mentir."
+   "32", "**RUNA DE LA ESCARCHA**: Tallada en un contenedor, arma o herramienta; mantiene los alimentos helados y preservados, o hace que el objeto se hiele y emane frío intenso al empuñarlo para usar."
+   "33", "**RUNA DE LA PIEDRA**: Grabada en la piel (tatuaje o pintura) u otros objetos blandos; endurece la carne o material como si fuese roca."
+   "34", "**RUNA DE LA VERDAD**: Grabada en una mesa o silla; cualquiera que se siente o se apoye ahí no puede mentir."
    "35", "**RUNA DEL VIENTO**: Grabada en una capa; permite planear distancias cortas al saltar al vacío."
    "36", "**RUNA DEL RETORNO**: Grabada en un arma arrojadiza; vuela de regreso a la mano tras ser lanzada."
    "41", "**RUNA DE LA MAZA**: Aumenta el impacto de un arma contundente, permitiendo romper muros de piedra."
@@ -516,7 +516,7 @@ La **Magia Rúnica** es un tipo de magia que se basa en la inscripción de símb
    "63", "**RUNA DEL SUEÑO**: Grabada en una almohada; garantiza un descanso efectivo y revitalizante, y libre de pesadillas y maleficios."
    "64", "**RUNA DE LA VELOCIDAD**: Grabada en las botas; permite correr a alta velocidad, o durante distancias largas sin desgastar las piernas."
    "65", "**RUNA DEL COLAPSO**: Grabada en un pilar estructural; al ser borrada a propósito, hace caer la estructura."
-   "66", "**RUNA DEL MITRIL**: Grabada en cualquier metal común; le otorga la ligereza y durabilidad del mitril."
+   "66", "**RUNA DE CONEXIÓN**: Grabada entre dos otras runas; permite que el objeto tenga los efectos de ambas, ya sea por separado, o combinados para lograr un resultado compuesto o más poderoso."
 
 .. _fantasia-epica-magia-natural:
 
