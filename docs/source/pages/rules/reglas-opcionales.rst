@@ -265,7 +265,7 @@ Si más de un personaje se suma al *Fuego de Cobertura* contra el mismo espacio 
 Explosivos
 **********
 
-Los explosivos funcionan como un ataque que afecta un área determinada (el radio de la explosión)[#]_. Los personajes que estén dentro del área de la explosión deben hacer una tirada defensiva para evitar ser alcanzados por ella. La dificultad de esa tirada será 8, modificada por las otras :hoverxref:`reglas de Cobertura <reglas-opcionales-combate-distancia-cobertura>` y de :hoverxref:`Armadura/Protección <reglas-opcionales-combate-distancia-armadura>`.
+Los explosivos funcionan como un ataque que afecta un área determinada (el radio de la explosión) [#]_. Los personajes que estén dentro del área de la explosión deben hacer una tirada defensiva para evitar ser alcanzados por ella. La dificultad de esa tirada será 8, modificada por las otras :hoverxref:`reglas de Cobertura <reglas-opcionales-combate-distancia-cobertura>` y de :hoverxref:`Armadura/Protección <reglas-opcionales-combate-distancia-armadura>`.
 
 .. [#] Para explosivos colocados previamente, usualmente no hace falta una tirada del lado del atacante. Para explosivos arrojados en el momento, como las **granadas**, el jugador atacante hace una tirada para ver "qué tan bien acierta" cerca del objetivo. Con un *Éxito Normal*, el explosivo deja al objetivo en la **Zona de Metralla/Esquirlas**; con un *Éxito Rotundo* o *Épico*, el explosivo deja al objetivo bien en el **Epicentro**.
 
