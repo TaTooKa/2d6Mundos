@@ -27,7 +27,7 @@ Trasfondos
    "24", "**Bioquímico** (Laboratorio y materiales)"
    "25", "**Planetólogo** (Planetas y minería de asteroides)"
    "26", "**Virólogo** (Contención de patógenos)"
-   "31", "**Marine** (Abordajes en gravedad cero)"
+   "31", "**Marine** (Infantería especializada)"
    "32", "**Mercenario** (Seguridad privada corporativa)"
    "33", "**Alguacil** (Ley en estaciones orbitales)"
    "34", "**Estratega** (Guerra electrónica y táctica)"
