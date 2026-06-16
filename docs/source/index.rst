@@ -33,6 +33,7 @@ También necesitarás al menos dos dados de seis caras (tirar dos dados y sumar 
    pages/worlds/guerra-de-las-galaxias
    pages/worlds/ciencia-ficcion-dura
    pages/worlds/cyberpunk
+   pages/worlds/fantasia-de-poder
    pages/worlds/fantaciencia
    pages/worlds/opera-espacial
    pages/worlds/fantasia-urbana
