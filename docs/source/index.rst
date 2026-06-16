@@ -29,7 +29,7 @@ También necesitarás al menos dos dados de seis caras (tirar dos dados y sumar 
    :hidden:
 
    pages/worlds/espada-y-brujeria
-   pages/worlds/fantasia-epica
+   pages/worlds/fantasia-medieval
    pages/worlds/guerra-de-las-galaxias
    pages/worlds/ciencia-ficcion-dura
    pages/worlds/cyberpunk

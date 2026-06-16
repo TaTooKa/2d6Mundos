@@ -1,12 +1,12 @@
-Fantasía Épica
-==============
+Fantasía Medieval
+=================
 
-El género de *Fantasía Épica* suele desarrollarse en mundos fantásticos similares al nuestro en la época medieval, pero con geografía, reinos y razas particulares. Los protagonistas suelen comenzar como aprendices, neófitos o "don nadies" que, siguiendo el *Camino del Héroe*, se embarcan en aventuras que se conectan en una odisea de escala épica. Lo normal en los juegos de rol es que estos aventureros comiencen de a poco, con misiones simples como la exploración de lugares peligrosos como mazmorras o ruinas, la caza de algún monstruo o criatura mitológica, y luego con el pasar de sus hazañas, estas se vuelvan cada vez más complejas y abarcativas. Para el final de su "campaña" estarán lidiando con problemas entre reinos y ejércitos, villanos de gran poder, e incluso podrían estar entrometiéndose entre las gestas de los Dioses.
+El género de *Fantasía Medieval* suele desarrollarse en mundos fantásticos similares al nuestro, pero con geografía, reinos y razas particulares. Los protagonistas suelen comenzar como aprendices, neófitos o "don nadies" que, siguiendo el *Camino del Héroe*, se embarcan en aventuras que se conectan en una odisea de escala épica. Lo normal en los juegos de rol es que estos aventureros comiencen de a poco, con misiones simples como la exploración de lugares peligrosos como mazmorras o ruinas, la caza de algún monstruo o criatura mitológica, y luego con el pasar de sus hazañas, estas se vuelvan cada vez más complejas y abarcativas. Para el final de su "campaña" estarán lidiando con problemas entre reinos y ejércitos, villanos de gran poder, e incluso podrían estar entrometiéndose entre las gestas de los Dioses.
 
 Creación de Personaje
 ---------------------
 
-Los Personajes de *Fantasía Épica* están definidos por su **Trasfondo** (profesión o conjunto de habilidades no necesariamente relacionadas a la aventura), su **Clase** (arquetipos de aventurero clásicos como *Mago*, *Guerrero*, *Ladrón* o *Clérigo*) y su **Raza** (*Enano*, *Elfo*, *Mediano*, etc). La Raza solo puede ser escogida durante la creación del personaje (se asume que el personaje es Humano si no se elige una Raza particular).
+Los Personajes de *Fantasía Medieval* están definidos por su **Trasfondo** (profesión o conjunto de habilidades no necesariamente relacionadas a la aventura), su **Clase** (arquetipos de aventurero clásicos como *Mago*, *Guerrero*, *Ladrón* o *Clérigo*) y su **Raza** (*Enano*, *Elfo*, *Mediano*, etc). La Raza solo puede ser escogida durante la creación del personaje (se asume que el personaje es Humano si no se elige una Raza particular).
 
 Los personajes comienzan con 3 Niveles a distribuir a gusto entre **Trasfondos**, **Clases** y **Raza**. Por ejemplo, un personaje podría ser un *Enano 2, Clérigo 1*; o un *Herrero 1, Guerrero 2*; o un *Erudito 1, Mago 1, Elfo 1*; o un *Ladrón 3*; etc. No hace falta que un personaje tenga uno de cada Trasfondo/Clase/Raza; el jugador puede optar por cualquier combinación, sin utilizar alguno de esos tipos si así lo deseara.
 
@@ -72,9 +72,9 @@ Los Clérigos son sacerdotes de una religión que, en vez de quedarse en un temp
 
 **EQUIPO INICIAL**: Los Clérigos comienzan con un Mazo o Estrella del Alba, un Escudo Pavés con el símbolo de su religión, una Cota de malla, una túnica o capa con los colores de su órden, y rosarios o cuentas de oración.
 
-**HABILIDADES ESPECIALES**: Los Clérigos tienen acceso a los :hoverxref:`Milagros Divinos <fantasia-epica-milagros-divinos>`, y también pueden curar con imposición de manos (reducen la severidad de una *Condición* que representa una aflicción física), una cantidad de veces por día iguales a su Nivel de Clérigo.
+**HABILIDADES ESPECIALES**: Los Clérigos tienen acceso a los :hoverxref:`Milagros Divinos <fantasia-medieval-milagros-divinos>`, y también pueden curar con imposición de manos (reducen la severidad de una *Condición* que representa una aflicción física), una cantidad de veces por día iguales a su Nivel de Clérigo.
 
-Los Clérigos comienzan conociendo 3 :hoverxref:`Milagros Divinos <fantasia-epica-milagros-divinos>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Clérigo. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
+Los Clérigos comienzan conociendo 3 :hoverxref:`Milagros Divinos <fantasia-medieval-milagros-divinos>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Clérigo. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
 
 .. csv-table:: Títulos de Clérigo y requisitos para subir de nivel
    :widths: 4, 32, 32, 32
@@ -112,9 +112,9 @@ Los Magos se dedican al estudio y la ejecución de hechizos y rituales arcanos. 
 
 **EQUIPO INICIAL**: Los Magos comienzan con una Túnica de mago con gorro o capucha, un Bastón, báculo o cetro adornado, un Libro de hechizos, Una bolsa o morral con componentes e ingredientes mágicos, y un Cristal de enfoque utilizado para potenciar hechizos o rituales. 
 
-**HABILIDADES ESPECIALES**: Los Magos tienen acceso a la :hoverxref:`Magia Arcana <fantasia-epica-magia-arcana>` y a los :hoverxref:`Pactos de Poder <fantasia-epica-pactos-de-poder>`, y también pueden agregar su Nivel de Mago como modificador a cualquier tirada para resistir o evitar un efecto mágico.
+**HABILIDADES ESPECIALES**: Los Magos tienen acceso a la :hoverxref:`Magia Arcana <fantasia-medieval-magia-arcana>` y a los :hoverxref:`Pactos de Poder <fantasia-medieval-pactos-de-poder>`, y también pueden agregar su Nivel de Mago como modificador a cualquier tirada para resistir o evitar un efecto mágico.
 
-Los Magos comienzan conociendo 3 :hoverxref:`Hechizos Arcanos <fantasia-epica-magia-arcana>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Mago. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
+Los Magos comienzan conociendo 3 :hoverxref:`Hechizos Arcanos <fantasia-medieval-magia-arcana>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Mago. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
 
 .. csv-table:: Títulos de Mago y requisitos para subir de nivel
    :widths: 4, 32, 32, 32
@@ -152,9 +152,9 @@ La Raza de los Enanos proviene de grandes ciudades en lo profundo de las montañ
 
 **EQUIPO INICIAL**: Los Enanos comienzan con una armadura de placas, un grueso yelmo de acero, un hacha doble o un gran mazo de guerra, una pica o pala de excavación, y herramientas básicas de reparación.
 
-**HABILIDADES ESPECIALES**: Los Enanos tienen acceso a la :hoverxref:`Magia Rúnica <fantasia-epica-magia-runica>`, y además son muy resistentes; pueden agregar su Nivel de Enano como modificador a cualquier tirada para resistir Condiciones físicas.
+**HABILIDADES ESPECIALES**: Los Enanos tienen acceso a la :hoverxref:`Magia Rúnica <fantasia-medieval-magia-runica>`, y además son muy resistentes; pueden agregar su Nivel de Enano como modificador a cualquier tirada para resistir Condiciones físicas.
 
-Los Enanos comienzan conociendo 3 :hoverxref:`Runas <fantasia-epica-magia-runica>`, y ganan automáticamente una nueva cada vez que suben un Nivel de Enano. Si quieren aprender más, deberán encontrarlas en sus aventuras o aprenderlas de algún maestro.
+Los Enanos comienzan conociendo 3 :hoverxref:`Runas <fantasia-medieval-magia-runica>`, y ganan automáticamente una nueva cada vez que suben un Nivel de Enano. Si quieren aprender más, deberán encontrarlas en sus aventuras o aprenderlas de algún maestro.
 
 .. csv-table:: Títulos de Enano y requisitos para subir de nivel
    :widths: 4, 32, 32, 32
@@ -189,9 +189,9 @@ La Raza de los Elfos proviene de los bosques más antiguos y de los valles ocult
 
 **EQUIPO INICIAL**: Los Elfos comienzan con un atuendo ceñido de cuero liviano, una capa verdigris con capucha, un arco corto y un carcaj de 15 flechas, una espada corta curva, y una soga de seda fina pero muy resistente. 
 
-**HABILIDADES ESPECIALES**: Los Elfos tienen acceso a la :hoverxref:`Magia Natural <fantasia-epica-magia-natural>`, y además son muy ágiles; pueden agregar su Nivel de Elfo como modificador a cualquier tirada de Iniciativa o de chequeos de destreza física o precisión.
+**HABILIDADES ESPECIALES**: Los Elfos tienen acceso a la :hoverxref:`Magia Natural <fantasia-medieval-magia-natural>`, y además son muy ágiles; pueden agregar su Nivel de Elfo como modificador a cualquier tirada de Iniciativa o de chequeos de destreza física o precisión.
 
-Los Elfos comienzan conociendo 3 :hoverxref:`Hechizos Naturales <fantasia-epica-magia-natural>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Elfo. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
+Los Elfos comienzan conociendo 3 :hoverxref:`Hechizos Naturales <fantasia-medieval-magia-natural>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Elfo. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
 
 .. csv-table:: Títulos de Elfo y requisitos para subir de nivel
    :widths: 5, 95
@@ -277,7 +277,7 @@ Si no se elige una Raza particular durante la creación del personaje, se asume 
 Magia
 -----
 
-.. _fantasia-epica-milagros-divinos:
+.. _fantasia-medieval-milagros-divinos:
 
 Milagros Divinos
 ^^^^^^^^^^^^^^^^
@@ -325,7 +325,7 @@ Los **Milagros Divinos** funcionan como hechizos, pero se realizan realizando un
    "65", "**ESTIGMA**: Deja una marca invisible en un pecador que brilla solo ante los ojos de los justos."
    "66", "**RESCATE CELESTIAL**: Una fuerza invisible arrastra a un aliado caído hacia tu posición segura."
 
-.. _fantasia-epica-magia-arcana:
+.. _fantasia-medieval-magia-arcana:
 
 Magia Arcana
 ^^^^^^^^^^^^
@@ -373,7 +373,7 @@ La **Magia Arcana** es el tipo de magia más común, y es la que los Magos puede
    "65", "**SILENCIO**: Dentro de un área pequeña no se escucha ningún sonido, ni nadie puede hablar."
    "66", "**PORTAL**: Crea un portal que conecta a otro que habías creado anteriormente."
 
-.. _fantasia-epica-pactos-de-poder:
+.. _fantasia-medieval-pactos-de-poder:
 
 Pactos de Poder
 ^^^^^^^^^^^^^^^
@@ -469,7 +469,7 @@ Los *Rituales de Invocación* de espíritus implican cantar canciones antiguas, 
    "11", "Prometiendo que aprisionarás o destruirás un enemigo mundano (criatura o persona) de los Espíritus, en menos de un mes."
    "12 o más", "Prometiendo que aprisionarás o destruirás otro Espíritu enemigo a este, en menos de un año."
 
-.. _fantasia-epica-magia-runica:
+.. _fantasia-medieval-magia-runica:
 
 Magia Rúnica
 ^^^^^^^^^^^^
@@ -518,7 +518,7 @@ La **Magia Rúnica** es un tipo de magia que se basa en la inscripción de símb
    "65", "**RUNA DEL COLAPSO**: Grabada en un pilar estructural u objeto sólido; al ser borrada a propósito, hace caer o colapsar la estructura."
    "66", "**RUNA DE CONEXIÓN**: Grabada entre dos otras runas; permite que el objeto tenga los efectos de ambas, ya sea por separado, o combinados para lograr un resultado compuesto o más poderoso."
 
-.. _fantasia-epica-magia-natural:
+.. _fantasia-medieval-magia-natural:
 
 Magia Natural
 ^^^^^^^^^^^^^
