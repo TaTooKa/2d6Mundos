@@ -6,6 +6,8 @@ El género "Ciencia Ficción Dura" ... TODO
 Creación de Personaje
 ---------------------
 
+Tu personaje comenzará con 3 niveles de Trasfondos. Puedes elegir uno solo en nivel 3, o dos en nivel 1 y 2, o tres en nivel 1. Luego inventa una lista de 5 objetos/herramientas que tiene, o usa la :hoverxref:`tabla de Equipo <ciencia-ficcion-dura-equipo>` de más abajo (El DJ te dirá si son adecuados para la ambientación y tu idea de personaje). 
+
 Trasfondos
 **********
 
@@ -49,6 +51,8 @@ Trasfondos
    "64", "**Colono** (agricultura, administración y supervivencia)"
    "65", "**Cazarrecompensas** (Rastreo y captura de fugitivos)"
    "66", "**Médico** (Tratamientos médicos y de primeros auxilios)"
+
+.. _ciencia-ficcion-dura-equipo:
 
 Equipo
 ******
