@@ -5,7 +5,9 @@ La **"Ciencia Ficción Dura"** es un sub-género de la ciencia ficción en el cu
 
 En 2d6Mundos, la ambientación propuesta es la de un futuro no muy lejano donde la humanidad ha logrado conquistar los planetas más cercanos (quizá incluso haya conseguido la forma de viajar a otros sistemas solares). El viaje por el espacio es algo bastante común, alcanzable no solo por las personas más excepcionales y los gobiernos más poderosos, si no también por las corporaciones privadas y la gente "normal" que se gana la vida con alguna profesión relacionada al espacio, ya sea en astronaves o en estaciones orbitales; Los avances tecnológicos le permiten a las personas mejorar sus capacidades físicas y cognitivas con ciber-implantes o conexiones a redes informáticas por *Realidad Aumentada*; Los humanos se han hecho más longevos y menos propensos a morir por enfermedades terminales gracias a increíbles avances en la medicina; etc.
 
-Pero para cumplir con los requisitos de la *ciencia ficción dura*, todo esto está limitado por la ciencia real (al menos lo que se ha descubierto o se teoriza hoy en día) de las disciplinas más relevantes como la astrofísica, la bioquímica, la tecnología aplicada, la física cuántica, la medicina, la geología, etc. Cada DJ puede ajustar esa "dureza" como le plazca en sus partidas de rol, dependiendo de sus conocimientos en dichas materias o su interés en reflejarlas verazmente.
+Pero para cumplir con los requisitos de la *ciencia ficción dura*, todo esto está limitado por la ciencia real (al menos lo que se ha descubierto o se teoriza hoy en día) de las disciplinas más relevantes como la astrofísica, la bioquímica, la tecnología aplicada, la física cuántica, la medicina, la geología, etc. Cada DJ puede ajustar esa "dureza" como le plazca en sus partidas de rol, dependiendo de sus conocimientos en dichas materias o su interés en reflejarlas verazmente [#]_.
+
+.. [#] Puedes hacer uso de las secciones :ref:`Física Espacial <ciencia-ficcion-dura-fisica-espacial>` y :ref:`Viajar por el Espacio <ciencia-ficcion-dura-viajar-por-el-espacio>` para afianzar conceptos de ciencia aplicada en mecánicas de juego.
 
 
 Creación de Personaje
@@ -77,6 +79,8 @@ Equipo
    "44. Sonda de reconocimiento remota", "54. Contador *Geiger-Mueller* digital", "64. Purificador de agua por ósmosis"
    "45. Analizador de atmósfera portátil", "55. Gafas de visión infrarroja", "65. Pintura magnética en espray"
    "46. Bloqueador de señales portátil", "56. Gafas de *Realidad Aumentada*", "66. Cifrador de comunicaciones cuántico"
+
+.. _ciencia-ficcion-dura-fisica-espacial:
 
 Física Espacial
 ---------------
@@ -234,6 +238,8 @@ Temperatura
 
 Comunicaciones
 **************
+
+.. _ciencia-ficcion-dura-viajar-por-el-espacio:
 
 Viajar por el Espacio
 ---------------------
