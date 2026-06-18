@@ -104,12 +104,69 @@ Fuerza Centrífuga
 
 La gravedad artificial por fuerza centrífuga se logra haciendo rotar la nave o el hábitat sobre su eje central, a una velocidad constante. De esta forma, todo lo que esté dentro experimentará una fuerza que lo empuja "hacia afuera", o "chocando" contra las paredes interiores de la rueda. Si se la diseña para que ese sea el piso, se logra la sensación de gravedad natural. 
 
-El mayor problema es el **Efecto Coriolis**, a partir del movimiento inercial creado por el giro. Cuanto más pequeño sea el hábitat, o más cerca se esté del eje central, más pronunciado será este efecto. En estos casos, puede causar mareos o náuseas (representados como una *Condición Leve* como `Vértigo de Coriolis`).
+El mayor problema es el **Efecto Coriolis**, a partir del movimiento inercial creado por el giro. Cuanto más pequeño sea el hábitat, o más cerca se esté del eje central, más pronunciado será este efecto. En estos casos, puede causar mareos o náuseas (representados como una *Condición Leve* como ``Vértigo de Coriolis``).
 
 .. _ciencia-ficcion-dura-micro-gravedad:
 
 Micro-gravedad
 ~~~~~~~~~~~~~~
+
+La anatomía humana no está preparada para la vida en micro-gravedad (al menos no la de los humanos nativos de la Tierra, Marte, u otros hábitats con gravedad). El organismo se deteriora progresivamente y puede ser fatal después de 5 años.
+
+.. csv-table:: Efectos de la Micro-Gravedad en el cuerpo humano
+   :header: "Tiempo sometido a Micro-Gravedad", "Efecto o Condición" 
+   :widths: 20, 80
+
+   "Instantáneo", "Los fluidos se acumulan en el pecho y el rostro, poniéndote algo hinchado e incómodo. 
+   
+   Ganas la Condición Leve ``Incomodidad de Micro-Gravedad``."
+   "Una semana", "Baja presión y pérdida de potasio y líquidos. 
+   
+   Ganas la Condición Leve ``Deshidratación de Micro-Gravedad``."
+   "Un mes", "Atrofia muscular y reducción de la masa corporal. 
+   
+   Ganas la Condición Moderada ``Atrofia de Micro-Gravedad``."
+   "Tres meses", "Los huesos comienzan a perder calcio, masa y densidad, siendo cada vez más débiles y frágiles. 
+   
+   Ganas la Condición Severa ``Osteopenia de Micro-Gravedad``."
+   "Un año", "Muchas funciones corporales comienzan a colapsar; Te estás quedando ciego, y estás casi paralizado o directamente postrado sin algún tipo de asistencia."
+   "Cinco años", "Tu cuerpo colapsa completamente. Morirás inminentemente de un paro cardíaco, colapso del sistema circulatorio, accidente cerebrovascular isquémico, o alguna causa similar."
+
+.. admonition:: Baja Gravedad
+
+   Si te sometes por tiempos prolongados a una gravedad mayor a 0, pero más baja que la mitad de tu "*Gravedad Nativa*", los efectos de la tabla anterior igual aplican, pero tardan 4X más en afectarte.
+
+Estos efectos adversos pueden evitarse o mitigarse con los siguientes métodos:
+
+.. csv-table:: 
+   :header: "Acción preventiva", "Consecuencia" 
+   :widths: 20, 80
+
+   "**Tomando medicación**
+   
+   (tabletas de calcio, pastillas de retención de líquidos, vasoconstrictores, etc)", "Retrasa la mayoría de los efectos negativos de la Micro-Gravedad por un máximo de un mes (luego de ese período, comienzan a aplicarse normalmente). El uso excesivo puede causar adicción o dependencia."
+   "**Ejercicio físico**
+   
+   (cinta de correr, levantar/empujar peso, tonificación muscular, etc)", "Ignora todos los efectos negativos de la Micro-Gravedad.
+   
+   * Al principio, 1 hora/día es suficiente.
+   * Después de un mes, se necesitan 2 horas/día.
+   * Después de tres meses, se necesitan 4 horas/día.
+   * Después de seis meses, incluso haciendo ejercicio constantemente no será suficiente, y los efectos adversos de la Micro-Gravedad comenzarán a afectarte."
+   "**Someterse a gravedad**
+   
+   (por aceleración, fuerza centrífuga o bajando a un planeta)", "Al menos una hora sometido a tu *Gravedad Nativa* cada 3 días de Micro-Gravedad son suficientes para 'pausar' los efectos adversos completamente.
+   
+   Si te sometes a gravedades inferiores a tu *Gravedad Nativa*, ajusta los horas/días de manera acorde (por ejemplo, al menos 2 hs de [½ tu *Gravedad Nativa*] por cada 3 días de Micro-Gravedad)"
+   "**Vestimenta de Resistencia**
+   
+   (*G-Suits*, Tiras o fajas elásticas, 'Trajes de Pingüino', etc)", "Al forzar el cuerpo en posiciones que causan que los músculos requieran más fuerza para contrarrestar la resistencia, estos trajes ayudan a retrasar los efectos de deterioro de Micro-Gravedad en un 50% (por ejemplo, tardarías una semana y media en sufrir **deshidratación**, un mes y medio en sufrir **atrofia**, etc)"
+   "**Experiencia en Micro-Gravedad**
+   
+   (Haber vivido o trabajado gran parte de tu vida en ambientes con Micro-Gravedad)", "Ignora los efectos básicos de ``Incomodidad de Micro-Gravedad``. 
+   
+   La hinchazón igual la sufres; pero ya estás tan acostumbrado que no te afecta."
+
 
 .. _ciencia-ficcion-dura-alta-gravedad:
 
