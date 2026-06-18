@@ -268,7 +268,10 @@ La presión más común en aeronaves o hábitats es de **1 bar**. Una *Despresur
 
 .. [#] en el espacio no suele haber hábitats con módulos mucho más grandes que esos volúmenes, precisamente para tener más control sobre los distintos ambientes presurizados y las contingencias a tomar en caso de accidentes.
 
-   Por ejemplo, si un módulo de 100m³ sufre una perforación de 2cm, perderá 10m³ de atmósfera cada 10 segundos. En pocos instantes las alarmas de detección de despresurización comenzarán a sonar por toda la zona. A los 30 segundos, cuando el aire total llegue a 70m³ (justo por debajo de los ¾ de la presión aceptable), las compuertas de vacío se cerrarán automáticamente para aislar el módulo despresurizado del resto de la aeronave o hábitat. Si nadie emparcha el orificio, el compartimiento quedará completamente despresurizado y al vacío en un total de 1 minuto y 40 segundos (100 segundos). 
+Ejemplo de Despresurización
+   Si un módulo de 100m³ sufre una perforación de 2cm, perderá 10m³ de atmósfera cada 10 segundos. En pocos instantes las alarmas de detección de despresurización comenzarán a sonar por toda la zona. A los 30 segundos, cuando el aire total llegue a 70m³ (justo por debajo de los ¾ de la presión aceptable), las compuertas de vacío se cerrarán automáticamente para aislar el módulo despresurizado del resto de la aeronave o hábitat. Si nadie emparcha el orificio, el compartimiento quedará completamente despresurizado y al vacío en un total de 1 minuto y 40 segundos (100 segundos). 
+
+Los **Trajes Espaciales** tienen mucho menos volumen de aire circulando dentro, pero lo compensan operando a presiones mucho más bajas (0.3 bares) y utilizando concentraciones de oxígeno más altas. Aunque la mayoría de los trajes tienen sistemas automatizados que disparan alarmas e incrementan la mezcla de oxígeno si detectan una caída de presión, si el astronauta no emparcha aunque sea parcialmente la fisura, caerán inconscientes en ~10 segundos (ver los efectos de *Presión Cero* en la tabla *Efectos de Despresurización*). 
 
 Radiación
 *********
