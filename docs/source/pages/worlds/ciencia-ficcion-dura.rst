@@ -62,7 +62,7 @@ Trasfondos
 Equipo
 ******
 
-.. csv-table:: Equipo
+.. csv-table:: 
 
    "11. Traje de vacío blindado", "21. Pistola de bengalas térmicas", "31. Kit de parches de emergencia"
    "12. Exotraje industrial", "22. Cortador de plasma", "32. Grapadora médica de tejido"

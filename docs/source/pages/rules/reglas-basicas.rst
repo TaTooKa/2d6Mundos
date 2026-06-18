@@ -129,9 +129,9 @@ Cada **Condición** otorga un **Modificador negativo de -1** a las acciones del 
    :widths: 15, 55, 20
    :header: "Tipo de Condición", "¿Qué representa?", "¿Cuánto tarda en curarse?"
 
-   "Leve", "molestias o inconvenientes menores, como *cansado*, *avergonzado*, o *desorientado*", "minutos u horas"
-   "Moderada", "problemas o dificultades significativas, como *intoxicado*, *herido*, o *en pánico*", "horas o días"
-   "Severa", "situaciones críticas o extremas, como *pierna rota*, *paralizado*, o *envenenado mortalmente*", "semanas o meses"
+   "Leve", "molestias o inconvenientes menores, como ``cansado``, ``avergonzado``, o ``desorientado``", "minutos u horas"
+   "Moderada", "problemas o dificultades significativas, como ``intoxicado``, ``herido``, o ``en pánico``", "horas o días"
+   "Severa", "situaciones críticas o extremas, como ``pierna rota``, ``paralizado``, o ``envenenado mortalmente``", "semanas o meses"
 
 .. reglas-basicas-condiciones-table-end
 
