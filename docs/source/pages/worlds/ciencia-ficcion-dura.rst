@@ -192,22 +192,22 @@ En la siguiente tabla se listan los efectos de Altas Gs para "**Golpes breves**"
    "**2X** tu *Gravedad Nativa*", "Todo se siente como si pesara el doble de lo normal (incluso tu cuerpo, vestimenta, herramientas, etc).
    
    * **Golpe Breve**: aunque es incómodo, el efecto es negligible para la mayoría de las personas.
-   * **Período Prolongado**: Ganas la Condición Leve ``Dificultado por Altas Gs``, y la vuelves a sufrir o incrementar por cada hora de exposición continua."
+   * **Período Prolongado**: Sufres un *Modificador Circunstancial* de -1 a todas tus acciones por las molestias de las Altas Gs."
    "**3X** tu *Gravedad Nativa*", "* **Golpe Breve**: Haz un :ref:`Chequeo de Resistencia a Altas Gs <ciencia-ficcion-dura-chequeo-resistencia-altas-gs>`.
-   * **Período Prolongado**: Ganas la Condición Moderada ``Incapacitado por Altas Gs``, y la vuelves a sufrir o incrementar por cada hora de exposición continua."
+   * **Período Prolongado**: Sufres un *Modificador Circunstancial* de -1 a todas tus acciones por las molestias de las Altas Gs."
    "**4X** tu *Gravedad Nativa*", "* **Golpe Breve**: Haz un :ref:`Chequeo de Resistencia a Altas Gs <ciencia-ficcion-dura-chequeo-resistencia-altas-gs>` con un penalizador de -1.
-   * **Período Prolongado**: Casi que no puedes moverte (te cuesta mucho esfuerzo).  Ganas la Condición Severa ``Incapacitado por Altas Gs``, y la vuelves a sufrir o incrementar por cada hora de exposición continua."
+   * **Período Prolongado**: Casi que no puedes moverte (te cuesta mucho esfuerzo). Sufres un *Modificador Circunstancial* de -2 a todas tus acciones por las molestias de las Altas Gs."
    "**5X** tu *Gravedad Nativa*", "* **Golpe Breve**: Haz un :ref:`Chequeo de Resistencia a Altas Gs <ciencia-ficcion-dura-chequeo-resistencia-altas-gs>` con un penalizador de -2.
-   * **Período Prolongado**: No puedes moverte; estás postrado en el lugar y sufriendo dolor extremo.  Ganas la Condición Severa ``Incapacitado por Altas Gs``, y la vuelves a sufrir o incrementar por cada hora de exposición continua."
+   * **Período Prolongado**: No puedes moverte; estás postrado en el lugar y sufriendo dolor extremo. Casi que no puedes moverte (te cuesta mucho esfuerzo). Sufres un *Modificador Circunstancial* de -3 a todas tus acciones por las molestias de las Altas Gs."
    "**10X** tu *Gravedad Nativa*", "* **Golpe Breve**: Haz un :ref:`Chequeo de Resistencia a Altas Gs <ciencia-ficcion-dura-chequeo-resistencia-altas-gs>` con un penalizador de -3.
-   * **Período Prolongado**: No puedes moverte; estás postrado en el lugar y sufriendo dolor extremo.  Ganas la Condición Severa ``Incapacitado por Altas Gs``, y la vuelves a sufrir o incrementar por cada hora de exposición continua."
+   * **Período Prolongado**: No puedes moverte; estás postrado en el lugar y sufriendo dolor extremo. Sufres un *Modificador Circunstancial* de -4 a todas tus acciones por las molestias de las Altas Gs."
 
 .. _ciencia-ficcion-dura-chequeo-resistencia-altas-gs:
 
 Chequeo de Resistencia a Altas Gs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Haz una tirada de dados (sumando cualquier *Trasfondo* u otro modificador circunstancial que te afecte, y restando los penalizadores impuestos por la tabla anterior) contra una Dificultad de 8. Si la superas, solo tienes las molestias ocasionadas por las extremas fuerzas G, pero no sufres otras Condiciones. Si la fallas, sufres una Condición como las que se detallan a continuación (la gravedad dependerá del *Efecto* del fallo):
+Haz una tirada de dados (sumando cualquier *Trasfondo* u otro modificador circunstancial que te afecte, y restando los penalizadores impuestos por la tabla anterior) contra una Dificultad de 8. Si la superas, solo tienes las molestias ocasionadas por las extremas fuerzas G (y sus correspondientes *Modificadores Circunstanciales*), pero no sufres otras Condiciones. Si la fallas, sufres una Condición como las que se detallan a continuación (la gravedad dependerá del *Efecto* del fallo):
 
 * **Leve**: Sientes un leve mareo y todo se pone negro; sufres ``Visión de túnel``.
 * **Moderada**: Te baja la presión y comienzas a desmayarte; sufres ``G-LOC``. 
