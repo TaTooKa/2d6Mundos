@@ -87,6 +87,7 @@ Fuentes de Inspiración
 * Saga y universo **Alien** de Ridley Scott
 * La **Trilogía de Marte** de Kim Stanley Robinson
 * **2001 Nights** de Yukinobu Hoshino
+* **Cita Con Rama** de Arthur C. Clarke
 * **Planetes** de Makoto Yukimura
 * **The Martian** y **Project Hail Mary** de Andy Weir
 * **Gravity** de Alfonso Cuarón
