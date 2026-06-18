@@ -78,6 +78,71 @@ Equipo
    "45. Analizador de atmósfera portátil", "55. Gafas de visión infrarroja", "65. Pintura magnética en espray"
    "46. Bloqueador de señales portátil", "56. Gafas de *Realidad Aumentada*", "66. Cifrador de comunicaciones cuántico"
 
+Física Espacial
+---------------
+
+A continuación se detallan diversas mecánicas relacionadas a la física en el espacio que suelen entrar en juego en historias de *Ciencia Ficción Dura*.
+
+Gravedad
+********
+
+En el espacio no hay gravedad, a menos que se genere artificialmente por **aceleración** o **fuerza centrífuga**.
+
+Aceleración
+~~~~~~~~~~~
+
+Mientras una astronave esté acelerando, dentro de la misma se produce un efecto de empuje en el sentido opuesto al vector de movimiento, de las mismas G en la que se acelera [#]_. Es por esto que muchas astronaves están diseñadas con forma de "edificio" con pisos uno arriba del otro, con los motores en la parte "inferior".
+
+.. [#] Si la aceleración es demasiado alta para lo que están acostumbrados los personajes (dependiendo de su "*Gravedad Nativa*"), sufrirán los efectos de :ref:`Alta Gravedad <ciencia-ficcion-dura-alta-gravedad>`.
+
+Cuando la nave se detiene, o deja de acelerar (es decir, está "a la deriva", volando por el espacio a una velocidad constante), dentro de la misma se percibe gravedad cero. [#]_
+
+.. [#] Consulta los efectos inmediatos y prolongados de exposición a :ref:`Micro-Gravedad <ciencia-ficcion-dura-micro-gravedad>`.
+
+Fuerza Centrífuga
+~~~~~~~~~~~~~~~~~
+
+La gravedad artificial por fuerza centrífuga se logra haciendo rotar la nave o el hábitat sobre su eje central, a una velocidad constante. De esta forma, todo lo que esté dentro experimentará una fuerza que lo empuja "hacia afuera", o "chocando" contra las paredes interiores de la rueda. Si se la diseña para que ese sea el piso, se logra la sensación de gravedad natural. 
+
+El mayor problema es el **Efecto Coriolis**, a partir del movimiento inercial creado por el giro. Cuanto más pequeño sea el hábitat, o más cerca se esté del eje central, más pronunciado será este efecto. En estos casos, puede causar mareos o náuseas (representados como una *Condición Leve* como `Vértigo de Coriolis`).
+
+.. _ciencia-ficcion-dura-micro-gravedad:
+
+Micro-gravedad
+~~~~~~~~~~~~~~
+
+.. _ciencia-ficcion-dura-alta-gravedad:
+
+Alta gravedad
+~~~~~~~~~~~~~
+
+Presión y Atmósfera
+*******************
+
+Falta de oxígeno
+~~~~~~~~~~~~~~~~
+
+Despresurización
+~~~~~~~~~~~~~~~~
+
+Radiación
+*********
+
+Temperatura
+***********
+
+Comunicaciones
+**************
+
+Viajar por el Espacio
+---------------------
+
+Astronaves
+----------
+
+Tablas y generadores al azar
+----------------------------
+
 Fuentes de Inspiración
 ----------------------
 
