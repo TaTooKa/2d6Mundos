@@ -17,7 +17,6 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'hoverxref.extension',
 ]
 
 intersphinx_mapping = {
@@ -35,15 +34,6 @@ html_theme = 'sphinx_book_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
-
-# -- Options for hoverxref
-hoverxref_roles = [
-    'numref',
-    'confval',
-    'setting',
-    'footnote',
-]
-hoverxref_auto_ref = True
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

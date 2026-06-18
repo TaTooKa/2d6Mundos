@@ -440,7 +440,7 @@ Un personaje que tiene un Trasfondo relacionado con el uso de **La Fuerza** tien
 * **[elemento]quinesis** (control sobre fuego/agua/gravedad/energías/etc)
 * **Otros efectos exóticos** (sanación, ilusiones, metamorfosis, brujería, etc—a discreción del DJ).
 
-Similar al :hoverxref:`Sistema de Magia <reglas-opcionales-sistema-magia>` propuesto en la sección de Reglas Opcionales, una vez que el jugador explica el efecto deseado que quiere realizar su personaje, el DJ debe determinar si este es **Sutil**, **Evidente**, **Masivo**, o **Increíble**. 
+Similar al :ref:`Sistema de Magia <reglas-opcionales-sistema-magia>` propuesto en la sección de Reglas Opcionales, una vez que el jugador explica el efecto deseado que quiere realizar su personaje, el DJ debe determinar si este es **Sutil**, **Evidente**, **Masivo**, o **Increíble**. 
 
 * Los **Efectos Sutiles** (causar un sonido a la distancia; tocar un botón remotamente; hacer un truco mental) funcionan automáticamente (no necesitan de una tirada de dados), o en ciertos casos, dan +1 a la tirada de dados de *Uso de la Fuerza*.
 * Los **Efectos Evidentes** (empujar a alguien o algo; mover algo remotamente con precisión; arrojar un *Sable de Luz* encendido como un boomerang y que vuelva a tu mano) normalmente requieren de una tirada de dados de *Uso de la Fuerza*. 
@@ -646,36 +646,36 @@ Tira d6, d6 para generar una locación y una sub-locación, luego refiérete a s
    :header-rows: 1
 
     "1","LUGARES NATURALES","2","LUGARES OLVIDADOS"
-    "","1. :hoverxref:`DESIERTO <places-desert>`","","1. :hoverxref:`LUGAR SAGRADO <places-hallow>`"
-    "","2. :hoverxref:`PANTANO <places-swamp>`","","2. :hoverxref:`MONTAÑA <places-mountain>`"
-    "","3. :hoverxref:`BOSQUE <places-forest>`","","3. :hoverxref:`RUINAS <places-ruin>`"
-    "","4. :hoverxref:`TUNDRA <places-tundra>`","","4. :hoverxref:`NAVE EN RUINAS <places-shipwreck>`"
-    "","5. :hoverxref:`OCÉANO <places-ocean>`","","5. :hoverxref:`CUEVA <places-cave>`"
-    "","6. :hoverxref:`TORMENTA <places-storm>`","","6. :hoverxref:`CHATARRERÍA <places-junkyard>`"
+    "","1. :ref:`DESIERTO <places-desert>`","","1. :ref:`LUGAR SAGRADO <places-hallow>`"
+    "","2. :ref:`PANTANO <places-swamp>`","","2. :ref:`MONTAÑA <places-mountain>`"
+    "","3. :ref:`BOSQUE <places-forest>`","","3. :ref:`RUINAS <places-ruin>`"
+    "","4. :ref:`TUNDRA <places-tundra>`","","4. :ref:`NAVE EN RUINAS <places-shipwreck>`"
+    "","5. :ref:`OCÉANO <places-ocean>`","","5. :ref:`CUEVA <places-cave>`"
+    "","6. :ref:`TORMENTA <places-storm>`","","6. :ref:`CHATARRERÍA <places-junkyard>`"
 
 .. csv-table:: 
    :widths: 5 45 5 45
    :header-rows: 1
 
     "3","LUGARES BÉLICOS","4","LUGARES LIMINALES"
-    "","1. :hoverxref:`BASE MILITAR <places-base>`","","1. :hoverxref:`ASTEROIDE <places-asteroid>`"
-    "","2. :hoverxref:`CENTRO BUROCRÁTICO <places-bureaucracy>`","","2. :hoverxref:`VACÍO ESPACIAL <places-void>`"
-    "","3. :hoverxref:`BASE DE DESTRUCCIÓN MASIVA<places-wmd-base>`","","3. :hoverxref:`ESPACIO-PUERTO <places-spaceport>`"
-    "","4. :hoverxref:`CAMPO DE BATALLA <places-battleground>`","","4. :hoverxref:`CARAVANA <places-caravan>`"
-    "","5. :hoverxref:`LABORATORIO <places-laboratory>`","","5. :hoverxref:`PORTAL <places-gateway>`"
-    "","6. :hoverxref:`ENFERMERÍA <places-infirmary>`","","6. :hoverxref:`ESPEJISMO <places-mirage>`"
+    "","1. :ref:`BASE MILITAR <places-base>`","","1. :ref:`ASTEROIDE <places-asteroid>`"
+    "","2. :ref:`CENTRO BUROCRÁTICO <places-bureaucracy>`","","2. :ref:`VACÍO ESPACIAL <places-void>`"
+    "","3. :ref:`BASE DE DESTRUCCIÓN MASIVA<places-wmd-base>`","","3. :ref:`ESPACIO-PUERTO <places-spaceport>`"
+    "","4. :ref:`CAMPO DE BATALLA <places-battleground>`","","4. :ref:`CARAVANA <places-caravan>`"
+    "","5. :ref:`LABORATORIO <places-laboratory>`","","5. :ref:`PORTAL <places-gateway>`"
+    "","6. :ref:`ENFERMERÍA <places-infirmary>`","","6. :ref:`ESPEJISMO <places-mirage>`"
 
 .. csv-table:: 
    :widths: 5 45 5 45
    :header-rows: 1
 
     "5","LUGARES CONCURRIDOS","6","LUGARES ÍNTIMOS"
-    "","1. :hoverxref:`METRÓPOLIS <places-metropolis>`","","1. :hoverxref:`ACANTILADO <places-cliff>`"
-    "","2. :hoverxref:`CALLES <places-alley>`","","2. :hoverxref:`BIBLIOTECA <places-library>`"
-    "","3. :hoverxref:`MERCADO <places-market>`","","3. :hoverxref:`TALLER <places-workshop>`"
-    "","4. :hoverxref:`GRANJA <places-farm>`","","4. :hoverxref:`NAVE ESPACIAL <places-ship>`"
-    "","5. :hoverxref:`BAR <places-bar>`","","5. :hoverxref:`APOSENTOS <places-quarters>`"
-    "","6. :hoverxref:`GALA <places-gala>`","","6. :hoverxref:`ACADEMIA <places-academy>`"
+    "","1. :ref:`METRÓPOLIS <places-metropolis>`","","1. :ref:`ACANTILADO <places-cliff>`"
+    "","2. :ref:`CALLES <places-alley>`","","2. :ref:`BIBLIOTECA <places-library>`"
+    "","3. :ref:`MERCADO <places-market>`","","3. :ref:`TALLER <places-workshop>`"
+    "","4. :ref:`GRANJA <places-farm>`","","4. :ref:`NAVE ESPACIAL <places-ship>`"
+    "","5. :ref:`BAR <places-bar>`","","5. :ref:`APOSENTOS <places-quarters>`"
+    "","6. :ref:`GALA <places-gala>`","","6. :ref:`ACADEMIA <places-academy>`"
 
 
 LUGARES NATURALES

@@ -72,9 +72,9 @@ Los Clérigos son sacerdotes de una religión que, en vez de quedarse en un temp
 
 **EQUIPO INICIAL**: Los Clérigos comienzan con un Mazo o Estrella del Alba, un Escudo Pavés con el símbolo de su religión, una Cota de malla, una túnica o capa con los colores de su órden, y rosarios o cuentas de oración.
 
-**HABILIDADES ESPECIALES**: Los Clérigos tienen acceso a los :hoverxref:`Milagros Divinos <fantasia-medieval-milagros-divinos>`, y también pueden curar con imposición de manos (reducen la severidad de una *Condición* que representa una aflicción física), una cantidad de veces por día iguales a su Nivel de Clérigo.
+**HABILIDADES ESPECIALES**: Los Clérigos tienen acceso a los :ref:`Milagros Divinos <fantasia-medieval-milagros-divinos>`, y también pueden curar con imposición de manos (reducen la severidad de una *Condición* que representa una aflicción física), una cantidad de veces por día iguales a su Nivel de Clérigo.
 
-Los Clérigos comienzan conociendo 3 :hoverxref:`Milagros Divinos <fantasia-medieval-milagros-divinos>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Clérigo. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
+Los Clérigos comienzan conociendo 3 :ref:`Milagros Divinos <fantasia-medieval-milagros-divinos>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Clérigo. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
 
 .. csv-table:: Títulos de Clérigo y requisitos para subir de nivel
    :widths: 4, 32, 32, 32
@@ -112,9 +112,9 @@ Los Magos se dedican al estudio y la ejecución de hechizos y rituales arcanos. 
 
 **EQUIPO INICIAL**: Los Magos comienzan con una Túnica de mago con gorro o capucha, un Bastón, báculo o cetro adornado, un Libro de hechizos, Una bolsa o morral con componentes e ingredientes mágicos, y un Cristal de enfoque utilizado para potenciar hechizos o rituales. 
 
-**HABILIDADES ESPECIALES**: Los Magos tienen acceso a la :hoverxref:`Magia Arcana <fantasia-medieval-magia-arcana>` y a los :hoverxref:`Pactos de Poder <fantasia-medieval-pactos-de-poder>`, y también pueden agregar su Nivel de Mago como modificador a cualquier tirada para resistir o evitar un efecto mágico.
+**HABILIDADES ESPECIALES**: Los Magos tienen acceso a la :ref:`Magia Arcana <fantasia-medieval-magia-arcana>` y a los :ref:`Pactos de Poder <fantasia-medieval-pactos-de-poder>`, y también pueden agregar su Nivel de Mago como modificador a cualquier tirada para resistir o evitar un efecto mágico.
 
-Los Magos comienzan conociendo 3 :hoverxref:`Hechizos Arcanos <fantasia-medieval-magia-arcana>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Mago. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
+Los Magos comienzan conociendo 3 :ref:`Hechizos Arcanos <fantasia-medieval-magia-arcana>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Mago. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
 
 .. csv-table:: Títulos de Mago y requisitos para subir de nivel
    :widths: 4, 32, 32, 32
@@ -152,9 +152,9 @@ La Raza de los Enanos proviene de grandes ciudades en lo profundo de las montañ
 
 **EQUIPO INICIAL**: Los Enanos comienzan con una armadura de placas, un grueso yelmo de acero, un hacha doble o un gran mazo de guerra, una pica o pala de excavación, y herramientas básicas de reparación.
 
-**HABILIDADES ESPECIALES**: Los Enanos tienen acceso a la :hoverxref:`Magia Rúnica <fantasia-medieval-magia-runica>`, y además son muy resistentes; pueden agregar su Nivel de Enano como modificador a cualquier tirada para resistir Condiciones físicas.
+**HABILIDADES ESPECIALES**: Los Enanos tienen acceso a la :ref:`Magia Rúnica <fantasia-medieval-magia-runica>`, y además son muy resistentes; pueden agregar su Nivel de Enano como modificador a cualquier tirada para resistir Condiciones físicas.
 
-Los Enanos comienzan conociendo 3 :hoverxref:`Runas <fantasia-medieval-magia-runica>`, y ganan automáticamente una nueva cada vez que suben un Nivel de Enano. Si quieren aprender más, deberán encontrarlas en sus aventuras o aprenderlas de algún maestro.
+Los Enanos comienzan conociendo 3 :ref:`Runas <fantasia-medieval-magia-runica>`, y ganan automáticamente una nueva cada vez que suben un Nivel de Enano. Si quieren aprender más, deberán encontrarlas en sus aventuras o aprenderlas de algún maestro.
 
 .. csv-table:: Títulos de Enano y requisitos para subir de nivel
    :widths: 4, 32, 32, 32
@@ -189,9 +189,9 @@ La Raza de los Elfos proviene de los bosques más antiguos y de los valles ocult
 
 **EQUIPO INICIAL**: Los Elfos comienzan con un atuendo ceñido de cuero liviano, una capa verdigris con capucha, un arco corto y un carcaj de 15 flechas, una espada corta curva, y una soga de seda fina pero muy resistente. 
 
-**HABILIDADES ESPECIALES**: Los Elfos tienen acceso a la :hoverxref:`Magia Natural <fantasia-medieval-magia-natural>`, y además son muy ágiles; pueden agregar su Nivel de Elfo como modificador a cualquier tirada de Iniciativa o de chequeos de destreza física o precisión.
+**HABILIDADES ESPECIALES**: Los Elfos tienen acceso a la :ref:`Magia Natural <fantasia-medieval-magia-natural>`, y además son muy ágiles; pueden agregar su Nivel de Elfo como modificador a cualquier tirada de Iniciativa o de chequeos de destreza física o precisión.
 
-Los Elfos comienzan conociendo 3 :hoverxref:`Hechizos Naturales <fantasia-medieval-magia-natural>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Elfo. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
+Los Elfos comienzan conociendo 3 :ref:`Hechizos Naturales <fantasia-medieval-magia-natural>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Elfo. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
 
 .. csv-table:: Títulos de Elfo y requisitos para subir de nivel
    :widths: 5, 95

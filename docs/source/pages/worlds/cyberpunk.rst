@@ -12,9 +12,9 @@ Esa rebeldía es la parte "punk" en *Cyberpunk*. Lo "Cyber" refiere a la cibern�
 Creación de Personaje
 ---------------------
 
-Puedes crear tu personaje siguiendo los siguientes pasos, empezando por el :hoverxref:`Origen Cultural <cyberpunk-origen-cultural>` y la :hoverxref:`Historia de Vida <cyberpunk-historia-vida>`, para luego pasar a la selección de :hoverxref:`Trasfondos <cyberpunk-trasfondos>`, :hoverxref:`Equipo <cyberpunk-equipo>` y :hoverxref:`Ciber-Implantes <cyberpunk-ciber-implantes>`, etc.
+Puedes crear tu personaje siguiendo los siguientes pasos, empezando por el :ref:`Origen Cultural <cyberpunk-origen-cultural>` y la :ref:`Historia de Vida <cyberpunk-historia-vida>`, para luego pasar a la selección de :ref:`Trasfondos <cyberpunk-trasfondos>`, :ref:`Equipo <cyberpunk-equipo>` y :ref:`Ciber-Implantes <cyberpunk-ciber-implantes>`, etc.
 
-Si ya tienes una idea preparada de la historia de tu personaje, su aspecto y su personalidad, puedes saltarte toda la *Historia de Vida* y pasar directamente a la selección de :hoverxref:`Trasfondos <cyberpunk-trasfondos>` (¿qué es lo que se te da mejor?) y :hoverxref:`Equipo <cyberpunk-equipo>` (¿qué herramientas usas para ello?). 
+Si ya tienes una idea preparada de la historia de tu personaje, su aspecto y su personalidad, puedes saltarte toda la *Historia de Vida* y pasar directamente a la selección de :ref:`Trasfondos <cyberpunk-trasfondos>` (¿qué es lo que se te da mejor?) y :ref:`Equipo <cyberpunk-equipo>` (¿qué herramientas usas para ello?). 
 
 .. _cyberpunk-origen-cultural:
 
@@ -60,7 +60,7 @@ Infancia y Juventud
 
 Las siguientes tablas determinarán tu crianza, clase social y dónde viviste durante tu adolescencia y adultez temprana. Esto no es solo para darle color y detalle a la historia de tu personaje; también impactará en el tipo de etiqueta y conocimientos culturales que tienes. Las clases más bajas se llevarán mejor con la etiqueta del Callejeo y el crímen, mientras que las clases más altas se llevarán mejor con la etiqueta corporativa y el conocimiento de negocios.
 
-Sea como fuere que hayas crecido, tu personaje comenzará con un nivel de :hoverxref:`Recursos <cyberpunk-recursos>` en 2 (Clase Media-Baja). Puedes buscarle una explicación a esto o no, pero tu status y recursos actuales son los que te llevan a tener que aceptar trabajos y misiones como mercenario.
+Sea como fuere que hayas crecido, tu personaje comenzará con un nivel de :ref:`Recursos <cyberpunk-recursos>` en 2 (Clase Media-Baja). Puedes buscarle una explicación a esto o no, pero tu status y recursos actuales son los que te llevan a tener que aceptar trabajos y misiones como mercenario.
 
 Crianza y Clase Social
 **********************
@@ -381,9 +381,9 @@ Ciber-Implantes
 
    arte © `Deus Ex: Human Revolution - Eidos Software <https://www.eidosmontreal.com/games/deus-ex-human-revolution/>`_
 
-Puedes adquirir Ciber-Implantes durante la creación de personaje, siempre y cuando puedas pagarlos con tus :hoverxref:`Recursos <cyberpunk-recursos>`. Las mejoras de cada tipo de ciber-implante se adquieren por separado.
+Puedes adquirir Ciber-Implantes durante la creación de personaje, siempre y cuando puedas pagarlos con tus :ref:`Recursos <cyberpunk-recursos>`. Las mejoras de cada tipo de ciber-implante se adquieren por separado.
 
-Ten en cuenta que el exceso de Ciber-Implantes instalados conlleva una progresiva :hoverxref:`Pérdida de Humanidad <cyberpunk-perdida-humanidad>`, y puede resultar en ataques de *Ciber-psicosis*.
+Ten en cuenta que el exceso de Ciber-Implantes instalados conlleva una progresiva :ref:`Pérdida de Humanidad <cyberpunk-perdida-humanidad>`, y puede resultar en ataques de *Ciber-psicosis*.
 
 .. csv-table::
    :widths: 90, 10
@@ -428,9 +428,9 @@ Ten en cuenta que el exceso de Ciber-Implantes instalados conlleva una progresiv
 Equipamiento
 ^^^^^^^^^^^^
 
-Puedes adquirir más armas, armaduras o equipo durante la creación de personaje, siempre y cuando puedas pagarlos con tus :hoverxref:`Recursos <cyberpunk-recursos>`. [#]_
+Puedes adquirir más armas, armaduras o equipo durante la creación de personaje, siempre y cuando puedas pagarlos con tus :ref:`Recursos <cyberpunk-recursos>`. [#]_
 
-.. [#] Si buscas más realismo y/o mecánicas más complejas y profundas de combate y acción, considera aplicar las reglas opcionales de :hoverxref:`Combates y Violencia <reglas-opcionales-combate>`.
+.. [#] Si buscas más realismo y/o mecánicas más complejas y profundas de combate y acción, considera aplicar las reglas opcionales de :ref:`Combates y Violencia <reglas-opcionales-combate>`.
 
 Armadura y Protección
 ~~~~~~~~~~~~~~~~~~~~~
@@ -499,7 +499,7 @@ Programas
 
 .. figure:: /_static/images/worlds/cyberpunk/cyberpunk-img-21.png
 
-Los PROGRAMAS son comandos o *quickhacks* que cualquier persona con un dispositivo con capacidad de acceso a la Red puede ejecutar, y son mucho más rápidos que programar una solución en el momento. El software se puede copiar o intercambiar fácilmente; lo que pagas con tus :hoverxref:`Recursos <cyberpunk-recursos>` es el almacenamiento (*minidisc*, *thumbchip*, *shard* óptico, almacenamiento en la nube, etc) y/o el tiempo de cómputo para compilarlo o ajustarlo a tu dispositivo [#]_.
+Los PROGRAMAS son comandos o *quickhacks* que cualquier persona con un dispositivo con capacidad de acceso a la Red puede ejecutar, y son mucho más rápidos que programar una solución en el momento. El software se puede copiar o intercambiar fácilmente; lo que pagas con tus :ref:`Recursos <cyberpunk-recursos>` es el almacenamiento (*minidisc*, *thumbchip*, *shard* óptico, almacenamiento en la nube, etc) y/o el tiempo de cómputo para compilarlo o ajustarlo a tu dispositivo [#]_.
 
 .. [#] Esto significa que si quieres copiar un Programa que posees para compartirlo con un aliado, este deberá también pagar el coste de Recursos para almacenarlo/compilarlo/ajustarlo a su dispositivo, aunque tú no pierdas el acceso a él.
 
@@ -526,7 +526,7 @@ Los PROGRAMAS son comandos o *quickhacks* que cualquier persona con un dispositi
    "**/RIDE**: Obtienes acceso, en modo solo-lectura, a los sentidos de un dron/cámara/gafas AR o VR/ojos/*Neuralink*.", "2"
    "**/SCAN**: Busca tipos específicos de dispositivos o usuarios en un área amplia, o encuentra una ID concreta, obteniendo información básica y posición.", "2"
    "**/SHIELD**: Protege pasivamente contra ataques virtuales directos o intentos de inyección de *malware*.", "2"
-   "**/SPIKE**: Provoca un pico de estrés o pánico (:hoverxref:`Chequeo de Instinto <reglas-opcionales-chequeos-instinto>`) en alguien con *Neuralink*.", "3"
+   "**/SPIKE**: Provoca un pico de estrés o pánico (:ref:`Chequeo de Instinto <reglas-opcionales-chequeos-instinto>`) en alguien con *Neuralink*.", "3"
    "**/SPOOF**: Genera identificaciones, credenciales o historiales falsos temporales, robados de un objetivo cercano o preseleccionado.", "2"
    "**/TRACK**: Instala *malware* en el objetivo para conocer siempre su ubicación sin importar la distancia (o saltos de red).", "2"
    "**/VIRUS**: Se instala en un dispositivo; provoca una Condición de *Malfuncionamiento* y se propaga lentamente a objetivos cercanos.", "3"
@@ -566,7 +566,7 @@ Cuando un personaje quiere usar sus RECURSOS para pagar bienes/servicios [#]_:
 
 * Si el costo está por debajo de sus RECURSOS actuales, lo consigue automáticamente.
 * Si el costo es igual a su nivel de RECURSOS, debe tirar 1d6: Si el resultado es igual o menor a su nivel de RECURSOS lo consigue automáticamente; si es más alto, para lograr pagarlo debe liquidar más de lo normal, reduciendo su nivel de RECURSOS en 1.
-* Si el costo es superior a su nivel de RECURSOS, el bien o servicio está fuera de su alcance, o el personaje deberá :hoverxref:`endeudarse <cyberpunk-recursos-endeudarse>`.
+* Si el costo es superior a su nivel de RECURSOS, el bien o servicio está fuera de su alcance, o el personaje deberá :ref:`endeudarse <cyberpunk-recursos-endeudarse>`.
 
 
 Un personaje que queda con RECURSOS en 0 está en banca rota, limitado a un nivel de vida de Indigencia, y sin poder adquirir suministros de ningún tipo.
@@ -622,7 +622,7 @@ En el mundo *Cyberpunk*, cuantos más ciber-implantes se instala una persona, m�
 
 Se espera que los jugadores que tienen personajes con muchos ciber-implantes (5 o más) comiencen a interpretar esa progresiva pérdida de humanidad de forma adecuada. En términos de mecánicas de juego, se pueden hacer chequeos de dados que determinen como actúa un personaje en este contexto.
 
-Cuando el DJ le pida a un jugador que haga un :hoverxref:`Chequeo de Instinto <reglas-opcionales-chequeos-instinto>` en situaciones de estrés o similares, la dificultad de la tirada será igual a la cantidad de ciber-implantes que su personaje tenga instalados (los mods cuentan como 1 para este valor). Si la tirada es exitosa, no hay problema, el personaje logra controlarse y mantener su empatía. Si la falla, entonces sufrirá consecuencias que varían según el Efecto del resultado.
+Cuando el DJ le pida a un jugador que haga un :ref:`Chequeo de Instinto <reglas-opcionales-chequeos-instinto>` en situaciones de estrés o similares, la dificultad de la tirada será igual a la cantidad de ciber-implantes que su personaje tenga instalados (los mods cuentan como 1 para este valor). Si la tirada es exitosa, no hay problema, el personaje logra controlarse y mantener su empatía. Si la falla, entonces sufrirá consecuencias que varían según el Efecto del resultado.
 
 * **FALLO NORMAL**: El personaje sufre una pérdida completa de empatía y/o tiene arranques violentos hacia quien tenga más a mano. El efecto dura algunos minutos.
 * **FALLO ROTUNDO**: El personaje, además de lo anterior, disocia de la realidad y sufre paranoia. El efecto dura algunas horas.
@@ -635,9 +635,9 @@ Hacking
 
 El *Hacking* (vulnerar/controlar/modificar/desactivar sistemas informáticos, redes, dispositivos electrónicos, etc) es una parte fundamental del género *Cyberpunk*, y se puede abordar de distintas formas.
 
-Los :hoverxref:`PROGRAMAS <cyberpunk-programas>` o *QuickHacks* funcionan como los típicos Hechizos de otros juegos de rol de fantasía. El personaje Hacker/Netrunner que tiene el programa en su dispositivo, puede ejecutarlo a voluntad (siguiendo las instrucciones de la descripción de cada programa). A veces el DJ determinará que se requiere una tirada de acción para ver como resulta, pero en otras situaciones puede que no sea necesario y se ejecute automáticamente. Usualmente la ejecución de un programa lleva unos segundos (o un *Round*, en términos de juego). Dado que muchas personas dependen de la tecnología o poseen un *SmartLink™*, los Programas muchas veces pueden afectar a otros personajes adversarios.
+Los :ref:`PROGRAMAS <cyberpunk-programas>` o *QuickHacks* funcionan como los típicos Hechizos de otros juegos de rol de fantasía. El personaje Hacker/Netrunner que tiene el programa en su dispositivo, puede ejecutarlo a voluntad (siguiendo las instrucciones de la descripción de cada programa). A veces el DJ determinará que se requiere una tirada de acción para ver como resulta, pero en otras situaciones puede que no sea necesario y se ejecute automáticamente. Usualmente la ejecución de un programa lleva unos segundos (o un *Round*, en términos de juego). Dado que muchas personas dependen de la tecnología o poseen un *SmartLink™*, los Programas muchas veces pueden afectar a otros personajes adversarios.
 
-El *Hacking* más avanzado, como puede ser una misión de infiltración digital compleja o un ataque virtual directo a un sistema con múltiples defensas, se puede abordar mediante un :hoverxref:`Desafío Extendido <reglas-opcionales-desafios-extendidos>`. El DJ determina la dificultad del desafío (en forma de un Contador), y el jugador debe hacer una serie de tiradas de acción para superar cada etapa del proceso de hackeo, hasta lograr su objetivo o fracasar. Se puede describir cada paso con detalles de como el *NetRunner* supera cada obstáculo, mientras los demás personajes aliados llevan a cabo otras acciones o lo protegen de amenazas físicas en el mundo real. Opcionalmente, el DJ puede poner un límite de tiempo, o un proceso de "escalada", donde cada cierta cantidad de intentos o Rounds, el sistema objetivo activa alarmas o contramedidas más agresivas y peligrosas.
+El *Hacking* más avanzado, como puede ser una misión de infiltración digital compleja o un ataque virtual directo a un sistema con múltiples defensas, se puede abordar mediante un :ref:`Desafío Extendido <reglas-opcionales-desafios-extendidos>`. El DJ determina la dificultad del desafío (en forma de un Contador), y el jugador debe hacer una serie de tiradas de acción para superar cada etapa del proceso de hackeo, hasta lograr su objetivo o fracasar. Se puede describir cada paso con detalles de como el *NetRunner* supera cada obstáculo, mientras los demás personajes aliados llevan a cabo otras acciones o lo protegen de amenazas físicas en el mundo real. Opcionalmente, el DJ puede poner un límite de tiempo, o un proceso de "escalada", donde cada cierta cantidad de intentos o Rounds, el sistema objetivo activa alarmas o contramedidas más agresivas y peligrosas.
 
 Fuentes de Inspiración
 ----------------------

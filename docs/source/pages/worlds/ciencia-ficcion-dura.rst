@@ -11,7 +11,7 @@ Pero para cumplir con los requisitos de la *ciencia ficción dura*, todo esto es
 Creación de Personaje
 ---------------------
 
-Tu personaje comenzará con 3 niveles de Trasfondos. Puedes elegir uno solo en nivel 3, o dos en nivel 1 y 2, o tres en nivel 1. Luego inventa una lista de 5 objetos/herramientas que tiene, o usa la :hoverxref:`tabla de Equipo <ciencia-ficcion-dura-equipo>` de más abajo (El DJ te dirá si son adecuados para la ambientación y tu idea de personaje). 
+Tu personaje comenzará con 3 niveles de Trasfondos. Puedes elegir uno solo en nivel 3, o dos en nivel 1 y 2, o tres en nivel 1. Luego inventa una lista de 5 objetos/herramientas que tiene, o usa la :ref:`tabla de Equipo <ciencia-ficcion-dura-equipo>` de más abajo (El DJ te dirá si son adecuados para la ambientación y tu idea de personaje). 
 
 Trasfondos
 **********

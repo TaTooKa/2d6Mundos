@@ -8,7 +8,7 @@ Niveles
    :start-after: reglas-basicas-niveles-table-start
    :end-before: reglas-basicas-niveles-table-end
 
-ver :hoverxref:`Personajes <reglas-basicas-personajes>`
+ver :ref:`Personajes <reglas-basicas-personajes>`
 
 Dificultad
 ----------
@@ -17,7 +17,7 @@ Dificultad
    :start-after: reglas-basicas-dificultades-table-start
    :end-before: reglas-basicas-dificultades-table-end
 
-ver :hoverxref:`Dificultad <reglas-basicas-dificultad>`
+ver :ref:`Dificultad <reglas-basicas-dificultad>`
 
 Efecto
 ------
@@ -26,7 +26,7 @@ Efecto
    :start-after: reglas-basicas-efecto-table-start
    :end-before: reglas-basicas-efecto-table-end
 
-ver :hoverxref:`Efecto <reglas-basicas-efecto>`
+ver :ref:`Efecto <reglas-basicas-efecto>`
 
 Condiciones
 -----------
@@ -35,7 +35,7 @@ Condiciones
    :start-after: reglas-basicas-condiciones-table-start
    :end-before: reglas-basicas-condiciones-table-end
 
-ver :hoverxref:`Condiciones <reglas-basicas-condiciones>`
+ver :ref:`Condiciones <reglas-basicas-condiciones>`
 
 Ejemplos de Condiciones
 ***********************
@@ -44,7 +44,7 @@ Ejemplos de Condiciones
    :start-after: reglas-basicas-ejemplos-condiciones-table-start
    :end-before: reglas-basicas-ejemplos-condiciones-table-end
 
-ver :hoverxref:`Combates y Violencia <reglas-opcionales-combate>`
+ver :ref:`Combates y Violencia <reglas-opcionales-combate>`
 
 Aplicando y Recibiendo Condiciones
 **********************************
@@ -53,4 +53,4 @@ Aplicando y Recibiendo Condiciones
    :start-after: reglas-basicas-aplicando-recibiendo-condiciones-table-start
    :end-before: reglas-basicas-aplicando-recibiendo-condiciones-table-end
 
-ver :hoverxref:`Condiciones <reglas-basicas-condiciones>`
+ver :ref:`Condiciones <reglas-basicas-condiciones>`
