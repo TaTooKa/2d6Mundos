@@ -173,6 +173,50 @@ Estos efectos adversos pueden evitarse o mitigarse con los siguientes métodos:
 Alta gravedad
 ~~~~~~~~~~~~~
 
+Someterse a Alta Gravedad también es incapacitante y perjudicial para la salud. Esto dependerá de la "*Gravedad Nativa*" del personaje.
+
+.. admonition:: Gravedad Nativa
+
+   La "*Gravedad Nativa*" es la cantidad de Gs a la que un personaje está acostumbrado (en la cual su organismo no sufre ningún efecto adverso) ya que es a la que estuvo sometido toda (o gran parte) de su vida (especialmente durante su infancia y adolescencia, que es donde se desarrolla su estructura ósea, sistema respiratorio y circulatorio, etc). 
+   
+   Si el personaje es nativo de la Tierra (o planetas similares), su *Gravedad Nativa* será de 1G; si es oriundo de otros planetas como Marte o hábitats orbitales, ajústala al valor de Gs que sea necesario.
+
+En la siguiente tabla se listan los efectos de Altas Gs para "**Golpes breves**" (por ejemplo la aceleración, desaceleración o cambio de trayectoria abruptas en una astronave), y "**Períodos prolongados**" (estar sometido a altas aceleraciones o desaceleraciones durante el viaje de una astronave, o estar en un planeta o hábitat de gravedad demasiado alta para el personaje) [#]_.
+
+.. [#] Cuando te sometes a **Períodos Prolongados** de Altas Gs, también tienes que sufrir los efectos del **Golpe Breve** inmediatamente (usualmente es un :ref:`Chequeo de Resistencia a Altas Gs <ciencia-ficcion-dura-chequeo-resistencia-altas-gs>`).
+
+.. csv-table:: Efectos de Altas Gs en el cuerpo humano
+   :header: "Sometido a Altas Gs", "Efecto o Condición" 
+   :widths: 25, 75
+
+   "**2X** tu *Gravedad Nativa*", "Todo se siente como si pesara el doble de lo normal (incluso tu cuerpo, vestimenta, herramientas, etc).
+   
+   * **Golpe Breve**: aunque es incómodo, el efecto es negligible para la mayoría de las personas.
+   * **Período Prolongado**: Ganas la Condición Leve ``Dificultado por Altas Gs``, y la vuelves a sufrir o incrementar por cada hora de exposición continua."
+   "**3X** tu *Gravedad Nativa*", "* **Golpe Breve**: Haz un :ref:`Chequeo de Resistencia a Altas Gs <ciencia-ficcion-dura-chequeo-resistencia-altas-gs>`.
+   * **Período Prolongado**: Ganas la Condición Moderada ``Incapacitado por Altas Gs``, y la vuelves a sufrir o incrementar por cada hora de exposición continua."
+   "**4X** tu *Gravedad Nativa*", "* **Golpe Breve**: Haz un :ref:`Chequeo de Resistencia a Altas Gs <ciencia-ficcion-dura-chequeo-resistencia-altas-gs>` con un penalizador de -1.
+   * **Período Prolongado**: Casi que no puedes moverte (te cuesta mucho esfuerzo).  Ganas la Condición Severa ``Incapacitado por Altas Gs``, y la vuelves a sufrir o incrementar por cada hora de exposición continua."
+   "**5X** tu *Gravedad Nativa*", "* **Golpe Breve**: Haz un :ref:`Chequeo de Resistencia a Altas Gs <ciencia-ficcion-dura-chequeo-resistencia-altas-gs>` con un penalizador de -2.
+   * **Período Prolongado**: No puedes moverte; estás postrado en el lugar y sufriendo dolor extremo.  Ganas la Condición Severa ``Incapacitado por Altas Gs``, y la vuelves a sufrir o incrementar por cada hora de exposición continua."
+   "**10X** tu *Gravedad Nativa*", "* **Golpe Breve**: Haz un :ref:`Chequeo de Resistencia a Altas Gs <ciencia-ficcion-dura-chequeo-resistencia-altas-gs>` con un penalizador de -3.
+   * **Período Prolongado**: No puedes moverte; estás postrado en el lugar y sufriendo dolor extremo.  Ganas la Condición Severa ``Incapacitado por Altas Gs``, y la vuelves a sufrir o incrementar por cada hora de exposición continua."
+
+.. _ciencia-ficcion-dura-chequeo-resistencia-altas-gs:
+
+Chequeo de Resistencia a Altas Gs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Haz una tirada de dados (sumando cualquier *Trasfondo* u otro modificador circunstancial que te afecte, y restando los penalizadores impuestos por la tabla anterior) contra una Dificultad de 8. Si la superas, solo tienes las molestias ocasionadas por las extremas fuerzas G, pero no sufres otras Condiciones. Si la fallas, sufres una Condición como las que se detallan a continuación (la gravedad dependerá del *Efecto* del fallo):
+
+* **Leve**: Sientes un leve mareo y todo se pone negro; sufres ``Visión de túnel``.
+* **Moderada**: Te baja la presión y comienzas a desmayarte; sufres ``G-LOC``. 
+* **Severa**: Tu cerebro no está recibiendo la cantidad de oxígeno suficiente; Te desmayas y sufres ``Hipoxia Cerebral``. 
+
+.. admonition:: G-LOC
+
+   "G-LOC" es una abreviatura del inglés *G-Force Induced Loss-of-Conciousness* ("Pérdida de consciencia inducida por fuerzas G"), un concepto usado originalmente en ingeniería y pilotaje aeronáutico.
+
 Presión y Atmósfera
 *******************
 
