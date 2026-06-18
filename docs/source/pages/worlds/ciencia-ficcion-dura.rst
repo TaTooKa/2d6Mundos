@@ -221,6 +221,20 @@ Haz una tirada de dados (sumando cualquier *Trasfondo* u otro modificador circun
 
    "G-LOC" es una abreviatura del inglés *G-Force Induced Loss-of-Conciousness* ("Pérdida de consciencia inducida por fuerzas G"), un concepto usado originalmente en ingeniería y pilotaje aeronáutico.
 
+Someterse a Altas Gs puede causar otras consecuencias graves o semi-permanentes, como moretones, dolor muscular, incluso fisuras o fracturas de huesos. El DJ puede imponer estas Condiciones en situaciones extremas a discresión, tomando en cuenta la *Gravedad Nativa* del personaje y los efectos sufridos acumulados como guía.
+
+Mitigación de efectos de Altas Gs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Los efectos sufridos por someterse a Altas Gs pueden mitigarse usando algunos de los siguientes métodos:
+
+* **Asientos Anti-Inerciales**: Estas sillas de piloto o pasajero especializadas son butacas rellenas con gel y materiales viscoelásticos y formas ergonómicas auto-adaptables, que suavizan los golpes abruptos y las fuerzas prolongadas en tu cuerpo de forma activa, con giroscopios y otros sensores. 
+   * Cuando estés en un **Asiento Anti-Inercial** y te sometas a Altas Gs, considera los efectos sufridos (tanto para *Golpes Breves* como para *Períodos Prolongados*) como si fuesen de un nivel inferior, en la tabla anterior. 
+* **Suero Anti-G**: Los pilotos o pasajeros que se someten a Altas Gs son inyectados automáticamente [#]_ con un cóctel de drogas que mitiga temporalmente los efectos más graves de incomodidad y malestar. La inyección suele estar empotrada en el asiento, con una hipodérmica que entra directo al torrente sanguíneo a través del cuello o brazo (o una vía colocada anteriormente).
+   * Cuando recibas una dósis de **Suero Anti-G**, ignoras los efectos de las Condiciones recibidas por los efectos de Altas Gs (las sufres igual, pero no te causan penalizadores a la hora de realizar acciones).
+
+.. [#] El Suero puede inyectarse de forma preventiva o manual, con una jeringa convencional. Ha de tenerse en cuenta que el efecto de una dósis dura entre 15 y 30 minutos.
+
 Presión y Atmósfera
 *******************
 
