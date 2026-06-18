@@ -143,7 +143,7 @@ Combates y Violencia
 
 .. figure:: /_static/images/rules/rpg-image-9.jpg
 
-Además de lo indicado en las :ref:`Reglas Básicas <reglas-basicas>` y los :hoverxref:`Modificadores <reglas-basicas-modificadores>` típicos por Trasfondo y otros factores relevantes del atacante y el atacado, considera implementar estas reglas opcionales para todo lo relacionado a Combates y Violencia:
+Además de lo indicado en las :ref:`Reglas Básicas <reglas-basicas>` y los :ref:`Modificadores <reglas-basicas-modificadores>` típicos por Trasfondo y otros factores relevantes del atacante y el atacado, considera implementar estas reglas opcionales para todo lo relacionado a Combates y Violencia:
 
 Combate con Armas a Distancia
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -216,7 +216,7 @@ Las armas a distancia tienen un bonificador +X por potencial de "**daño**", y u
 
   **Daño**: El daño es un bonificador que solo se suma al resultado de la tirada si se acierta al objetivo, y cuenta para mejorar el EFECTO de la acción (pero solo si se logró el impacto).
 
-  **Distancia óptima**: disparar fuera de esa distancia otorga un -1 por cada diferencia de :hoverxref:`rango de distancia <reglas-opcionales-combate-distancia>` (excepto "a quemarropa"[#]_)
+  **Distancia óptima**: disparar fuera de esa distancia otorga un -1 por cada diferencia de :ref:`rango de distancia <reglas-opcionales-combate-distancia>` (excepto "a quemarropa"[#]_)
   
 .. [#] cualquier arma de fuego considera la distancia "*A quemarropa*" como una de sus distancias óptimas; es decir no recibe penalizadores por distancia si se dispara *a quemarropa*.
 
@@ -252,7 +252,7 @@ Fuego de cobertura
 
 Disparar "*fuego de cobertura*" no requiere tirada por parte del agresor; El personaje decide si va a efectuar algunos disparos, una *Ráfaga*, o varias en modo *Full-Auto* (gastando la cantidad de balas necesaria), contra un área o espacio particular donde se estén cubriendo o atrincherando los enemigos. 
 
-Los enemigos que están a cubierto harán bien en esperar a que el *Fuego de Cobertura* finalice, pero si deciden asomarse o abandonar el lugar, entonces deberán hacer una tirada defensiva para evitar ser alcanzados por los disparos. La dificultad de esa tirada será 8, modificada por las otras :hoverxref:`reglas de Cobertura <reglas-opcionales-combate-distancia-cobertura>`, y por la cantidad de balas disparadas:
+Los enemigos que están a cubierto harán bien en esperar a que el *Fuego de Cobertura* finalice, pero si deciden asomarse o abandonar el lugar, entonces deberán hacer una tirada defensiva para evitar ser alcanzados por los disparos. La dificultad de esa tirada será 8, modificada por las otras :ref:`reglas de Cobertura <reglas-opcionales-combate-distancia-cobertura>`, y por la cantidad de balas disparadas:
 
 * Algunos pocos disparos no afectan la dificultad.
 * Si les están disparando **en Ráfaga**, sufrirán +1 a la dificultad de la tirada defensiva.
@@ -265,7 +265,7 @@ Si más de un personaje se suma al *Fuego de Cobertura* contra el mismo espacio 
 Explosivos
 **********
 
-Los explosivos funcionan como un ataque que afecta un área determinada (el radio de la explosión) [#]_. Los personajes que estén dentro del área de la explosión deben hacer una tirada defensiva para evitar ser alcanzados por ella. La dificultad de esa tirada será 8, modificada por las otras :hoverxref:`reglas de Cobertura <reglas-opcionales-combate-distancia-cobertura>` y de :hoverxref:`Armadura/Protección <reglas-opcionales-combate-distancia-armadura>`.
+Los explosivos funcionan como un ataque que afecta un área determinada (el radio de la explosión) [#]_. Los personajes que estén dentro del área de la explosión deben hacer una tirada defensiva para evitar ser alcanzados por ella. La dificultad de esa tirada será 8, modificada por las otras :ref:`reglas de Cobertura <reglas-opcionales-combate-distancia-cobertura>` y de :ref:`Armadura/Protección <reglas-opcionales-combate-distancia-armadura>`.
 
 .. [#] Para explosivos colocados previamente, usualmente no hace falta una tirada del lado del atacante. Para explosivos arrojados en el momento, como las **granadas**, el jugador atacante hace una tirada para ver "qué tan bien acierta" cerca del objetivo. Con un *Éxito Normal*, el explosivo deja al objetivo en la **Zona de Metralla/Esquirlas**; con un *Éxito Rotundo* o *Épico*, el explosivo deja al objetivo bien en el **Epicentro**.
 
