@@ -238,11 +238,37 @@ Los efectos sufridos por someterse a Altas Gs pueden mitigarse usando algunos de
 Presión y Atmósfera
 *******************
 
+Para que el cuerpo humano funcione correctamente, también hace falta una composición atmosférica viable y un nivel de presión adecuado.
+
+Lo que se conoce como "aire puro" en la Tierra está usualmente compuesto de un 75% de nitrógeno, un 24% de oxígeno y otros gases. En aeronaves o hábitats espaciales la composición puede variar; dependiendo de la presión se puede agregar algo de helio a la mezcla, o incrementar los niveles de oxígeno.
+
 Falta de oxígeno
 ~~~~~~~~~~~~~~~~
 
+Uno de los peligros más comunes para los humanos en el espacio es la falta de oxígeno. Esto puede ocurrir por diversos motivos, como fallas en los recicladores, errores o contaminación en la mezcla atmosférica, escasez de las reservas de oxígeno, etc. Cuando esto ocurre y no hay una despresurización, puede resultar difícil determinar si te estás quedando sin oxígeno o si simplemente el aire está algo viciado. 
+
+El tiempo que tarda en gastarse todo el oxígeno depende de muchos factores como el volúmen del hábitat o tanque de reservas, la cantidad de gente respirándolo, contaminaciones externas como humo de incendios o gases tóxicos, etc, por lo que el tiempo exacto se deja a discresión del DJ. Una vez que eso se ha determinado, se puede usar esta tabla para aplicar los efectos de falta de oxígeno:
+
+.. csv-table:: Efectos por falta de oxígeno
+   :widths: 20, 80
+
+   "1 hora de oxígeno restante", "Empieza a costar respirar con normalidad. Alguien con un *Trasfondo* adecuado podría darse cuenta inmeditatamente, o estar habilitado a realizar una tirada para descubrirlo, a discresión del DJ."
+   "30 minutos de oxígeno restante", "Cuesta respirar sin hiperventilar. Todos los afectados ganan la Condición Leve ``Hiperventilando``."
+   "5 minutos de oxígeno restante", "Ya cualquiera puede notar los primeros efectos de la asfixia. Todos los afectados ganan la Condición Moderada ``Asfixiándote``."
+   "Sin oxígeno", "Todos los afectados se desmayan automáticamente. Mueren al cabo de 5~10 minutos."
+
 Despresurización
 ~~~~~~~~~~~~~~~~
+
+Incluso con la mezcla de gases correcta, el ambiente tiene que tener el correcto nivel de presión para poder respirar. Y eso es sin contar la enorme cantidad de problemas que sufre el cuerpo humano en ambientes con presión demasiado alta o baja (especialmente si el cambio es abrupto!).
+
+La presión más común en aeronaves o hábitats es de **1 bar**. Una *Despresurización* puede ocurrir a nivel del ambiente o a nivel personal (en tu traje de vacío). Usualmente ocurre por una accidente en la que el hábitat es perforado o expuesto al vacío. En el caso de un traje de astronauta, un tajo o una falla mecánica también podría causarla.
+
+**Por cada 2 centímetros de perforación, se pierden 10m³ de atmósfera cada 10 segundos**. Ten en cuenta que los módulos pequeños (del tamaño de una habitación) tienen un volumen aproximado de 30m³; los medianos tienen entre 50m³ a 150m³ [#]_. Las aeronaves o estaciones suelen estar divididas en secciones, con compuertas o exclusas herméticas entre cada módulo, que tienen sensores de presión atmosférica para sellarse automáticamente cualquier área que caiga por debajo de ¾ de la recomendada (750 milibares). 
+
+.. [#] en el espacio no suele haber hábitats con módulos mucho más grandes que esos volúmenes, precisamente para tener más control sobre los distintos ambientes presurizados y las contingencias a tomar en caso de accidentes.
+
+   Por ejemplo, si un módulo de 100m³ sufre una perforación de 2cm, perderá 10m³ de atmósfera cada 10 segundos. En pocos instantes las alarmas de detección de despresurización comenzarán a sonar por toda la zona. A los 30 segundos, cuando el aire total llegue a 70m³ (justo por debajo de los ¾ de la presión aceptable), las compuertas de vacío se cerrarán automáticamente para aislar el módulo despresurizado del resto de la aeronave o hábitat. Si nadie emparcha el orificio, el compartimiento quedará completamente despresurizado y al vacío en un total de 1 minuto y 40 segundos (100 segundos). 
 
 Radiación
 *********
