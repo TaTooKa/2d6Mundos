@@ -364,6 +364,10 @@ Maniobras para Viajar por el Espacio
 
 Hoy en día, las astronaves tienen que usar todos los trucos disponibles para viajar por el espacio: Transferencias de Hohmann (Asistencias orbitales), Maniobras Oberth (sobrevuelos propulsados por campos gravitatorios), Transferencias bielípticas, etc. En el futuro no muy lejano de la *Ciencia Ficción Dura*, eso ya no será necesario. Las astronaves tienen motores suficientemente poderosos como para viajar en línea recta entre un punto y otro, ya sea acelerando y desacelerando cada mitad del trayecto, o acelerando+derivando+desacelerando para ahorrar algo de Δv. Esta técnica se conoce como **Maniobra Braquistócrona**.
 
+.. admonition:: No te asustes!
+
+   Las ecuaciones y cálculos matemáticos que se explican a continuación son opcionales para calcular distancias específicas de viajes espaciales; más adelante encontrarás tablas de distancias, tiempos y costos de Δv ya pre-calculados para que no tengas que estar usando una calculadora científica haciendo cuentas y convirtiendo unidades mientras los otros jugadores se aburren.
+
 Maniobra Braquistócrona Completa
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
