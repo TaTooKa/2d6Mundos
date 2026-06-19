@@ -202,7 +202,7 @@ En la siguiente tabla se listan los efectos de Altas Gs para "**Golpes breves**"
    "**4X** tu *Gravedad Nativa*", "* **Golpe Breve**: Haz un :ref:`Chequeo de Resistencia a Altas Gs <ciencia-ficcion-dura-chequeo-resistencia-altas-gs>` con un penalizador de -1.
    * **Período Prolongado**: Casi que no puedes moverte (te cuesta mucho esfuerzo). Sufres un *Modificador Circunstancial* de -2 a todas tus acciones por las molestias de las Altas Gs."
    "**5X** tu *Gravedad Nativa*", "* **Golpe Breve**: Haz un :ref:`Chequeo de Resistencia a Altas Gs <ciencia-ficcion-dura-chequeo-resistencia-altas-gs>` con un penalizador de -2.
-   * **Período Prolongado**: No puedes moverte; estás postrado en el lugar y sufriendo dolor extremo. Casi que no puedes moverte (te cuesta mucho esfuerzo). Sufres un *Modificador Circunstancial* de -3 a todas tus acciones por las molestias de las Altas Gs."
+   * **Período Prolongado**: No puedes moverte; estás postrado en el lugar y sufriendo dolor extremo. Sufres un *Modificador Circunstancial* de -3 a todas tus acciones por las molestias de las Altas Gs."
    "**10X** tu *Gravedad Nativa*", "* **Golpe Breve**: Haz un :ref:`Chequeo de Resistencia a Altas Gs <ciencia-ficcion-dura-chequeo-resistencia-altas-gs>` con un penalizador de -3.
    * **Período Prolongado**: No puedes moverte; estás postrado en el lugar y sufriendo dolor extremo. Sufres un *Modificador Circunstancial* de -4 a todas tus acciones por las molestias de las Altas Gs."
 
