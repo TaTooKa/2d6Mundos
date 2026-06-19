@@ -325,16 +325,84 @@ Si alguien sobrevive el tiempo suficiente (segundos) y logra volver a un ambient
 Radiación
 *********
 
+TODO
+
 Temperatura
 ***********
 
+TODO
+
 Comunicaciones
 **************
+
+TODO
 
 .. _ciencia-ficcion-dura-viajar-por-el-espacio:
 
 Viajar por el Espacio
 ---------------------
+
+Hoy en día, viajar por el espacio es muy costoso y bastante lento (las velocidades son altísimas, pero considerando las tremendas distancias casi imposibles de imaginar, en comparación con los viajes terrestres nos resulta extremadamente lento). Pero la ciencia estima que, en un futuro no muy lejano en el cual la conquista espacial haya madurado lo suficiente, los avances en fusión nuclear y tecnología de materiales permitirá la existencia de astronaves extremadamente rápidas y combustibles super eficientes. Con motores capaces de generar empujes en el orden de Kilo o Mega Newtons por tiempo prolongado, un vehículo podría viajar entre sistemas planetarios en cuestión de días, en vez de meses o años, sumado a que si puede mantener una aceleración constante, podría generar su propia gravedad artificial.
+
+En este universo de *Ciencia Ficción Dura* se asume que ya existen versiones maduras de motores de tipo **Nuclear Termal**, que utilizan hidrógeno líquido o amoníaco como propelente, y **Motores de Fusión**, que usan Deuterio, Tritio o *Trilio* (como le llaman coloquialmente al ₃He) para la reacción y el propelente [#]_.
+
+.. [#] La diferencia entre "combustible" y "propelente" (*fuel* y *propellant* en inglés), es que el primero es el usado para generar una reacción (de combustión, atómica, etc) y el segundo es lo que se expulsa por la turbina de la astronave para generar empuje en dirección opuesta.
+
+Para simplificar las cosas y no ralentizar las partidas de rol, las astronaves detalladas aquí listan un valor de **MΔv** ("Máximo Delta V") en Km/s o Mm/s. Esto representa el valor de "presupuesto de combustible" total para todos los cambios de velocidad que una astronave puede hacer, teniendo en cuenta las capacidades de empuje del motor y su *masa mojada* vs *masa seca* [#]_. Todas esas variables ya están precalculadas en el valor de MΔv de las astronaves y en los costos de Δv listados más adelante.
+
+.. [#] Del inglés "*wet mass*" y "*dry mass*", es la diferencia de la masa de la astronave cuando tiene el tanque de combustible lleno contra cuando lo tiene vacío.
+
+Consumo de Combustible
+**********************
+
+En vez de contabilizar toneladas de combustible o propelente, es más fácil calcular los costos de Δv en m/s (usualmente en el orden de Km/s o Mm/s). Cuando planifiques un viaje, consulta en las tablas de **Tiempo de Viaje + Costo de Δv** para ver si tu astronave puede afrontar ese presupuesto de Δv (que debe ser menos que el Δv restante de tu astronave). Al alcanzar tu destino, resta el Δv utilizado del Δv actual que tienes en las reservas. Cuando rellenes tus tanques de combustible+propelente, el Δv de tu astronave vuelve a su valor de MΔv [#]_. 
+
+.. [#] Si no habías gastado todo el combustible, calcula la fracción del total que tenías. El DJ te dirá cuanto necesitas recargar y su costo, si lo hubiere.
+
+Maniobras para Viajar por el Espacio
+************************************
+
+Hoy en día, las astronaves tienen que usar todos los trucos disponibles para viajar por el espacio: Transferencias de Hohmann (Asistencias orbitales), Maniobras Oberth (sobrevuelos propulsados por campos gravitatorios), Transferencias bielípticas, etc. En el futuro no muy lejano de la *Ciencia Ficción Dura*, eso ya no será necesario. Las astronaves tienen motores suficientemente poderosos como para viajar en línea recta entre un punto y otro, ya sea acelerando y desacelerando cada mitad del trayecto, o acelerando+derivando+desacelerando para ahorrar algo de Δv. Esta técnica se conoce como **Maniobra Braquistócrona**.
+
+Maniobra Braquistócrona Completa
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+La astronave acelera a una cierta **g** constante hasta el punto medio del viaje, luego gira y desacelera a la misma **g** constante hasta llegar a su destino. Esta es la forma más rápida de viajar en línea recta entre dos puntos, llegando al destino completamente detenido.
+
+Éstas son las fórmulas cinemáticas:
+
+.. math:: 
+
+   costo \ de \ \Delta v = 2\sqrt{distancia * aceleración}
+
+.. math:: 
+
+   Tiempo \ en \ Tránsito = 2\sqrt{\frac{distancia}{aceleración}}
+
+el *costo de Δv* estará en **m/s**; la *distancia* es en **m**; la *aceleración* es en **m/s²**; el *Tiempo de Tránsito* está en **s**. 
+
+Ejemplo de una Maniobra Braquistócrona Completa
+   Decides viajar desde la Tierra a Marte a 0.3g constantes (que equivale a 2.94 m/s²). La distancia es de 0.52 AU (que equivale a 77,790,892,764 m). Insertando esos valores en las ecuaciones anteriores obtienes un valor para el costo de Δv igual a 956,462 m/s (que equivale a 956.4 km/s) y un Tiempo en Tránsito de 325,327s (que son aproximadamente 90.3 horas, o 3.8 días). A las 45 horas de viaje habrás llegado a la velocidad máxima; dejarás de acelerar, girarás la nave y comenzarás a empujar en dirección opuesta, desacelerando durante otras 45 horas hasta llegar a tu destino.
+
+Maniobra Braquistócrona Parcial
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+La astronave acelera por un período del trayecto a una cierta **g** constante, luego deriva en **0g** por otro período, para luego girar y desacelerar por otro período igual al primero a a la misma **g** constante. Esta maniobra permite ahorrar costos de Δv a expensas de pasar más tiempo en el viaje.
+
+Para calcular el tiempo y costo de Δv de una *Maniobra Braquistócrona Parcial*, primero debes determinar qué porcentaje del trayecto estarás bajo empuje (en dos segmentos: primero acelerando, luego desacelerando) y qué porcentaje del trayecto estarás derivando a **0g**. Luego multiplica el *Tiempo en Tránsito* por 2X ese porcentaje, y divide el costo de Δv por ese porcentaje.
+
+.. math:: 
+
+   costo \ de \ \Delta v \ reducido = \frac{costo \ de \ \Delta v \ original}{\% \ de \ tiempo \ bajo \ empuje}
+
+.. math::
+
+   Tiempo \ en \ Tránsito \ incrementado = Tiempo \ en \ Tránsito \ original * (\% \ de \ tiempo \ bajo \ empuje * 2) 
+
+el *costo de Δv* estará en **m/s**; la *distancia* es en **m**; la *aceleración* es en **m/s²**; el *Tiempo de Tránsito* está en **s**; el *% de tiempo bajo Empuje* está en **formato decimal** (por ejemplo, 30% sería 0.3).
+
+Ejemplo de una Maniobra Braquistócrona Parcial
+   Si viajas desde la Tierra a Marte a 0.3g y decides hacerlo en 20% de Empuje y 80% a la deriva, te llevará 234.8 horas (90.3 * (1+ (0.8 * 2)), o un 160% de la duración original) y te costará 191.4 km/s de presupuesto de Δv (957 * 2, es decir 20% del costo original)
 
 Astronaves
 ----------
