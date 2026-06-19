@@ -264,14 +264,63 @@ Incluso con la mezcla de gases correcta, el ambiente tiene que tener el correcto
 
 La presión más común en aeronaves o hábitats es de **1 bar**. Una *Despresurización* puede ocurrir a nivel del ambiente o a nivel personal (en tu traje de vacío). Usualmente ocurre por una accidente en la que el hábitat es perforado o expuesto al vacío. En el caso de un traje de astronauta, un tajo o una falla mecánica también podría causarla.
 
-**Por cada 2 centímetros de perforación, se pierden 10m³ de atmósfera cada 10 segundos**. Ten en cuenta que los módulos pequeños (del tamaño de una habitación) tienen un volumen aproximado de 30m³; los medianos tienen entre 50m³ a 150m³ [#]_. Las aeronaves o estaciones suelen estar divididas en secciones, con compuertas o exclusas herméticas entre cada módulo, que tienen sensores de presión atmosférica para sellarse automáticamente cualquier área que caiga por debajo de ¾ de la recomendada (750 milibares). 
+**Por cada 2 centímetros de perforación, se pierden 10m³ de atmósfera cada 10 segundos**. Ten en cuenta que los módulos pequeños (del tamaño de una habitación) tienen un volumen aproximado de 30m³; los medianos tienen entre 50m³ a 150m³ [#]_. Las aeronaves o estaciones suelen estar divididas en secciones, con compuertas o exclusas herméticas entre cada módulo, que tienen sensores de presión atmosférica para sellarse automáticamente cualquier área que caiga por debajo de ¾ de la recomendada (0.75 bar). 
 
 .. [#] en el espacio no suele haber hábitats con módulos mucho más grandes que esos volúmenes, precisamente para tener más control sobre los distintos ambientes presurizados y las contingencias a tomar en caso de accidentes.
 
 Ejemplo de Despresurización
    Si un módulo de 100m³ sufre una perforación de 2cm, perderá 10m³ de atmósfera cada 10 segundos. En pocos instantes las alarmas de detección de despresurización comenzarán a sonar por toda la zona. A los 30 segundos, cuando el aire total llegue a 70m³ (justo por debajo de los ¾ de la presión aceptable), las compuertas de vacío se cerrarán automáticamente para aislar el módulo despresurizado del resto de la aeronave o hábitat. Si nadie emparcha el orificio, el compartimiento quedará completamente despresurizado y al vacío en un total de 1 minuto y 40 segundos (100 segundos). 
 
-Los **Trajes Espaciales** tienen mucho menos volumen de aire circulando dentro, pero lo compensan operando a presiones mucho más bajas (0.3 bares) y utilizando concentraciones de oxígeno más altas. Aunque la mayoría de los trajes tienen sistemas automatizados que disparan alarmas e incrementan la mezcla de oxígeno si detectan una caída de presión, si el astronauta no emparcha aunque sea parcialmente la fisura, caerán inconscientes en ~10 segundos (ver los efectos de *Presión Cero* en la tabla *Efectos de Despresurización*). 
+   El mismo módulo de 100m³ con una perforación de 4cm perdería 20m³ de atmósfera cada 10 segundos, lo que significa que a los 20 segundos ya se estaría dando la alarma y cerrando las compuertas automáticas.
+
+   Si el diámetro de la pérdida fuese de 1 metro (por ejemplo, si se abre una escotilla de 1 metro de diámetro directo al vacío), que es equivalente a 100cm, se perderían 500m³ de atmósfera cada 10 segundos. Esto implicaría que el módulo de ejemplo de 100m3 quedaría completamente expuesto al vacío, totalmente despresurizado, en solo unos breves instantes. 
+
+Los **Trajes Espaciales** tienen mucho menos volumen de aire circulando dentro, pero lo compensan operando a presiones mucho más bajas (0.3 bares) [#]_ y utilizando concentraciones de oxígeno más altas. Aunque la mayoría de los trajes tienen sistemas automatizados que disparan alarmas e incrementan la mezcla de oxígeno si detectan una caída de presión, si el astronauta no emparcha aunque sea parcialmente la fisura, caerá inconsciente en ~10 segundos (ver los efectos de *¼ de la presión normal* en la tabla :ref:`Efectos de Despresurización <ciencia-ficcion-dura-efectos-despresurizacion>`). 
+
+.. [#] Es por esta diferencia de presión entre los hábitats y los trajes espaciales que los astronautas deben pasar ~10 minutos "aclimatándose" al cambio atmosférico. Intentar ponerse un traje rápidamente sin realizar el procedimiento adecuado durante el tiempo requerido le causará al personaje sufrir una Condición Moderada ``Síndrome de Descompresión``.
+
+Emparchando perforaciones
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La mayoría de los *Siderales* suelen tener siempre a mano un kit de *Parches Adhesivos*: unas láminas de plástico resistente con gel adaptable con un diámetro entre 15 y 30 cm. Por supuesto, en emergencias, cualquier cosa que pueda sellar temporalmente una fisura puede usarse. La mayoría de los objetos que tengan un lado plano se sostendrán en su lugar solo por la presión del vacío. Como soluciones más definitivas, se suele soldar una placa de plasti-acero o una malla de fibra de carbono de ambos lados del área perforada.
+
+
+.. _ciencia-ficcion-dura-efectos-despresurizacion:
+
+.. csv-table:: Efectos de la Despresurización
+   :widths: 25, 75
+
+   "¾ de la presión normal
+   
+   (usualmente **0.75 bar**)", "No hay efectos evidentes más allá de que se te tapen/destapen los oídos. 
+   
+   Los hábitats o aeronaves que tengan sensores de presión detectarán la caída, darán la alarma y cerrarán compuertas automáticas. De lo contrario, alguien con un *Trasfondo* adecuado podría darse cuenta automáticamente de lo que está sucediendo, a discresión del DJ."
+   "½ de la presión normal
+   
+   (usualmente **0.5 bar**)", "Se hace difícil respirar en el área.
+   
+   Cualquier personaje que no esté acostumbrado a vivir o trabajar en el espacio debe hacer un :ref:`Chequeo de Instinto <reglas-opcionales-chequeos-instinto>`.
+   
+   Cualquiera que no tenga un respirador o equipamiento similar sufre una Condición Leve ``Respiración limitada``."
+   "¼ de la presión normal
+   
+   (usualmente **0.25 bar**)", "El oxígeno en el ambiente es menos del requerido para mantenerse consciente.
+   
+   * Si la Despresurización fue abrupta, cualquiera expuesto sufre la Condición Moderada ``Asfixiándose``.
+   * Si la Despresurización tomó un tiempo prolongado, todos los afectados quedan inconscientes automáticamente.
+   
+   Adicionalmente, todos los afectados sufren la Condición Moderada ``Síndrome de Descompresión``, con dolores y calambres extremos a causa de que el nitrógeno en su sangre comienza a hervir."
+   "Cero Presión
+   
+   (vacío)", "El compartimento está completamente desprovisto de aire y al vacío.
+   
+   Cualquiera expuesto comienza a sufrir dolores extremos; grandes moretones comienzan a formarse en todo su cuerpo, su sangre hierve, los capilares superficiales comienzan a romperse, sus tímpanos estallan, y sangran por nariz y oídos. También adquieren la Condición Moderada ``Síndrome de Descompresión`` si es que aún no la tenían. 
+
+   Adicionalmente, cada 5 segundos deben incrementar la severidad de cada Condición que tengan, hasta que mueren. 
+   "
+
+Si alguien sobrevive el tiempo suficiente (segundos) y logra volver a un ambiente presurizado, las Condiciones sufridas se convertirán en heridas y complicaciones de salud (moretones, quemaduras, hemorragias, sordera, ceguera, etc), que llevarán meses de tratamientos especiales para recuperarse.
+
 
 Radiación
 *********
