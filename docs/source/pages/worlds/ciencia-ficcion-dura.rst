@@ -327,15 +327,15 @@ Radiación
 
 La Radiación consiste en pequeñas partículas invisibles que hacen desastres cuando pasan a través del cuerpo humano. La Radiación daña el ADN dentro de las células, pudiendo causar diversas anomalías y problemas de salud, incluso cáncer.
 
-Protegerse de la Radiación es sumamente importante para los *Siderales* y los astronautas en general, porque en el espacio o en ciertos planetas, no están protegidos por un gran campo electromagnético y una densa atmósfera como lo estamos en la Tierra. En este documento se medirá la Radiación en **Sievers** (Sv) o **miliSieverts** (mSv).
+Protegerse de la Radiación es sumamente importante para los *Siderales* y los astronautas en general, porque en el espacio o en ciertos planetas, no están protegidos por un gran campo electromagnético y una densa atmósfera como lo estamos en la Tierra. La Radiación puede medirse en distintas unidades, pero aquí usaremos los **Sieverts** (Sv) o **miliSieverts** (mSv).
 
 Efectos de la Radiación
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Los jugadores deben llevar cuenta de la cantidad de Sv que sus personajes adquieren, debido a que la Radiación es acumulativa en el tiempo. En la siguiente tabla se diferencian los efectos causados por acumulación en **períodos prolongados**, y exposiciones **abruptas** en tiempos cortos (que muchas veces pueden causar efectos peores).
+Los jugadores deben llevar cuenta de la cantidad de Sv que sus personajes adquieren, debido a que la Radiación es acumulativa en el tiempo (y una vez adquirida, nunca se reduce). En la siguiente tabla se diferencian los efectos causados por acumulación en **períodos prolongados**, y exposiciones **abruptas** en tiempos cortos (que muchas veces pueden causar efectos peores).
 
 .. csv-table:: Efectos de la Radiación
-   :widths: 25,75
+   :widths: 20,80
    :header: "Sv adquiridos", "Efectos de la Radiación"
 
    "0 ~ 500 mSv", "Ninguno - niveles de radiación seguros"
@@ -360,6 +360,30 @@ Los jugadores deben llevar cuenta de la cantidad de Sv que sus personajes adquie
    "6 Sv", "Sufres de un cáncer extremadamente severo y avanzado. Se necesitarán tratamientos médicos semanales, con sesiones de varias horas, para frenar sus efectos. Si no se lo trata, morirás en 3~6 meses.
 
    Si se recibió esa cantidad de Sv de forma **abrupta**, además sufres la Condición Severa ``Ampollas y Quemaduras`` en toda tu piel."
+
+Fuentes de Radiación
+~~~~~~~~~~~~~~~~~~~~
+
+Hay 3 fuentes principales de Radiación en el espacio (o en cualquier lugar donde no haya una magnetosfera):
+
+* **Radiación Cósmica** y **de Fondo**
+* **Plantas Nucleares** y **Motores de Fusión**
+* **Erupciones** y **Tormentas Solares**
+
+Radiación Cósmica y de Fondo
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TODO
+
+Plantas Nucleares y Motores de Fusión
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TODO
+
+Erupciones y Tormentas Solares
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TODO
 
 Temperatura
 ***********
