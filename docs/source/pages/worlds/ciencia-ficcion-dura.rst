@@ -325,7 +325,41 @@ Si alguien sobrevive el tiempo suficiente (segundos) y logra volver a un ambient
 Radiación
 *********
 
-TODO
+La Radiación consiste en pequeñas partículas invisibles que hacen desastres cuando pasan a través del cuerpo humano. La Radiación daña el ADN dentro de las células, pudiendo causar diversas anomalías y problemas de salud, incluso cáncer.
+
+Protegerse de la Radiación es sumamente importante para los *Siderales* y los astronautas en general, porque en el espacio o en ciertos planetas, no están protegidos por un gran campo electromagnético y una densa atmósfera como lo estamos en la Tierra. En este documento se medirá la Radiación en **Sievers** (Sv) o **miliSieverts** (mSv).
+
+Efectos de la Radiación
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Los jugadores deben llevar cuenta de la cantidad de Sv que sus personajes adquieren, debido a que la Radiación es acumulativa en el tiempo. En la siguiente tabla se diferencian los efectos causados por acumulación en **períodos prolongados**, y exposiciones **abruptas** en tiempos cortos (que muchas veces pueden causar efectos peores).
+
+.. csv-table:: Efectos de la Radiación
+   :widths: 25,75
+   :header: "Sv adquiridos", "Efectos de la Radiación"
+
+   "0 ~ 500 mSv", "Ninguno - niveles de radiación seguros"
+   "500 mSv ~ 1 Sv", "Sufres mutaciones a nivel celular, que no te afectan a tí, pero incrementan las chances de que tus hijos tengan desórdenes genéticos.
+
+   Si se recibió esa cantidad de Sv de forma **abrupta**, además sufres la Condición Leve ``Náuseas``."
+   "1 Sv", "Sufres de cáncer, de una gravedad baja y en etapa temprana, que puede ser tratado por métodos simples (usualmente tomando píldoras anti-cáncer lo puedes tener bajo control).
+
+   Si se recibió esa cantidad de Sv de forma **abrupta**, además sufres la Condición Moderada ``Vómitos``."
+   "2 Sv", "Sufres la Condición Moderada ``Cataratas`` que te deja parcialmente ciego. Aunque puede corregirse con cirujías no muy complejas.
+
+   Si se recibió esa cantidad de Sv de forma **abrupta**, además sufres la Condición Moderada ``Fiebre y Migraña``."
+   "3 Sv", "Sufres una **Infertilidad** moderada. Tus chances de concepción se reducen a un 30%, y si eres mujer, las chances de un aborto espontáneo incrementan a un 70%.
+
+   Si se recibió esa cantidad de Sv de forma **abrupta**, además sufres de repentinas pérdidas de cabello."
+   "4 Sv", "Sufres de cáncer, de una gravedad moderada. Afortunadamente, los avances en medicina te permiten mantener una vida normal si sigues un tratamiento mensual que solo te causa algunos malestares ocasionales.
+
+   Si se recibió esa cantidad de Sv de forma **abrupta**, además sufres la Condición Moderada ``Hemóptisis`` (toser sangre) o ``Hematémesis`` (vomitar sangre)."
+   "5 Sv", "Sufres una **Infertilidad** total. Tus chances de concepción son nulas, y no hay tratamientos para mitigarla.
+
+   Si se recibió esa cantidad de Sv de forma **abrupta**, además sufres la Condición Severa ``Sangrado Interno`` dado que tus órganos comienzan a colapsar."
+   "6 Sv", "Sufres de un cáncer extremadamente severo y avanzado. Se necesitarán tratamientos médicos semanales, con sesiones de varias horas, para frenar sus efectos. Si no se lo trata, morirás en 3~6 meses.
+
+   Si se recibió esa cantidad de Sv de forma **abrupta**, además sufres la Condición Severa ``Ampollas y Quemaduras`` en toda tu piel."
 
 Temperatura
 ***********
