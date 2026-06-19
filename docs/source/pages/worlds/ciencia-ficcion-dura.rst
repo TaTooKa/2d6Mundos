@@ -492,7 +492,703 @@ Ejemplo de Maniobra de Frenado
 
    Si, en cambio, prefieres frenar lo antes posible y no te importa el gasto enorme de Δv (ni sufrir las :ref:`Altas Gs <ciencia-ficcion-dura-alta-gravedad>`), podrías desacelerar a 5g. Si lo hicieras, estarías multiplicando el costo de Δv original por 1.5, lo que da un nuevo costo de Δv de 1,434.6 km/s, pero solo tardarías 9 horas en frenar por completo! 
 
+Distancia entre Sistemas Planetarios
+************************************
 
+Estas son las distancias promedio entre los sistemas planetarios (el planeta, sus lunas, estaciones orbitales, puntos de Lagrange, etc) del Sistema Solar. Se pueden usar si necesitas calcular viajes con :ref:`Maniobras Braquistócronas <ciencia-ficcion-dura-viajar-por-el-espacio>`.
+
+.. csv-table:: Distancia promedio entre sistemas planetarios en Unidades Astronómicas (AU)
+   :align: center
+   :widths: 16,16,16,16,16,16
+   :header-rows: 1
+   :stub-columns: 1
+
+   "","TIERRA","MARTE","CINTURÓN DE ASTEROIDES","JÚPITER","SATURNO"
+   "TIERRA","〰","0.52 AU","1.77 AU","4.2 AU","8.54 AU"
+   "MARTE","0.52 AU","〰","1.24 AU","3.68 AU","8.02 AU"
+   "CINTURÓN DE ASTEROIDES","1.77 AU","1.24 AU","〰","2.44 AU","6.79 AU"
+   "JÚPITER","4.2 AU","3.68 AU","2.44 AU","〰","4.34 AU"
+   "SATURNO","8.54 AU","8.02 AU","6.79 AU","4.34 AU","〰"
+
+Tiempos de Viaje y Costos de Δv
+*******************************
+
+Las siguientes tablas tienen valores pre-calculados del tiempo requerido y Costos de Δv para diferentes factores de aceleración en Gs.
+
+Viajes Interplanetarios
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Tiempos de Viaje y Costos de Δv a **0.01g**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: 
+   :align: center
+   :widths: 16,16,16,16,16,16
+   :header-rows: 1
+   :stub-columns: 1
+
+   "","TIERRA","MARTE","CINTURÓN DE ASTEROIDES","JÚPITER","SATURNO"
+   "TIERRA","〰","ETA: 20 días
+   
+   Δv: 174 km/s", "ETA: 38 días
+   
+   Δv: 323 km/s", "ETA: 59 días
+   
+   Δv: 496 km/s", "ETA: 84 días
+   
+   Δv: 708 km/s"
+   "MARTE","ETA: 20 días
+   
+   Δv: 174 km/s","〰", "ETA: 32 días
+   
+   Δv: 270 km/s", "ETA: 55 días
+   
+   Δv: 465 km/s", "ETA: 81 días
+   
+   Δv: 686 km/s"
+   "CINTURÓN DE ASTEROIDES","ETA: 38 días
+   
+   Δv: 323 km/s","ETA: 32 días
+   
+   Δv: 270 km/s", "〰", "ETA: 45 días
+   
+   Δv: 378 km/s", "ETA: 74 días
+   
+   Δv: 631 km/s"
+   "JÚPITER","ETA: 59 días
+   
+   Δv: 496 km/s","ETA: 55 días
+   
+   Δv: 465 km/s", "ETA: 45 días
+   
+   Δv: 378 km/s", "〰", "ETA: 60 días
+   
+   Δv: 505 km/s"
+   "SATURNO","ETA: 84 días
+   
+   Δv: 708 km/s","ETA: 81 días
+   
+   Δv: 686 km/s", "ETA: 74 días
+   
+   Δv: 631 km/s", "ETA: 60 días
+   
+   Δv: 505 km/s", "〰"
+
+Tiempos de Viaje y Costos de Δv a **0.1g**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: 
+   :align: center
+   :widths: 16,16,16,16,16,16
+   :header-rows: 1
+   :stub-columns: 1
+
+   "","TIERRA","MARTE","CINTURÓN DE ASTEROIDES","JÚPITER","SATURNO"
+   "TIERRA","〰","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "MARTE","ETA: XX días
+   
+   Δv: NN km/s","〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: 7NNkm/s"
+   "CINTURÓN DE ASTEROIDES","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "JÚPITER","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s"
+   "SATURNO","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰"
+
+Tiempos de Viaje y Costos de Δv a **0.2g**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: 
+   :align: center
+   :widths: 16,16,16,16,16,16
+   :header-rows: 1
+   :stub-columns: 1
+
+   "","TIERRA","MARTE","CINTURÓN DE ASTEROIDES","JÚPITER","SATURNO"
+   "TIERRA","〰","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "MARTE","ETA: XX días
+   
+   Δv: NN km/s","〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: 7NNkm/s"
+   "CINTURÓN DE ASTEROIDES","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "JÚPITER","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s"
+   "SATURNO","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰"
+
+Tiempos de Viaje y Costos de Δv a **0.3g**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: 
+   :align: center
+   :widths: 16,16,16,16,16,16
+   :header-rows: 1
+   :stub-columns: 1
+
+   "","TIERRA","MARTE","CINTURÓN DE ASTEROIDES","JÚPITER","SATURNO"
+   "TIERRA","〰","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "MARTE","ETA: XX días
+   
+   Δv: NN km/s","〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: 7NNkm/s"
+   "CINTURÓN DE ASTEROIDES","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "JÚPITER","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s"
+   "SATURNO","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰"
+
+Tiempos de Viaje y Costos de Δv a **0.4g**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: 
+   :align: center
+   :widths: 16,16,16,16,16,16
+   :header-rows: 1
+   :stub-columns: 1
+
+   "","TIERRA","MARTE","CINTURÓN DE ASTEROIDES","JÚPITER","SATURNO"
+   "TIERRA","〰","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "MARTE","ETA: XX días
+   
+   Δv: NN km/s","〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: 7NNkm/s"
+   "CINTURÓN DE ASTEROIDES","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "JÚPITER","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s"
+   "SATURNO","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰"
+
+Tiempos de Viaje y Costos de Δv a **0.5g**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: 
+   :align: center
+   :widths: 16,16,16,16,16,16
+   :header-rows: 1
+   :stub-columns: 1
+
+   "","TIERRA","MARTE","CINTURÓN DE ASTEROIDES","JÚPITER","SATURNO"
+   "TIERRA","〰","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "MARTE","ETA: XX días
+   
+   Δv: NN km/s","〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: 7NNkm/s"
+   "CINTURÓN DE ASTEROIDES","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "JÚPITER","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s"
+   "SATURNO","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰"
+
+Tiempos de Viaje y Costos de Δv a **1g**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: 
+   :align: center
+   :widths: 16,16,16,16,16,16
+   :header-rows: 1
+   :stub-columns: 1
+
+   "","TIERRA","MARTE","CINTURÓN DE ASTEROIDES","JÚPITER","SATURNO"
+   "TIERRA","〰","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "MARTE","ETA: XX días
+   
+   Δv: NN km/s","〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: 7NNkm/s"
+   "CINTURÓN DE ASTEROIDES","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "JÚPITER","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s"
+   "SATURNO","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰"
+
+Tiempos de Viaje y Costos de Δv a **1.5g**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: 
+   :align: center
+   :widths: 16,16,16,16,16,16
+   :header-rows: 1
+   :stub-columns: 1
+
+   "","TIERRA","MARTE","CINTURÓN DE ASTEROIDES","JÚPITER","SATURNO"
+   "TIERRA","〰","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "MARTE","ETA: XX días
+   
+   Δv: NN km/s","〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: 7NNkm/s"
+   "CINTURÓN DE ASTEROIDES","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "JÚPITER","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s"
+   "SATURNO","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰"
+
+Tiempos de Viaje y Costos de Δv a **2g**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: 
+   :align: center
+   :widths: 16,16,16,16,16,16
+   :header-rows: 1
+   :stub-columns: 1
+
+   "","TIERRA","MARTE","CINTURÓN DE ASTEROIDES","JÚPITER","SATURNO"
+   "TIERRA","〰","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "MARTE","ETA: XX días
+   
+   Δv: NN km/s","〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: 7NNkm/s"
+   "CINTURÓN DE ASTEROIDES","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "JÚPITER","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s"
+   "SATURNO","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰"
+
+Tiempos de Viaje y Costos de Δv a **3g**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: 
+   :align: center
+   :widths: 16,16,16,16,16,16
+   :header-rows: 1
+   :stub-columns: 1
+
+   "","TIERRA","MARTE","CINTURÓN DE ASTEROIDES","JÚPITER","SATURNO"
+   "TIERRA","〰","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "MARTE","ETA: XX días
+   
+   Δv: NN km/s","〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: 7NNkm/s"
+   "CINTURÓN DE ASTEROIDES","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "JÚPITER","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s"
+   "SATURNO","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰"
+
+Tiempos de Viaje y Costos de Δv a **5g**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: 
+   :align: center
+   :widths: 16,16,16,16,16,16
+   :header-rows: 1
+   :stub-columns: 1
+
+   "","TIERRA","MARTE","CINTURÓN DE ASTEROIDES","JÚPITER","SATURNO"
+   "TIERRA","〰","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "MARTE","ETA: XX días
+   
+   Δv: NN km/s","〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: 7NNkm/s"
+   "CINTURÓN DE ASTEROIDES","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "JÚPITER","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s"
+   "SATURNO","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰"
+
+Tiempos de Viaje y Costos de Δv a **10g**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: 
+   :align: center
+   :widths: 16,16,16,16,16,16
+   :header-rows: 1
+   :stub-columns: 1
+
+   "","TIERRA","MARTE","CINTURÓN DE ASTEROIDES","JÚPITER","SATURNO"
+   "TIERRA","〰","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "MARTE","ETA: XX días
+   
+   Δv: NN km/s","〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: 7NNkm/s"
+   "CINTURÓN DE ASTEROIDES","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s"
+   "JÚPITER","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰", "ETA: XX días
+   
+   Δv: NN km/s"
+   "SATURNO","ETA: XX días
+   
+   Δv: NN km/s","ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "ETA: XX días
+   
+   Δv: NN km/s", "〰"
 
 Astronaves
 ----------
