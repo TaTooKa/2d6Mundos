@@ -408,6 +408,34 @@ el *costo de Δv* estará en **m/s**; la *distancia* es en **m**; la *aceleraci�
 Ejemplo de una Maniobra Braquistócrona Parcial
    Si viajas desde la Tierra a Marte a 0.3g y decides hacerlo en 20% de Empuje y 80% a la deriva, te llevará 234.8 horas (90.3 * (1+ (0.8 * 2)), o un 160% de la duración original) y te costará 191.4 km/s de presupuesto de Δv (957 * 2, es decir 20% del costo original)
 
+Frenar o cambiar de trayectoria
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+No es lo ideal, y no suele hacerse, pero en situaciones de emergencia puede que necesites abortar una Maniobra Braquistócrona planeada para frenar en algún punto del trayecto o cambiar rotundamente de destino. Quizá hay un objeto inesperado en curso de colisión; quizá hay una llamada de auxilio que requiere de acción inmediata; quizá el capitán ha decidido cambiar de curso por alguna extraña causa. Sea cual sea el motivo, una astronave que se encuentra volando a altísimas velocidades por el espacio (ya sea bajo empuje de aceleración o a la deriva en 0g) tendrá que afrontar un costo de Δv inesperado para reducir su velocidad.
+
+Cuanto más fuerte se desacelere, menos tiempo se tardará en ejecutar esta maniobra, pero más costo de Δv se incurrirá (y más sufrirán los pasajeros a bordo por las Altas Gs). Para efectuarla usa las siguientes fórmulas [#]_, determinando la *desaceleración* deseada en **g** y los valores originales de tu trayecto actual para obtener el nuevo costo de Δv y el tiempo que llevará llegar a frenar completamente: 
+
+.. [#] Estas fórmulas no están basadas en la ciencia y son una simplificación de rápida resolución (ideal para no perder demasiado tiempo en una partida de rol), basándose en la idea de *elecciones y costos*: un personaje deberá elegir si someterse a más fuerzas G y gastos más altos de Δv a cambio de un tiempo de frenado más corto, o viceversa.
+
+.. math:: 
+
+   nuevo \ costo \ de \ \Delta v = costo \ de \ \Delta v \ original * \left( 1 + \frac{desaceleración}{10} \right)
+
+.. math::
+
+   Tiempo \ de \ Maniobra \ de \ Frenado = \frac{tiempo \ de \ tránsito \ original}{2 * desaceleración} 
+
+el *costo de Δv* estará en **m/s**; la *desaceleración* es en **g**; el *Tiempo de Tránsito* está en **s**. 
+
+Ejemplo de Maniobra de Frenado
+   Tu astronave estaba viajando a 0.3g en una Maniobra Braquistócrona Completa hacia Marte. A las 20 horas, una llamada de auxilio cercana te obliga a frenar abruptamente. Decides desacelerar a 2g para no pasarte del objetivo. El nuevo costo de Δv será de 1,147.68 Km/s (956.4 del costo original, multiplicado por 1.2), y eso demorará 81,331.75s (325,327s del tiempo original, dividido por 4), que son aproximadamente 22 horas. 
+   
+   Si ese costo de Δv te parece demasiado alto o tu astronave no puede afrontarlo, puedes decidir desacelerar a 0.8g. Si lo hicieras, deberías multiplicar el costo de Δv original por 1.08, que da un nuevo costo de Δv de 1,032.91 km/s, pero tardarías 203,329s, que equivalen a 56 días.
+
+   Si, en cambio, prefieres frenar lo antes posible y no te importa el gasto enorme de Δv (ni sufrir las Altas Gs), podrías desacelerar a 5g. Si lo hicieras, estarías multiplicando el costo de Δv original por 1.5, lo que da un nuevo costo de Δv de 1,434.6 km/s, pero solo tardarías 9 horas en frenar por completo! 
+
+
+
 Astronaves
 ----------
 
