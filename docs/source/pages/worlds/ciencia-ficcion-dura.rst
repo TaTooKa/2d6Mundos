@@ -1196,6 +1196,48 @@ Tiempos de Viaje y Costos de Δv a **10g**
    
    Δv: 16 Mm/s", "〰"
 
+Viajes dentro de un Sistema Planetario
+**************************************
+
+Aquí se listan tiempos y costos de Δv para distancias aproximadas a **órbitas lunares** o **puntos de Lagrange** entre planetas y sus lunas. Se usó la distancia promedio de la Tierra a la Luna (384400 km) para calcular estos valores. Tierra-Luna L4 y L5 están aproximadamente a la misma distancia (326400 km) lo que lo hace lo suficientemente parecido como para que puedas usar esta misma tabla.
+
+.. csv-table::
+   :header: "aceleración", "Tiempo de viaje", "costo de Δv"
+
+   "0.01g", "31 horas", "0.01 Mm/s"
+   "0.1g", "10 horas", "0.03 Mm/s"
+   "0.2g", "7 horas", "0.04 Mm/s"
+   "0.3g", "6 horas", "0.05 Mm/s"
+   "0.4g", "5 horas", "0.06 Mm/s"
+   "0.5g", "4 horas", "0.07 Mm/s"
+   "1g", "3 horas", "0.1 Mm/s"
+   "1.5g", "2 horas y 30 minutos", "0.13 Mm/s"
+   "2g", "2 horas y 10 minutos", "0.15 Mm/s"
+   "3g", "1 hora y 40 minutos", "0.18 Mm/s"
+   "5g", "1 hora y 20 minutos", "0.2 Mm/s"
+   "10g", "1 hora", "0.3 Mm/s"
+
+Viajes dentro de la órbita de un Planeta
+****************************************
+
+Aquí se listan tiempos y costos de Δv para distancias entre puntos en órbita de un planeta o luna (estaciones o hábitats orbitales, astronaves, satélites artificales, etc). Se usó una distancia promedio de 30,000km para estos cálculos. Ya que las distancia entre órbitas altas y bajas son despreciables para lo que respecta a presupuestos de Δv de motores de estas capacidades, puedes usar esta misma tabla para ambos casos.
+
+.. csv-table::
+   :header: "aceleración", "Tiempo de viaje", "costo de Δv"
+
+   "0.01g", "10 horas", "0.003 Mm/s"
+   "0.1g", "3 horas", "0.01 Mm/s"
+   "0.2g", "2 horas y 10 minutos", "0.015 Mm/s"
+   "0.3g", "1 hora y 50 minutos", "0.018 Mm/s"
+   "0.4g", "1 hora y 30 minutos", "0.02 Mm/s"
+   "0.5g", "1 hora y 10 minutos", "0.025 Mm/s"
+   "1g", "1 hora", "0.03 Mm/s"
+   "1.5g", "45 minutos", "0.04 Mm/s"
+   "2g", "40 minutos", "0.05 Mm/s"
+   "3g", "30 minutos", "0.06 Mm/s"
+   "5g", "20 minutos", "0.07 Mm/s"
+   "10g", "10 minutos", "0.1 Mm/s"
+
 Astronaves
 ----------
 
