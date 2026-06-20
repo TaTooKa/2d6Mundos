@@ -334,6 +334,8 @@ Efectos de la Radiación
 
 Los jugadores deben llevar cuenta de la cantidad de Sv que sus personajes adquieren, debido a que la Radiación es acumulativa en el tiempo (y una vez adquirida, nunca se reduce). En la siguiente tabla se diferencian los efectos causados por acumulación en **períodos prolongados**, y exposiciones **abruptas** en tiempos cortos (que muchas veces pueden causar efectos peores).
 
+.. _ciencia-ficcion-dura-efectos-radiacion:
+
 .. csv-table:: Efectos de la Radiación
    :widths: 20,80
    :header: "Sv adquiridos", "Efectos de la Radiación"
@@ -373,17 +375,53 @@ Hay 3 fuentes principales de Radiación en el espacio (o en cualquier lugar dond
 Radiación Cósmica y de Fondo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-TODO
+Los **Rayos Cósmicos** son concentraciones de partículas de alta energía que se mueven por el espacio a velocidades cercanas a la de la luz. Se originan en el Sol, de afuera de nuestro solar en otras estrellas de nuestra galaxia, e incluso en otras galaxias. Básicamente están por todos lados, como una lluvia invisible constante a la que te expones siempre que no estés bajo tierra o en un hábitat suficientemente reforzado.
+
+Dado que la **Radiación de Fondo** solo es peligrosa si se acumula durante largos períodos de tiempo, el DJ y los jugadores no tienen que preocuparse por los efectos inmediatos de exposición, pero sí contabilizar su acumulación. Usa la siguiente tabla de *exposición prolongada* [#]_ ; solo deberás aplicar efectos cuando llegues a aculumar alguno de los valores de Sieverts que se describen en la :ref:`Tabla de Efectos de la Radiación <ciencia-ficcion-dura-efectos-radiacion>`. 
+
+.. [#] Esto refiere al tiempo de exposición total de una persona durante toda su vida o carrera. Si el personaje está mayoritariamente en estaciones espaciales o astronaves, entonces contabiliza el tiempo de exposición. Si, en cambio, vive o trabaja en hábitats subterráneos o en hábitats con buenas coberturas de protección contra radiación, entonces no cuentes esos períodos, y solo suma el tiempo cuando se expongan.
+
+.. csv-table:: Tiempo de Exposición Prolongada a la Radiación de Fondo
+   :header: "Tiempo total de exposición", "Sieverts adquiridos"
+
+   "1 mes", "25 mSv"
+   "6 meses", "150 mSv"
+   "1 año", "300 mSv"
+   "2 años", "600 mSv"
+   "5 años", "1.5 Sv"
+   "10 años", "3 Sv"
+   "20 años", "6 Sv"
 
 Plantas Nucleares y Motores de Fusión
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-TODO
+Los *Siderales* están siempre cerca de algún tipo de Reactor Nuclear, como por ejemplo los que proveen energía para satélites o estaciones espaciales, hábitats de la superficie de planetas o lunas, o los motores de fusión de una astronave. Cualquiera de ellos puede fallar en algún momento, y si ocurre un accidente, podría exponer a las personas cercanas a radiación nuclear. Cuando eso ocurre, utiliza la siguiente tabla:
+
+.. csv-table:: Exposición a un Reactor Nuclear
+   :header: "Tipo o Gravedad de Exposición", "Sieverts adquiridos"
+
+   "Bastante lejos / Expuesto a la *deposición radiactiva* ('Fallout')", "100 mSv por minuto"
+   "En las cercanías / Detrás de algún tipo de protección", "500 mSv por minuto"
+   "Bastante cerca / Dentro de la estructura o módulo del reactor", "1 Sv por minuto"
+   "Extremadamente cerca / Expuesto al núcleo del reactor", "10 Sv por minuto"
 
 Erupciones y Tormentas Solares
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-TODO
+Una **Erupción Solar** es una onda mortal de partículas radioactivas que son eyectadas desde la superficie de una estrella en una dirección específica a través del espacio. Pueden interferir en las comunicaciones, interrumpir circuitos eléctricos y fuentes de energía, corroer paneles solares, y darle a las personas dósis extremas de radiación. Hay muy pocos lugares seguros donde resguardarse de una Erupción Solar: Planetas con magnetosferas como la Tierra, detrás de una buena cobertura aislante en un hábitat espacial, dentro de una cámara anti-rad de una astronave, o bajo tierra con varios metros de roca sobre tu cabeza [#]_.
+
+.. [#] Si estás bajo una cobertura parcial, como placas de cobertura adecuadas pero no demasiado gruesas, reduce los valores de Sieverts sufridos a la mitad.
+
+Las Erupciones Solares pueden tener hasta 500 Mm de ancho, aunque en promedio son de un tercio de ese tamaño [#]_.
+
+.. [#] Como referencia, considera que el diámetro de Júpiter es de 140 Mm.
+
+Las Erupciones Solares son bastante raras, pero suele haber dispositivos de alerta temprana en múltiples puntos del Sistema Solar, que pueden advertir hasta con dos horas de anticipación cuando una se está gestando en la superficie del sol. La mayoría de los canales de emergencia y fuentes de noticias suelen tomarse muy en serio la responsabilidad de dar estas alarmas lo más rápido posible a lo largo y a lo ancho de todo el Sistema Solar. 
+
+Las Erupciones Solares suelen durar entre 3 a 6 horas. Las **Tormentas Solares** son como una versión más leve, pero que dura mucho más tiempo (pudiendo llegar a durar hasta 10 días).
+
+* Un personaje expuesto a una **Erupción Solar** recibirá 5 Sv inmediatamente, más 5 Sv por minuto de exposición contínua.
+* Un personaje expuestoa a una **Tormenta Solar** recibirá 500 mSv inmediatamente, más 500 mSv por minuto de exposición contínua.
 
 Temperatura
 ***********
