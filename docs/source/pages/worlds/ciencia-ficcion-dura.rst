@@ -375,7 +375,7 @@ Hay 3 fuentes principales de Radiación en el espacio (o en cualquier lugar dond
 Radiación Cósmica y de Fondo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Los **Rayos Cósmicos** son concentraciones de partículas de alta energía que se mueven por el espacio a velocidades cercanas a la de la luz. Se originan en el Sol, de afuera de nuestro solar en otras estrellas de nuestra galaxia, e incluso en otras galaxias. Básicamente están por todos lados, como una lluvia invisible constante a la que te expones siempre que no estés bajo tierra o en un hábitat suficientemente reforzado.
+Los **Rayos Cósmicos** son concentraciones de partículas de alta energía que se mueven por el espacio a velocidades cercanas a la de la luz. Se originan en el Sol, de afuera de nuestro solar en otras estrellas de nuestra galaxia, e incluso en otras galaxias. Básicamente están por todos lados, como una lluvia invisible constante a la que te expones siempre que no estés bajo tierra o en un hábitat suficientemente reforzado (a razón de unos 25 mSv por mes).
 
 Dado que la **Radiación de Fondo** solo es peligrosa si se acumula durante largos períodos de tiempo, el DJ y los jugadores no tienen que preocuparse por los efectos inmediatos de exposición, pero sí contabilizar su acumulación. Usa la siguiente tabla de *exposición prolongada* [#]_ ; solo deberás aplicar efectos cuando llegues a aculumar alguno de los valores de Sieverts que se describen en la :ref:`Tabla de Efectos de la Radiación <ciencia-ficcion-dura-efectos-radiacion>`. 
 
