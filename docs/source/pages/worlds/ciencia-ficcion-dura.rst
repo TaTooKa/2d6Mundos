@@ -516,6 +516,8 @@ Disipadores Térmicos
 Disipadores Sólidos
 ^^^^^^^^^^^^^^^^^^^
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-23.png
+
 Algunas astronaves, especialmente aquellas diseñadas para el combate, hacen uso indiscriminado de los **Disipadores Térmicos**. Estos son bloques de metal de alta transferencia calórica que son eyectados de la estructura, llevándose el calor residual con ellos.
 
 Cuando es necesario, la astronave puede eyectar un Disipador Térmico, recuperando -10°C de forma casi instantánea. Las astronaves pueden instalar la cantidad de eyectores de Disipadores Térmicos que deseen (mientras los puedan llevar, teniendo en cuenta que cada uno pesa ~1 tonelada).
@@ -524,6 +526,8 @@ La mayoría de los Disipadores Térmicos son descartables, pero hay modelos avan
 
 Disipadores Líquidos
 ^^^^^^^^^^^^^^^^^^^^
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-24.png
 
 Otra forma de disipar el calor residual rápidamente es tener preparado algún líquido descartable (usualmente agua, o el propelente usado para acelerar), transmitir el calor por convección a ese medio, y eyectarlo repentinamente al espacio en forma de vapor, para que se lleve el calor fuera de la astronave. Este método es menos costoso que los Disipadores Térmicos de metal [#]_, pero puede causar más problemas dado que funciona como un excelente propelente con una fuerza de empuje que puede acelerar a la nave o hacerla rotar, por lo que se debe tener mucho cuidado al optar por este método de disipación.
 
