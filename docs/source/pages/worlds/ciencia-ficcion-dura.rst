@@ -231,6 +231,8 @@ En la siguiente tabla se listan los efectos de Altas Gs para "**Golpes breves**"
 Chequeo de Resistencia a Altas Gs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-19.png
+
 Haz una tirada de dados (sumando cualquier *Trasfondo* u otro modificador circunstancial que te afecte, y restando los penalizadores impuestos por la tabla anterior) contra una Dificultad de 8. Si la superas, solo tienes las molestias ocasionadas por las extremas fuerzas G (y sus correspondientes *Modificadores Circunstanciales*), pero no sufres otras Condiciones. Si la fallas, sufres una Condición como las que se detallan a continuación (la gravedad dependerá del *Efecto* del fallo):
 
 * **Leve**: Sientes un leve mareo y todo se pone negro; sufres ``Visión de túnel``.
@@ -254,6 +256,10 @@ Los efectos sufridos por someterse a Altas Gs pueden mitigarse usando algunos de
    * Cuando recibas una dósis de **Suero Anti-G**, ignoras los efectos de las Condiciones recibidas por los efectos de Altas Gs (las sufres igual, pero no te causan penalizadores a la hora de realizar acciones).
 
 .. [#] El Suero puede inyectarse de forma preventiva o manual, con una jeringa convencional. Ha de tenerse en cuenta que el efecto de una dósis dura entre 15 y 30 minutos.
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-20.png
+
+   A los *Siderales* de *Gravedades Nativas* muy bajas se los puede colocar en un tanque de agua para alivianar el efecto de las Altas Gs cuando visitan un planeta o luna.
 
 Presión y Atmósfera
 *******************
