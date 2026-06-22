@@ -509,6 +509,8 @@ Hoy en día, las astronaves tienen que usar todos los trucos disponibles para vi
 
    Las ecuaciones y cálculos matemáticos que se explican a continuación son opcionales para calcular distancias específicas de viajes espaciales; más adelante encontrarás tablas de distancias, tiempos y costos de Δv ya pre-calculados para que no tengas que estar usando una calculadora científica haciendo cuentas y convirtiendo unidades mientras los otros jugadores se aburren.
 
+.. _ciencia-ficcion-dura-maniobra-braquistocrona-completa:
+
 Maniobra Braquistócrona Completa
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -529,6 +531,8 @@ el *costo de Δv* estará en **m/s**; la *distancia* es en **m**; la *aceleraci�
 Ejemplo de una Maniobra Braquistócrona Completa
    Decides viajar desde la Tierra a Marte a 0.3g constantes (que equivale a 2.94 m/s²). La distancia es de 0.52 AU (que equivale a 77,790,892,764 m). Insertando esos valores en las ecuaciones anteriores obtienes un valor para el costo de Δv igual a 956,462 m/s (que equivale a 956.4 km/s) y un Tiempo en Tránsito de 325,327s (que son aproximadamente 90.3 horas, o 3.8 días). A las 45 horas de viaje habrás llegado a la velocidad máxima; dejarás de acelerar, girarás la nave y comenzarás a empujar en dirección opuesta, desacelerando durante otras 45 horas hasta llegar a tu destino.
 
+.. _ciencia-ficcion-dura-maniobra-braquistocrona-parcial:
+
 Maniobra Braquistócrona Parcial
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -544,7 +548,7 @@ Para calcular el tiempo y costo de Δv de una *Maniobra Braquistócrona Parcial*
 
    Tiempo \ en \ Tránsito \ incrementado = Tiempo \ en \ Tránsito \ original * (\% \ de \ tiempo \ bajo \ empuje * 2) 
 
-el *costo de Δv* estará en **m/s**; la *distancia* es en **m**; la *aceleración* es en **m/s²**; el *Tiempo de Tránsito* está en **s**; el *% de tiempo bajo Empuje* está en **formato decimal** (por ejemplo, 30% sería 0.3).
+el *costo de Δv* estará en **m/s**; el *Tiempo de Tránsito* está en **s**; el *% de tiempo bajo Empuje* está en **formato decimal** (por ejemplo, 30% sería 0.3).
 
 Ejemplo de una Maniobra Braquistócrona Parcial
    Si viajas desde la Tierra a Marte a 0.3g y decides hacerlo en 20% de Empuje y 80% a la deriva, te llevará 234.8 horas (90.3 * (1+ (0.8 * 2)), o un 160% de la duración original) y te costará 191.4 km/s de presupuesto de Δv (957 * 2, es decir 20% del costo original)
@@ -580,7 +584,7 @@ Distancia entre Sistemas Planetarios
 
 .. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-17.png
 
-Estas son las distancias promedio entre los sistemas planetarios (el planeta, sus lunas, estaciones orbitales, puntos de Lagrange, etc) del Sistema Solar. Se pueden usar si necesitas calcular viajes con :ref:`Maniobras Braquistócronas <ciencia-ficcion-dura-viajar-por-el-espacio>`.
+Estas son las distancias promedio entre los sistemas planetarios (el planeta, sus lunas, estaciones orbitales, puntos de Lagrange, etc) del Sistema Solar. Se pueden usar si necesitas calcular viajes con :ref:`Maniobras Braquistócronas <ciencia-ficcion-dura-maniobra-braquistocrona-completa>`.
 
 .. csv-table:: Distancia promedio entre sistemas planetarios en Unidades Astronómicas (AU)
    :align: center
@@ -598,7 +602,9 @@ Estas son las distancias promedio entre los sistemas planetarios (el planeta, su
 Tiempos de Viaje y Costos de Δv
 *******************************
 
-Las siguientes tablas tienen valores pre-calculados del tiempo requerido y Costos de Δv para diferentes factores de aceleración en Gs.
+Las siguientes tablas tienen valores pre-calculados del tiempo requerido y Costos de Δv para :ref:`Maniobras Braquistócronas Completas <ciencia-ficcion-dura-maniobra-braquistocrona-completa>` [#]_ con diferentes factores de aceleración, de 0.01g a 10g.
+
+.. [#] Si quieres calcular viajes con :ref:`Maniobras Braquistócronas Parciales <ciencia-ficcion-dura-maniobra-braquistocrona-parcial>`, usa los valores de tiempo y costo de estas tablas, y aplica las fórmulas que te dan los resultados de costo reducido y tiempo incrementado.
 
 .. admonition:: Unidades utilizadas
 
