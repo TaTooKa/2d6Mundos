@@ -490,29 +490,107 @@ Cualquier hábitat o astronave, durante operaciones normales, tiene que deshacer
 Durante los momentos donde más se esfuerza la astronave y más genera y consume energía (por ejemplo, cuando se exige a los reactores para acelerar a máxima capacidad, o cuando se disparan cañones láser de gran potencia), cualquier exceso de calor que los radiadores no puedan disipar comenzará a acumularse en toda la estructura de la astronave, incrementando la temperatura de la coraza y el interior de sus módulos.
 
 .. csv-table:: Alteraciones de Temperatura en un hábitat/astronave
-   :headers: "Actividad", "Alteraciones de Temperatura"
+   :header: "Actividad", "Alteraciones de Temperatura"
 
    "Consumo de energía moderado
 
    (operaciones normales)", "18°~24°C
 
    (temperatura confortable)"
-   "Alto consumo de energía
+   "Consumo de energía Alto
 
    (Reactor/Turbinas operando en alta capacidad o cañón láser activo)", "+10°C
 
    (cambio casi instantáneo; se revierte luego de 10 minutos de consumo moderado)"
-   "",""
+   "Consumo de energía Extremo
+
+   (Reactor/Turbinas operando en alta capacidad Y cañón láser activo)", "+20°C
+
+   (cambio casi instantáneo; se revierte luego de 10 minutos de consumo moderado)"
+   "La mitad de los radiadores están dañados o desactivados","+5°C por minuto"
+   "Todo los radiadores están dañados o desactivados","+10°C por minuto"
 
 Disipadores Térmicos
 ~~~~~~~~~~~~~~~~~~~~
 
-TODO
+Disipadores Sólidos
+^^^^^^^^^^^^^^^^^^^
+
+Algunas astronaves, especialmente aquellas diseñadas para el combate, hacen uso indiscriminado de los **Disipadores Térmicos**. Estos son bloques de metal de alta transferencia calórica que son eyectados de la estructura, llevándose el calor residual con ellos.
+
+Cuando es necesario, la astronave puede eyectar un Disipador Térmico, recuperando -10°C de forma casi instantánea. Las astronaves pueden instalar la cantidad de eyectores de Disipadores Térmicos que deseen (mientras los puedan llevar, teniendo en cuenta que cada uno pesa ~1 tonelada).
+
+La mayoría de los Disipadores Térmicos son descartables, pero hay modelos avanzados que tienen sistemas incorporados de propulsión (lo que les permite "frenar" cerca para ser recuperados más tarde, o incluso pueden propulsarse y volver a acoplarse a la astronave de forma autónoma). Estos suelen ser tecnologías de punta de grandes fuerzas militares y no están disponibles para la venta comercial.
+
+Disipadores Líquidos
+^^^^^^^^^^^^^^^^^^^^
+
+Otra forma de disipar el calor residual rápidamente es tener preparado algún líquido descartable (usualmente agua, o el propelente usado para acelerar), transmitir el calor por convección a ese medio, y eyectarlo repentinamente al espacio en forma de vapor, para que se lleve el calor fuera de la astronave. Este método es menos costoso que los Disipadores Térmicos de metal [#]_, pero puede causar más problemas dado que funciona como un excelente propelente con una fuerza de empuje que puede acelerar a la nave o hacerla rotar, por lo que se debe tener mucho cuidado al optar por este método de disipación.
+
+En términos mecánicos de juego, considera que si eyectas agua (u otro propelente que use tu motor) para reducir la temperatura de tu astronave, gastarás de tu presupuesto de Δv como se indica a continuación:
+
+* Astronaves pequeñas: consumo de Δv de 0.1Mm/s
+* Astronaves medianas: consumo de Δv de 0.25Mm/s
+* Astronaves grandes: consumo de Δv de 0.5Mm/s
+
+En todos los casos se eyecta una tonelada de líquido (agua u otro propelente) y se reduce inmediatamente la temperatura en -10°C.
+
+.. [#] excepto en comparación con los **Disipadores Térmicos Recuperables**, dado que el vapor una vez eyectado será imposible de recuperar.
 
 Efectos de Temperaturas Extremas en el Cuerpo Humano
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-TODO
+Esta tabla lista los efectos de las diferentes temperaturas en el cuerpo humano y sus consecuencias en mecánicas de juego, asumiendo que el personaje no está debidamente protegido [#]_. Se listan efectos para **Exposición Corta** (pocos segundos a un minuto) y **Exposición Prolongada** (algunos minutos o más).
+
+.. [#] Puedes protegerte con abrigo, buena vestimenta adecuada, algún utensilio o aparato que te ayude a mantener una temperatura corporal ideal, etc. El DJ determinará si lo que usas o llevas puesto alcanza para ignorar los efectos de esta tabla, o si te ayuda a utilizar los de un resultado mejor de la misma.
+
+.. csv-table::
+   :header: "Temperatura del Ambiente", "Efectos en el Cuerpo Humano"
+
+   "Menos de -15°C", "**Exposición Corta**: Estás temblando de frío. Sufres la Condición Moderada ``Hipotermia``.
+   
+   **Exposición Prolongada**: Tus extremidades se congelan y se entumecen. Sufres la Condición Moderada ``Congelación``, y por cada hora de exposición contínua, la vuelves a sufrir o incrementas su severidad."
+   "Menos de 0°C", "**Exposición Corta**: Tiemblas incómodamente y sientes calambres.
+   
+   **Exposición Prolongada**: Sufres la Condición Severa ``Hipotermia``."
+   "0°C ~ 10°C", "**Exposición Corta**: Comienzas a temblar levemente y te incomoda el frío.
+   
+   **Exposición Prolongada**: Sufres la Condición Moderada ``Hipotermia``."
+   "15°C ~ 25°C", "Rango de temperatura confortable para la mayoría de las personas."
+   "30°C ~ 35°C", "El cuerpo comienza a transpirar más para mantenerse fresco.
+   
+   **Exposición Corta**: Leve sudor y fatiga.
+   
+   **Exposición Prolongada**: Sufres la Condición Leve ``Deshidratación``."
+   "40°C", "El estrés por el exceso de calor se hace imposible de ignorar.
+   
+   **Exposición Corta**: Sudor, mareos, confusión, posibles desmayos.
+   
+   **Exposición Prolongada**: Sufres la Condición Moderada ``Deshidratación``, y por cada hora de exposición contínua, la vuelves a sufrir o incrementas su severidad."
+   "45°C", "El riesgo de sufrir *agotamiento* o un *golpe de calor* se incrementan considerablemente. Las proteínas de tu cuerpo comienzan a desnaturalizarse, los impulsos nerviosos se ralentizan, y las funciones de los órganos vitales se ven comprometidas.
+   
+   **Exposición Corta**: Sudor, mareos, confusión, posibles desmayos.
+   
+   **Exposición Prolongada**: Sufres la Condición Severa ``Golpe de Calor``, y por cada hora de exposición contínua, la vuelves a sufrir o incrementas su severidad."
+   "50°C o más", "El cuerpo pierde la capacidad de refrescarse efectivamente. La transpiración resulta insuficiente, provocando un incremento peligroso de la temperatura central. Un golpe de calor puede causar daño severo permanente a tu cerebro, tu corazón, tus riñones o tu hígado.
+   
+   **Exposición Corta**: Sudor, mareos, confusión, posibles desmayos.
+   
+   **Exposición Prolongada**: Sufres la Condición Severa ``Golpe de Calor``, y por cada hora de exposición contínua, la vuelves a sufrir o incrementas su severidad. Además, el DJ debe considerar si darte algún tipo de secuela permanente por el calor extremo."
+
+Efecto de Temperaturas Extremas en Hábitats / Astronaves
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Si bien los efectos de **Temperaturas Extremas** perjudicarán a los pasajeros mucho antes que a los sistemas artificiales, es importante entender que todos los aparatos electrónicos e incluso la estructura del vehículo o módulos habitables sufrirán y dejarán de cumplir su función a cierto grado de temperatura.
+
+* Temperaturas inferiores a -40°C: Los sistemas mecánicos / hidráulicos se atascan y fallan.
+* Temperaturas inferiores a -20°C: La mayoría de los sistemas electrónicos comienzan a fallar.
+* Temperaturas superiores a 70°C: La mayoría de los sistemas electrónicos comienzan a fallar.
+* Temperaturas superiores a 100°C: Los sistemas mecánicos / hidráulicos se atascan y fallan.
+* Temperaturas superiores a 150°C: Cualquier estructura plástica se derrite, se parte o se incendia.
+* Temperaturas superiores a 200°C: Cualquier sistema que dependa de líquidos o propelentes hierve y falla.
+* Temperaturas superiores a 500°C: Cualquier estructura metálica se pone al rojo vivo, se dobla, se parte o se derrite. Hay riesgos de que cualquier reactor nuclear entre en estado crítico.
+* Temperaturas superiores a 1000°C: Cualquier reactor nuclear entra en estado crítico.
 
 Comunicaciones
 **************
