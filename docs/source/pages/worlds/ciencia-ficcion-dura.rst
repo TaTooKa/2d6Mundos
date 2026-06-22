@@ -309,11 +309,14 @@ Los **Trajes Espaciales** tienen mucho menos volumen de aire circulando dentro, 
 
 .. [#] Es por esta diferencia de presión entre los hábitats y los trajes espaciales que los astronautas deben pasar ~10 minutos "aclimatándose" al cambio atmosférico. Intentar ponerse un traje rápidamente sin realizar el procedimiento adecuado durante el tiempo requerido le causará al personaje sufrir una Condición Moderada ``Síndrome de Descompresión``.
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-21.png
+
+   Es una buena idea despresurizar los módulos de una astronave de antemano y vestir trajes de astronauta de forma preventiva, si se espera entrar en combate, para no malgastar grandes cantidades de aire en caso de múltiples perforaciones.
+
 Emparchando perforaciones
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 La mayoría de los *Siderales* suelen tener siempre a mano un kit de *Parches Adhesivos*: unas láminas de plástico resistente con gel adaptable con un diámetro entre 15 y 30 cm. Por supuesto, en emergencias, cualquier cosa que pueda sellar temporalmente una fisura puede usarse. La mayoría de los objetos que tengan un lado plano se sostendrán en su lugar solo por la presión del vacío. Como soluciones más definitivas, se suele soldar una placa de plasti-acero o una malla de fibra de carbono de ambos lados del área perforada.
-
 
 .. _ciencia-ficcion-dura-efectos-despresurizacion:
 
