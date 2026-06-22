@@ -1319,7 +1319,11 @@ Aquí se listan tiempos y costos de Δv para distancias aproximadas a **órbitas
 Viajes dentro de la órbita de un Planeta
 ****************************************
 
-Aquí se listan tiempos y costos de Δv para distancias entre puntos en órbita de un planeta o luna (estaciones o hábitats orbitales, astronaves, satélites artificales, etc). Se usó una distancia promedio de 30,000km para estos cálculos. Ya que las distancia entre órbitas altas y bajas son despreciables para lo que respecta a presupuestos de Δv de motores de estas capacidades, puedes usar esta misma tabla para ambos casos.
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-22.png
+
+Aquí se listan tiempos y costos de Δv para distancias entre puntos en órbita baja de un planeta o luna (estaciones o hábitats orbitales, astronaves, satélites artificales, etc). Se usó una distancia promedio de 30,000km para estos cálculos. Ya que las distancia entre órbitas altas y bajas son despreciables [#]_ para lo que respecta a presupuestos de Δv de motores de estas capacidades, puedes usar esta misma tabla para ambos casos.
+
+.. [#] de hecho, como se puede ver en la tabla, a comparación de los trayectos interplanetarios, estos costos de Δv son insignificantes. A criterio del DJ, estos viajes tan "cortos" pueden resolverse sin demasiados cálculos en la mayoría de las situaciones donde el tiempo no es un factor apremiante. Simplemente declara que el viaje se hace a una aceleración agradable para los pasajeros y el gasto de Δv es despreciable.
 
 .. csv-table::
    :header: "aceleración", "Tiempo de viaje", "costo de Δv"
