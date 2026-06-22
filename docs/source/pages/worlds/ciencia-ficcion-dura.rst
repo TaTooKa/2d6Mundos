@@ -516,6 +516,8 @@ Maniobra Braquistócrona Completa
 
 La astronave acelera a una cierta **g** constante hasta el punto medio del viaje, luego gira y desacelera a la misma **g** constante hasta llegar a su destino. Esta es la forma más rápida de viajar en línea recta entre dos puntos, llegando al destino completamente detenido.
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/maniobra-braquistocrona-completa.png
+
 Éstas son las fórmulas cinemáticas:
 
 .. math:: 
@@ -536,7 +538,9 @@ Ejemplo de una Maniobra Braquistócrona Completa
 Maniobra Braquistócrona Parcial
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La astronave acelera por un período del trayecto a una cierta **g** constante, luego deriva en **0g** por otro período, para luego girar y desacelerar por otro período igual al primero a a la misma **g** constante. Esta maniobra permite ahorrar costos de Δv a expensas de pasar más tiempo en el viaje.
+La astronave acelera por un período del trayecto a una cierta **g** constante, luego deriva en **0g** por otro período, para luego girar y desacelerar por otro período igual al primero a a la misma **g** constante. Esta maniobra permite ahorrar costos de Δv a expensas de pasar más tiempo en el viaje (y de someterse a microgravedad por una parte del trayecto).
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/maniobra-braquistocrona-parcial.png
 
 Para calcular el tiempo y costo de Δv de una *Maniobra Braquistócrona Parcial*, primero debes determinar qué porcentaje del trayecto estarás bajo empuje (en dos segmentos: primero acelerando, luego desacelerando) y qué porcentaje del trayecto estarás derivando a **0g**. Luego multiplica el *Tiempo en Tránsito* por 2X ese porcentaje, y divide el costo de Δv por ese porcentaje.
 
