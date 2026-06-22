@@ -595,7 +595,24 @@ Si bien los efectos de **Temperaturas Extremas** perjudicarán a los pasajeros m
 Comunicaciones
 **************
 
-TODO
+Las comunicaciones en el Sistema Solar son mayoritariamente de lásers entre satélites, o de ondas de radio. Ambas están limitadas por la velocidad de la luz, pero además por todos los "saltos" entre los diferentes servidores informáticos y otros enrutadores, que priorizan el envío de esos paquetes digitales dependiendo de quién sea el que intenta acceder a ese servicio. 
+
+.. csv-table:: Tiempo de retraso promedio de comunicaciones entre sistemas planetarios
+   :align: center
+   :widths: 16,16,16,16,16,16
+   :header-rows: 1
+   :stub-columns: 1
+
+   "","TIERRA","MARTE","CINTURÓN DE ASTEROIDES","JÚPITER","SATURNO"
+   "TIERRA","〰","4 min","15 min","35 min","71 min"
+   "MARTE","4 min","〰","10 min","31 min","67 min"
+   "CINTURÓN DE ASTEROIDES","15 min","10 min","〰","20 min","56 min"
+   "JÚPITER","35 min","31 min","20 min","〰","36 min"
+   "SATURNO","71 min","67 min","56 min","36 min","〰"
+
+Estos tiempos estimados de retraso representan "el mejor de los casos", es decir para comunicaciones cifradas de prioridad militar o de altos escalafones del gobierno. Aquellos civiles que pueden pagar cantidades exorbitantes de dinero pueden acceder a 2X o 3X estas estimaciones. La mayoría de la gente "común" tendrá con suerte acceso a comunicaciones que tardan 10X lo que se presenta en la tabla anterior [#]_.
+
+.. [#] Es por esto que la mayoría de las estaciones espaciales y hábitats planetarios tienen redes virtuales locales de información y entretenimiento, priorizando las comunicaciones más cercanas, y actualizando con baja frecuencia las que provienen de (o van a) otros puntos lejanos del Sistema Solar.
 
 .. _ciencia-ficcion-dura-viajar-por-el-espacio:
 
