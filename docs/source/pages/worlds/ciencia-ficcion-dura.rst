@@ -379,7 +379,7 @@ Los **Rayos Cósmicos** son concentraciones de partículas de alta energía que 
 
 Dado que la **Radiación de Fondo** solo es peligrosa si se acumula durante largos períodos de tiempo, el DJ y los jugadores no tienen que preocuparse por los efectos inmediatos de exposición, pero sí contabilizar su acumulación. Usa la siguiente tabla de *exposición prolongada* [#]_ ; solo deberás aplicar efectos cuando llegues a aculumar alguno de los valores de Sieverts que se describen en la :ref:`Tabla de Efectos de la Radiación <ciencia-ficcion-dura-efectos-radiacion>`. 
 
-.. [#] Esto refiere al tiempo de exposición total de una persona durante toda su vida o carrera. Si el personaje está mayoritariamente en estaciones espaciales o astronaves, entonces contabiliza el tiempo de exposición. Si, en cambio, vive o trabaja en hábitats subterráneos o en hábitats con buenas coberturas de protección contra radiación, entonces no cuentes esos períodos, y solo suma el tiempo cuando se expongan.
+.. [#] Esto refiere al tiempo de exposición total de una persona durante toda su vida o carrera. Si el personaje está mayoritariamente en estaciones espaciales o astronaves, entonces contabiliza el tiempo de exposición. Si, en cambio, vive o trabaja en hábitats subterráneos o en estaciones con buenas coberturas de protección contra radiación, entonces no cuentes esos períodos, y solo suma el tiempo cuando se expongan.
 
 .. csv-table:: Tiempo de Exposición Prolongada a la Radiación de Fondo
    :header: "Tiempo total de exposición", "Sieverts adquiridos"
