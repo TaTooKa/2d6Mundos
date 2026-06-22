@@ -1,6 +1,8 @@
 Ciencia Ficción Dura
 ====================
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-2.png
+
 La **"Ciencia Ficción Dura"** es un sub-género de la ciencia ficción en el cual cualquier avance tecnológico o especulación futurista se basan en los conocimientos de la ciencia real. Usualmente se contrasta con otras obras de "ciencia ficción blanda" donde, o bien por desconocimiento o desinterés, no se le da importancia a la veracidad científica ni al realismo que un especialista en una disciplina particular pudiese tener. Para los entusiastas de ciertos tópicos como la conquista espacial, la astronomía, la tecnología, o el futurismo, esa falta de atención a los contenidos científicos y a la verisimilitud bien investigada puede resultar banal e incluso aburrido. Este sub-género podría abarcar muchos tipos de universos o ambientaciones, pero se ha hecho famoso principalmente en aquellos que tratan sobre la exploración espacial y el futuro cercano o lejano. 
 
 En 2d6Mundos, la ambientación propuesta es la de un futuro no muy lejano donde la humanidad ha logrado conquistar los planetas más cercanos (quizá incluso haya conseguido la forma de viajar a otros sistemas solares). El viaje por el espacio es algo bastante común, alcanzable no solo por las personas más excepcionales y los gobiernos más poderosos, si no también por las corporaciones privadas y la gente "normal" que se gana la vida con alguna profesión relacionada al espacio, ya sea en astronaves o en estaciones orbitales; Los avances tecnológicos le permiten a las personas mejorar sus capacidades físicas y cognitivas con ciber-implantes o conexiones a redes informáticas por *Realidad Aumentada*; Los humanos se han hecho más longevos y menos propensos a morir por enfermedades terminales gracias a increíbles avances en la medicina; etc.
@@ -12,6 +14,8 @@ Pero para cumplir con los requisitos de la *ciencia ficción dura*, todo esto es
 
 Creación de Personaje
 ---------------------
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-3.png
 
 Tu personaje comenzará con 3 niveles de Trasfondos. Puedes elegir uno solo en nivel 3, o dos en nivel 1 y 2, o tres en nivel 1. Luego inventa una lista de 5 objetos/herramientas que tiene, o usa la :ref:`tabla de Equipo <ciencia-ficcion-dura-equipo>` de más abajo (El DJ te dirá si son adecuados para la ambientación y tu idea de personaje). 
 
@@ -64,6 +68,10 @@ Trasfondos
 Equipo
 ******
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-4.png
+
+Puedes usar esta tabla para sacar ideas de lo que lleva tu personaje, o tira d66 varias veces para ver lo que te sale al azar.
+
 .. csv-table:: 
 
    "11. Traje de vacío blindado", "21. Pistola de bengalas térmicas", "31. Kit de parches de emergencia"
@@ -84,6 +92,8 @@ Equipo
 
 Física Espacial
 ---------------
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-1.jpg
 
 A continuación se detallan diversas mecánicas relacionadas a la física en el espacio que suelen entrar en juego en historias de *Ciencia Ficción Dura*.
 
@@ -106,14 +116,22 @@ Cuando la nave se detiene, o deja de acelerar (es decir, está "a la deriva", vo
 Fuerza Centrífuga
 ~~~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-6.png
+
 La gravedad artificial por fuerza centrífuga se logra haciendo rotar la nave o el hábitat sobre su eje central, a una velocidad constante. De esta forma, todo lo que esté dentro experimentará una fuerza que lo empuja "hacia afuera", o "chocando" contra las paredes interiores de la rueda. Si se la diseña para que ese sea el piso, se logra la sensación de gravedad natural. 
 
 El mayor problema es el **Efecto Coriolis**, a partir del movimiento inercial creado por el giro. Cuanto más pequeño sea el hábitat, o más cerca se esté del eje central, más pronunciado será este efecto. En estos casos, puede causar mareos o náuseas (representados como una *Condición Leve* como ``Vértigo de Coriolis``).
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-10.png
+
+   El líquido cae en dirección contraria al giro del hábitat centrífugo
 
 .. _ciencia-ficcion-dura-micro-gravedad:
 
 Micro-gravedad
 ~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-5.png
 
 La anatomía humana no está preparada para la vida en micro-gravedad (al menos no la de los humanos nativos de la Tierra, Marte, u otros hábitats con gravedad). El organismo se deteriora progresivamente y puede ser fatal después de 5 años.
 
@@ -177,6 +195,8 @@ Estos efectos adversos pueden evitarse o mitigarse con los siguientes métodos:
 Alta gravedad
 ~~~~~~~~~~~~~
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-9.png
+
 Someterse a Alta Gravedad también es incapacitante y perjudicial para la salud. Esto dependerá de la "*Gravedad Nativa*" del personaje.
 
 .. admonition:: Gravedad Nativa
@@ -238,6 +258,8 @@ Los efectos sufridos por someterse a Altas Gs pueden mitigarse usando algunos de
 Presión y Atmósfera
 *******************
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-7.png
+
 Para que el cuerpo humano funcione correctamente, también hace falta una composición atmosférica viable y un nivel de presión adecuado.
 
 Lo que se conoce como "aire puro" en la Tierra está usualmente compuesto de un 75% de nitrógeno, un 24% de oxígeno y otros gases. En aeronaves o hábitats espaciales la composición puede variar; dependiendo de la presión se puede agregar algo de helio a la mezcla, o incrementar los niveles de oxígeno.
@@ -259,6 +281,8 @@ El tiempo que tarda en gastarse todo el oxígeno depende de muchos factores como
 
 Despresurización
 ~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-8.png
 
 Incluso con la mezcla de gases correcta, el ambiente tiene que tener el correcto nivel de presión para poder respirar. Y eso es sin contar la enorme cantidad de problemas que sufre el cuerpo humano en ambientes con presión demasiado alta o baja (especialmente si el cambio es abrupto!).
 
@@ -324,6 +348,8 @@ Si alguien sobrevive el tiempo suficiente (segundos) y logra volver a un ambient
 
 Radiación
 *********
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-11.png
 
 La Radiación consiste en pequeñas partículas invisibles que hacen desastres cuando pasan a través del cuerpo humano. La Radiación daña el ADN dentro de las células, pudiendo causar diversas anomalías y problemas de salud, incluso cáncer.
 
@@ -408,6 +434,8 @@ Los *Siderales* están siempre cerca de algún tipo de Reactor Nuclear, como por
 Erupciones y Tormentas Solares
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-12.png
+
 Una **Erupción Solar** es una onda mortal de partículas radioactivas que son eyectadas desde la superficie de una estrella en una dirección específica a través del espacio. Pueden interferir en las comunicaciones, interrumpir circuitos eléctricos y fuentes de energía, corroer paneles solares, y darle a las personas dósis extremas de radiación. Hay muy pocos lugares seguros donde resguardarse de una Erupción Solar: Planetas con magnetosferas como la Tierra, detrás de una buena cobertura aislante en un hábitat espacial, dentro de una cámara anti-rad de una astronave, o bajo tierra con varios metros de roca sobre tu cabeza [#]_.
 
 .. [#] Si estás bajo una cobertura parcial, como placas de cobertura adecuadas pero no demasiado gruesas, reduce los valores de Sieverts sufridos a la mitad.
@@ -426,7 +454,11 @@ Las Erupciones Solares suelen durar entre 3 a 6 horas. Las **Tormentas Solares**
 Temperatura
 ***********
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-13.png
+
 TODO
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-14.png
 
 Comunicaciones
 **************
@@ -437,6 +469,8 @@ TODO
 
 Viajar por el Espacio
 ---------------------
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-15.png
 
 Hoy en día, viajar por el espacio es muy costoso y bastante lento (las velocidades son altísimas, pero considerando las tremendas distancias casi imposibles de imaginar, en comparación con los viajes terrestres nos resulta extremadamente lento). Pero la ciencia estima que, en un futuro no muy lejano en el cual la conquista espacial haya madurado lo suficiente, los avances en fusión nuclear y tecnología de materiales permitirá la existencia de astronaves extremadamente rápidas y combustibles super eficientes. Con motores capaces de generar empujes en el orden de Kilo o Mega Newtons por tiempo prolongado, un vehículo podría viajar entre sistemas planetarios en cuestión de días, en vez de meses o años, sumado a que si puede mantener una aceleración constante, podría generar su propia gravedad artificial.
 
@@ -457,6 +491,8 @@ En vez de contabilizar toneladas de combustible o propelente, es más fácil cal
 
 Maniobras para Viajar por el Espacio
 ************************************
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-16.png
 
 Hoy en día, las astronaves tienen que usar todos los trucos disponibles para viajar por el espacio: Transferencias de Hohmann (Asistencias orbitales), Maniobras Oberth (sobrevuelos propulsados por campos gravitatorios), Transferencias bielípticas, etc. En el futuro no muy lejano de la *Ciencia Ficción Dura*, eso ya no será necesario. Las astronaves tienen motores suficientemente poderosos como para viajar en línea recta entre un punto y otro, ya sea acelerando y desacelerando cada mitad del trayecto, o acelerando+derivando+desacelerando para ahorrar algo de Δv. Esta técnica se conoce como **Maniobra Braquistócrona**.
 
@@ -532,6 +568,8 @@ Ejemplo de Maniobra de Frenado
 
 Distancia entre Sistemas Planetarios
 ************************************
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-17.png
 
 Estas son las distancias promedio entre los sistemas planetarios (el planeta, sus lunas, estaciones orbitales, puntos de Lagrange, etc) del Sistema Solar. Se pueden usar si necesitas calcular viajes con :ref:`Maniobras Braquistócronas <ciencia-ficcion-dura-viajar-por-el-espacio>`.
 
@@ -1236,6 +1274,10 @@ Tiempos de Viaje y Costos de Δv a **10g**
 
 Viajes dentro de un Sistema Planetario
 **************************************
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-18.png
+
+   Puntos de Lagrange Tierra-Luna
 
 Aquí se listan tiempos y costos de Δv para distancias aproximadas a **órbitas lunares** o **puntos de Lagrange** entre planetas y sus lunas. Se usó la distancia promedio de la Tierra a la Luna (384400 km) para calcular estos valores. Tierra-Luna L4 y L5 están aproximadamente a la misma distancia (326400 km) lo que lo hace lo suficientemente parecido como para que puedas usar esta misma tabla.
 
