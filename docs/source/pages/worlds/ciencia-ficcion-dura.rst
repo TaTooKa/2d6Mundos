@@ -470,7 +470,7 @@ Dentro de un hábitat espacial o astronave, la temperatura usualmente se mantien
 Calor en el espacio
 ~~~~~~~~~~~~~~~~~~~
 
-En el vacío del espacio, la temperatura está cerca del cero absoluto (0°K, o -273°C), sin embargo, las astronaves generan exceso de calor, y en vez de congelarse, tienen dificultades para evitar sobrecalentarse. ¿Por qué?
+En el vacío del espacio la temperatura está cerca del cero absoluto (0°K, o -273°C), sin embargo, las astronaves generan exceso de calor, y en vez de congelarse, tienen dificultades para evitar sobrecalentarse. ¿Por qué?
 
 Existen tres métodos para transferir el calor: **conducción**, **convección** y **radiación**.
 
@@ -485,7 +485,24 @@ Existen otras técnicas para reducir el exceso de calor y mejorar la transferenc
 Calor Residual
 ~~~~~~~~~~~~~~
 
-TODO
+Cualquier hábitat o astronave, durante operaciones normales, tiene que deshacerse del *calor residual* (hasta el cuerpo humano genera calor!). Solo la luz del sol puede incrementar la temperatura de una astronave a 120°C en ~10 minutos si no se refrigera o se deshace del calor residual de alguna forma.
+
+Durante los momentos donde más se esfuerza la astronave y más genera y consume energía (por ejemplo, cuando se exige a los reactores para acelerar a máxima capacidad, o cuando se disparan cañones láser de gran potencia), cualquier exceso de calor que los radiadores no puedan disipar comenzará a acumularse en toda la estructura de la astronave, incrementando la temperatura de la coraza y el interior de sus módulos.
+
+.. csv-table:: Alteraciones de Temperatura en un hábitat/astronave
+   :headers: "Actividad", "Alteraciones de Temperatura"
+
+   "Consumo de energía moderado
+
+   (operaciones normales)", "18°~24°C
+
+   (temperatura confortable)"
+   "Alto consumo de energía
+
+   (Reactor/Turbinas operando en alta capacidad o cañón láser activo)", "+10°C
+
+   (cambio casi instantáneo; se revierte luego de 10 minutos de consumo moderado)"
+   "",""
 
 Disipadores Térmicos
 ~~~~~~~~~~~~~~~~~~~~
