@@ -465,9 +465,37 @@ Temperatura
 
 .. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-13.png
 
-TODO
+Dentro de un hábitat espacial o astronave, la temperatura usualmente se mantiene en un ideal entre 18° y 24°, para reducir la carga metabólica de los habitantes o pasajeros. 
+
+Calor en el espacio
+~~~~~~~~~~~~~~~~~~~
+
+En el vacío del espacio, la temperatura está cerca del cero absoluto (0°K, o -273°C), sin embargo, las astronaves generan exceso de calor, y en vez de congelarse, tienen dificultades para evitar sobrecalentarse. ¿Por qué?
+
+Existen tres métodos para transferir el calor: **conducción**, **convección** y **radiación**.
+
+La **conducción** ocurre cuando la temperatura se transfiere entre dos objetos que están en contacto directo (esto no es posible dado que tu hábitat o astronave no estará en contacto con nada). La **convección** se da cuando la temperatura se transmite a través de un medio como el aire o el agua, que es fluído y "corre" alrededor del objeto (esto tampoco es posible dado que el vacío del espacio no es un medio; al contrario...). Finalmente, la **radiación** ocurre cuando la energía calórica se emite desde el objeto en forma de energía electromagnética o termal, a través de ondas de fotones. Esta es la única froma viable de irradiar calor y reducir la temperatura en el espacio.
+
+Los hábitats espaciales y las astronaves hacen uso de grandes radiadores de calor que se despliegan en forma coplanar (es decir, en lados oupuestos), con sus superficies irradiando el calor hacia afuera. Suelen estar armadas con tuberías que circulan algún tipo de líquido refrigerante que transfiere el calor desde las partes más calientes de la estructura, a través de toda su superficie. A las más altas temperaturas, estos radiadores suelen tomar un calor rojizo no demasiado intenso.
 
 .. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-14.png
+
+Existen otras técnicas para reducir el exceso de calor y mejorar la transferencia: Las estructuras exteriores suelen pintarse de blanco o metalizado/plateado, para reflejar la mayor cantidad de luz solar posible. Otro truco es el de rotar la aeronave frecuentemente para intercalar el lado que está expuesto a la luz (y al calor) del sol, dejando que el otro lado se enfríe mientras está a la sombra.
+
+Calor Residual
+~~~~~~~~~~~~~~
+
+TODO
+
+Disipadores Térmicos
+~~~~~~~~~~~~~~~~~~~~
+
+TODO
+
+Efectos de Temperaturas Extremas en el Cuerpo Humano
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TODO
 
 Comunicaciones
 **************
