@@ -44,7 +44,7 @@ Trasfondos
    "34", "**Estratega** (Tácticas de guerra espacial, electrónica y táctica)"
    "35", "**Francotirador** (Balística de largo alcance o en el vacío)"
    "36", "**Infiltrador** (Espionaje y sabotaje)"
-   "41", "**Piloto** (Cazas y transporte de carga)"
+   "41", "**Piloto** (Maniobras finas y complejas de todo tipo de astronaves)"
    "42", "**Navegante** (Cálculo de trayectorias y presupuestos de combustible)"
    "43", "**Astronauta** (Trabajos en el exterior/EVA en el vacío o en planetas)"
    "44", "**Operario** (obrero, trabajador de maquinaria pesada, o minero)"
@@ -1496,12 +1496,40 @@ Aquí se listan tiempos y costos de Δv para distancias entre puntos en órbita 
 Astronaves
 ----------
 
-TODO
+A continuación se detallan métodos y mecánicas relacionadas con el uso de astronaves, seguido de una lista de los modelos más típicos usados en el Sistema Solar en el futuro de un universo de *Ciencia Ficción Dura*.
+
+Roles y Cargos
+**************
+
+Las astronaves suelen tener una tripulación con miembros que cumplen distintos roles. Dependiendo del tipo de organización o facción que controla la nave, puede que se mantenga una jerarquía estricta, o que esos roles y cargos sean más laxos e intercambiables.
+
+Los roles o cargos más típicos son:
+
+* **Capitán**: El cargo jerárquico más alto dentro de una astronave. Da las órdenes y la tripulación acata sin cuestionamientos. En flotas de múltiples astronaves, un **Comandante** lidera a todos los capitanes.
+* **Navegante**: Encargado de los cálculos de trayectorias y vectores de aceleración y frenado. 
+* **Piloto**: Encargado de maniobras tácticas y de actitud en situaciones complejas o de emergencia.
+* **Oficial de Operaciones**: Encargado de sensores y radares, combate electrónico, y gestión térmica.
+* **Oficial de Ingeniería**: Encargado del buen funcionamiento de reactores, propulsores, sistemas de soporte vital, y sistemas informáticos.
+* **Oficial de Combate**: Encargado del armamento para el combate espacial, los algoritmos y soluciones tácticas de ataque, y de los *Cañones de Defensa de Punto*.
+* **Oficial de Logística**: Encargado de la gestión de insumos, consumibles, cargamento, y el buen funcionamiento de los sistemas de reciclado.
+* **Oficial Médico**: Encargado de velar por la salud de la tripulación, del control de los insumos médicos, y del buen funcionamiento de los aparatos de emergencia y de laboratorio.
+
+Todos estos roles pueden dividirse en sub-roles o cargos específicos (especialmente en tripulaciones numerosas o de cargos jerárquicos más estrictos), o, al contrario, ser unificados en una misma persona (especialmente en tripulaciones más pequeñas o menos estrictas en cuanto a jerarquías y cadenas de mando).
 
 Navegación
 **********
+En lo que respecta a la navegación, en la mayoría de las astronaves se cuenta con el cargo del **Navegante**. Este es el que entiende de presupuestos de Δv, transferencias orbitales, distancias y velocidades, etc. Es quien se encarga de diseñar una solución de traslado para aplicar en los sistemas de propulsión de la astronave. Es posible que tenga que consultar con el **Capitán**, dándole diferentes opciones para que este elija la más adecuada, pero el Navegante es el que terminará implementándolas y estando a cargo de todo lo concerniente a ello durante todo el trayecto.
 
-TODO
+Sin embargo, cuando hay que hacer maniobras de emergencia o complejas (como por ejemplo durante un combate entre astronaves), el cargo que entra en juego es el del **Piloto**. Este será el encargado de controlar los propulsores de ajuste direccional y la turbina principal de la astronave durante situaciones de alta complejidad como puede ser una persecución, una batalla espacial, hacer maniobras de emergencia rápida, etc. También puede que el **Capitán** le dé órdenes de lo que tiene que hacer, pero el Piloto resolverá los detalles menores momento a momento siguiendo su entrenamiento y sus instintos.
+
+Sistemas de Alerta
+~~~~~~~~~~~~~~~~~~
+
+Es práctica usual en toda tripulación que, antes de que el **Navegante** o el **Piloto** vayan a hacer un cambio de dirección/rotación/aceleración/desaceleración, se dé una alarma auditiva y visual en todos los módulos de la astronave. El tiempo de gracia depende de lo estricto de los protocolos y de la situación actual, pero suele variar entre algunos pocos segundos o algunos minutos. El objetivo de la alarma es que todos los pasajeros tengan tiempo de ir a sus *Asientos Anti-Inerciales* y ajustarse los cinturones de seguridad, dado que ser sorprendido dentro de una aeronave por una maniobra de movimiento inesperada es extremadamente peligroso [#]_. 
+
+.. [#] A discresión del DJ, dependiendo de la cantidad de **g** a la que se mueve o rota la astronave, los personajes que no han logrado sujetarse a tiempo sufrirán golpes más o menos severos. Para aceleraciones extremas, una muerte por golpes es algo muy factible.
+
+Por supuesto que en situaciones extremas como en una batalla espacial, las maniobras no pueden esperar siquiera unos preciados segundos (la alarma de da, pero el cambio de aceleración suele ser casi inmediato). Es por esto que existe otro tipo de alarma especial (que suele mantenerse durante todo el combate) que advierte a toda la tripulación de la situación. Se espera que todos los pasajeros estén en "posición de combate" durante todo el período de alerta, que básicamente significa que estén asegurados porque es sumamente probable que se apliquen cambios bruscos de fuerzas **g** de forma inminente y constante. 
 
 Detección
 *********
