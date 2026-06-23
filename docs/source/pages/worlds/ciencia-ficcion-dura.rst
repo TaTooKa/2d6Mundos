@@ -587,14 +587,22 @@ Efecto de Temperaturas Extremas en Hábitats / Astronaves
 
 Si bien los efectos de **Temperaturas Extremas** perjudicarán a los pasajeros mucho antes que a los sistemas artificiales, es importante entender que todos los aparatos electrónicos e incluso la estructura del vehículo o módulos habitables sufrirán y dejarán de cumplir su función a cierto grado de temperatura.
 
-* Temperaturas inferiores a -40°C: Los sistemas mecánicos / hidráulicos se atascan y fallan.
-* Temperaturas inferiores a -20°C: La mayoría de los sistemas electrónicos comienzan a fallar.
-* Temperaturas superiores a 70°C: La mayoría de los sistemas electrónicos comienzan a fallar.
-* Temperaturas superiores a 100°C: Los sistemas mecánicos / hidráulicos se atascan y fallan.
-* Temperaturas superiores a 150°C: Cualquier estructura plástica se derrite, se parte o se incendia.
-* Temperaturas superiores a 200°C: Cualquier sistema que dependa de líquidos o propelentes hierve y falla.
-* Temperaturas superiores a 500°C: Cualquier estructura metálica se pone al rojo vivo, se dobla, se parte o se derrite. Hay riesgos de que cualquier reactor nuclear entre en estado crítico.
-* Temperaturas superiores a 1000°C: Cualquier reactor nuclear entra en estado crítico.
+.. csv-table:: 
+   :header: "Temperatura del hábitat/aeronave", "consecuencias"
+   :widths: 20, 80
+
+   "-40°C o menos", "Los sistemas mecánicos / hidráulicos se atascan y fallan."
+   "-20°C o menos", "La mayoría de los sistemas electrónicos comienzan a fallar."
+   "70°C o más", "La mayoría de los sistemas electrónicos comienzan a fallar."
+   "100°C o más", "Los sistemas mecánicos / hidráulicos se atascan y fallan."
+   "150°C o más", "Cualquier estructura plástica blanda comienza a derretirse de a poco, a resquebrajarse y a hechar humo."
+   "200°C o más", "Cualquier sistema que dependa de líquidos o propelentes hierve y falla.
+   
+   Cualquier estructura plástica se derrite completamente, se parte, o se incendia en llamas."
+   "500°C o más", "Cualquier estructura metálica se pone al rojo vivo, se dobla, se parte o se derrite. 
+   
+   Hay riesgos de que cualquier reactor nuclear entre en estado crítico."
+   "1000°C o más", "Cualquier reactor nuclear entra en estado crítico."
 
 Comunicaciones
 **************
