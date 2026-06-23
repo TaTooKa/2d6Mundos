@@ -1488,6 +1488,38 @@ Aquí se listan tiempos y costos de Δv para distancias entre puntos en órbita 
 Astronaves
 ----------
 
+TODO
+
+Navegación
+**********
+
+TODO
+
+Detección
+*********
+
+TOOD (subterfugio imposible?)
+
+Combate
+*******
+
+TODO
+
+Lista de Astronaves Típicas
+***************************
+
+TODO
+
+Carguero liviano/mediano/pesado
+Transporte liviano/pesado
+Corbeta
+Merodeador
+Fragata
+Destructor
+Crucero
+Acorazado
+Portanaves
+
 El Sistema Solar
 ----------------
 
