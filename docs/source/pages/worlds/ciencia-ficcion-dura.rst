@@ -1592,16 +1592,21 @@ No existen tecnologías "*stealth*" en el espacio. Como se detallaba anteriormen
 
 Dicho eso, hay una forma de reducir la firma térmica, y así reducir el rango de detección un nivel: Entrar en modo **Navegación Silenciosa**. Esto se logra cumpliendo con las siguientes tres condiciones:
 
-1. **Sacrificio Térmico**: Retraer radiadores y evitar eyectar disipadores (sólidos o líquidos) [#]_ .
+▶ **Sacrificio Térmico**: Retraer radiadores y evitar eyectar disipadores (sólidos o líquidos) [#]_ .
 
 .. [#] Esto hará que la nave se convierta en un horno en cuestión de minutos; chequea las mecánicas de :ref:`Temperatura <ciencia-ficcion-dura-temperatura>` y :ref:`Calor Residual <ciencia-ficcion-dura-calor-residual>`.
 
-2. **Trayecto Balístico**: Apagado de motores, con la nave a la deriva.
+▶ **Trayecto Balístico**: Apagado de motores, con la nave a la deriva.
 
-3. **Silencio de Radio**: Dejar de emitir cualquier tipo de señal en todas las frecuencias, y solo utilizar sensores pasivos.
+▶ **Silencio de Radio**: Dejar de emitir cualquier tipo de señal en todas las frecuencias, y solo utilizar sensores pasivos.
 
+.. admonition:: Pero ¿qué tan efectiva es la Navegación Silenciosa?
 
-Si cumple con esas tres condiciones a la vez, la astronave se considera en **Navegación Silenciosa**, y es "invisible" en cualquiera de los Rangos de distancia. Solo puede ser detectada visualmente, por medio de telescopios, y esto suele ser bastante difícil, pero... ninguna astronave es capaz de mantenerse en modo **Navegación Silenciosa** por demasiado tiempo (particularmente por el factor temperatura). Los sensores de las astronaves están programados para seguir el trayecto original de un objetivo que "se hizo invisible", buscando en el vector de traslación hasta que esté obligado a "volver a aparecer". Dado que una astronave no puede cambiar de trayectoria sin salir del modo **Navegación Silenciosa**, el uso de esta técnica queda limitado a situaciones muy particulares (por ejemplo, cuando puedes llegar a esconderte detrás de algo que oculte tus próximas maniobras, como un asteroide o planeta).
+   Si cumple con esas tres condiciones a la vez, la astronave se considera en **Navegación Silenciosa**, y es "invisible" en cualquiera de los Rangos de distancia. Solo puede ser detectada visualmente, por medio de telescopios, y esto suele ser bastante difícil, pero... 
+   
+   ninguna astronave es capaz de mantenerse en modo **Navegación Silenciosa** por demasiado tiempo (particularmente por el factor de la temperatura). Los sensores de las astronaves están programados para seguir automáticamente el trayecto original de un objetivo que "se hizo invisible", buscando en el vector de traslación hasta que esté obligado a "volver a aparecer". 
+   
+   Dado que una astronave no puede cambiar de trayectoria sin salir del modo **Navegación Silenciosa**, el uso de esta técnica queda limitado a situaciones muy particulares (por ejemplo, cuando puedes llegar a esconderte detrás de algo que oculte tus próximas maniobras, como un asteroide o planeta).
 
 Combate
 *******
