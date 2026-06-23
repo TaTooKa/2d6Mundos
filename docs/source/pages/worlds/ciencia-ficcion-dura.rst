@@ -120,6 +120,14 @@ Fuerza Centrífuga
 
 La gravedad artificial por fuerza centrífuga se logra haciendo rotar la nave o el hábitat sobre su eje central, a una velocidad constante. De esta forma, todo lo que esté dentro experimentará una fuerza que lo empuja "hacia afuera", o "chocando" contra las paredes interiores de la rueda. Si se la diseña para que ese sea el piso, se logra la sensación de gravedad natural. 
 
+.. video:: /_static/images/worlds/ciencia-ficcion-dura/vid-2.mp4
+   :autoplay:
+   :nocontrols:
+   :loop:
+   :playsinline:
+   :muted:
+   :width: 100%
+
 El mayor problema es el **Efecto Coriolis**, a partir del movimiento inercial creado por el giro. Cuanto más pequeño sea el hábitat, o más cerca se esté del eje central, más pronunciado será este efecto. En estos casos, puede causar mareos o náuseas (representados como una *Condición Leve* como ``Vértigo de Coriolis``).
 
 .. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-10.png
@@ -1611,6 +1619,10 @@ Subterfugio
 .. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-27.png
 
 No existen tecnologías "*stealth*" en el espacio. Como se detallaba anteriormente, la energía y luz emitida por un motor de fusión es visible desde casi cualquier punto del Sistema Solar (si sabes a donde apuntar la lente). Y si la astronave no está bajo empuje, y está a la deriva, la radiación de calor bajo operaciones normales la hace fácilmente detectable para cualquier radar o instrumento en **Rango Táctico** o de **Intercepción**.
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-28.png
+
+   los radiadores son la fuente de emisión de calor más detectable en una astronave, pero con buenos sensores se pueden ver también otras zonas de calor que la hacen resaltar contra el fondo oscuro y frío del vacío del espacio.
 
 Dicho eso, hay una forma de reducir la firma térmica, y así minimizar las chances de detección de una astronave: Entrar en modo **Navegación Silenciosa**. Esto se logra cumpliendo con las siguientes tres condiciones:
 
