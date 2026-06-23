@@ -1565,6 +1565,8 @@ Este es el rango de detección activa y posicionamiento orbital. A esta distanci
 Rango Táctico
 ~~~~~~~~~~~~~
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-25.png
+
 A esta distancia se puede inferir el tipo y clase de la otra astronave, y si está emitiendo su transpondedor, lo recibirás instantáneamente. En situaciones de combate, el retardo de la luz es mínimo (milisegundos), lo que permite que las armas de energía dirigida apunten con precisión. Las tripulaciones empiezan a sentir la presión extrema: el *Oficial de Operaciones* debe decidir si repliega radiadores (arriesgándose a derretir la nave) o los deja expuestos.
 
 **Distancia aproximada**: De 10 Mm a 150 Mm [#]_.
