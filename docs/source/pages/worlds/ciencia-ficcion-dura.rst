@@ -1447,6 +1447,8 @@ Tiempos de Viaje y Costos de Δv a **10g**
    
    Δv: 16 Mm/s", "〰"
 
+.. _ciencia-ficcion-dura-viajes-sistema-planetario:
+
 Viajes dentro de un Sistema Planetario
 **************************************
 
@@ -1471,6 +1473,8 @@ Aquí se listan tiempos y costos de Δv para distancias aproximadas a **órbitas
    "3g", "1 hora y 40 minutos", "0.18 Mm/s"
    "5g", "1 hora y 20 minutos", "0.2 Mm/s"
    "10g", "1 hora", "0.3 Mm/s"
+
+.. _ciencia-ficcion-dura-viajes-orbita-planeta:
 
 Viajes dentro de la órbita de un Planeta
 ****************************************
@@ -1545,7 +1549,9 @@ Rango Estratégico
 
 Este es el rango de detección activa y posicionamiento orbital. A esta distancia, las naves se ven mutuamente gracias a las firmas térmicas de sus motores. Se puede inferir la trayectoria y el tamaño aproximado pero no mucho más. En situaciones de combate, no hay disparos directos instantáneos porque la luz tarda segundos en ir y volver, lo que significa que estás viendo "el pasado" del enemigo.
 
-**Distancia Aproximada**: De 150 Mm a más de 1000 Mm (de 0,5 a 3+ segundos-luz).
+**Distancia Aproximada**: De 150 Mm a más de 1000 Mm (de 0,5 a 3+ segundos-luz) [#]_.
+
+.. [#] Estas son distancias similares a los viajes dentro de un sistema planetario (por ejemplo, la distancia de una planeta a su luna). Si necesitas calcular cuanto tardarías en achicar la distancia con el objetivo, o realizar alguna otra maniobra con costos de Δv, puedes utilizar la tabla de :ref:`Viajes dentro de un Sistema Planetario <ciencia-ficcion-dura-viajes-sistema-planetario>`, dado que las distancias están en el mismo órden de magnitud.
 
 **Armas Efectivas**: 
 
@@ -1557,7 +1563,9 @@ Rango Táctico
 
 A esta distancia se puede inferir el tipo y clase de la otra astronave, y si está emitiendo su transpondedor, lo recibirás instantáneamente. En situaciones de combate, el retardo de la luz es mínimo (milisegundos), lo que permite que las armas de energía dirigida apunten con precisión. Las tripulaciones empiezan a sentir la presión extrema: el *Oficial de Operaciones* debe decidir si repliega radiadores (arriesgándose a derretir la nave) o los deja expuestos.
 
-**Distancia aproximada**: De 10 Mm a 150 Mm.
+**Distancia aproximada**: De 10 Mm a 150 Mm [#]_.
+
+.. [#] Estas son distancias similares a las de objetos en órbita de un planeta. Si necesitas calcular cuanto tardarías en achicar la distancia con el objetivo, o realizar alguna otra maniobra con costos de Δv, puedes utilizar la tabla de :ref:`Viajes dentro de la órbita de un Planeta <ciencia-ficcion-dura-viajes-orbita-planeta>`, dado que las distancias están en el mismo órden de magnitud.
 
 **Armas efectivas**:
 
@@ -1570,7 +1578,9 @@ Rango de Intercepción
 
 También llamado coloquialmente "Zona de Muerte". A este rango de distancia se puede ver con telescopios el estado de daños de la astronave y algunos otros detalles estéticos. En situaciones de combate, dos naves cruzándose a velocidades orbitales se pasarán de largo en un par de segundos a velocidades relativas de decenas de kilómetros por segundo (lo que se suele llamar "hacer justas"). Para maximizar el tiempo de contacto, los pilotos intentan emparejar la trayectoria con la de la astronave enemiga y ponerse "paralelos" a su vector (esto es peligroso para ambos contendientes porque el atacante se pone también a tiro del enemigo). Este rango es brutal, caótico y sumamente letal. No existe el esquive: si un arma te dispara, te da.
 
-**Distancia aproximada**: Menos de 10 Mm (hasta el contacto visual/quemarropa).
+**Distancia aproximada**: Menos de 10 Mm (hasta el contacto visual/quemarropa) [#]_.
+
+.. [#] Ni te gastes en calcular distancias o costos de Δv, en este rango podrás alejarte o acercarte al objetivo con muy poco gasto de combustible. Será más importante considerar esquivas y reposicionamientos tácticos. Si hace falta, el DJ puede asignar un valor de 0.01~0.1 Mm/s a cualquier gasto de Δv, dependiendo del tamaño de la astronave.
 
 **Armas efectivas**:
 
