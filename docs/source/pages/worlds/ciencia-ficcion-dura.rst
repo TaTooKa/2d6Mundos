@@ -1545,6 +1545,12 @@ En el espacio hay tres distintos rangos de distancia y detección entre astronav
 Rango Estratégico
 ~~~~~~~~~~~~~~~~~
 
+.. video:: /_static/images/worlds/ciencia-ficcion-dura/vid-1.mp4
+   :width: 500
+   :height: 300
+   :autoplay:
+   :nocontrols:
+
 Este es el rango de detección activa y posicionamiento orbital. A esta distancia, las naves se ven mutuamente gracias a las firmas térmicas de sus motores. Se puede inferir la trayectoria y el tamaño aproximado pero no mucho más. En situaciones de combate, no hay disparos directos instantáneos porque la luz tarda segundos en ir y volver, lo que significa que estás viendo "el pasado" del enemigo.
 
 **Distancia Aproximada**: De 150 Mm a más de 1000 Mm (de 0,5 a 3+ segundos-luz) [#]_.
