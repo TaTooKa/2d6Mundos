@@ -1584,6 +1584,8 @@ A esta distancia se puede inferir el tipo y clase de la otra astronave, y si est
 Rango de Intercepción
 ~~~~~~~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-26.png
+
 También llamado coloquialmente "Zona de Muerte". A este rango de distancia se puede ver con telescopios el estado de daños de la astronave y algunos otros detalles estéticos. En situaciones de combate, dos naves cruzándose a velocidades orbitales se pasarán de largo en un par de segundos a velocidades relativas de decenas de kilómetros por segundo (lo que se suele llamar "hacer justas"). Para maximizar el tiempo de contacto, los pilotos intentan emparejar la trayectoria con la de la astronave enemiga y ponerse "paralelos" a su vector (esto es peligroso para ambos contendientes porque el atacante se pone también a tiro del enemigo). Este rango es brutal, caótico y sumamente letal. No existe el esquive: si un arma te dispara, te da.
 
 **Distancia aproximada**: Menos de 10 Mm (hasta el contacto visual/quemarropa) [#]_.
@@ -1605,6 +1607,8 @@ Por fuera del *Rango Estratégico* sigue habiendo forma de detectar astronaves a
 
 Subterfugio
 ~~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-27.png
 
 No existen tecnologías "*stealth*" en el espacio. Como se detallaba anteriormente, la energía y luz emitida por un motor de fusión es visible desde casi cualquier punto del Sistema Solar (si sabes a donde apuntar la lente). Y si la astronave no está bajo empuje, y está a la deriva, la radiación de calor bajo operaciones normales la hace fácilmente detectable para cualquier radar o instrumento en **Rango Táctico** o de **Intercepción**.
 
