@@ -1548,6 +1548,8 @@ Por supuesto que en situaciones extremas como en una batalla espacial, las manio
 Detección
 *********
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-29.png
+
 En el espacio hay tres distintos rangos de distancia y detección entre astronaves: el **Rango Estratégico**, el **Rango Táctico**, y el **Rango de Intercepción**.
 
 Rango Estratégico
@@ -1595,6 +1597,14 @@ Rango de Intercepción
 .. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-26.png
 
 También llamado coloquialmente "Zona de Muerte". A este rango de distancia se puede ver con telescopios el estado de daños de la astronave y algunos otros detalles estéticos. En situaciones de combate, dos naves cruzándose a velocidades orbitales se pasarán de largo en un par de segundos a velocidades relativas de decenas de kilómetros por segundo (lo que se suele llamar "hacer justas"). Para maximizar el tiempo de contacto, los pilotos intentan emparejar la trayectoria con la de la astronave enemiga y ponerse "paralelos" a su vector (esto es peligroso para ambos contendientes porque el atacante se pone también a tiro del enemigo). Este rango es brutal, caótico y sumamente letal. No existe el esquive: si un arma te dispara, te da.
+
+.. video:: /_static/images/worlds/ciencia-ficcion-dura/vid-3.mp4
+   :autoplay:
+   :nocontrols:
+   :loop:
+   :playsinline:
+   :muted:
+   :width: 100%
 
 **Distancia aproximada**: Menos de 10 Mm (hasta el contacto visual/quemarropa) [#]_.
 
