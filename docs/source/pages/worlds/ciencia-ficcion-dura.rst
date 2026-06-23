@@ -503,6 +503,7 @@ Durante los momentos donde más se esfuerza la astronave y más genera y consume
 
 .. csv-table:: Alteraciones de Temperatura en un hábitat/astronave
    :header: "Actividad", "Alteraciones de Temperatura"
+   :widths: 70, 30
 
    "Consumo de energía moderado
 
@@ -1654,6 +1655,8 @@ Dicho eso, hay una forma de reducir la firma térmica, y así minimizar las chan
 
 Combate
 *******
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-30.png
 
 TODO
 
