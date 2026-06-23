@@ -1546,10 +1546,12 @@ Rango Estratégico
 ~~~~~~~~~~~~~~~~~
 
 .. video:: /_static/images/worlds/ciencia-ficcion-dura/vid-1.mp4
-   :width: 500
-   :height: 300
    :autoplay:
    :nocontrols:
+   :loop:
+   :playsinline:
+   :muted:
+   :width: 100%
 
 Este es el rango de detección activa y posicionamiento orbital. A esta distancia, las naves se ven mutuamente gracias a las firmas térmicas de sus motores. Se puede inferir la trayectoria y el tamaño aproximado pero no mucho más. En situaciones de combate, no hay disparos directos instantáneos porque la luz tarda segundos en ir y volver, lo que significa que estás viendo "el pasado" del enemigo.
 
