@@ -460,6 +460,8 @@ Las Erupciones Solares suelen durar entre 3 a 6 horas. Las **Tormentas Solares**
 * Un personaje expuesto a una **Erupción Solar** recibirá 5 Sv inmediatamente, más 5 Sv por minuto de exposición contínua.
 * Un personaje expuestoa a una **Tormenta Solar** recibirá 500 mSv inmediatamente, más 500 mSv por minuto de exposición contínua.
 
+.. _ciencia-ficcion-dura-temperatura:
+
 Temperatura
 ***********
 
@@ -481,6 +483,8 @@ Los hábitats espaciales y las astronaves hacen uso de grandes radiadores de cal
 .. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-14.png
 
 Existen otras técnicas para reducir el exceso de calor y mejorar la transferencia: Las estructuras exteriores suelen pintarse de blanco o metalizado/plateado, para reflejar la mayor cantidad de luz solar posible. Otro truco es el de rotar la aeronave frecuentemente para intercalar el lado que está expuesto a la luz (y al calor) del sol, dejando que el otro lado se enfríe mientras está a la sombra.
+
+.. _ciencia-ficcion-dura-calor-residual:
 
 Calor Residual
 ~~~~~~~~~~~~~~
@@ -1508,7 +1512,7 @@ Los roles o cargos más típicos son:
 * **Capitán**: El cargo jerárquico más alto dentro de una astronave. Da las órdenes y la tripulación acata sin cuestionamientos. En flotas de múltiples astronaves, un **Comandante** lidera a todos los capitanes.
 * **Navegante**: Encargado de los cálculos de trayectorias y vectores de aceleración y frenado. 
 * **Piloto**: Encargado de maniobras tácticas y de actitud en situaciones complejas o de emergencia.
-* **Oficial de Operaciones**: Encargado de sensores y radares, combate electrónico, y gestión térmica.
+* **Oficial de Operaciones**: Encargado de sensores y radares, guerra electrónica, y gestión térmica.
 * **Oficial de Ingeniería**: Encargado del buen funcionamiento de reactores, propulsores, sistemas de soporte vital, y sistemas informáticos.
 * **Oficial de Combate**: Encargado del armamento para el combate espacial, los algoritmos y soluciones tácticas de ataque, y de los *Cañones de Defensa de Punto*.
 * **Oficial de Logística**: Encargado de la gestión de insumos, consumibles, cargamento, y el buen funcionamiento de los sistemas de reciclado.
@@ -1534,7 +1538,70 @@ Por supuesto que en situaciones extremas como en una batalla espacial, las manio
 Detección
 *********
 
-TOOD (subterfugio imposible?)
+En el espacio hay tres distintos rangos de distancia y detección entre astronaves: el **Rango Estratégico**, el **Rango Táctico**, y el **Rango de Intercepción**.
+
+Rango Estratégico
+~~~~~~~~~~~~~~~~~
+
+Este es el rango de detección activa y posicionamiento orbital. A esta distancia, las naves se ven mutuamente gracias a las firmas térmicas de sus motores. Se puede inferir la trayectoria y el tamaño aproximado pero no mucho más. En situaciones de combate, no hay disparos directos instantáneos porque la luz tarda segundos en ir y volver, lo que significa que estás viendo "el pasado" del enemigo.
+
+**Distancia Aproximada**: De 150 Mm a más de 1000 Mm (de 0,5 a 3+ segundos-luz).
+
+**Armas Efectivas**: 
+
+* **Misiles Cinéticos de Largo Alcance**: Lanzados en ráfagas masivas. A esta distancia, el enemigo tiene minutos u horas para recalcular su trayectoria y esquivarlos, por lo que estos misiles actúan como piezas de ajedrez para forzar al rival a gastar combustible (Δv) esquivando.
+* **Láseres de Pintado / Guerra Electrónica**: Para saturar los sensores del rival o cegar sus ópticas ópticas a larga distancia.
+
+Rango Táctico
+~~~~~~~~~~~~~
+
+A esta distancia se puede inferir el tipo y clase de la otra astronave, y si está emitiendo su transpondedor, lo recibirás instantáneamente. En situaciones de combate, el retardo de la luz es mínimo (milisegundos), lo que permite que las armas de energía dirigida apunten con precisión. Las tripulaciones empiezan a sentir la presión extrema: el *Oficial de Operaciones* debe decidir si repliega radiadores (arriesgándose a derretir la nave) o los deja expuestos.
+
+**Distancia aproximada**: De 10 Mm a 150 Mm.
+
+**Armas efectivas**:
+
+* **Cañones Láser Pesados** (Energía Dirigida): Viajan a la velocidad de la luz. A esta distancia no se pueden esquivar; si te apuntan, te impactan. Su objetivo no es volar la nave en pedazos, sino enfocar el haz en un punto específico durante segundos para derretir sensores, perforar tanques de combustible o destruir los radiadores enemigos.
+
+* **Cañones de Riel Masivos** (*Railguns* Espinales): Disparan proyectiles de tungsteno a velocidades hiperveloces (ej. 50-100 km/s). A este rango, una nave maniobrable aún tiene una fracción de segundo para cambiar su vector y hacer que el proyectil pase de largo, por lo que se dispara en "patrones de dispersión" (como una escopeta espacial).
+
+Rango de Intercepción
+~~~~~~~~~~~~~~~~~~~~~
+
+También llamado coloquialmente "Zona de Muerte". A este rango de distancia se puede ver con telescopios el estado de daños de la astronave y algunos otros detalles estéticos. En situaciones de combate, dos naves cruzándose a velocidades orbitales se pasarán de largo en un par de segundos a velocidades relativas de decenas de kilómetros por segundo (lo que se suele llamar "hacer justas"). Para maximizar el tiempo de contacto, los pilotos intentan emparejar la trayectoria con la de la astronave enemiga y ponerse "paralelos" a su vector (esto es peligroso para ambos contendientes porque el atacante se pone también a tiro del enemigo). Este rango es brutal, caótico y sumamente letal. No existe el esquive: si un arma te dispara, te da.
+
+**Distancia aproximada**: Menos de 10 Mm (hasta el contacto visual/quemarropa).
+
+**Armas efectivas**:
+
+* **Cañones de Riel Convencionales** y **Cañones Gauss**: Alta cadencia de fuego. Los impactos cinéticos desintegran el blindaje y causan descompresión explosiva instantánea.
+
+* **CDP** (Cañones de Defensa de Punto) y **Metralla** (Flak): Los cañones de defensa de punto diseñados para interceptar misiles se redireccionan contra los cascos de las naves enemigas. Las naves literalmente se despedazan mutuamente con nubes de perdigones de acero a hipervelocidad.
+
+* **Ojivas de Fragmentación Nuclear**: Misiles que detonan a pocos kilómetros de distancia, usando la radiación térmica y los rayos X para evaporar el casco exterior de la nave o irradiar mortalmente a la tripulación.
+
+Fuera de Rango
+~~~~~~~~~~~~~~
+
+Por fuera del *Rango Estratégico* sigue habiendo forma de detectar astronaves a distancias extremas, con telescopios de gran potencia, dado que cualquier astronave que acelera con motores de fusión es visible como una pequeña estrella en casi cualquier punto del sistema solar. Claro que, dado que el espacio es demasiado grande, debes tener una idea de a donde apuntar tu telescopio para observar... pero si sigues el trayecto de una astronave a la distancia, mientras esté bajo empuje, podrás ver la firma térmica de los propulsores sin ningún problema.
+
+Subterfugio
+~~~~~~~~~~~
+
+No existen tecnologías "*stealth*" en el espacio. Como se detallaba anteriormente, la energía y luz emitida por un motor de fusión es visible desde casi cualquier punto del Sistema Solar (si sabes a donde apuntar la lente). Y si la astronave no está bajo empuje, y está a la deriva, la radiación de calor bajo operaciones normales la hace fácilmente detectable para cualquier radar o instrumento en **Rango Táctico** o de **Intercepción**.
+
+Dicho eso, hay una forma de reducir la firma térmica, y así reducir el rango de detección un nivel: Entrar en modo **Navegación Silenciosa**. Esto se logra cumpliendo con las siguientes tres condiciones:
+
+1. **Sacrificio Térmico**: Retraer radiadores y evitar eyectar disipadores (sólidos o líquidos) [#]_ .
+
+.. [#] Esto hará que la nave se convierta en un horno en cuestión de minutos; chequea las mecánicas de :ref:`Temperatura <ciencia-ficcion-dura-temperatura>` y :ref:`Calor Residual <ciencia-ficcion-dura-calor-residual>`.
+
+2. **Trayecto Balístico**: Apagado de motores, con la nave a la deriva.
+
+3. **Silencio de Radio**: Dejar de emitir cualquier tipo de señal en todas las frecuencias, y solo utilizar sensores pasivos.
+
+
+Si cumple con esas tres condiciones a la vez, la astronave se considera en **Navegación Silenciosa**, y es "invisible" en cualquiera de los Rangos de distancia. Solo puede ser detectada visualmente, por medio de telescopios, y esto suele ser bastante difícil, pero... ninguna astronave es capaz de mantenerse en modo **Navegación Silenciosa** por demasiado tiempo (particularmente por el factor temperatura). Los sensores de las astronaves están programados para seguir el trayecto original de un objetivo que "se hizo invisible", buscando en el vector de traslación hasta que esté obligado a "volver a aparecer". Dado que una astronave no puede cambiar de trayectoria sin salir del modo **Navegación Silenciosa**, el uso de esta técnica queda limitado a situaciones muy particulares (por ejemplo, cuando puedes llegar a esconderte detrás de algo que oculte tus próximas maniobras, como un asteroide o planeta).
 
 Combate
 *******
