@@ -1556,7 +1556,7 @@ Este es el rango de detección activa y posicionamiento orbital. A esta distanci
 **Armas Efectivas**: 
 
 * **Misiles Cinéticos de Largo Alcance**: Lanzados en ráfagas masivas. A esta distancia, el enemigo tiene minutos u horas para recalcular su trayectoria y esquivarlos, por lo que estos misiles actúan como piezas de ajedrez para forzar al rival a gastar combustible (Δv) esquivando.
-* **Láseres de Pintado / Guerra Electrónica**: Para saturar los sensores del rival o cegar sus ópticas ópticas a larga distancia.
+* **Láseres de Pintado / Guerra Electrónica**: Para saturar los sensores del rival o cegar sus ópticas a larga distancia.
 
 Rango Táctico
 ~~~~~~~~~~~~~
@@ -1600,7 +1600,7 @@ Subterfugio
 
 No existen tecnologías "*stealth*" en el espacio. Como se detallaba anteriormente, la energía y luz emitida por un motor de fusión es visible desde casi cualquier punto del Sistema Solar (si sabes a donde apuntar la lente). Y si la astronave no está bajo empuje, y está a la deriva, la radiación de calor bajo operaciones normales la hace fácilmente detectable para cualquier radar o instrumento en **Rango Táctico** o de **Intercepción**.
 
-Dicho eso, hay una forma de reducir la firma térmica, y así reducir el rango de detección un nivel: Entrar en modo **Navegación Silenciosa**. Esto se logra cumpliendo con las siguientes tres condiciones:
+Dicho eso, hay una forma de reducir la firma térmica, y así minimizar las chances de detección de una astronave: Entrar en modo **Navegación Silenciosa**. Esto se logra cumpliendo con las siguientes tres condiciones:
 
 ▶ **Sacrificio Térmico**: Retraer radiadores y evitar eyectar disipadores (sólidos o líquidos) [#]_ .
 
