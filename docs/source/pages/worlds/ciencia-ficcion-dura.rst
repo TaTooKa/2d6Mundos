@@ -489,7 +489,7 @@ Existen otras técnicas para reducir el exceso de calor y mejorar la transferenc
 Calor Residual
 ~~~~~~~~~~~~~~
 
-Cualquier hábitat o astronave, durante operaciones normales, tiene que deshacerse del *calor residual* (hasta el cuerpo humano genera calor!). Solo la luz del sol puede incrementar la temperatura de una astronave a 120°C en ~10 minutos si no se refrigera o se deshace del calor residual de alguna forma.
+Cualquier hábitat o astronave, durante operaciones normales, tiene que deshacerse del *calor residual* (hasta el cuerpo humano genera calor!). Solo la luz del sol puede incrementar la temperatura de una astronave a 120°C en ~30 minutos si no se refrigera o se deshace del calor residual de alguna forma.
 
 Durante los momentos donde más se esfuerza la astronave y más genera y consume energía (por ejemplo, cuando se exige a los reactores para acelerar a máxima capacidad, o cuando se disparan cañones láser de gran potencia), cualquier exceso de calor que los radiadores no puedan disipar comenzará a acumularse en toda la estructura de la astronave, incrementando la temperatura de la coraza y el interior de sus módulos.
 
@@ -500,19 +500,17 @@ Durante los momentos donde más se esfuerza la astronave y más genera y consume
 
    (operaciones normales)", "18°~24°C
 
-   (temperatura confortable)"
+   (temperatura confortable)
+
+   (si los radiadores y sistemas de disipación funcionan con normalidad, la temperatura se reducirá paulatinamente hasta este ideal, a razón de -1°C por minuto)"
    "Consumo de energía Alto
 
-   (Reactor/Turbinas operando en alta capacidad o cañón láser activo)", "+10°C
-
-   (cambio casi instantáneo; se revierte luego de 10 minutos de consumo moderado)"
+   (Reactor/Turbinas operando en alta capacidad o cañón láser activo)", "+1°C por minuto"
    "Consumo de energía Extremo
 
-   (Reactor/Turbinas operando en alta capacidad Y cañón láser activo)", "+20°C
-
-   (cambio casi instantáneo; se revierte luego de 10 minutos de consumo moderado)"
-   "La mitad de los radiadores están dañados o desactivados","+5°C por minuto"
-   "Todo los radiadores están dañados o desactivados","+10°C por minuto"
+   (Reactor/Turbinas operando en alta capacidad Y cañón láser activo)", "+2°C por minuto"
+   "La mitad de los radiadores están dañados, desactivados o retraídos","+1°C por minuto"
+   "Todo los radiadores están dañados, desactivados o retraídos","+2°C por minuto"
 
 Disipadores Térmicos
 ~~~~~~~~~~~~~~~~~~~~
@@ -524,7 +522,7 @@ Disipadores Sólidos
 
 Algunas astronaves, especialmente aquellas diseñadas para el combate, hacen uso indiscriminado de los **Disipadores Térmicos**. Estos son bloques de metal de alta transferencia calórica que son eyectados de la estructura, llevándose el calor residual con ellos.
 
-Cuando es necesario, la astronave puede eyectar un Disipador Térmico, recuperando -10°C de forma casi instantánea. Las astronaves pueden instalar la cantidad de eyectores de Disipadores Térmicos que deseen (mientras los puedan llevar, teniendo en cuenta que cada uno pesa ~1 tonelada).
+Cuando es necesario, la astronave puede eyectar un Disipador Térmico, recuperando -20°C de forma casi instantánea. Las astronaves pueden instalar la cantidad de eyectores de Disipadores Térmicos que deseen (mientras los puedan llevar, teniendo en cuenta que cada uno pesa ~1 tonelada).
 
 La mayoría de los Disipadores Térmicos son descartables, pero hay modelos avanzados que tienen sistemas incorporados de propulsión (lo que les permite "frenar" cerca para ser recuperados más tarde, o incluso pueden propulsarse y volver a acoplarse a la astronave de forma autónoma). Estos suelen ser tecnologías de punta de grandes fuerzas militares y no están disponibles para la venta comercial.
 
@@ -541,7 +539,7 @@ En términos mecánicos de juego, considera que si eyectas agua (u otro propelen
 * Astronaves medianas: consumo de Δv de 0.25Mm/s
 * Astronaves grandes: consumo de Δv de 0.5Mm/s
 
-En todos los casos se eyecta una tonelada de líquido (agua u otro propelente) y se reduce inmediatamente la temperatura en -10°C.
+En todos los casos se eyecta una tonelada de líquido (agua u otro propelente) y se reduce inmediatamente la temperatura en -20°C.
 
 .. [#] excepto en comparación con los **Disipadores Térmicos Recuperables**, dado que el vapor una vez eyectado será imposible de recuperar.
 
