@@ -1548,7 +1548,7 @@ Es práctica usual en toda tripulación que, antes de que el **Navegante** o el 
 
 .. [#] A discresión del DJ, dependiendo de la cantidad de **g** a la que se mueve o rota la astronave, los personajes que no han logrado sujetarse a tiempo sufrirán golpes más o menos severos. Para aceleraciones extremas, una muerte por golpes es algo muy factible.
 
-Por supuesto que en situaciones extremas como en una batalla espacial, las maniobras no pueden esperar siquiera unos preciados segundos (la alarma de da, pero el cambio de aceleración suele ser casi inmediato). Es por esto que existe otro tipo de alarma especial (que suele mantenerse durante todo el combate) que advierte a toda la tripulación de la situación. Se espera que todos los pasajeros estén en "posición de combate" durante todo el período de alerta, que básicamente significa que estén asegurados porque es sumamente probable que se apliquen cambios bruscos de fuerzas **g** de forma inminente y constante. 
+Por supuesto que en situaciones extremas como en una batalla espacial, las maniobras no pueden esperar siquiera unos preciados segundos (la alarma se da, pero el cambio de aceleración suele ser casi inmediato). Es por esto que existe otro tipo de alarma especial (que suele mantenerse durante todo el combate) que advierte a toda la tripulación de la situación. Se espera que todos los pasajeros estén en "posición de combate" durante todo el período de alerta, que básicamente significa que estén asegurados porque es sumamente probable que se apliquen cambios bruscos de fuerzas **g** de forma inminente y constante. 
 
 .. _ciencia-ficcion-dura-deteccion:
 
