@@ -1684,12 +1684,12 @@ En :ref:`Rango Estratégico <ciencia-ficcion-dura-deteccion-rango-estrategico>` 
 
    "Misiles (autopropulsados)", "Tienen propulsión propia, lo que les permite acelerar hacia el objetivo y alcanzar velocidades superiores a las de la astronave que los dispara.", "* No tienen capacidad de corregir su curso; van en un vector específico, y si son esquivados, se pierden en el espacio.
    
-   * Capacidad de munición limitada.", "**Ataque**: Tira vs Dificultad 8 para lanzar el misil.
+   * Capacidad de munición limitada.", "**Ataque**: Tira vs Dificultad 8 para lanzar el misil en curso de intercepción del enemigo.
   
    **Defensa**: Tira vs Dificultad 6 para evadir, o gasta una Ráfaga de *CDPs* para destruir un misil automáticamente."
    "Misiles (teleguiados)", "Tienen propulsores que les permiten corregir su curso, ya sea por órdenes de comando desde la astronave que los lanzó, o automáticamente buscando impactar con el objetivo.", "* Alto costo por unidad.
    
-   * Capacidad de munición limitada.", "**Ataque**: Tira vs Dificultad 6 para lanzar el misil.
+   * Capacidad de munición limitada.", "**Ataque**: Tira vs Dificultad 6 para lanzar el misil en busca del enemigo.
   
    **Defensa**: Tira vs Dificultad 10 para evadir, o gasta una Ráfaga de *CDPs* para destruir un misil automáticamente."
    "Sistemas de *Guerra Electrónica*", "Mandan señales, interferencias, o peticiones de servicio malignas a la astronave objetivo, con el fin de ralentizarla o perjudicar el funcionamiento de sus sub-sistemas. No tiene costo y es mayormente automatizado.", "* Más allá de las molestias causadas o alguna fluctuación temporal del desempeño de los sistemas informáticos de la astronave objetivo, los algoritmos de defensa contra *Guerra Electrónica* están automatizados y son usualmente efectivos.", "**Ataque**: Tira vs Dificultad 8 para realizar un ataque electrónico/informático al objetivo.
@@ -1766,6 +1766,57 @@ Otra opción es la de los misiles nucleares, que a este rango maximizan su nivel
 A estas cortas distancias (relativas a la velocidad del armamento utilizado), las maniobras evasivas tienen una probabilidad de éxito muy baja.
 
    Cualquier tirada de dados para realizar maniobras de evasión de misiles convencionales, Lásers o *Railguns* en *Rango de Intercepción* sufre un **aumento a la Dificultad de +8**.
+
+Daño en Combate
+~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-34.png
+
+Para ataques donde no se apunta a un sub-módulo o parte específica de la astronave enemiga, puedes hacer una tirada de 2d6 en la siguiente tabla para determinarlo al azar:
+
+.. csv-table:: Locación del Daño
+   :header: "2d6", "Locación dañada"
+   :widths: 10, 90
+
+   "2", "Sistemas de soporte vital / Reservas de oxígeno"
+   "3", "Giroscopios de Actitud y roto-traslación / Propulsores secundarios"
+   "4", "Baterías / Red eléctrica"
+   "5", "Propulsor principal"
+   "6", "Reservas externas de combustible / propelente"
+   "7", "Casco / Estructura externa"
+   "8", "Radiadores extendidos (tira de nuevo si estaban retraídos)"
+   "9", "Ópticas y sensores pasivos"
+   "10", "Sistemas de Armas / Armamento expuesto"
+   "11", "Radiadores retraídos (tira de nuevo si estaban extendidos)"
+   "12", "Núcleo del Reactor de Fusión"
+
+Condiciones
+^^^^^^^^^^^
+
+El daño recibido en las astronaves se representa, al igual que para los personajes, con :ref:`Condiciones <reglas-basicas-condiciones>` que pueden ser *Leves*, *Moderadas* o *Severas*. A continuación se listan ejemplos de Condiciones sufridas para cada tipo de armamento o fuente de daño:
+
+.. csv-table:: Ejemplos de Condiciones para astronaves
+   :header: "Tipo de daño / Armamento", "Condición Leve", "Condición Moderada", "Condición Severa"
+
+   "Misiles Cinéticos / Explosivos", "``Proyectil incrustado``", "``Brecha en el casco``", "``Sub-módulo destruído``"
+   "Ataques de *Guerra Electrónica*", "``Sensores estáticos``", "``Sistemas con retraso y errores``", "``Sistemas críticos desactivados``"
+   "Cañones Láser", "``Sub-sistema externo dañado``", "``Sobrecalentamiento local``", "``Sub-sistema externo desintegrado``"
+   "Cañones de Riel (*Railguns*)", "``Perforación limpia``", "``Descompresión explosiva``", "``Sub-sistema interno destruído``"
+   "Cañones de Defensa de Punto (*CDPs*)", "``Sector del casco agujereado``", "``Sub-sistema externo destruído``", "``Módulo interno hecho trizas``"
+   "Cañones Gauss (*Coilguns*)", "``Sector del casco triturado``", "``Módulos internos agujereados``", "``Sub-sistema interno acribillado``"
+   "Ojivas de Fragmentación Nuclear", "``Flash térmico``", "``Pulso electromagnético``", "``Casco parcialmente evaporado``"
+   "Colisiones", "``Falla de deriva angular``", "``Destrucción de módulo externo``", "``Pérdida de sección``"
+   "Explosiones o Fallas Eléctricas Internas", "``Parpadeo de energía``", "``Módulo interno incendiado``", "``Fallo del reactor``"
+
+Rendición
+~~~~~~~~~
+
+TODO
+
+Escapar
+~~~~~~~
+
+TODO
 
 Lista de Astronaves Típicas
 ***************************
