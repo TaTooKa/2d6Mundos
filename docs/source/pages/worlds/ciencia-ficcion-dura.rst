@@ -1679,6 +1679,17 @@ Combate en Rango Estratégico
 
 En :ref:`Rango Estratégico <ciencia-ficcion-dura-deteccion-rango-estrategico>` (a cientos de Megametros), se tarda horas en alcanzar al objetivo, y hay el suficiente "*light-lag*" como para que los lásers y armas de corto alcance no sean viables. Los **misiles teleguiados** y la **guerra electrónica** son las armas más factibles, y son, relativamente, fáciles de contrarrestar dado el tiempo de reacción que se tiene. 
 
+.. csv-table:: Armamento Óptimo para Combates en Rango Estratégico
+   :header: "Tipo de Armamento", "Ventajas", "Desventajas"
+
+   "Misiles (autopropulsados)", "Tienen propulsión propia, lo que les permite acelerar hacia el objetivo y alcanzar velocidades superiores a las de la astronave que los dispara.", "* No tienen capacidad de corregir su curso; van en un vector específico, y si son esquivados, se pierden en el espacio.
+   
+   * Capacidad de munición limitada."
+   "Misiles (teleguiados)", "Tienen propulsores que les permiten corregir su curso, ya sea por órdenes de comando desde la astronave que los lanzó, o automáticamente buscando impactar con el objetivo.", "* Alto costo por unidad.
+   
+   * Capacidad de munición limitada."
+   "Sistemas de *Guerra Electrónica*", "Mandan señales, interferencias, o peticiones de servicio malignas a la astronave objetivo, con el fin de ralentizarla o perjudicar el funcionamiento de sus sub-sistemas. No tiene costo y es mayormente automatizado.", "* Más allá de las molestias causadas o alguna fluctuación temporal del desempeño de los sistemas informáticos de la astronave objetivo, los algoritmos de defensa contra *Guerra Electrónica* están automatizados y son usualmente efectivos."
+
 A estas distancias incluso los misiles pueden tardar largos minutos en alcanzar el objetivo, por lo que un combate en *Rango Estratégico* se percibe más como una batalla por turnos que un combate en tiempo real. Las consecuencias no dejan de ser graves para cualquier tripulación que esté en combate, por lo que la tensión será palpable, especialmente porque a este rango la batalla es más de desgaste (de recursos defensivos) que de infligir daño real.
 
 En este rango, la evasión y defensa se limita a reposicionar la astronave para esquivar misiles o destruirlos cuando entran en el alcance de los *Cañones de Defensa de Punto*, y activar las defensas de software correctas para contrarrestar los intentos de hackeo e interferencia de la *guerra electrónica*. 
@@ -1688,20 +1699,59 @@ Combate en Rango Táctico
 
 En :ref:`Rango Táctico <ciencia-ficcion-dura-deteccion-rango-tactico>` (a decenas de Megametros), el tiempo para acortar las distancias se reduce a menos de una hora (especialmente si el capitán está dispuesto a someter a la tripulación a aceleraciones de :ref:`Altas Gs <ciencia-ficcion-dura-alta-gravedad>`). A esta distancia ya son viables las armas como Lásers y *Railguns*, por lo que el combate se sentirá inmediato y peligroso.
 
+.. csv-table:: Armamento Óptimo para Combates en Rango Táctico
+   :header: "Tipo de Armamento", "Ventajas", "Desventajas"
+
+   "Cañones Láser", "Se enfocan por tiempo breve sobre un punto específico del objetivo para derretir sensores y otros módulos superficiales expuestos.", "* No penetran demasiado en el casco de la astronave objetivo.
+   
+   * Su alto consumo de energía incrementa la temperatura de la astronave."
+   "Cañones de Riel (*Railguns*)", "Dispara proyectiles a hipervelocidad, que perfora todo a su paso.", "* El tamaño del proyectil es pequeño, por lo que si no impacta en un módulo importante del objetivo, la traspasará de lado a lado, solo causando dos perforaciones pequeñas en la astronave.
+
+   * Debido al altísimo consumo energético y la fricción sobre los rieles, se debe dejar enfriar por 10 minutos antes de poder volver a disparar."
+
 En este rango se puede infligir daño severo, pero por la naturaleza del armamento utilizado, suele ser daño localizado y con intención de inhabilitar módulos o funcionalidades específicas. Por ejemplo, con cañones láser se puede destruir los radiadores desplegados de la astronave enemiga, causar fisuras en tanques de combustible expuestos sin protección pesada, o dañar las lentes láser del objetivo. Con las *Railguns* se puede perforar la astronave enemiga de lado a lado, que no suele ser demasado dañino (debido al tamaño relativamente pequeño del proyectil), a menos que aciertes a un sub-sistema específico, como el reactor nuclear, las reservas de combustible / propelente / refrigerante, etc. 
 
 Si bien el armamento utilizado a estos rangos golpea al objetivo de forma casi instantánea, aún hay unos milisegundos de retraso, que los buenos pilotos (o los algoritmos de evasión automatizados) pueden aprovechar para intentar esquivar.
+
+   Cualquier tirada de dados para realizar maniobras de evasión en *Rango Táctico* recibe una **penalización de -1**.
 
 Combate en Rango de Intercepción
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 En :ref:`Rango de Intercepción <ciencia-ficcion-dura-deteccion-rango-intercepcion>` (a Megametros), la velocidad del armamento es órdenes de magnitud superior a la de las astronaves, por lo que la esquiva se hace prácticamente imposible. Cuando una batalla se cierra en esta distancia, usualmente la gana decisivamente y en pocos intercambios el que tiene armamento superior (o más adecuado para este Rango), si no se destruyen mutuamente ambos contendientes.
 
+.. csv-table:: Armamento Óptimo para Combates en Rango de Intercepción
+   :header: "Tipo de Armamento", "Ventajas", "Desventajas"
+
+   "Cañones de Defensa de Punto (*CDPs*)", "* Disparan una ráfaga de metralla de munición convencional, que cubre un espacio amplio (ideal para impactar en objetivos en movimiento, ya sea misiles acercándose o astronaves enemigas). 
+   
+   * Destrozan cualquier estructura que impacten, haciéndola pedazos que son dañinos en sí mismos si chocan contra otras partes de la astronave.", "* Generan una cantidad peligrosa de detritos que pueden complicar a la nave atacante si está a corta distancia.
+   
+   * Capacidad de munición limitada (Cada cañón almacena insumos para 10 ráfagas)."
+   "Cañones Gauss (*Coilguns*)", "* De funcionamiento similar a las *Railguns*, pero sin fricción entre el proyectil y las bobinas, lo que permite disparar continuamente sin incremento de temperatura ni desgaste por erosión.
+   
+   * Puede disparar miles de pequeños proyectiles ferromagnéticos por minuto (como una ametralladora *Gatling* electromagnética) ideal para cubrir áreas de espacio ámplio.
+  
+   * Tienen más penetración que las balas convencionales de los *CDPs*, lo que causa menos daño superficial y detritos, pero afecta mucho más al interior y los módulos internos del objetivo.", "* Capacidad de munición limitada (Cada cañón almacena insumos para 10 ráfagas).
+  
+   * Los proyectiles ferromagnéticos son 10 veces más caros que las municiones balísticas de los *CDPs*."
+   "Ojivas de Fragmentación Nuclear", "* Misiles diseñados para causar una detonación nuclear incluso si son alcanzados y destruídos por *CDPs* del enemigo.
+   
+   * Incluso si no impactan directamente al objetivo, a este rango y por su velocidad, el misil asegura una detonación cercana al mismo. La radiación causa interferencias en sus sensores y afecta con entre 100~500 mSv a la tripulación (dependiendo de la distancia final).", "* Si la ojiva es destruída cerca de la astronave atacante, se sufren los mismos problemas que afectarían al enemigo.
+
+   * Capacidad de munición limitada, y muy costosa."
+
 A este rango se pueden seguir utilizando los Cañones Láser, *Railguns* y misiles, pero las más efectivas son las metrallas de los *Cañones de Defensa de Punto* (CDPs), o los Cañones Gauss ("*Coilguns*"), debido a que son más eficientes en costos energéticos y de munición, que compensan por las velocidades inferiores a las primeras alternativas, que a esta distancia ya pierden su efectividad relativa.
 
-Con ráfagas de metralla se busca desintegrar pedazos considerables del casco y la estructura interior de la astronave enemiga, sin preocuparse demasiado por el sub-módulo que se pueda alcanzar. Se pretende maximizar el daño en poco tiempo, confiando en que las astronaves suelen quedar inhabilitadas al sufrir tamaña destrucción dispersa por sobre su superficie e interior en tan poco tiempo.
+Con ráfagas de metralla se busca desintegrar pedazos considerables del casco y la estructura interior de la astronave enemiga, sin preocuparse demasiado por el sub-módulo que se pueda alcanzar. Se pretende maximizar el daño en poco tiempo, confiando en que las astronaves suelen quedar inhabilitadas al sufrir tamaña destrucción dispersa por sobre su superficie e interior en tan poco tiempo (sin contar que los restos y detritos también complican al objetivo y a todo lo que esté en sus cercanías).
 
 Algunos capitanes también combinan ese tipo de ráfagas con ataques precisos y localizados en sub-módulos importantes, usando Lásers y *Railguns*, a pesar del costo energético (y de temperatura) que eso conlleva.
+
+Otra opción es la de los misiles nucleares, que a este rango maximizan su nivel de amenaza dado que, incluso si se logran destruir por *CDPs* antes de impactar, la radiación suele alcanzar en mayor o menor medida al objetivo. Su uso típico es el de la interferencia a los sensores y sistemas eléctricos (dado que básicamente causa un *Impulso Electromagnético* muy poderoso), pero la otra consecuencia que no suele mencionarse es la de exponer a la tripulación enemiga con dósis letales de radiación.
+
+A estas cortas distancias (relativas a la velocidad del armamento utilizado), cualquier maniobra evasiva es prácticamente fútil, excepto si se hace de forma errática o para despistar al adversario.
+
+   Cualquier tirada de dados para realizar maniobras de evasión en *Rango de Intercepción* recibe una **penalización de -3**.
 
 Lista de Astronaves Típicas
 ***************************
