@@ -1518,6 +1518,8 @@ A continuación se detallan métodos y mecánicas relacionadas con el uso de ast
 Roles y Cargos
 **************
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-33.png
+
 Las astronaves suelen tener una tripulación con miembros que cumplen distintos roles. Dependiendo del tipo de organización o facción que controla la nave, puede que se mantenga una jerarquía estricta, o que esos roles y cargos sean más laxos e intercambiables.
 
 Los roles o cargos más típicos son:
