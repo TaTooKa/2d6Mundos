@@ -105,6 +105,10 @@ En el espacio no hay gravedad, a menos que se genere artificialmente por **acele
 Aceleración
 ~~~~~~~~~~~
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-31.png
+
+   ejemplo esquemático de astronave con estructura de "edificio" de múltiples pisos, donde la gravedad artificial  "empuja hacia abajo" (es decir, en dirección opuesta a la aceleración de sus propulsores)
+
 Mientras una astronave esté acelerando, dentro de la misma se produce un efecto de empuje en el sentido opuesto al vector de movimiento, de las mismas G en la que se acelera [#]_. Es por esto que muchas astronaves están diseñadas con forma de "edificio" con pisos uno arriba del otro, con los motores en la parte "inferior".
 
 .. [#] Si la aceleración es demasiado alta para lo que están acostumbrados los personajes (dependiendo de su "*Gravedad Nativa*"), sufrirán los efectos de :ref:`Alta Gravedad <ciencia-ficcion-dura-alta-gravedad>`.
@@ -116,10 +120,6 @@ Cuando la nave se detiene, o deja de acelerar (es decir, está "a la deriva", vo
 Fuerza Centrífuga
 ~~~~~~~~~~~~~~~~~
 
-.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-6.png
-
-La gravedad artificial por fuerza centrífuga se logra haciendo rotar la nave o el hábitat sobre su eje central, a una velocidad constante. De esta forma, todo lo que esté dentro experimentará una fuerza que lo empuja "hacia afuera", o "chocando" contra las paredes interiores de la rueda. Si se la diseña para que ese sea el piso, se logra la sensación de gravedad natural. 
-
 .. video:: /_static/images/worlds/ciencia-ficcion-dura/vid-2.mp4
    :autoplay:
    :nocontrols:
@@ -127,6 +127,8 @@ La gravedad artificial por fuerza centrífuga se logra haciendo rotar la nave o 
    :playsinline:
    :muted:
    :width: 100%
+
+La gravedad artificial por fuerza centrífuga se logra haciendo rotar la nave o el hábitat sobre su eje central, a una velocidad constante. De esta forma, todo lo que esté dentro experimentará una fuerza que lo empuja "hacia afuera", o "chocando" contra las paredes interiores de la rueda. Si se la diseña para que ese sea el piso, se logra la sensación de gravedad natural. 
 
 El mayor problema es el **Efecto Coriolis**, a partir del movimiento inercial creado por el giro. Cuanto más pequeño sea el hábitat, o más cerca se esté del eje central, más pronunciado será este efecto. En estos casos, puede causar mareos o náuseas (representados como una *Condición Leve* como ``Vértigo de Coriolis``).
 
