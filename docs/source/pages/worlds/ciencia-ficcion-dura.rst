@@ -1692,7 +1692,7 @@ En :ref:`Rango Estratégico <ciencia-ficcion-dura-deteccion-rango-estrategico>` 
    * Capacidad de munición limitada.", "**Ataque**: Tira vs Dificultad 6 para lanzar el misil en busca del enemigo.
   
    **Defensa**: Tira vs Dificultad 10 para evadir, o gasta una Ráfaga de *CDPs* para destruir un misil automáticamente."
-   "Sistemas de *Guerra Electrónica*", "Mandan señales, interferencias, o peticiones de servicio malignas a la astronave objetivo, con el fin de ralentizarla o perjudicar el funcionamiento de sus sub-sistemas. No tiene costo y es mayormente automatizado.", "* Más allá de las molestias causadas o alguna fluctuación temporal del desempeño de los sistemas informáticos de la astronave objetivo, los algoritmos de defensa contra *Guerra Electrónica* están automatizados y son usualmente efectivos.", "**Ataque**: Tira vs Dificultad 8 para realizar un ataque electrónico/informático al objetivo.
+   "Sistemas de *Guerra Electrónica*", "Mandan señales, interferencias, o peticiones de servicio maliciosas a la astronave objetivo, con el fin de ralentizarla o perjudicar el funcionamiento de sus sub-sistemas. No tiene costo y es mayormente automatizado.", "* Más allá de las molestias causadas o alguna fluctuación temporal del desempeño de los sistemas informáticos de la astronave objetivo, los algoritmos de defensa contra *Guerra Electrónica* están automatizados y son usualmente efectivos.", "**Ataque**: Tira vs Dificultad 8 para realizar un ataque electrónico/informático al objetivo.
   
    **Defensa**: La defensa es pasiva; si un especialista está al mando en tiempo real, incrementa la dificultad del ataque sumando los *Trasfondos* del defensor."
 
@@ -1715,7 +1715,7 @@ En :ref:`Rango Táctico <ciencia-ficcion-dura-deteccion-rango-tactico>` (a decen
    **Defensa**: Tira vs Dificultad 10 para evadir el láser."
    "Cañones de Riel (*Railguns*)", "Dispara proyectiles a hipervelocidad, que perfora todo a su paso.", "* El tamaño del proyectil es pequeño, por lo que si no impacta en un módulo importante del objetivo, la traspasará de lado a lado, solo causando dos perforaciones pequeñas en la astronave.
 
-   * Debido al altísimo consumo energético y la fricción sobre los rieles, se debe dejar enfriar por 10 minutos antes de poder volver a disparar.", "**Ataque**: Tira vs Dificultad 9 para disparar la *Railgun*.
+   * Debido al altísimo consumo energético y la fricción sobre los rieles, **se debe dejar enfriar por 10 minutos** antes de poder volver a disparar.", "**Ataque**: Tira vs Dificultad 7 para afectar cualquier parte del objetivo, o vs Dificultad 9 para impactar en un punto específico.
   
    **Defensa**: Tira vs Dificultad 11 para evadir el disparo de la *Railgun*."
 
@@ -1765,7 +1765,7 @@ Otra opción es la de los misiles nucleares, que a este rango maximizan su nivel
 
 A estas cortas distancias (relativas a la velocidad del armamento utilizado), las maniobras evasivas tienen una probabilidad de éxito muy baja.
 
-   Cualquier tirada de dados para realizar maniobras de evasión de misiles convencionales, Lásers o *Railguns* en *Rango de Intercepción* sufre un **aumento a la Dificultad de +8**.
+   Cualquier tirada de dados para realizar maniobras de evasión de misiles convencionales, Lásers o *Railguns* en *Rango de Intercepción* sufre un **aumento a la Dificultad de +2**.
 
 Daño en Combate
 ~~~~~~~~~~~~~~~
