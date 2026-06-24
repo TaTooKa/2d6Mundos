@@ -1572,7 +1572,9 @@ Rango Estratégico
    :muted:
    :width: 100%
 
-Este es el rango de detección activa y posicionamiento orbital. A esta distancia, las naves se ven mutuamente gracias a las firmas térmicas de sus motores. Se puede inferir la trayectoria y el tamaño aproximado pero no mucho más. En situaciones de combate, no hay disparos directos instantáneos porque la luz tarda segundos en ir y volver, lo que significa que estás viendo "el pasado" del enemigo.
+Este es el rango de detección activa y posicionamiento orbital. A esta distancia, las naves se ven mutuamente gracias a las firmas térmicas de sus motores. Se puede inferir la trayectoria y el tamaño aproximado pero no mucho más. En situaciones de combate [#]_, no hay disparos directos instantáneos porque la luz tarda segundos en ir y volver, lo que significa que estás viendo "el pasado" del enemigo.
+
+.. [#] Ver :ref:`Combate en Rango Estratégico <ciencia-ficcion-dura-combate-rango-estrategico>`.
 
 **Distancia Aproximada**: De 150 Mm a más de 1000 Mm (de 0,5 a 3+ segundos-luz) [#]_.
 
@@ -1590,7 +1592,9 @@ Rango Táctico
 
 .. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-25.png
 
-A esta distancia se puede inferir el tipo y clase de la otra astronave, y si está emitiendo su transpondedor, lo recibirás instantáneamente. En situaciones de combate, el retardo de la luz es mínimo (milisegundos), lo que permite que las armas de energía dirigida apunten con precisión. Las tripulaciones empiezan a sentir la presión extrema: el *Oficial de Operaciones* debe decidir si repliega radiadores (arriesgándose a derretir la nave) o los deja expuestos.
+A esta distancia se puede inferir el tipo y clase de la otra astronave, y si está emitiendo su transpondedor, lo recibirás instantáneamente. En situaciones de combate [#]_, el retardo de la luz es mínimo (milisegundos), lo que permite que las armas de energía dirigida apunten con precisión. Las tripulaciones empiezan a sentir la presión extrema: el *Oficial de Operaciones* debe decidir si repliega radiadores (arriesgándose a derretir la nave) o los deja expuestos.
+
+.. [#] Ver :ref:`Combate en Rango Táctico <ciencia-ficcion-dura-combate-rango-tactico>`.
 
 **Distancia aproximada**: De 10 Mm a 150 Mm [#]_.
 
@@ -1609,7 +1613,9 @@ Rango de Intercepción
 
 .. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-26.png
 
-También llamado coloquialmente "Zona de Muerte". A este rango de distancia se puede ver con telescopios el estado de daños de la astronave y algunos otros detalles estéticos. En situaciones de combate, dos naves cruzándose a velocidades orbitales se pasarán de largo en un par de segundos a velocidades relativas de decenas de kilómetros por segundo (lo que se suele llamar "hacer justas"). Para maximizar el tiempo de contacto, los pilotos intentan emparejar la trayectoria con la de la astronave enemiga y ponerse "paralelos" a su vector (esto es peligroso para ambos contendientes porque el atacante se pone también a tiro del enemigo). Este rango es brutal, caótico y sumamente letal. No existe el esquive: si un arma te dispara, te da.
+También llamado coloquialmente "Zona de Muerte". A este rango de distancia se puede ver con telescopios el estado de daños de la astronave y algunos otros detalles estéticos. En situaciones de combate [#]_, dos naves cruzándose a velocidades orbitales se pasarán de largo en un par de segundos a velocidades relativas de decenas de kilómetros por segundo (lo que se suele llamar "hacer justas"). Para maximizar el tiempo de contacto, los pilotos intentan emparejar la trayectoria con la de la astronave enemiga y ponerse "paralelos" a su vector (esto es peligroso para ambos contendientes porque el atacante se pone también a tiro del enemigo). Este rango es brutal, caótico y sumamente letal. No existe el esquive: si un arma te dispara, te da.
+
+.. [#] Ver :ref:`Combate en Rango de Intercepción <ciencia-ficcion-dura-combate-rango-intercepcion>`.
 
 .. video:: /_static/images/worlds/ciencia-ficcion-dura/vid-3.mp4
    :autoplay:
@@ -1674,6 +1680,8 @@ En el espacio, dos o más astronaves pueden combatir por diversos motivos, y con
 
 El tipo de combate, y como se percibe y se siente por los tripulantes de una astronave, variará mucho según el rango de distancia a la que se encuentren los contendientes. 
 
+.. _ciencia-ficcion-dura-combate-rango-estrategico:
+
 Combate en Rango Estratégico
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1702,6 +1710,8 @@ A estas distancias incluso los misiles pueden tardar largos minutos en alcanzar 
 
 En este rango, la evasión y defensa se limita a reposicionar la astronave para esquivar misiles o destruirlos cuando entran en el alcance de los *Cañones de Defensa de Punto*, y activar las defensas de software correctas para contrarrestar los intentos de hackeo e interferencia de la *guerra electrónica*. 
 
+.. _ciencia-ficcion-dura-combate-rango-tactico:
+
 Combate en Rango Táctico
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1724,6 +1734,8 @@ En :ref:`Rango Táctico <ciencia-ficcion-dura-deteccion-rango-tactico>` (a decen
 En este rango se puede infligir daño severo, pero por la naturaleza del armamento utilizado, suele ser daño localizado y con intención de inhabilitar módulos o funcionalidades específicas. Por ejemplo, con cañones láser se puede destruir los radiadores desplegados de la astronave enemiga, causar fisuras en tanques de combustible expuestos sin protección pesada, o dañar las lentes láser del objetivo. Con las *Railguns* se puede perforar la astronave enemiga de lado a lado, que no suele ser demasado dañino (debido al tamaño relativamente pequeño del proyectil), a menos que aciertes a un sub-sistema específico, como el reactor nuclear, las reservas de combustible / propelente / refrigerante, etc. 
 
 Si bien el armamento utilizado a estos rangos golpea al objetivo de forma casi instantánea, aún hay unos milisegundos de retraso, que los buenos pilotos (o los algoritmos de evasión automatizados) pueden aprovechar para intentar esquivar.
+
+.. _ciencia-ficcion-dura-combate-rango-intercepcion:
 
 Combate en Rango de Intercepción
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
