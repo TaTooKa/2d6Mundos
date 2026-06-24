@@ -1550,12 +1550,16 @@ Es práctica usual en toda tripulación que, antes de que el **Navegante** o el 
 
 Por supuesto que en situaciones extremas como en una batalla espacial, las maniobras no pueden esperar siquiera unos preciados segundos (la alarma de da, pero el cambio de aceleración suele ser casi inmediato). Es por esto que existe otro tipo de alarma especial (que suele mantenerse durante todo el combate) que advierte a toda la tripulación de la situación. Se espera que todos los pasajeros estén en "posición de combate" durante todo el período de alerta, que básicamente significa que estén asegurados porque es sumamente probable que se apliquen cambios bruscos de fuerzas **g** de forma inminente y constante. 
 
+.. _ciencia-ficcion-dura-deteccion:
+
 Detección
 *********
 
 .. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-29.png
 
-En el espacio hay tres distintos rangos de distancia y detección entre astronaves: el **Rango Estratégico**, el **Rango Táctico**, y el **Rango de Intercepción**.
+En el espacio hay tres distintos rangos de distancia y detección entre astronaves: el **Rango Estratégico**, el **Rango Táctico**, y el **Rango de Intercepción**. A continuación se determina qué detalles se puede detectar de otra astronave, y en caso de combate, cuales son las opciones viables de ataque y evasión disponibles.
+
+.. _ciencia-ficcion-dura-deteccion-rango-estrategico:
 
 Rango Estratégico
 ~~~~~~~~~~~~~~~~~
@@ -1579,6 +1583,8 @@ Este es el rango de detección activa y posicionamiento orbital. A esta distanci
 * **Misiles Cinéticos de Largo Alcance**: Lanzados en ráfagas masivas. A esta distancia, el enemigo tiene minutos u horas para recalcular su trayectoria y esquivarlos, por lo que estos misiles actúan como piezas de ajedrez para forzar al rival a gastar combustible (Δv) esquivando.
 * **Láseres de Pintado / Guerra Electrónica**: Para saturar los sensores del rival o cegar sus ópticas a larga distancia.
 
+.. _ciencia-ficcion-dura-deteccion-rango-tactico:
+
 Rango Táctico
 ~~~~~~~~~~~~~
 
@@ -1595,6 +1601,8 @@ A esta distancia se puede inferir el tipo y clase de la otra astronave, y si est
 * **Cañones Láser Pesados** (Energía Dirigida): Viajan a la velocidad de la luz. A esta distancia no se pueden esquivar; si te apuntan, te impactan. Su objetivo no es volar la nave en pedazos, sino enfocar el haz en un punto específico durante segundos para derretir sensores, perforar tanques de combustible o destruir los radiadores enemigos.
 
 * **Cañones de Riel Masivos** (*Railguns* Espinales): Disparan proyectiles de tungsteno a velocidades hiperveloces (ej. 50-100 km/s). A este rango, una nave maniobrable aún tiene una fracción de segundo para cambiar su vector y hacer que el proyectil pase de largo, por lo que se dispara en "patrones de dispersión" (como una escopeta espacial).
+
+.. _ciencia-ficcion-dura-deteccion-rango-intercepcion:
 
 Rango de Intercepción
 ~~~~~~~~~~~~~~~~~~~~~
@@ -1662,7 +1670,38 @@ Combate
 
 .. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-30.png
 
-TODO
+En el espacio, dos o más astronaves pueden combatir por diversos motivos, y con distintos objetivos. Puede que se intente "inhabilitar" al enemigo, sin necesidad de destruírlo. Puede que se la intente capturar (o a su tripulación, o a algo que está transportando), y solo se la atacaría si el objetivo se resiste o intenta escapar. O puede que la única forma de asegurar la supervivencia propia sea la de eliminar al enemigo de la forma más efectiva y rápida posible. 
+
+El tipo de combate, y como se percibe y se siente por los tripulantes de una astronave, variará mucho según el rango de distancia a la que se encuentren los contendientes. 
+
+Combate en Rango Estratégico
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+En :ref:`Rango Estratégico <ciencia-ficcion-dura-deteccion-rango-estrategico>` (a cientos de Megametros), se tarda horas en alcanzar al objetivo, y hay el suficiente "*light-lag*" como para que los lásers y armas de corto alcance no sean viables. Los **misiles teleguiados** y la **guerra electrónica** son las armas más factibles, y son, relativamente, fáciles de contrarrestar dado el tiempo de reacción que se tiene. 
+
+A estas distancias incluso los misiles pueden tardar largos minutos en alcanzar el objetivo, por lo que un combate en *Rango Estratégico* se percibe más como una batalla por turnos que un combate en tiempo real. Las consecuencias no dejan de ser graves para cualquier tripulación que esté en combate, por lo que la tensión será palpable, especialmente porque a este rango la batalla es más de desgaste (de recursos defensivos) que de infligir daño real.
+
+En este rango, la evasión y defensa se limita a reposicionar la astronave para esquivar misiles o destruirlos cuando entran en el alcance de los *Cañones de Defensa de Punto*, y activar las defensas de software correctas para contrarrestar los intentos de hackeo e interferencia de la *guerra electrónica*. 
+
+Combate en Rango Táctico
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+En :ref:`Rango Táctico <ciencia-ficcion-dura-deteccion-rango-tactico>` (a decenas de Megametros), el tiempo para acortar las distancias se reduce a menos de una hora (especialmente si el capitán está dispuesto a someter a la tripulación a aceleraciones de :ref:`Altas Gs <ciencia-ficcion-dura-alta-gravedad>`). A esta distancia ya son viables las armas como Lásers y *Railguns*, por lo que el combate se sentirá inmediato y peligroso.
+
+En este rango se puede infligir daño severo, pero por la naturaleza del armamento utilizado, suele ser daño localizado y con intención de inhabilitar módulos o funcionalidades específicas. Por ejemplo, con cañones láser se puede destruir los radiadores desplegados de la astronave enemiga, causar fisuras en tanques de combustible expuestos sin protección pesada, o dañar las lentes láser del objetivo. Con las *Railguns* se puede perforar la astronave enemiga de lado a lado, que no suele ser demasado dañino (debido al tamaño relativamente pequeño del proyectil), a menos que aciertes a un sub-sistema específico, como el reactor nuclear, las reservas de combustible / propelente / refrigerante, etc. 
+
+Si bien el armamento utilizado a estos rangos golpea al objetivo de forma casi instantánea, aún hay unos milisegundos de retraso, que los buenos pilotos (o los algoritmos de evasión automatizados) pueden aprovechar para intentar esquivar.
+
+Combate en Rango de Intercepción
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+En :ref:`Rango de Intercepción <ciencia-ficcion-dura-deteccion-rango-intercepcion>` (a Megametros), la velocidad del armamento es órdenes de magnitud superior a la de las astronaves, por lo que la esquiva se hace prácticamente imposible. Cuando una batalla se cierra en esta distancia, usualmente la gana decisivamente y en pocos intercambios el que tiene armamento superior (o más adecuado para este Rango), si no se destruyen mutuamente ambos contendientes.
+
+A este rango se pueden seguir utilizando los Cañones Láser, *Railguns* y misiles, pero las más efectivas son las metrallas de los *Cañones de Defensa de Punto* (CDPs), o los Cañones Gauss ("*Coilguns*"), debido a que son más eficientes en costos energéticos y de munición, que compensan por las velocidades inferiores a las primeras alternativas, que a esta distancia ya pierden su efectividad relativa.
+
+Con ráfagas de metralla se busca desintegrar pedazos considerables del casco y la estructura interior de la astronave enemiga, sin preocuparse demasiado por el sub-módulo que se pueda alcanzar. Se pretende maximizar el daño en poco tiempo, confiando en que las astronaves suelen quedar inhabilitadas al sufrir tamaña destrucción dispersa por sobre su superficie e interior en tan poco tiempo.
+
+Algunos capitanes también combinan ese tipo de ráfagas con ataques precisos y localizados en sub-módulos importantes, usando Lásers y *Railguns*, a pesar del costo energético (y de temperatura) que eso conlleva.
 
 Lista de Astronaves Típicas
 ***************************
