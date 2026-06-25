@@ -1576,9 +1576,9 @@ Este es el rango de detección activa y posicionamiento orbital. A esta distanci
 
 .. [#] Ver :ref:`Combate en Rango Estratégico <ciencia-ficcion-dura-combate-rango-estrategico>`.
 
-**Distancia Aproximada**: De 150 Mm hasta 1000 Mm (de 0,5 a 3+ segundos-luz) [#]_.
+**Distancia Aproximada**: De 150 Mm hasta 1000 Mm (de 0,5 a 3+ segundos-luz).
 
-.. [#] Estas son distancias similares a los viajes dentro de un sistema planetario (por ejemplo, la distancia de una planeta a su luna). Si necesitas calcular cuanto tardarías en achicar la distancia con el objetivo, escaparte fuera del Rango de Combate, o realizar alguna otra maniobra con costos de Δv, puedes utilizar la tabla de :ref:`Persecución y Escape en Rango Estratégico <ciencia-ficcion-dura-persecucion-escape-rango-estrategico>`, o bien la de :ref:`Viajes dentro de un Sistema Planetario <ciencia-ficcion-dura-viajes-sistema-planetario>`, dado que las distancias están en el mismo órden de magnitud.
+   Estas son distancias similares a los viajes dentro de un sistema planetario (por ejemplo, la distancia de una planeta a su luna). Si necesitas calcular cuanto tardarías en achicar la distancia con el objetivo, escaparte fuera del Rango de Combate, o realizar alguna otra maniobra con costos de Δv, puedes utilizar la tabla de :ref:`Persecución y Escape en Rango Estratégico <ciencia-ficcion-dura-persecucion-escape-rango-estrategico>`, o bien la de :ref:`Viajes dentro de un Sistema Planetario <ciencia-ficcion-dura-viajes-sistema-planetario>`, dado que las distancias están en el mismo órden de magnitud.
 
 .. _ciencia-ficcion-dura-deteccion-rango-tactico:
 
@@ -1591,9 +1591,9 @@ A esta distancia se puede inferir el tipo y clase de la otra astronave, y si est
 
 .. [#] Ver :ref:`Combate en Rango Táctico <ciencia-ficcion-dura-combate-rango-tactico>`.
 
-**Distancia aproximada**: De 10 Mm a 150 Mm [#]_.
+**Distancia aproximada**: De 10 Mm a 150 Mm.
 
-.. [#] Estas son distancias similares a las de objetos en órbita de un planeta. Si necesitas calcular cuanto tardarías en achicar la distancia con el objetivo, alejarte a *Rango Estratégico*, o realizar alguna otra maniobra con costos de Δv, puedes utilizar la tabla de :ref:`Persecución y Escape en Rango Táctico <ciencia-ficcion-dura-persecucion-escape-rango-tactico>`, o bien la de :ref:`Viajes dentro de la órbita de un Planeta <ciencia-ficcion-dura-viajes-orbita-planeta>`, dado que las distancias están en el mismo órden de magnitud.
+   Estas son distancias similares a las de objetos en órbita de un planeta. Si necesitas calcular cuanto tardarías en achicar la distancia con el objetivo, alejarte a *Rango Estratégico*, o realizar alguna otra maniobra con costos de Δv, puedes utilizar la tabla de :ref:`Persecución y Escape en Rango Táctico <ciencia-ficcion-dura-persecucion-escape-rango-tactico>`, o bien la de :ref:`Viajes dentro de la órbita de un Planeta <ciencia-ficcion-dura-viajes-orbita-planeta>`, dado que las distancias están en el mismo órden de magnitud.
 
 .. _ciencia-ficcion-dura-deteccion-rango-intercepcion:
 
@@ -1606,17 +1606,9 @@ También llamado coloquialmente "Zona de Muerte". A este rango de distancia se p
 
 .. [#] Ver :ref:`Combate en Rango de Intercepción <ciencia-ficcion-dura-combate-rango-intercepcion>`.
 
-.. video:: /_static/images/worlds/ciencia-ficcion-dura/vid-3.mp4
-   :autoplay:
-   :nocontrols:
-   :loop:
-   :playsinline:
-   :muted:
-   :width: 100%
+**Distancia aproximada**: Menos de 10 Mm (hasta el contacto visual/quemarropa).
 
-**Distancia aproximada**: Menos de 10 Mm (hasta el contacto visual/quemarropa) [#]_.
-
-.. [#] Si necesitas calcular cuanto tardarías en achicar la distancia con el objetivo, alejarte a *Rango Táctico*, o realizar alguna otra maniobra con costos de Δv, puedes utilizar la tabla de :ref:`Persecución y Escape en Rango de Intercepción <ciencia-ficcion-dura-persecucion-escape-rango-intercepcion>`.
+   Si necesitas calcular cuanto tardarías en achicar la distancia con el objetivo, alejarte a *Rango Táctico*, o realizar alguna otra maniobra con costos de Δv, puedes utilizar la tabla de :ref:`Persecución y Escape en Rango de Intercepción <ciencia-ficcion-dura-persecucion-escape-rango-intercepcion>`.
 
 Fuera de Rango
 ~~~~~~~~~~~~~~
@@ -1666,6 +1658,14 @@ El tipo de combate, y como se percibe y se siente por los tripulantes de una ast
 Combate en Rango Estratégico
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. video:: /_static/images/worlds/ciencia-ficcion-dura/vid-4.mp4
+   :autoplay:
+   :nocontrols:
+   :loop:
+   :playsinline:
+   :muted:
+   :width: 100%
+
 En :ref:`Rango Estratégico <ciencia-ficcion-dura-deteccion-rango-estrategico>` (a cientos de Megametros), se tarda horas en alcanzar al objetivo, y hay el suficiente "*light-lag*" como para que los lásers y armas de corto alcance no sean viables. Los **misiles teleguiados** y la **guerra electrónica** son las armas más factibles, y son, relativamente, fáciles de contrarrestar dado el tiempo de reacción que se tiene. 
 
 .. csv-table:: Armamento Óptimo para Combates en Rango Estratégico
@@ -1700,6 +1700,8 @@ En este rango, la evasión y defensa se limita a reposicionar la astronave para 
 Combate en Rango Táctico
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-35.png
+
 En :ref:`Rango Táctico <ciencia-ficcion-dura-deteccion-rango-tactico>` (a decenas de Megametros), el tiempo para acortar las distancias se reduce a menos de una hora (especialmente si el capitán está dispuesto a someter a la tripulación a aceleraciones de :ref:`Altas Gs <ciencia-ficcion-dura-alta-gravedad>`). A esta distancia ya son viables las armas como Lásers y *Railguns*, por lo que el combate se sentirá inmediato y peligroso.
 
 .. csv-table:: Armamento Óptimo para Combates en Rango Táctico
@@ -1728,6 +1730,14 @@ Si bien el armamento utilizado a estos rangos golpea al objetivo de forma casi i
 
 Combate en Rango de Intercepción
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. video:: /_static/images/worlds/ciencia-ficcion-dura/vid-3.mp4
+   :autoplay:
+   :nocontrols:
+   :loop:
+   :playsinline:
+   :muted:
+   :width: 100%
 
 En :ref:`Rango de Intercepción <ciencia-ficcion-dura-deteccion-rango-intercepcion>` (a Megametros), la velocidad del armamento es órdenes de magnitud superior a la de las astronaves, por lo que la esquiva se hace prácticamente imposible. Cuando una batalla se cierra en esta distancia, usualmente la gana decisivamente y en pocos intercambios el que tiene armamento superior (o más adecuado para este Rango), si no se destruyen mutuamente ambos contendientes.
 
