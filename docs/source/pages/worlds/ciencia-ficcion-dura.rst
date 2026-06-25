@@ -2143,562 +2143,562 @@ Las siguientes tablas describen los tiempos y costos en Δv para el que **Persig
 .. csv-table:: Tiempos y Costos de Persecución y Escape en Rango Táctico (~100 Mm)
    :header: "P ↓ / E →", "0.01g", "0.1g", "0.2g", "0.3g", "0.4g", "0.5g", "1g", "1.5g", "2g", "3g", "5g", "10g"
 
-   "0.01g", "--", "17h 10m
+   "0.01g", "--", "11h 26m
 
-   Δv: 0.54 Mm/s", "12h 01m
+   Δv: 0.27 Mm/s", "8h 00m
 
-   Δv: 0.77 Mm/s", "9h 55m
+   Δv: 0.38 Mm/s", "6h 37m
 
-   Δv: 0.94 Mm/s", "8h 40m
+   Δv: 0.47 Mm/s", "5h 47m
 
-   Δv: 1.09 Mm/s", "7h 49m
+   Δv: 0.55 Mm/s", "5h 13m
 
-   Δv: 1.22 Mm/s", "5h 28m
+   Δv: 0.62 Mm/s", "3h 39m
 
-   Δv: 1.74 Mm/s", "4h 27m
+   Δv: 0.89 Mm/s", "2h 57m
 
-   Δv: 2.13 Mm/s", "3h 51m
+   Δv: 1.09 Mm/s", "2h 34m
 
-   Δv: 2.47 Mm/s", "3h 08m
+   Δv: 1.25 Mm/s", "2h 05m
 
-   Δv: 3.04 Mm/s", "2h 25m
+   Δv: 1.53 Mm/s", "1h 36m
 
-   Δv: 3.94 Mm/s", "1h 42m
+   Δv: 1.98 Mm/s", "1h 08m
 
-   Δv: 5.59 Mm/s"
-      "0.1g", "5h 43m
+   Δv: 2.80 Mm/s"
+      "0.1g", "11h 26m
 
-   Δv: 0.13 Mm/s", "--", "16h 21m
+   Δv: 0.27 Mm/s", "--", "10h 54m
 
-   Δv: 0.56 Mm/s", "11h 34m
+   Δv: 0.28 Mm/s", "7h 42m
 
-   Δv: 0.81 Mm/s", "9h 27m
+   Δv: 0.39 Mm/s", "6h 17m
 
-   Δv: 0.99 Mm/s", "8h 12m
+   Δv: 0.49 Mm/s", "5h 28m
 
-   Δv: 1.14 Mm/s", "5h 31m
+   Δv: 0.56 Mm/s", "3h 41m
 
-   Δv: 1.69 Mm/s", "4h 28m
+   Δv: 0.84 Mm/s", "2h 59m
 
-   Δv: 2.09 Mm/s", "3h 52m
+   Δv: 1.05 Mm/s", "2h 34m
 
-   Δv: 2.43 Mm/s", "3h 09m
+   Δv: 1.22 Mm/s", "2h 06m
 
-   Δv: 3.01 Mm/s", "2h 25m
+   Δv: 1.51 Mm/s", "1h 37m
 
-   Δv: 3.92 Mm/s", "1h 42m
+   Δv: 1.96 Mm/s", "1h 08m
 
-   Δv: 5.58 Mm/s"
-      "0.2g", "4h 00m
+   Δv: 2.79 Mm/s"
+      "0.2g", "8h 00m
 
-   Δv: 0.19 Mm/s", "5h 27m
+   Δv: 0.38 Mm/s", "10h 54m
 
-   Δv: 0.14 Mm/s", "--", "16h 21m
+   Δv: 0.28 Mm/s", "--", "10h 54m
 
-   Δv: 0.56 Mm/s", "11h 34m
+   Δv: 0.28 Mm/s", "7h 42m
 
-   Δv: 0.81 Mm/s", "9h 27m
+   Δv: 0.39 Mm/s", "6h 17m
 
-   Δv: 0.99 Mm/s", "5h 47m
+   Δv: 0.49 Mm/s", "3h 51m
 
-   Δv: 1.58 Mm/s", "4h 37m
+   Δv: 0.79 Mm/s", "3h 05m
 
-   Δv: 2.01 Mm/s", "3h 57m
+   Δv: 1.01 Mm/s", "2h 38m
 
-   Δv: 2.37 Mm/s", "3h 11m
+   Δv: 1.19 Mm/s", "2h 07m
 
-   Δv: 2.96 Mm/s", "2h 26m
+   Δv: 1.49 Mm/s", "1h 37m
 
-   Δv: 3.88 Mm/s", "1h 43m
+   Δv: 1.94 Mm/s", "1h 08m
 
-   Δv: 5.55 Mm/s"
-      "0.3g", "3h 18m
+   Δv: 2.78 Mm/s"
+      "0.3g", "6h 37m
 
-   Δv: 0.24 Mm/s", "3h 51m
+   Δv: 0.47 Mm/s", "7h 42m
 
-   Δv: 0.20 Mm/s", "5h 27m
+   Δv: 0.39 Mm/s", "10h 54m
 
-   Δv: 0.14 Mm/s", "--", "16h 21m
+   Δv: 0.28 Mm/s", "--", "10h 54m
 
-   Δv: 0.56 Mm/s", "11h 34m
+   Δv: 0.28 Mm/s", "7h 42m
 
-   Δv: 0.81 Mm/s", "6h 06m
+   Δv: 0.39 Mm/s", "4h 04m
 
-   Δv: 1.47 Mm/s", "4h 46m
+   Δv: 0.75 Mm/s", "3h 11m
 
-   Δv: 1.92 Mm/s", "4h 03m
+   Δv: 0.97 Mm/s", "2h 42m
 
-   Δv: 2.29 Mm/s", "3h 14m
+   Δv: 1.15 Mm/s", "2h 09m
 
-   Δv: 2.90 Mm/s", "2h 27m
+   Δv: 1.46 Mm/s", "1h 38m
 
-   Δv: 3.84 Mm/s", "1h 43m
+   Δv: 1.92 Mm/s", "1h 09m
 
-   Δv: 5.52 Mm/s"
-      "0.4g", "2h 53m
+   Δv: 2.76 Mm/s"
+      "0.4g", "5h 47m
 
-   Δv: 0.28 Mm/s", "3h 09m
+   Δv: 0.55 Mm/s", "6h 17m
 
-   Δv: 0.24 Mm/s", "3h 51m
+   Δv: 0.49 Mm/s", "7h 42m
 
-   Δv: 0.20 Mm/s", "5h 27m
+   Δv: 0.39 Mm/s", "10h 54m
 
-   Δv: 0.14 Mm/s", "--", "16h 21m
+   Δv: 0.28 Mm/s", "--", "10h 54m
 
-   Δv: 0.56 Mm/s", "6h 31m
+   Δv: 0.28 Mm/s", "4h 21m
 
-   Δv: 1.36 Mm/s", "4h 58m
+   Δv: 0.69 Mm/s", "3h 19m
 
-   Δv: 1.84 Mm/s", "4h 11m
+   Δv: 0.93 Mm/s", "2h 47m
 
-   Δv: 2.22 Mm/s", "3h 18m
+   Δv: 1.11 Mm/s", "2h 12m
 
-   Δv: 2.84 Mm/s", "2h 29m
+   Δv: 1.43 Mm/s", "1h 39m
 
-   Δv: 3.80 Mm/s", "1h 43m
+   Δv: 1.90 Mm/s", "1h 09m
 
-   Δv: 5.49 Mm/s"
-      "0.5g", "2h 36m
+   Δv: 2.75 Mm/s"
+      "0.5g", "5h 13m
 
-   Δv: 0.31 Mm/s", "2h 43m
+   Δv: 0.62 Mm/s", "5h 28m
 
-   Δv: 0.28 Mm/s", "3h 09m
+   Δv: 0.56 Mm/s", "6h 17m
 
-   Δv: 0.24 Mm/s", "3h 51m
+   Δv: 0.49 Mm/s", "7h 42m
 
-   Δv: 0.20 Mm/s", "5h 27m
+   Δv: 0.39 Mm/s", "10h 54m
 
-   Δv: 0.14 Mm/s", "--", "7h 02m
+   Δv: 0.28 Mm/s", "--", "4h 42m
 
-   Δv: 1.24 Mm/s", "5h 13m
+   Δv: 0.63 Mm/s", "3h 29m
 
-   Δv: 1.74 Mm/s", "4h 20m
+   Δv: 0.89 Mm/s", "2h 54m
 
-   Δv: 2.14 Mm/s", "3h 22m
+   Δv: 1.08 Mm/s", "2h 15m
 
-   Δv: 2.78 Mm/s", "2h 31m
+   Δv: 1.40 Mm/s", "1h 40m
 
-   Δv: 3.75 Mm/s", "1h 44m
+   Δv: 1.88 Mm/s", "1h 09m
 
-   Δv: 5.46 Mm/s"
-      "1g", "1h 49m
+   Δv: 2.74 Mm/s"
+      "1g", "3h 39m
 
-   Δv: 0.44 Mm/s", "1h 50m
+   Δv: 0.89 Mm/s", "3h 41m
 
-   Δv: 0.42 Mm/s", "1h 55m
+   Δv: 0.84 Mm/s", "3h 51m
 
-   Δv: 0.40 Mm/s", "2h 02m
+   Δv: 0.79 Mm/s", "4h 04m
 
-   Δv: 0.37 Mm/s", "2h 10m
+   Δv: 0.75 Mm/s", "4h 21m
 
-   Δv: 0.35 Mm/s", "2h 21m
+   Δv: 0.69 Mm/s", "4h 42m
 
-   Δv: 0.31 Mm/s", "--", "7h 02m
+   Δv: 0.63 Mm/s", "--", "4h 42m
 
-   Δv: 1.24 Mm/s", "5h 13m
+   Δv: 0.63 Mm/s", "3h 19m
 
-   Δv: 1.74 Mm/s", "3h 43m
+   Δv: 0.89 Mm/s", "2h 29m
 
-   Δv: 2.47 Mm/s", "2h 40m
+   Δv: 1.25 Mm/s", "1h 46m
 
-   Δv: 3.52 Mm/s", "1h 46m
+   Δv: 1.77 Mm/s", "1h 12m
 
-   Δv: 5.30 Mm/s"
-      "1.5g", "1h 28m
+   Δv: 2.67 Mm/s"
+      "1.5g", "2h 57m
 
-   Δv: 0.54 Mm/s", "1h 29m
+   Δv: 1.09 Mm/s", "2h 59m
 
-   Δv: 0.52 Mm/s", "1h 32m
+   Δv: 1.05 Mm/s", "3h 05m
 
-   Δv: 0.51 Mm/s", "1h 35m
+   Δv: 1.01 Mm/s", "3h 11m
 
-   Δv: 0.49 Mm/s", "1h 39m
+   Δv: 0.97 Mm/s", "3h 19m
 
-   Δv: 0.47 Mm/s", "1h 45m
+   Δv: 0.93 Mm/s", "3h 29m
 
-   Δv: 0.44 Mm/s", "2h 21m
+   Δv: 0.89 Mm/s", "4h 42m
 
-   Δv: 0.31 Mm/s", "--", "7h 02m
+   Δv: 0.63 Mm/s", "--", "4h 42m
 
-   Δv: 1.24 Mm/s", "4h 11m
+   Δv: 0.63 Mm/s", "2h 47m
 
-   Δv: 2.22 Mm/s", "2h 51m
+   Δv: 1.08 Mm/s", "1h 54m
 
-   Δv: 3.31 Mm/s", "1h 49m
+   Δv: 1.66 Mm/s", "1h 14m
 
-   Δv: 5.15 Mm/s"
-      "2g", "1h 17m
+   Δv: 2.58 Mm/s"
+      "2g", "2h 34m
 
-   Δv: 0.63 Mm/s", "1h 17m
+   Δv: 1.25 Mm/s", "2h 34m
 
-   Δv: 0.61 Mm/s", "1h 19m
+   Δv: 1.22 Mm/s", "2h 38m
 
-   Δv: 0.59 Mm/s", "1h 21m
+   Δv: 1.19 Mm/s", "2h 42m
 
-   Δv: 0.58 Mm/s", "1h 24m
+   Δv: 1.15 Mm/s", "2h 47m
 
-   Δv: 0.56 Mm/s", "1h 27m
+   Δv: 1.11 Mm/s", "2h 54m
 
-   Δv: 0.54 Mm/s", "1h 39m
+   Δv: 1.08 Mm/s", "3h 19m
 
-   Δv: 0.44 Mm/s", "2h 21m
+   Δv: 0.89 Mm/s", "4h 42m
 
-   Δv: 0.31 Mm/s", "--", "5h 13m
+   Δv: 0.63 Mm/s", "--", "3h 19m
 
-   Δv: 1.74 Mm/s", "3h 04m
+   Δv: 0.89 Mm/s", "2h 03m
 
-   Δv: 3.08 Mm/s", "1h 52m
+   Δv: 1.53 Mm/s", "1h 17m
 
-   Δv: 5.01 Mm/s"
-      "3g", "1h 02m
+   Δv: 2.51 Mm/s"
+      "3g", "2h 05m
 
-   Δv: 0.77 Mm/s", "1h 02m
+   Δv: 1.53 Mm/s", "2h 06m
 
-   Δv: 0.75 Mm/s", "1h 03m
+   Δv: 1.51 Mm/s", "2h 07m
 
-   Δv: 0.74 Mm/s", "1h 04m
+   Δv: 1.49 Mm/s", "2h 09m
 
-   Δv: 0.73 Mm/s", "1h 06m
+   Δv: 1.46 Mm/s", "2h 12m
 
-   Δv: 0.71 Mm/s", "1h 07m
+   Δv: 1.43 Mm/s", "2h 15m
 
-   Δv: 0.70 Mm/s", "1h 15m
+   Δv: 1.40 Mm/s", "2h 29m
 
-   Δv: 0.63 Mm/s", "1h 24m
+   Δv: 1.25 Mm/s", "2h 47m
 
-   Δv: 0.54 Mm/s", "1h 39m
+   Δv: 1.08 Mm/s", "3h 19m
 
-   Δv: 0.44 Mm/s", "--", "3h 43m
+   Δv: 0.89 Mm/s", "--", "2h 34m
 
-   Δv: 2.47 Mm/s", "2h 02m
+   Δv: 1.25 Mm/s", "1h 22m
 
-   Δv: 4.71 Mm/s"
-      "5g", "48 min
+   Δv: 2.35 Mm/s"
+      "5g", "1h 36m
 
-   Δv: 0.99 Mm/s", "48 min
+   Δv: 1.98 Mm/s", "1h 37m
 
-   Δv: 0.98 Mm/s", "49 min
+   Δv: 1.96 Mm/s", "1h 37m
 
-   Δv: 0.97 Mm/s", "49 min
+   Δv: 1.94 Mm/s", "1h 38m
 
-   Δv: 0.96 Mm/s", "49 min
+   Δv: 1.92 Mm/s", "1h 39m
 
-   Δv: 0.95 Mm/s", "50 min
+   Δv: 1.90 Mm/s", "1h 40m
 
-   Δv: 0.94 Mm/s", "53 min
+   Δv: 1.88 Mm/s", "1h 46m
 
-   Δv: 0.89 Mm/s", "57 min
+   Δv: 1.77 Mm/s", "1h 54m
 
-   Δv: 0.83 Mm/s", "1h 01m
+   Δv: 1.66 Mm/s", "2h 03m
 
-   Δv: 0.77 Mm/s", "1h 15m
+   Δv: 1.53 Mm/s", "2h 34m
 
-   Δv: 0.63 Mm/s", "--", "2h 25m
+   Δv: 1.25 Mm/s", "--", "1h 36m
 
-   Δv: 3.94 Mm/s"
-      "10g", "34 min
+   Δv: 1.98 Mm/s"
+      "10g", "1h 08m
 
-   Δv: 1.40 Mm/s", "34 min
+   Δv: 2.80 Mm/s", "1h 08m
 
-   Δv: 1.39 Mm/s", "34 min
+   Δv: 2.79 Mm/s", "1h 08m
 
-   Δv: 1.39 Mm/s", "34 min
+   Δv: 2.78 Mm/s", "1h 09m
 
-   Δv: 1.38 Mm/s", "34 min
+   Δv: 2.76 Mm/s", "1h 09m
 
-   Δv: 1.37 Mm/s", "35 min
+   Δv: 2.75 Mm/s", "1h 09m
 
-   Δv: 1.37 Mm/s", "36 min
+   Δv: 2.74 Mm/s", "1h 12m
 
-   Δv: 1.33 Mm/s", "37 min
+   Δv: 2.67 Mm/s", "1h 14m
 
-   Δv: 1.29 Mm/s", "38 min
+   Δv: 2.58 Mm/s", "1h 17m
 
-   Δv: 1.25 Mm/s", "41 min
+   Δv: 2.51 Mm/s", "1h 22m
 
-   Δv: 1.17 Mm/s", "48 min
+   Δv: 2.35 Mm/s", "1h 36m
 
-   Δv: 0.99 Mm/s", "--"
+   Δv: 1.98 Mm/s", "--"
 
 .. csv-table:: Tiempos y Costos de Persecución y Escape en Rango de Intercepción (~10 Mm)
    :header: "P ↓ / E →", "0.01g", "0.1g", "0.2g", "0.3g", "0.4g", "0.5g", "1g", "1.5g", "2g", "3g", "5g", "10g"
 
-   "0.01g", "--", "17h 54m
+   "0.01g", "--", "5h 25m
 
-   Δv: 0.59 Mm/s", "12h 32m
+   Δv: 0.13 Mm/s", "3h 48m
 
-   Δv: 0.84 Mm/s", "10h 21m
+   Δv: 0.18 Mm/s", "3h 08m
 
-   Δv: 1.02 Mm/s", "9h 03m
+   Δv: 0.22 Mm/s", "2h 44m
 
-   Δv: 1.17 Mm/s", "8h 09m
+   Δv: 0.26 Mm/s", "2h 28m
 
-   Δv: 1.30 Mm/s", "5h 42m
+   Δv: 0.29 Mm/s", "1h 44m
 
-   Δv: 1.85 Mm/s", "4h 39m
+   Δv: 0.42 Mm/s", "1h 24m
 
-   Δv: 2.26 Mm/s", "4h 01m
+   Δv: 0.52 Mm/s", "1h 13m
 
-   Δv: 2.61 Mm/s", "3h 16m
+   Δv: 0.59 Mm/s", "59 min
 
-   Δv: 3.20 Mm/s", "2h 32m
+   Δv: 0.73 Mm/s", "45 min
 
-   Δv: 4.14 Mm/s", "1h 47m
+   Δv: 0.94 Mm/s", "32 min
 
-   Δv: 5.86 Mm/s"
-      "0.1g", "1h 48m
+   Δv: 1.33 Mm/s"
+      "0.1g", "5h 25m
 
-   Δv: 0.04 Mm/s", "--", "17h 04m
+   Δv: 0.13 Mm/s", "--", "5h 10m
 
-   Δv: 0.60 Mm/s", "12h 04m
+   Δv: 0.13 Mm/s", "3h 39m
 
-   Δv: 0.85 Mm/s", "9h 52m
+   Δv: 0.19 Mm/s", "2h 58m
 
-   Δv: 1.04 Mm/s", "8h 33m
+   Δv: 0.23 Mm/s", "2h 35m
 
-   Δv: 1.20 Mm/s", "5h 45m
+   Δv: 0.27 Mm/s", "1h 45m
 
-   Δv: 1.79 Mm/s", "4h 40m
+   Δv: 0.40 Mm/s", "1h 25m
 
-   Δv: 2.21 Mm/s", "4h 02m
+   Δv: 0.50 Mm/s", "1h 13m
 
-   Δv: 2.57 Mm/s", "3h 17m
+   Δv: 0.58 Mm/s", "1h 00m
 
-   Δv: 3.17 Mm/s", "2h 32m
+   Δv: 0.72 Mm/s", "46 min
 
-   Δv: 4.12 Mm/s", "1h 47m
+   Δv: 0.93 Mm/s", "32 min
 
-   Δv: 5.85 Mm/s"
-      "0.2g", "1h 16m
+   Δv: 1.33 Mm/s"
+      "0.2g", "3h 48m
 
-   Δv: 0.06 Mm/s", "1h 43m
+   Δv: 0.18 Mm/s", "5h 10m
 
-   Δv: 0.04 Mm/s", "--", "17h 04m
+   Δv: 0.13 Mm/s", "--", "5h 10m
 
-   Δv: 0.60 Mm/s", "12h 04m
+   Δv: 0.13 Mm/s", "3h 39m
 
-   Δv: 0.85 Mm/s", "9h 52m
+   Δv: 0.19 Mm/s", "2h 58m
 
-   Δv: 1.04 Mm/s", "6h 02m
+   Δv: 0.23 Mm/s", "1h 49m
 
-   Δv: 1.68 Mm/s", "4h 49m
+   Δv: 0.38 Mm/s", "1h 27m
 
-   Δv: 2.13 Mm/s", "4h 07m
+   Δv: 0.48 Mm/s", "1h 15m
 
-   Δv: 2.50 Mm/s", "3h 20m
+   Δv: 0.56 Mm/s", "1h 00m
 
-   Δv: 3.11 Mm/s", "2h 33m
+   Δv: 0.71 Mm/s", "46 min
 
-   Δv: 4.07 Mm/s", "1h 47m
+   Δv: 0.92 Mm/s", "32 min
 
-   Δv: 5.82 Mm/s"
-      "0.3g", "1h 02m
+   Δv: 1.32 Mm/s"
+      "0.3g", "3h 08m
 
-   Δv: 0.08 Mm/s", "1h 13m
+   Δv: 0.22 Mm/s", "3h 39m
 
-   Δv: 0.06 Mm/s", "1h 43m
+   Δv: 0.19 Mm/s", "5h 10m
 
-   Δv: 0.04 Mm/s", "--", "17h 04m
+   Δv: 0.13 Mm/s", "--", "5h 10m
 
-   Δv: 0.60 Mm/s", "12h 04m
+   Δv: 0.13 Mm/s", "3h 39m
 
-   Δv: 0.85 Mm/s", "6h 22m
+   Δv: 0.19 Mm/s", "1h 55m
 
-   Δv: 1.57 Mm/s", "4h 59m
+   Δv: 0.35 Mm/s", "1h 31m
 
-   Δv: 2.04 Mm/s", "4h 13m
+   Δv: 0.46 Mm/s", "1h 17m
 
-   Δv: 2.42 Mm/s", "3h 23m
+   Δv: 0.54 Mm/s", "1h 01m
 
-   Δv: 3.05 Mm/s", "2h 34m
+   Δv: 0.69 Mm/s", "46 min
 
-   Δv: 4.03 Mm/s", "1h 48m
+   Δv: 0.91 Mm/s", "32 min
 
-   Δv: 5.79 Mm/s"
-      "0.4g", "54 min
+   Δv: 1.31 Mm/s"
+      "0.4g", "2h 44m
 
-   Δv: 0.09 Mm/s", "59 min
+   Δv: 0.26 Mm/s", "2h 58m
 
-   Δv: 0.08 Mm/s", "1h 13m
+   Δv: 0.23 Mm/s", "3h 39m
 
-   Δv: 0.06 Mm/s", "1h 43m
+   Δv: 0.19 Mm/s", "5h 10m
 
-   Δv: 0.04 Mm/s", "--", "17h 04m
+   Δv: 0.13 Mm/s", "--", "5h 10m
 
-   Δv: 0.60 Mm/s", "12h 04m
+   Δv: 0.13 Mm/s", "2h 03m
 
-   Δv: 0.85 Mm/s", "5h 11m
+   Δv: 0.33 Mm/s", "1h 34m
 
-   Δv: 1.95 Mm/s", "4h 21m
+   Δv: 0.44 Mm/s", "1h 19m
 
-   Δv: 2.34 Mm/s", "3h 26m
+   Δv: 0.53 Mm/s", "1h 02m
 
-   Δv: 2.99 Mm/s", "2h 35m
+   Δv: 0.68 Mm/s", "47 min
 
-   Δv: 3.99 Mm/s", "1h 48m
+   Δv: 0.90 Mm/s", "32 min
 
-   Δv: 5.76 Mm/s"
-      "0.5g", "49 min
+   Δv: 1.31 Mm/s"
+      "0.5g", "2h 28m
 
-   Δv: 0.10 Mm/s", "51 min
+   Δv: 0.29 Mm/s", "2h 35m
 
-   Δv: 0.09 Mm/s", "59 min
+   Δv: 0.27 Mm/s", "2h 58m
 
-   Δv: 0.08 Mm/s", "1h 13m
+   Δv: 0.23 Mm/s", "3h 39m
 
-   Δv: 0.06 Mm/s", "1h 43m
+   Δv: 0.19 Mm/s", "5h 10m
 
-   Δv: 0.04 Mm/s", "--", "7h 21m
+   Δv: 0.13 Mm/s", "--", "2h 13m
 
-   Δv: 1.33 Mm/s", "5h 26m
+   Δv: 0.30 Mm/s", "1h 39m
 
-   Δv: 1.85 Mm/s", "4h 31m
+   Δv: 0.42 Mm/s", "1h 22m
 
-   Δv: 2.26 Mm/s", "3h 31m
+   Δv: 0.51 Mm/s", "1h 04m
 
-   Δv: 2.92 Mm/s", "2h 37m
+   Δv: 0.66 Mm/s", "47 min
 
-   Δv: 3.94 Mm/s", "1h 48m
+   Δv: 0.89 Mm/s", "32 min
 
-   Δv: 5.73 Mm/s"
-      "1g", "34 min
+   Δv: 1.30 Mm/s"
+      "1g", "1h 44m
 
-   Δv: 0.14 Mm/s", "35 min
+   Δv: 0.42 Mm/s", "1h 45m
 
-   Δv: 0.13 Mm/s", "36 min
+   Δv: 0.40 Mm/s", "1h 49m
 
-   Δv: 0.13 Mm/s", "38 min
+   Δv: 0.38 Mm/s", "1h 55m
 
-   Δv: 0.12 Mm/s", "41 min
+   Δv: 0.35 Mm/s", "2h 03m
 
-   Δv: 0.11 Mm/s", "44 min
+   Δv: 0.33 Mm/s", "2h 13m
 
-   Δv: 0.10 Mm/s", "--", "7h 21m
+   Δv: 0.30 Mm/s", "--", "2h 13m
 
-   Δv: 1.33 Mm/s", "5h 26m
+   Δv: 0.30 Mm/s", "1h 34m
 
-   Δv: 1.85 Mm/s", "3h 52m
+   Δv: 0.42 Mm/s", "1h 11m
 
-   Δv: 2.61 Mm/s", "2h 47m
+   Δv: 0.59 Mm/s", "50 min
 
-   Δv: 3.70 Mm/s", "1h 51m
+   Δv: 0.84 Mm/s", "34 min
 
-   Δv: 5.56 Mm/s"
-      "1.5g", "28 min
+   Δv: 1.27 Mm/s"
+      "1.5g", "1h 24m
 
-   Δv: 0.17 Mm/s", "28 min
+   Δv: 0.52 Mm/s", "1h 25m
 
-   Δv: 0.17 Mm/s", "29 min
+   Δv: 0.50 Mm/s", "1h 27m
 
-   Δv: 0.16 Mm/s", "30 min
+   Δv: 0.48 Mm/s", "1h 31m
 
-   Δv: 0.15 Mm/s", "31 min
+   Δv: 0.46 Mm/s", "1h 34m
 
-   Δv: 0.15 Mm/s", "33 min
+   Δv: 0.44 Mm/s", "1h 39m
 
-   Δv: 0.14 Mm/s", "44 min
+   Δv: 0.42 Mm/s", "2h 13m
 
-   Δv: 0.10 Mm/s", "--", "7h 21m
+   Δv: 0.30 Mm/s", "--", "2h 13m
 
-   Δv: 1.33 Mm/s", "4h 21m
+   Δv: 0.30 Mm/s", "1h 19m
 
-   Δv: 2.34 Mm/s", "2h 58m
+   Δv: 0.51 Mm/s", "54 min
 
-   Δv: 3.48 Mm/s", "1h 54m
+   Δv: 0.79 Mm/s", "35 min
 
-   Δv: 5.40 Mm/s"
-      "2g", "24 min
+   Δv: 1.22 Mm/s"
+      "2g", "1h 13m
 
-   Δv: 0.20 Mm/s", "24 min
+   Δv: 0.59 Mm/s", "1h 13m
 
-   Δv: 0.19 Mm/s", "25 min
+   Δv: 0.58 Mm/s", "1h 15m
 
-   Δv: 0.19 Mm/s", "25 min
+   Δv: 0.56 Mm/s", "1h 17m
 
-   Δv: 0.18 Mm/s", "26 min
+   Δv: 0.54 Mm/s", "1h 19m
 
-   Δv: 0.18 Mm/s", "27 min
+   Δv: 0.53 Mm/s", "1h 22m
 
-   Δv: 0.17 Mm/s", "31 min
+   Δv: 0.51 Mm/s", "1h 34m
 
-   Δv: 0.14 Mm/s", "44 min
+   Δv: 0.42 Mm/s", "2h 13m
 
-   Δv: 0.10 Mm/s", "--", "5h 26m
+   Δv: 0.30 Mm/s", "--", "1h 34m
 
-   Δv: 1.85 Mm/s", "3h 11m
+   Δv: 0.42 Mm/s", "58 min
 
-   Δv: 3.23 Mm/s", "1h 57m
+   Δv: 0.73 Mm/s", "36 min
 
-   Δv: 5.25 Mm/s"
-      "3g", "19 min
+   Δv: 1.19 Mm/s"
+      "3g", "59 min
 
-   Δv: 0.24 Mm/s", "19 min
+   Δv: 0.73 Mm/s", "1h 00m
 
-   Δv: 0.24 Mm/s", "20 min
+   Δv: 0.72 Mm/s", "1h 00m
 
-   Δv: 0.23 Mm/s", "20 min
+   Δv: 0.71 Mm/s", "1h 01m
 
-   Δv: 0.23 Mm/s", "20 min
+   Δv: 0.69 Mm/s", "1h 02m
 
-   Δv: 0.23 Mm/s", "21 min
+   Δv: 0.68 Mm/s", "1h 04m
 
-   Δv: 0.22 Mm/s", "23 min
+   Δv: 0.66 Mm/s", "1h 11m
 
-   Δv: 0.20 Mm/s", "26 min
+   Δv: 0.59 Mm/s", "1h 19m
 
-   Δv: 0.17 Mm/s", "31 min
+   Δv: 0.51 Mm/s", "1h 34m
 
-   Δv: 0.14 Mm/s", "--", "3h 52m
+   Δv: 0.42 Mm/s", "--", "1h 13m
 
-   Δv: 2.61 Mm/s", "2h 07m
+   Δv: 0.59 Mm/s", "39 min
 
-   Δv: 4.94 Mm/s"
-      "5g", "15 min
+   Δv: 1.12 Mm/s"
+      "5g", "45 min
 
-   Δv: 0.31 Mm/s", "15 min
+   Δv: 0.94 Mm/s", "46 min
 
-   Δv: 0.31 Mm/s", "15 min
+   Δv: 0.93 Mm/s", "46 min
 
-   Δv: 0.31 Mm/s", "15 min
+   Δv: 0.92 Mm/s", "46 min
 
-   Δv: 0.30 Mm/s", "15 min
+   Δv: 0.91 Mm/s", "47 min
 
-   Δv: 0.30 Mm/s", "15 min
+   Δv: 0.90 Mm/s", "47 min
 
-   Δv: 0.30 Mm/s", "16 min
+   Δv: 0.89 Mm/s", "50 min
 
-   Δv: 0.28 Mm/s", "18 min
+   Δv: 0.84 Mm/s", "54 min
 
-   Δv: 0.26 Mm/s", "19 min
+   Δv: 0.79 Mm/s", "58 min
 
-   Δv: 0.24 Mm/s", "23 min
+   Δv: 0.73 Mm/s", "1h 13m
 
-   Δv: 0.20 Mm/s", "--", "2h 32m
+   Δv: 0.59 Mm/s", "--", "45 min
 
-   Δv: 4.14 Mm/s"
-      "10g", "10 min
+   Δv: 0.94 Mm/s"
+      "10g", "32 min
 
-   Δv: 0.44 Mm/s", "10 min
+   Δv: 1.33 Mm/s", "32 min
 
-   Δv: 0.44 Mm/s", "10 min
+   Δv: 1.33 Mm/s", "32 min
 
-   Δv: 0.44 Mm/s", "10 min
+   Δv: 1.32 Mm/s", "32 min
 
-   Δv: 0.44 Mm/s", "10 min
+   Δv: 1.31 Mm/s", "32 min
 
-   Δv: 0.43 Mm/s", "11 min
+   Δv: 1.31 Mm/s", "32 min
 
-   Δv: 0.43 Mm/s", "11 min
+   Δv: 1.30 Mm/s", "34 min
 
-   Δv: 0.42 Mm/s", "11 min
+   Δv: 1.27 Mm/s", "35 min
 
-   Δv: 0.41 Mm/s", "12 min
+   Δv: 1.22 Mm/s", "36 min
 
-   Δv: 0.40 Mm/s", "13 min
+   Δv: 1.19 Mm/s", "39 min
 
-   Δv: 0.37 Mm/s", "15 min
+   Δv: 1.12 Mm/s", "45 min
 
-   Δv: 0.31 Mm/s", "--"
+   Δv: 0.94 Mm/s", "--"
 
 Lista de Astronaves Típicas
 ***************************
