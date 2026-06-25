@@ -1578,7 +1578,7 @@ Este es el rango de detección activa y posicionamiento orbital. A esta distanci
 
 **Distancia Aproximada**: De 150 Mm hasta 1000 Mm (de 0,5 a 3+ segundos-luz) [#]_.
 
-.. [#] Estas son distancias similares a los viajes dentro de un sistema planetario (por ejemplo, la distancia de una planeta a su luna). Si necesitas calcular cuanto tardarías en achicar la distancia con el objetivo, o realizar alguna otra maniobra con costos de Δv, puedes utilizar la tabla de :ref:`Viajes dentro de un Sistema Planetario <ciencia-ficcion-dura-viajes-sistema-planetario>`, dado que las distancias están en el mismo órden de magnitud.
+.. [#] Estas son distancias similares a los viajes dentro de un sistema planetario (por ejemplo, la distancia de una planeta a su luna). Si necesitas calcular cuanto tardarías en achicar la distancia con el objetivo, escaparte fuera del Rango de Combate, o realizar alguna otra maniobra con costos de Δv, puedes utilizar la tabla de :ref:`Persecución y Escape en Rango Estratégico <ciencia-ficcion-dura-persecucion-escape-rango-estrategico>`, o bien la de :ref:`Viajes dentro de un Sistema Planetario <ciencia-ficcion-dura-viajes-sistema-planetario>`, dado que las distancias están en el mismo órden de magnitud.
 
 **Armas Efectivas**: 
 
@@ -1598,7 +1598,7 @@ A esta distancia se puede inferir el tipo y clase de la otra astronave, y si est
 
 **Distancia aproximada**: De 10 Mm a 150 Mm [#]_.
 
-.. [#] Estas son distancias similares a las de objetos en órbita de un planeta. Si necesitas calcular cuanto tardarías en achicar la distancia con el objetivo, o realizar alguna otra maniobra con costos de Δv, puedes utilizar la tabla de :ref:`Viajes dentro de la órbita de un Planeta <ciencia-ficcion-dura-viajes-orbita-planeta>`, dado que las distancias están en el mismo órden de magnitud.
+.. [#] Estas son distancias similares a las de objetos en órbita de un planeta. Si necesitas calcular cuanto tardarías en achicar la distancia con el objetivo, alejarte a *Rango Estratégico*, o realizar alguna otra maniobra con costos de Δv, puedes utilizar la tabla de :ref:`Persecución y Escape en Rango Táctico <ciencia-ficcion-dura-persecucion-escape-rango-tactico>`, o bien la de :ref:`Viajes dentro de la órbita de un Planeta <ciencia-ficcion-dura-viajes-orbita-planeta>`, dado que las distancias están en el mismo órden de magnitud.
 
 **Armas efectivas**:
 
@@ -1627,7 +1627,9 @@ También llamado coloquialmente "Zona de Muerte". A este rango de distancia se p
 
 **Distancia aproximada**: Menos de 10 Mm (hasta el contacto visual/quemarropa) [#]_.
 
-.. [#] Ni te gastes en calcular distancias o costos de Δv, en este rango podrás alejarte o acercarte al objetivo con muy poco gasto de combustible. Será más importante considerar esquivas y reposicionamientos tácticos. Si hace falta, el DJ puede asignar un valor de 0.01~0.1 Mm/s a cualquier gasto de Δv, dependiendo del tamaño de la astronave.
+.. [#] Si necesitas calcular cuanto tardarías en achicar la distancia con el objetivo, alejarte a *Rango Táctico*, o realizar alguna otra maniobra con costos de Δv, puedes utilizar la tabla de :ref:`Persecución y Escape en Rango de Intercepción <ciencia-ficcion-dura-persecucion-escape-rango-intercepcion>`.
+
+asd
 
 **Armas efectivas**:
 
@@ -1873,6 +1875,8 @@ Las siguientes tablas describen los tiempos y costos en Δv para el que **Persig
    Las celdas del lado superior derecho de cada tabla muestran cuanto tardará el que **Escapa** en alejarse del que lo **Persigue**, pasando al siguente Rango de Distancia (o escapando completamente, si sale del *Rango Estratégico*) y cuanto Δv extra deberá gastar para lograrlo (el que persigue no gasta extra Δv; se asume que mantiene la aceleración previa).
 
    Las celdas de la diagonal central (las combinaciones de la misma aceleración del que **Persigue** y del que **Escapa**) muestran una línea de valor nulo (–), dado que si ambos aceleran a las mismas **g**, se mantendrán a la misma distancia y no lograrán ni escapar ni alcanzarse.
+
+.. _ciencia-ficcion-dura-persecucion-escape-rango-estrategico:
 
 .. csv-table:: Tiempos y Costos de Persecución y Escape en Rango Estratégico (~500 Mm)
    :header: "P ↓ / E →", "0.01g", "0.1g", "0.2g", "0.3g", "0.4g", "0.5g", "1g", "1.5g", "2g", "3g", "5g", "10g"
@@ -2154,6 +2158,8 @@ Las siguientes tablas describen los tiempos y costos en Δv para el que **Persig
 
    Δv: 2.21 Mm/s", "--"
 
+.. _ciencia-ficcion-dura-persecucion-escape-rango-tactico:
+
 .. csv-table:: Tiempos y Costos de Persecución y Escape en Rango Táctico (~100 Mm)
    :header: "P ↓ / E →", "0.01g", "0.1g", "0.2g", "0.3g", "0.4g", "0.5g", "1g", "1.5g", "2g", "3g", "5g", "10g"
 
@@ -2433,6 +2439,8 @@ Las siguientes tablas describen los tiempos y costos en Δv para el que **Persig
    Δv: 2.35 Mm/s", "1h 36m
 
    Δv: 1.98 Mm/s", "--"
+
+.. _ciencia-ficcion-dura-persecucion-escape-rango-intercepcion:
 
 .. csv-table:: Tiempos y Costos de Persecución y Escape en Rango de Intercepción (~10 Mm)
    :header: "P ↓ / E →", "0.01g", "0.1g", "0.2g", "0.3g", "0.4g", "0.5g", "1g", "1.5g", "2g", "3g", "5g", "10g"
