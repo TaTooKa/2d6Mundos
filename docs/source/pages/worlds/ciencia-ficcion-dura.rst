@@ -2770,11 +2770,12 @@ Fuentes de Inspiración
 * Saga **The Expanse** de James S.A. Corey
 * **2001: Una Odisea Espacial** de Arthur C. Clarke
 * **For All Mankind** de Ronald D. Moore, Matt Wolpert, y Ben Nedivi 
-* Saga y universo **Alien** de Ridley Scott
 * La **Trilogía de Marte** de Kim Stanley Robinson
 * **2001 Nights** de Yukinobu Hoshino
 * **Cita Con Rama** de Arthur C. Clarke
+* **Elite: Dangerous** de David Braben y Frontier Developments
 * **Planetes** de Makoto Yukimura
 * **The Martian** y **Project Hail Mary** de Andy Weir
+* Saga y universo **Alien** de Ridley Scott
 * **Gravity** de Alfonso Cuarón
 * **Interstellar** de Christopher Nolan
