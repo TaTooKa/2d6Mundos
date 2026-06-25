@@ -1644,6 +1644,15 @@ Dicho eso, hay una forma de reducir la firma térmica, y así minimizar las chan
    
    Dado que una astronave no puede cambiar de trayectoria sin salir del modo **Navegación Silenciosa**, el uso de esta técnica queda limitado a situaciones muy particulares (por ejemplo, cuando puedes llegar a esconderte detrás de algo que oculte tus próximas maniobras, como un asteroide o planeta).
 
+      En términos de juego, la **Navegación Silenciosa** puede ser útil durante el *Combate Espacial*.
+
+      Debido a que la mayoría de los sistemas de identificación y adquisición de objetivos son automáticos y se basan en la firma calórica y radial de otras astronaves, este modo dificulta en cierta medida los ataques. No lo hace del todo imposible, porque si bien la astronave está '*invisible*' a los sensores, cualquiera puede calcular su trayectoria proyectada en el tiempo, por lo que es trivial inferir "donde debería estar".
+
+      **Cuando se ataque a una astronave que está en modo de** *Navegación Silenciosa*:
+
+      * Si se ataca en la dirección general de la misma, o "a donde debería estar", se sufre una **penalización de +1 a la Dificultad**. 
+      * Si se quiere apuntar a un punto o sub-módulo específico de la astronave, se sufre una **penalización de +3 a la Dificultad**.
+
 Combate
 *******
 
