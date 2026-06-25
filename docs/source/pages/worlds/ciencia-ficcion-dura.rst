@@ -1798,7 +1798,9 @@ Daño en Combate
 
 .. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-34.png
 
-Para ataques donde no se apunta a un sub-módulo o parte específica de la astronave enemiga, puedes hacer una tirada de 2d6 en la siguiente tabla para determinarlo al azar:
+Debido a que es más difícil apuntar a un punto específico del objetivo, muchas veces se dispara en la dirección general de la astronave enemiga, con intención de acertar cualquier sección del casco.
+
+En esos casos, y si necesitas saber en qué sección específica se acertó, puedes hacer una tirada de 2d6 en la siguiente tabla para determinarlo al azar:
 
 .. csv-table:: Locación del Daño
    :header: "2d6", "Locación dañada"
@@ -1815,6 +1817,8 @@ Para ataques donde no se apunta a un sub-módulo o parte específica de la astro
    "10", "Sistemas de Armas / Armamento expuesto"
    "11", "Radiadores retraídos (tira de nuevo si estaban extendidos)"
    "12", "Núcleo del Reactor de Fusión"
+
+La *Condición* recibida estará relacionada a la sección dañada.
 
 Condiciones
 ^^^^^^^^^^^
