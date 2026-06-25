@@ -1580,11 +1580,6 @@ Este es el rango de detección activa y posicionamiento orbital. A esta distanci
 
 .. [#] Estas son distancias similares a los viajes dentro de un sistema planetario (por ejemplo, la distancia de una planeta a su luna). Si necesitas calcular cuanto tardarías en achicar la distancia con el objetivo, escaparte fuera del Rango de Combate, o realizar alguna otra maniobra con costos de Δv, puedes utilizar la tabla de :ref:`Persecución y Escape en Rango Estratégico <ciencia-ficcion-dura-persecucion-escape-rango-estrategico>`, o bien la de :ref:`Viajes dentro de un Sistema Planetario <ciencia-ficcion-dura-viajes-sistema-planetario>`, dado que las distancias están en el mismo órden de magnitud.
 
-**Armas Efectivas**: 
-
-* **Misiles Cinéticos de Largo Alcance**: Lanzados en ráfagas masivas. A esta distancia, el enemigo tiene minutos u horas para recalcular su trayectoria y esquivarlos, por lo que estos misiles actúan como piezas de ajedrez para forzar al rival a gastar combustible (Δv) esquivando.
-* **Láseres de Pintado / Guerra Electrónica**: Para saturar los sensores del rival o cegar sus ópticas a larga distancia.
-
 .. _ciencia-ficcion-dura-deteccion-rango-tactico:
 
 Rango Táctico
@@ -1599,12 +1594,6 @@ A esta distancia se puede inferir el tipo y clase de la otra astronave, y si est
 **Distancia aproximada**: De 10 Mm a 150 Mm [#]_.
 
 .. [#] Estas son distancias similares a las de objetos en órbita de un planeta. Si necesitas calcular cuanto tardarías en achicar la distancia con el objetivo, alejarte a *Rango Estratégico*, o realizar alguna otra maniobra con costos de Δv, puedes utilizar la tabla de :ref:`Persecución y Escape en Rango Táctico <ciencia-ficcion-dura-persecucion-escape-rango-tactico>`, o bien la de :ref:`Viajes dentro de la órbita de un Planeta <ciencia-ficcion-dura-viajes-orbita-planeta>`, dado que las distancias están en el mismo órden de magnitud.
-
-**Armas efectivas**:
-
-* **Cañones Láser Pesados** (Energía Dirigida): Viajan a la velocidad de la luz. A esta distancia no se pueden esquivar; si te apuntan, te impactan. Su objetivo no es volar la nave en pedazos, sino enfocar el haz en un punto específico durante segundos para derretir sensores, perforar tanques de combustible o destruir los radiadores enemigos.
-
-* **Cañones de Riel Masivos** (*Railguns* Espinales): Disparan proyectiles de tungsteno a velocidades hiperveloces (ej. 50-100 km/s). A este rango, una nave maniobrable aún tiene una fracción de segundo para cambiar su vector y hacer que el proyectil pase de largo, por lo que se dispara en "patrones de dispersión" (como una escopeta espacial).
 
 .. _ciencia-ficcion-dura-deteccion-rango-intercepcion:
 
@@ -1628,16 +1617,6 @@ También llamado coloquialmente "Zona de Muerte". A este rango de distancia se p
 **Distancia aproximada**: Menos de 10 Mm (hasta el contacto visual/quemarropa) [#]_.
 
 .. [#] Si necesitas calcular cuanto tardarías en achicar la distancia con el objetivo, alejarte a *Rango Táctico*, o realizar alguna otra maniobra con costos de Δv, puedes utilizar la tabla de :ref:`Persecución y Escape en Rango de Intercepción <ciencia-ficcion-dura-persecucion-escape-rango-intercepcion>`.
-
-asd
-
-**Armas efectivas**:
-
-* **Cañones de Riel Convencionales** y **Cañones Gauss**: Alta cadencia de fuego. Los impactos cinéticos desintegran el blindaje y causan descompresión explosiva instantánea.
-
-* **CDP** (Cañones de Defensa de Punto) y **Metralla** (Flak): Los cañones de defensa de punto diseñados para interceptar misiles se redireccionan contra los cascos de las naves enemigas. Las naves literalmente se despedazan mutuamente con nubes de perdigones de acero a hipervelocidad.
-
-* **Ojivas de Fragmentación Nuclear**: Misiles que detonan a pocos kilómetros de distancia, usando la radiación térmica y los rayos X para evaporar el casco exterior de la nave o irradiar mortalmente a la tripulación.
 
 Fuera de Rango
 ~~~~~~~~~~~~~~
