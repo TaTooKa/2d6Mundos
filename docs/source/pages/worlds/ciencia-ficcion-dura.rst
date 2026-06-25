@@ -1710,6 +1710,10 @@ A estas distancias incluso los misiles pueden tardar largos minutos en alcanzar 
 
 En este rango, la evasión y defensa se limita a reposicionar la astronave para esquivar misiles o destruirlos cuando entran en el alcance de los *Cañones de Defensa de Punto*, y activar las defensas de software correctas para contrarrestar los intentos de hackeo e interferencia de la *guerra electrónica*. 
 
+.. admonition:: Rounds en Rango Estratégico
+
+   Si necesitas estructurar la acción del Combate en *Rounds*, en este rango cada uno equivale a 1 hora.
+
 .. _ciencia-ficcion-dura-combate-rango-tactico:
 
 Combate en Rango Táctico
@@ -1734,6 +1738,10 @@ En :ref:`Rango Táctico <ciencia-ficcion-dura-deteccion-rango-tactico>` (a decen
 En este rango se puede infligir daño severo, pero por la naturaleza del armamento utilizado, suele ser daño localizado y con intención de inhabilitar módulos o funcionalidades específicas. Por ejemplo, con cañones láser se puede destruir los radiadores desplegados de la astronave enemiga, causar fisuras en tanques de combustible expuestos sin protección pesada, o dañar las lentes láser del objetivo. Con las *Railguns* se puede perforar la astronave enemiga de lado a lado, que no suele ser demasado dañino (debido al tamaño relativamente pequeño del proyectil), a menos que aciertes a un sub-sistema específico, como el reactor nuclear, las reservas de combustible / propelente / refrigerante, etc. 
 
 Si bien el armamento utilizado a estos rangos golpea al objetivo de forma casi instantánea, aún hay unos milisegundos de retraso, que los buenos pilotos (o los algoritmos de evasión automatizados) pueden aprovechar para intentar esquivar.
+
+.. admonition:: Rounds en Rango Táctico
+
+   Si necesitas estructurar la acción del Combate en *Rounds*, en este rango cada uno equivale a 10 minutos.
 
 .. _ciencia-ficcion-dura-combate-rango-intercepcion:
 
@@ -1780,6 +1788,10 @@ Otra opción es la de los misiles nucleares, que a este rango maximizan su nivel
 A estas cortas distancias (relativas a la velocidad del armamento utilizado), las maniobras evasivas tienen una probabilidad de éxito muy baja.
 
    Cualquier tirada de dados para realizar maniobras de evasión de misiles convencionales, Lásers o *Railguns* en *Rango de Intercepción* sufre un **aumento a la Dificultad de +2**.
+
+.. admonition:: Rounds en Rango de Intercepción
+
+   Si necesitas estructurar la acción del Combate en *Rounds*, en este rango cada uno equivale a 1 minuto.
 
 Daño en Combate
 ~~~~~~~~~~~~~~~
@@ -1846,7 +1858,9 @@ Si la astronave enemiga decide dar persecución para no dejarla escapar, entonce
 
 El DJ determina las velocidades relativas de los perseguidores y los perseguidos (preguntándole al capitán de los PJs qué desea hacer, e interpretando la decisión de los PNJs que él controla). A grandes rasgos, la astronave que acelere con más fuerza (medida en **g**) será la que, tarde o temprano, logre su cometido (escapar o alcanzar a la que escapa), la cuestión es saber en cuanto tiempo aproximado ocurrirá eso, y cuanto costo de Δv tiene cada opción.
 
-Las siguientes tablas describen los tiempos y costos en Δv para el que **Persigue** o el que **Escapa**, para los tres diferentes rangos de distancia.
+Las siguientes tablas describen los tiempos y costos en Δv para el que **Persigue** o el que **Escapa**, para los tres diferentes rangos de distancia [#]_.
+
+.. [#] Si una astronave está intentando "achicar la distancia" con su enemigo, para entrar a un rango que le resulta más conveniente, también se pueden usar estas tablas.
 
 .. admonition:: ¿Cómo se leen las siguientes tablas?
 
@@ -1858,7 +1872,7 @@ Las siguientes tablas describen los tiempos y costos en Δv para el que **Persig
 
    Las celdas del lado superior derecho de cada tabla muestran cuanto tardará el que **Escapa** en alejarse del que lo **Persigue**, pasando al siguente Rango de Distancia (o escapando completamente, si sale del *Rango Estratégico*) y cuanto Δv extra deberá gastar para lograrlo (el que persigue no gasta extra Δv; se asume que mantiene la aceleración previa).
 
-   Las celdas de la diagonal central (las combinaciones de la misma aceleración del que **Persigue** y del que **Escapa**) muestran una línea de valor nulo ("–"), dado que si ambos aceleran a las mismas **g**, se mantendrán a la misma distancia y no lograrán ni escapar ni alcanzarse.
+   Las celdas de la diagonal central (las combinaciones de la misma aceleración del que **Persigue** y del que **Escapa**) muestran una línea de valor nulo (–), dado que si ambos aceleran a las mismas **g**, se mantendrán a la misma distancia y no lograrán ni escapar ni alcanzarse.
 
 .. csv-table:: Tiempos y Costos de Persecución y Escape en Rango Estratégico (~500 Mm)
    :header: "P ↓ / E →", "0.01g", "0.1g", "0.2g", "0.3g", "0.4g", "0.5g", "1g", "1.5g", "2g", "3g", "5g", "10g"
@@ -2699,6 +2713,16 @@ Las siguientes tablas describen los tiempos y costos en Δv para el que **Persig
    Δv: 1.12 Mm/s", "45 min
 
    Δv: 0.94 Mm/s", "--"
+
+.. admonition:: Pero entonces, ¿Es una opción viable escapar de un Combate?
+
+   Si te detienes a analizar los tiempos requeridos para escapar de un Rango de Distancia, habrás notado que son muy extensos, especialmente comparado a cuantas acciones de ataque se pueden efectuar (en *Rounds*) antes de que una astronave pueda escapar al siguiente Rango.
+
+   Ese factor, sumado a que es mucho más difícil defenderse (o evadir) que atacar, hace que los combates espaciales sean extremadamente crudos y peligrosos.
+
+   Puede ser factible intentar escapar si antes has logrado deshabilitar el armamento de la astronave enemiga, o si le has causado algún daño o malfunción que no le permita perseguirte, o le haga pensárselo dos veces. Pero en situaciones donde el enemigo sigue siendo una amenaza de combate, la realidad es que todas las probabilidades están a favor del que ataca, y no del que defiende, evade o escapa.
+
+   Así es la vida en el espacio.
 
 Lista de Astronaves Típicas
 ***************************
