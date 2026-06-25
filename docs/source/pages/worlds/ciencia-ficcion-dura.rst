@@ -1576,7 +1576,7 @@ Este es el rango de detección activa y posicionamiento orbital. A esta distanci
 
 .. [#] Ver :ref:`Combate en Rango Estratégico <ciencia-ficcion-dura-combate-rango-estrategico>`.
 
-**Distancia Aproximada**: De 150 Mm a más de 1000 Mm (de 0,5 a 3+ segundos-luz) [#]_.
+**Distancia Aproximada**: De 150 Mm hasta 1000 Mm (de 0,5 a 3+ segundos-luz) [#]_.
 
 .. [#] Estas son distancias similares a los viajes dentro de un sistema planetario (por ejemplo, la distancia de una planeta a su luna). Si necesitas calcular cuanto tardarías en achicar la distancia con el objetivo, o realizar alguna otra maniobra con costos de Δv, puedes utilizar la tabla de :ref:`Viajes dentro de un Sistema Planetario <ciencia-ficcion-dura-viajes-sistema-planetario>`, dado que las distancias están en el mismo órden de magnitud.
 
@@ -1825,12 +1825,880 @@ El daño recibido en las astronaves se representa, al igual que para los persona
 Rendición
 ~~~~~~~~~
 
-TODO
+Lo más probable en la mayoría de los combates de astronaves, es que alguno de los dos contendientes se termine rindiendo antes de ser completamente destruído (dado que no hay demasiadas chances de sobrevivir a una astronave que explota a tu alrededor; nadie quiere arriesgarse a lo que es una muerte casi segura). Para esto, el capitán que decide rendirse suele mandar un mensaje de comunicación por radio en todas las frecuencias, dirigido a su oponente, donde declara su capitulación.
 
-Escapar
-~~~~~~~
+Idealmente, el mensaje de rendición llega al enemigo antes que cualquier armamento que estaba "en viaje" impacte con la astronave derrotada (dependiendo del tipo de armas y la distancia, puede que los atacantes tengan la opción de desactivar misiles en vuelo). 
 
-TODO
+Si el atacante decide honrar la petición de rendición, detendrá la ofensiva y responderá con un mensaje propio donde listará sus demandas. Estas son usualmente la entrega de cargamento, el desarme y preparación para abordaje, la facilitación de captura de los tripulantes, etc. A veces las demandas son más específicas y dependientes del contexto (puede que pidan que abandonen el sector, que intercambien prisioneros, que publiquen un mensaje de disculpas públicas en ciertos canales de difusión, etc.).
+
+La astronave que ha claudicado puede responder el mensaje con una contra-oferta de demandas, negociando los términos de la rendición, o pidiendo que se le restaure algún suministro básico (oxígeno perdido, combustibles, etc), o reparaciones mínimas para la subsistencia (arreglos en los radiadores, propulsores, etc).
+
+Si el atacante acepta, ambos bandos procederán a cumplir su parte del trato (está muy mal visto traicionar al otro en este tipo de situaciones y no suele ser muy beneficioso para el bando perdedor). Si no se llega a un acuerdo, el vencedor puede decidir qué hacer (incluso llegando a la más drástica de las opciones, que es destruir completamente a la astronave vencida).
+
+Escapar y Perseguir
+~~~~~~~~~~~~~~~~~~~
+
+Cuando una astronave quiere escapar de otra en combate, no tiene más que acelerar en dirección opuesta por un tiempo. Si la otra astronave decide no perseguirla, luego de transcurrido el período determinado, la primera logra salir del Rango de Combate en la que se encuentra (si sale del *Rango Estratégico*, ya no está más en peligro; al menos de su enemigo [#]_ ).
+
+.. [#] Si la nave que escapa logra alejarse a más de 1000 Mm de su enemigo (sobrepasando el límite máximo del *Rango Estratégico*), ya no está en peligro porque no hay armamento capaz de atacar con efectividad a tal distancia (o mejor dicho, es tán fácil de contrarrestar que no es una opción viable).
+
+Si la astronave enemiga decide dar persecución para no dejarla escapar, entonces será una carrera, y dependerá de cual de ellas acelere más.
+
+El DJ determina las velocidades relativas de los perseguidores y los perseguidos (preguntándole al capitán de los PJs qué desea hacer, e interpretando la decisión de los PNJs que él controla). A grandes rasgos, la astronave que acelere con más fuerza (medida en **g**) será la que, tarde o temprano, logre su cometido (escapar o alcanzar a la que escapa), la cuestión es saber en cuanto tiempo aproximado ocurrirá eso, y cuanto costo de Δv tiene cada opción.
+
+Las siguientes tablas describen los tiempos y costos en Δv para el que **Persigue** o el que **Escapa**, para los tres diferentes rangos de distancia.
+
+.. admonition:: ¿Cómo se leen las siguientes tablas?
+
+   Para cada Rango de distancia (*Estratégico/Táctico/de Intercepción*) verás una tabla que lista el tiempo total y el costo de Δv requerido. 
+   
+   Los encabezados de las columnas listan las diferentes aceleraciones (en **g**) que puede elegir la astronave que **Escapa**. Los encabezados de las filas listan las diferentes aceleraciones del que **Persigue**.
+
+   Las celdas del lado inferior izquierdo de cada tabla muestran cuanto tardará el que **Persigue** en alcanzar al que **Escapa**, y cuanto Δv extra deberá gastar para lograrlo (el que escapa no gasta extra Δv; se asume que mantiene la aceleración previa).
+
+   Las celdas del lado superior derecho de cada tabla muestran cuanto tardará el que **Escapa** en alejarse del que lo **Persigue**, pasando al siguente Rango de Distancia (o escapando completamente, si sale del *Rango Estratégico*) y cuanto Δv extra deberá gastar para lograrlo (el que persigue no gasta extra Δv; se asume que mantiene la aceleración previa).
+
+   Las celdas de la diagonal central (las combinaciones de la misma aceleración del que **Persigue** y del que **Escapa**) muestran una línea de valor nulo ("–"), dado que si ambos aceleran a las mismas **g**, se mantendrán a la misma distancia y no lograrán ni escapar ni alcanzarse.
+
+.. csv-table:: Tiempos y Costos de Persecución y Escape en Rango Estratégico (~500 Mm)
+   :header: "P ↓ / E →", "0.01g", "0.1g", "0.2g", "0.3g", "0.4g", "0.5g", "1g", "1.5g", "2g", "3g", "5g", "10g"
+
+   "0.01g", "--", "12h 47m
+
+   Δv: 0.30 Mm/s", "8h 57m
+
+   Δv: 0.43 Mm/s", "7h 24m
+
+   Δv: 0.53 Mm/s", "6h 28m
+
+   Δv: 0.62 Mm/s", "5h 50m
+
+   Δv: 0.69 Mm/s", "4h 04m
+
+   Δv: 0.99 Mm/s", "3h 18m
+
+   Δv: 1.21 Mm/s", "2h 52m
+
+   Δv: 1.40 Mm/s", "2h 20m
+
+   Δv: 1.71 Mm/s", "1h 48m
+
+   Δv: 2.21 Mm/s", "1h 16m
+
+   Δv: 3.13 Mm/s"
+      "0.1g", "12h 47m
+
+   Δv: 0.30 Mm/s", "--", "12h 11m
+
+   Δv: 0.31 Mm/s", "8h 37m
+
+   Δv: 0.44 Mm/s", "7h 02m
+
+   Δv: 0.54 Mm/s", "6h 06m
+
+   Δv: 0.63 Mm/s", "4h 06m
+
+   Δv: 0.94 Mm/s", "3h 20m
+
+   Δv: 1.17 Mm/s", "2h 52m
+
+   Δv: 1.36 Mm/s", "2h 20m
+
+   Δv: 1.69 Mm/s", "1h 48m
+
+   Δv: 2.19 Mm/s", "1h 16m
+
+   Δv: 3.12 Mm/s"
+      "0.2g", "8h 57m
+
+   Δv: 0.43 Mm/s", "12h 11m
+
+   Δv: 0.31 Mm/s", "--", "12h 11m
+
+   Δv: 0.31 Mm/s", "8h 37m
+
+   Δv: 0.44 Mm/s", "7h 02m
+
+   Δv: 0.54 Mm/s", "4h 18m
+
+   Δv: 0.89 Mm/s", "3h 26m
+
+   Δv: 1.13 Mm/s", "2h 56m
+
+   Δv: 1.33 Mm/s", "2h 22m
+
+   Δv: 1.66 Mm/s", "1h 49m
+
+   Δv: 2.17 Mm/s", "1h 16m
+
+   Δv: 3.10 Mm/s"
+      "0.3g", "7h 24m
+
+   Δv: 0.53 Mm/s", "8h 37m
+
+   Δv: 0.44 Mm/s", "12h 11m
+
+   Δv: 0.31 Mm/s", "--", "12h 11m
+
+   Δv: 0.31 Mm/s", "8h 37m
+
+   Δv: 0.44 Mm/s", "4h 32m
+
+   Δv: 0.83 Mm/s", "3h 33m
+
+   Δv: 1.09 Mm/s", "3h 01m
+
+   Δv: 1.29 Mm/s", "2h 25m
+
+   Δv: 1.63 Mm/s", "1h 50m
+
+   Δv: 2.15 Mm/s", "1h 17m
+
+   Δv: 3.09 Mm/s"
+      "0.4g", "6h 28m
+
+   Δv: 0.62 Mm/s", "7h 02m
+
+   Δv: 0.54 Mm/s", "8h 37m
+
+   Δv: 0.44 Mm/s", "12h 11m
+
+   Δv: 0.31 Mm/s", "--", "12h 11m
+
+   Δv: 0.31 Mm/s", "4h 51m
+
+   Δv: 0.77 Mm/s", "3h 43m
+
+   Δv: 1.04 Mm/s", "3h 07m
+
+   Δv: 1.25 Mm/s", "2h 28m
+
+   Δv: 1.60 Mm/s", "1h 51m
+
+   Δv: 2.12 Mm/s", "1h 17m
+
+   Δv: 3.07 Mm/s"
+      "0.5g", "5h 50m
+
+   Δv: 0.69 Mm/s", "6h 06m
+
+   Δv: 0.63 Mm/s", "7h 02m
+
+   Δv: 0.54 Mm/s", "8h 37m
+
+   Δv: 0.44 Mm/s", "12h 11m
+
+   Δv: 0.31 Mm/s", "--", "5h 15m
+
+   Δv: 0.70 Mm/s", "3h 54m
+
+   Δv: 0.99 Mm/s", "3h 14m
+
+   Δv: 1.21 Mm/s", "2h 31m
+
+   Δv: 1.57 Mm/s", "1h 52m
+
+   Δv: 2.10 Mm/s", "1h 18m
+
+   Δv: 3.06 Mm/s"
+      "1g", "4h 04m
+
+   Δv: 0.99 Mm/s", "4h 06m
+
+   Δv: 0.94 Mm/s", "4h 18m
+
+   Δv: 0.89 Mm/s", "4h 32m
+
+   Δv: 0.83 Mm/s", "4h 51m
+
+   Δv: 0.77 Mm/s", "5h 15m
+
+   Δv: 0.70 Mm/s", "--", "5h 15m
+
+   Δv: 0.70 Mm/s", "3h 43m
+
+   Δv: 0.99 Mm/s", "2h 47m
+
+   Δv: 1.40 Mm/s", "1h 59m
+
+   Δv: 1.98 Mm/s", "1h 20m
+
+   Δv: 2.98 Mm/s"
+      "1.5g", "3h 18m
+
+   Δv: 1.21 Mm/s", "3h 20m
+
+   Δv: 1.17 Mm/s", "3h 26m
+
+   Δv: 1.13 Mm/s", "3h 33m
+
+   Δv: 1.09 Mm/s", "3h 43m
+
+   Δv: 1.04 Mm/s", "3h 54m
+
+   Δv: 0.99 Mm/s", "5h 15m
+
+   Δv: 0.70 Mm/s", "--", "5h 15m
+
+   Δv: 0.70 Mm/s", "3h 07m
+
+   Δv: 1.21 Mm/s", "2h 07m
+
+   Δv: 1.85 Mm/s", "1h 23m
+
+   Δv: 2.89 Mm/s"
+      "2g", "2h 52m
+
+   Δv: 1.40 Mm/s", "2h 52m
+
+   Δv: 1.36 Mm/s", "2h 56m
+
+   Δv: 1.33 Mm/s", "3h 01m
+
+   Δv: 1.29 Mm/s", "3h 07m
+
+   Δv: 1.25 Mm/s", "3h 14m
+
+   Δv: 1.21 Mm/s", "3h 43m
+
+   Δv: 0.99 Mm/s", "5h 15m
+
+   Δv: 0.70 Mm/s", "--", "3h 43m
+
+   Δv: 0.99 Mm/s", "2h 17m
+
+   Δv: 1.71 Mm/s", "1h 26m
+
+   Δv: 2.81 Mm/s"
+      "3g", "2h 20m
+
+   Δv: 1.71 Mm/s", "2h 20m
+
+   Δv: 1.69 Mm/s", "2h 22m
+
+   Δv: 1.66 Mm/s", "2h 25m
+
+   Δv: 1.63 Mm/s", "2h 28m
+
+   Δv: 1.60 Mm/s", "2h 31m
+
+   Δv: 1.57 Mm/s", "2h 47m
+
+   Δv: 1.40 Mm/s", "3h 07m
+
+   Δv: 1.21 Mm/s", "3h 43m
+
+   Δv: 0.99 Mm/s", "--", "2h 47m
+
+   Δv: 1.40 Mm/s", "1h 32m
+
+   Δv: 2.62 Mm/s"
+      "5g", "1h 48m
+
+   Δv: 2.21 Mm/s", "1h 48m
+
+   Δv: 2.19 Mm/s", "1h 49m
+
+   Δv: 2.17 Mm/s", "1h 50m
+
+   Δv: 2.15 Mm/s", "1h 51m
+
+   Δv: 2.12 Mm/s", "1h 52m
+
+   Δv: 2.10 Mm/s", "1h 59m
+
+   Δv: 1.98 Mm/s", "2h 07m
+
+   Δv: 1.85 Mm/s", "2h 17m
+
+   Δv: 1.71 Mm/s", "2h 47m
+
+   Δv: 1.40 Mm/s", "--", "1h 48m
+
+   Δv: 2.21 Mm/s"
+      "10g", "1h 16m
+
+   Δv: 3.13 Mm/s", "1h 16m
+
+   Δv: 3.12 Mm/s", "1h 16m
+
+   Δv: 3.10 Mm/s", "1h 17m
+
+   Δv: 3.09 Mm/s", "1h 17m
+
+   Δv: 3.07 Mm/s", "1h 18m
+
+   Δv: 3.06 Mm/s", "1h 20m
+
+   Δv: 2.98 Mm/s", "1h 23m
+
+   Δv: 2.89 Mm/s", "1h 26m
+
+   Δv: 2.81 Mm/s", "1h 32m
+
+   Δv: 2.62 Mm/s", "1h 48m
+
+   Δv: 2.21 Mm/s", "--"
+
+.. csv-table:: Tiempos y Costos de Persecución y Escape en Rango Táctico (~100 Mm)
+   :header: "P ↓ / E →", "0.01g", "0.1g", "0.2g", "0.3g", "0.4g", "0.5g", "1g", "1.5g", "2g", "3g", "5g", "10g"
+
+   "0.01g", "--", "17h 10m
+
+   Δv: 0.54 Mm/s", "12h 01m
+
+   Δv: 0.77 Mm/s", "9h 55m
+
+   Δv: 0.94 Mm/s", "8h 40m
+
+   Δv: 1.09 Mm/s", "7h 49m
+
+   Δv: 1.22 Mm/s", "5h 28m
+
+   Δv: 1.74 Mm/s", "4h 27m
+
+   Δv: 2.13 Mm/s", "3h 51m
+
+   Δv: 2.47 Mm/s", "3h 08m
+
+   Δv: 3.04 Mm/s", "2h 25m
+
+   Δv: 3.94 Mm/s", "1h 42m
+
+   Δv: 5.59 Mm/s"
+      "0.1g", "5h 43m
+
+   Δv: 0.13 Mm/s", "--", "16h 21m
+
+   Δv: 0.56 Mm/s", "11h 34m
+
+   Δv: 0.81 Mm/s", "9h 27m
+
+   Δv: 0.99 Mm/s", "8h 12m
+
+   Δv: 1.14 Mm/s", "5h 31m
+
+   Δv: 1.69 Mm/s", "4h 28m
+
+   Δv: 2.09 Mm/s", "3h 52m
+
+   Δv: 2.43 Mm/s", "3h 09m
+
+   Δv: 3.01 Mm/s", "2h 25m
+
+   Δv: 3.92 Mm/s", "1h 42m
+
+   Δv: 5.58 Mm/s"
+      "0.2g", "4h 00m
+
+   Δv: 0.19 Mm/s", "5h 27m
+
+   Δv: 0.14 Mm/s", "--", "16h 21m
+
+   Δv: 0.56 Mm/s", "11h 34m
+
+   Δv: 0.81 Mm/s", "9h 27m
+
+   Δv: 0.99 Mm/s", "5h 47m
+
+   Δv: 1.58 Mm/s", "4h 37m
+
+   Δv: 2.01 Mm/s", "3h 57m
+
+   Δv: 2.37 Mm/s", "3h 11m
+
+   Δv: 2.96 Mm/s", "2h 26m
+
+   Δv: 3.88 Mm/s", "1h 43m
+
+   Δv: 5.55 Mm/s"
+      "0.3g", "3h 18m
+
+   Δv: 0.24 Mm/s", "3h 51m
+
+   Δv: 0.20 Mm/s", "5h 27m
+
+   Δv: 0.14 Mm/s", "--", "16h 21m
+
+   Δv: 0.56 Mm/s", "11h 34m
+
+   Δv: 0.81 Mm/s", "6h 06m
+
+   Δv: 1.47 Mm/s", "4h 46m
+
+   Δv: 1.92 Mm/s", "4h 03m
+
+   Δv: 2.29 Mm/s", "3h 14m
+
+   Δv: 2.90 Mm/s", "2h 27m
+
+   Δv: 3.84 Mm/s", "1h 43m
+
+   Δv: 5.52 Mm/s"
+      "0.4g", "2h 53m
+
+   Δv: 0.28 Mm/s", "3h 09m
+
+   Δv: 0.24 Mm/s", "3h 51m
+
+   Δv: 0.20 Mm/s", "5h 27m
+
+   Δv: 0.14 Mm/s", "--", "16h 21m
+
+   Δv: 0.56 Mm/s", "6h 31m
+
+   Δv: 1.36 Mm/s", "4h 58m
+
+   Δv: 1.84 Mm/s", "4h 11m
+
+   Δv: 2.22 Mm/s", "3h 18m
+
+   Δv: 2.84 Mm/s", "2h 29m
+
+   Δv: 3.80 Mm/s", "1h 43m
+
+   Δv: 5.49 Mm/s"
+      "0.5g", "2h 36m
+
+   Δv: 0.31 Mm/s", "2h 43m
+
+   Δv: 0.28 Mm/s", "3h 09m
+
+   Δv: 0.24 Mm/s", "3h 51m
+
+   Δv: 0.20 Mm/s", "5h 27m
+
+   Δv: 0.14 Mm/s", "--", "7h 02m
+
+   Δv: 1.24 Mm/s", "5h 13m
+
+   Δv: 1.74 Mm/s", "4h 20m
+
+   Δv: 2.14 Mm/s", "3h 22m
+
+   Δv: 2.78 Mm/s", "2h 31m
+
+   Δv: 3.75 Mm/s", "1h 44m
+
+   Δv: 5.46 Mm/s"
+      "1g", "1h 49m
+
+   Δv: 0.44 Mm/s", "1h 50m
+
+   Δv: 0.42 Mm/s", "1h 55m
+
+   Δv: 0.40 Mm/s", "2h 02m
+
+   Δv: 0.37 Mm/s", "2h 10m
+
+   Δv: 0.35 Mm/s", "2h 21m
+
+   Δv: 0.31 Mm/s", "--", "7h 02m
+
+   Δv: 1.24 Mm/s", "5h 13m
+
+   Δv: 1.74 Mm/s", "3h 43m
+
+   Δv: 2.47 Mm/s", "2h 40m
+
+   Δv: 3.52 Mm/s", "1h 46m
+
+   Δv: 5.30 Mm/s"
+      "1.5g", "1h 28m
+
+   Δv: 0.54 Mm/s", "1h 29m
+
+   Δv: 0.52 Mm/s", "1h 32m
+
+   Δv: 0.51 Mm/s", "1h 35m
+
+   Δv: 0.49 Mm/s", "1h 39m
+
+   Δv: 0.47 Mm/s", "1h 45m
+
+   Δv: 0.44 Mm/s", "2h 21m
+
+   Δv: 0.31 Mm/s", "--", "7h 02m
+
+   Δv: 1.24 Mm/s", "4h 11m
+
+   Δv: 2.22 Mm/s", "2h 51m
+
+   Δv: 3.31 Mm/s", "1h 49m
+
+   Δv: 5.15 Mm/s"
+      "2g", "1h 17m
+
+   Δv: 0.63 Mm/s", "1h 17m
+
+   Δv: 0.61 Mm/s", "1h 19m
+
+   Δv: 0.59 Mm/s", "1h 21m
+
+   Δv: 0.58 Mm/s", "1h 24m
+
+   Δv: 0.56 Mm/s", "1h 27m
+
+   Δv: 0.54 Mm/s", "1h 39m
+
+   Δv: 0.44 Mm/s", "2h 21m
+
+   Δv: 0.31 Mm/s", "--", "5h 13m
+
+   Δv: 1.74 Mm/s", "3h 04m
+
+   Δv: 3.08 Mm/s", "1h 52m
+
+   Δv: 5.01 Mm/s"
+      "3g", "1h 02m
+
+   Δv: 0.77 Mm/s", "1h 02m
+
+   Δv: 0.75 Mm/s", "1h 03m
+
+   Δv: 0.74 Mm/s", "1h 04m
+
+   Δv: 0.73 Mm/s", "1h 06m
+
+   Δv: 0.71 Mm/s", "1h 07m
+
+   Δv: 0.70 Mm/s", "1h 15m
+
+   Δv: 0.63 Mm/s", "1h 24m
+
+   Δv: 0.54 Mm/s", "1h 39m
+
+   Δv: 0.44 Mm/s", "--", "3h 43m
+
+   Δv: 2.47 Mm/s", "2h 02m
+
+   Δv: 4.71 Mm/s"
+      "5g", "48 min
+
+   Δv: 0.99 Mm/s", "48 min
+
+   Δv: 0.98 Mm/s", "49 min
+
+   Δv: 0.97 Mm/s", "49 min
+
+   Δv: 0.96 Mm/s", "49 min
+
+   Δv: 0.95 Mm/s", "50 min
+
+   Δv: 0.94 Mm/s", "53 min
+
+   Δv: 0.89 Mm/s", "57 min
+
+   Δv: 0.83 Mm/s", "1h 01m
+
+   Δv: 0.77 Mm/s", "1h 15m
+
+   Δv: 0.63 Mm/s", "--", "2h 25m
+
+   Δv: 3.94 Mm/s"
+      "10g", "34 min
+
+   Δv: 1.40 Mm/s", "34 min
+
+   Δv: 1.39 Mm/s", "34 min
+
+   Δv: 1.39 Mm/s", "34 min
+
+   Δv: 1.38 Mm/s", "34 min
+
+   Δv: 1.37 Mm/s", "35 min
+
+   Δv: 1.37 Mm/s", "36 min
+
+   Δv: 1.33 Mm/s", "37 min
+
+   Δv: 1.29 Mm/s", "38 min
+
+   Δv: 1.25 Mm/s", "41 min
+
+   Δv: 1.17 Mm/s", "48 min
+
+   Δv: 0.99 Mm/s", "--"
+
+.. csv-table:: Tiempos y Costos de Persecución y Escape en Rango de Intercepción (~10 Mm)
+   :header: "P ↓ / E →", "0.01g", "0.1g", "0.2g", "0.3g", "0.4g", "0.5g", "1g", "1.5g", "2g", "3g", "5g", "10g"
+
+   "0.01g", "--", "17h 54m
+
+   Δv: 0.59 Mm/s", "12h 32m
+
+   Δv: 0.84 Mm/s", "10h 21m
+
+   Δv: 1.02 Mm/s", "9h 03m
+
+   Δv: 1.17 Mm/s", "8h 09m
+
+   Δv: 1.30 Mm/s", "5h 42m
+
+   Δv: 1.85 Mm/s", "4h 39m
+
+   Δv: 2.26 Mm/s", "4h 01m
+
+   Δv: 2.61 Mm/s", "3h 16m
+
+   Δv: 3.20 Mm/s", "2h 32m
+
+   Δv: 4.14 Mm/s", "1h 47m
+
+   Δv: 5.86 Mm/s"
+      "0.1g", "1h 48m
+
+   Δv: 0.04 Mm/s", "--", "17h 04m
+
+   Δv: 0.60 Mm/s", "12h 04m
+
+   Δv: 0.85 Mm/s", "9h 52m
+
+   Δv: 1.04 Mm/s", "8h 33m
+
+   Δv: 1.20 Mm/s", "5h 45m
+
+   Δv: 1.79 Mm/s", "4h 40m
+
+   Δv: 2.21 Mm/s", "4h 02m
+
+   Δv: 2.57 Mm/s", "3h 17m
+
+   Δv: 3.17 Mm/s", "2h 32m
+
+   Δv: 4.12 Mm/s", "1h 47m
+
+   Δv: 5.85 Mm/s"
+      "0.2g", "1h 16m
+
+   Δv: 0.06 Mm/s", "1h 43m
+
+   Δv: 0.04 Mm/s", "--", "17h 04m
+
+   Δv: 0.60 Mm/s", "12h 04m
+
+   Δv: 0.85 Mm/s", "9h 52m
+
+   Δv: 1.04 Mm/s", "6h 02m
+
+   Δv: 1.68 Mm/s", "4h 49m
+
+   Δv: 2.13 Mm/s", "4h 07m
+
+   Δv: 2.50 Mm/s", "3h 20m
+
+   Δv: 3.11 Mm/s", "2h 33m
+
+   Δv: 4.07 Mm/s", "1h 47m
+
+   Δv: 5.82 Mm/s"
+      "0.3g", "1h 02m
+
+   Δv: 0.08 Mm/s", "1h 13m
+
+   Δv: 0.06 Mm/s", "1h 43m
+
+   Δv: 0.04 Mm/s", "--", "17h 04m
+
+   Δv: 0.60 Mm/s", "12h 04m
+
+   Δv: 0.85 Mm/s", "6h 22m
+
+   Δv: 1.57 Mm/s", "4h 59m
+
+   Δv: 2.04 Mm/s", "4h 13m
+
+   Δv: 2.42 Mm/s", "3h 23m
+
+   Δv: 3.05 Mm/s", "2h 34m
+
+   Δv: 4.03 Mm/s", "1h 48m
+
+   Δv: 5.79 Mm/s"
+      "0.4g", "54 min
+
+   Δv: 0.09 Mm/s", "59 min
+
+   Δv: 0.08 Mm/s", "1h 13m
+
+   Δv: 0.06 Mm/s", "1h 43m
+
+   Δv: 0.04 Mm/s", "--", "17h 04m
+
+   Δv: 0.60 Mm/s", "12h 04m
+
+   Δv: 0.85 Mm/s", "5h 11m
+
+   Δv: 1.95 Mm/s", "4h 21m
+
+   Δv: 2.34 Mm/s", "3h 26m
+
+   Δv: 2.99 Mm/s", "2h 35m
+
+   Δv: 3.99 Mm/s", "1h 48m
+
+   Δv: 5.76 Mm/s"
+      "0.5g", "49 min
+
+   Δv: 0.10 Mm/s", "51 min
+
+   Δv: 0.09 Mm/s", "59 min
+
+   Δv: 0.08 Mm/s", "1h 13m
+
+   Δv: 0.06 Mm/s", "1h 43m
+
+   Δv: 0.04 Mm/s", "--", "7h 21m
+
+   Δv: 1.33 Mm/s", "5h 26m
+
+   Δv: 1.85 Mm/s", "4h 31m
+
+   Δv: 2.26 Mm/s", "3h 31m
+
+   Δv: 2.92 Mm/s", "2h 37m
+
+   Δv: 3.94 Mm/s", "1h 48m
+
+   Δv: 5.73 Mm/s"
+      "1g", "34 min
+
+   Δv: 0.14 Mm/s", "35 min
+
+   Δv: 0.13 Mm/s", "36 min
+
+   Δv: 0.13 Mm/s", "38 min
+
+   Δv: 0.12 Mm/s", "41 min
+
+   Δv: 0.11 Mm/s", "44 min
+
+   Δv: 0.10 Mm/s", "--", "7h 21m
+
+   Δv: 1.33 Mm/s", "5h 26m
+
+   Δv: 1.85 Mm/s", "3h 52m
+
+   Δv: 2.61 Mm/s", "2h 47m
+
+   Δv: 3.70 Mm/s", "1h 51m
+
+   Δv: 5.56 Mm/s"
+      "1.5g", "28 min
+
+   Δv: 0.17 Mm/s", "28 min
+
+   Δv: 0.17 Mm/s", "29 min
+
+   Δv: 0.16 Mm/s", "30 min
+
+   Δv: 0.15 Mm/s", "31 min
+
+   Δv: 0.15 Mm/s", "33 min
+
+   Δv: 0.14 Mm/s", "44 min
+
+   Δv: 0.10 Mm/s", "--", "7h 21m
+
+   Δv: 1.33 Mm/s", "4h 21m
+
+   Δv: 2.34 Mm/s", "2h 58m
+
+   Δv: 3.48 Mm/s", "1h 54m
+
+   Δv: 5.40 Mm/s"
+      "2g", "24 min
+
+   Δv: 0.20 Mm/s", "24 min
+
+   Δv: 0.19 Mm/s", "25 min
+
+   Δv: 0.19 Mm/s", "25 min
+
+   Δv: 0.18 Mm/s", "26 min
+
+   Δv: 0.18 Mm/s", "27 min
+
+   Δv: 0.17 Mm/s", "31 min
+
+   Δv: 0.14 Mm/s", "44 min
+
+   Δv: 0.10 Mm/s", "--", "5h 26m
+
+   Δv: 1.85 Mm/s", "3h 11m
+
+   Δv: 3.23 Mm/s", "1h 57m
+
+   Δv: 5.25 Mm/s"
+      "3g", "19 min
+
+   Δv: 0.24 Mm/s", "19 min
+
+   Δv: 0.24 Mm/s", "20 min
+
+   Δv: 0.23 Mm/s", "20 min
+
+   Δv: 0.23 Mm/s", "20 min
+
+   Δv: 0.23 Mm/s", "21 min
+
+   Δv: 0.22 Mm/s", "23 min
+
+   Δv: 0.20 Mm/s", "26 min
+
+   Δv: 0.17 Mm/s", "31 min
+
+   Δv: 0.14 Mm/s", "--", "3h 52m
+
+   Δv: 2.61 Mm/s", "2h 07m
+
+   Δv: 4.94 Mm/s"
+      "5g", "15 min
+
+   Δv: 0.31 Mm/s", "15 min
+
+   Δv: 0.31 Mm/s", "15 min
+
+   Δv: 0.31 Mm/s", "15 min
+
+   Δv: 0.30 Mm/s", "15 min
+
+   Δv: 0.30 Mm/s", "15 min
+
+   Δv: 0.30 Mm/s", "16 min
+
+   Δv: 0.28 Mm/s", "18 min
+
+   Δv: 0.26 Mm/s", "19 min
+
+   Δv: 0.24 Mm/s", "23 min
+
+   Δv: 0.20 Mm/s", "--", "2h 32m
+
+   Δv: 4.14 Mm/s"
+      "10g", "10 min
+
+   Δv: 0.44 Mm/s", "10 min
+
+   Δv: 0.44 Mm/s", "10 min
+
+   Δv: 0.44 Mm/s", "10 min
+
+   Δv: 0.44 Mm/s", "10 min
+
+   Δv: 0.43 Mm/s", "11 min
+
+   Δv: 0.43 Mm/s", "11 min
+
+   Δv: 0.42 Mm/s", "11 min
+
+   Δv: 0.41 Mm/s", "12 min
+
+   Δv: 0.40 Mm/s", "13 min
+
+   Δv: 0.37 Mm/s", "15 min
+
+   Δv: 0.31 Mm/s", "--"
 
 Lista de Astronaves Típicas
 ***************************
