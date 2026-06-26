@@ -1716,9 +1716,11 @@ En :ref:`Rango Táctico <ciencia-ficcion-dura-deteccion-rango-tactico>` (a decen
 .. csv-table:: Armamento Óptimo para Combates en Rango Táctico
    :header: "Tipo de Armamento", "Ventajas", "Desventajas", "Mecánicas"
 
-   "Cañones Láser", "Se enfocan por tiempo breve sobre un punto específico del objetivo para derretir sensores y otros módulos superficiales expuestos.", "* No penetran demasiado en el casco de la astronave objetivo.
+   "Cañones Láser", "* Se enfocan por tiempo breve sobre un punto específico del objetivo para derretir sensores y otros módulos superficiales expuestos.
    
-   * Su alto consumo de energía incrementa la temperatura de la astronave.", "**Ataque**: Tira vs Dificultad 6 para afectar cualquier parte del objetivo, o vs Dificultad 8 para impactar en un punto específico.
+   * Si impactan en la astronave enemiga, su temperatura aumenta +3°C instantáneamente.", "* No penetran demasiado en el casco de la astronave objetivo.
+   
+   * Su alto consumo de energía incrementa la temperatura de la astronave atacante en +1°C.", "**Ataque**: Tira vs Dificultad 6 para afectar cualquier parte del objetivo, o vs Dificultad 8 para impactar en un punto específico.
   
    **Defensa**: Tira vs Dificultad 10 para evadir el láser."
    "Cañones de Riel (*Railguns*)", "Dispara proyectiles a hipervelocidad, que perfora todo a su paso.", "* El tamaño del proyectil es pequeño, por lo que si no impacta en un módulo importante del objetivo, la traspasará de lado a lado, solo causando dos perforaciones pequeñas en la astronave.
@@ -1738,7 +1740,7 @@ Si bien el armamento utilizado a estos rangos golpea al objetivo de forma casi i
 .. _ciencia-ficcion-dura-combate-rango-intercepcion:
 
 Combate en Rango de Intercepción
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. video:: /_static/images/worlds/ciencia-ficcion-dura/vid-3.mp4
    :autoplay:
@@ -2737,17 +2739,174 @@ Las siguientes tablas describen los tiempos y costos en Δv para el que **Persig
 Lista de Astronaves Típicas
 ***************************
 
-TODO
+A continuación se listan tipos de astronaves para distintos usos y propósitos que son frecuentes en el espacio del Sistema Solar.
 
-Carguero liviano/mediano/pesado
-Transporte liviano/pesado
+Carguero Liviano
+~~~~~~~~~~~~~~~~
+* **Tipo de Motor y Combustible:** Térmico Nuclear de ciclo cerrado (Combustible: Agua / Hielo de asteroides).
+* **Aceleración Máxima:** 0.4g.
+* **Máximo Δv:** 1.50 Mm/s.
+* **Dimensiones:** 60 m de largo × 12 m de diámetro.
+* **Capacidad de Carga:** 2.500 toneladas.
+* **Volumen y Compartimentos:** 6.000 m³ / 3 compartimentos estancos principales.
+* **Autonomía de Soporte Vital:** 60 días (para 3 tripulantes).
+* **Armamento / Sistemas:** Ninguno de fábrica; matrices de sensores comerciales estándar.
+
+Carguero Mediano
+~~~~~~~~~~~~~~~~
+* **Tipo de Motor y Combustible:** Fusión de Confinamiento Inercial / *ICF* (Combustible: Deuterio-₃He).
+* **Aceleración Máxima:** 0.2g.
+* **Máximo Δv:** 2.50 Mm/s.
+* **Dimensiones:** 180 m de largo × 35 m de diámetro.
+* **Capacidad de Carga:** 80.000 toneladas.
+* **Volumen y Compartimentos:** 150.000 m³ / 6 compartimentos estancos (incluye sección rotatoria).
+* **Autonomía de Soporte Vital:** 180 días (para 15 tripulantes).
+* **Armamento / Sistemas:** Láseres de defensa pasiva contra micrometeoritos.
+
+Carguero Pesado
+~~~~~~~~~~~~~~~
+* **Tipo de Motor y Combustible:** Propulsión de Iones Magnetoplasmadinámica / *MPD* (Combustible: Argón).
+* **Aceleración Máxima:** 0.01g.
+* **Máximo Δv:** 5.00 Mm/s.
+* **Dimensiones:** 1.200 m de largo × 150 m de diámetro.
+* **Capacidad de Carga:** 4.000.000 toneladas.
+* **Volumen y Compartimentos:** 18.000.000 m³ / 20 megacompartimentos estancos aislados.
+* **Autonomía de Soporte Vital:** 730 días (para 40 tripulantes).
+* **Armamento / Sistemas:** Ninguno; depende de escolta militar/seguridad privada.
+
+Transporte Liviano
+~~~~~~~~~~~~~~~~~~
+* **Tipo de Motor y Combustible:** Antorcha de Fusión de ciclo abierto / *Gas Core* (Combustible: Deuterio y Metano líquido).
+* **Aceleración Máxima:** 1.0g.
+* **Máximo Δv:** 0.80 Mm/s.
+* **Dimensiones:** 30 m de largo × 6 m de diámetro.
+* **Capacidad de Carga:** 50 toneladas (solo equipaje y suministros).
+* **Volumen y Compartimentos:** 800 m³ / 2 compartimentos estancos.
+* **Autonomía de Soporte Vital:** 14 días (para 2 tripulantes y 12 pasajeros).
+* **Armamento / Sistemas:** Eyectores de chaff térmico y señuelos electrónicos.
+
+Transporte Pesado
+~~~~~~~~~~~~~~~~~
+* **Tipo de Motor y Combustible:** Reactor de Fusión de Confinamiento Magnético Continuo (Combustible: Deuterio-Tritio).
+* **Aceleración Máxima:** 0.3g.
+* **Máximo Δv:** 3.00 Mm/s.
+* **Dimensiones:** 450 m de largo × 80 m de diámetro (Anillos rotatorios masivos).
+* **Capacidad de Carga:** 15.000 toneladas.
+* **Volumen y Compartimentos:** 2.000.000 m³ / 12 sectores estancos residenciales.
+* **Autonomía de Soporte Vital:** 365 días (para 50 tripulantes y 1.200 pasajeros).
+* **Armamento / Sistemas:** Cañones láser de punto para defensa.
+
 Corbeta
+~~~~~~~
+* **Tipo de Motor y Combustible:** Antorcha de Fusión Militar de Inyección Forzada (Combustible: Deuterio-₃He purificado).
+* **Aceleración Máxima:** 2.0g.
+* **Máximo Δv:** 1.20 Mm/s.
+* **Dimensiones:** 45 m de largo × 8 m de diámetro.
+* **Capacidad de Carga:** 10 toneladas.
+* **Volumen y Compartimentos:** 350 m³ / 3 compartimentos estancos (Puente, Pañol, Ingeniería).
+* **Autonomía de Soporte Vital:** 14 días (para 6 tripulantes).
+* **Armamento / Sistemas:** 2 Cañones Gauss frontales fijos, 1 rack de misiles cinéticos ligeros.
+
 Merodeador
+~~~~~~~~~~
+* **Tipo de Motor y Combustible:** Propulsión Química de Hidrógeno/Oxígeno y Gas Frío para maniobra sigilosa (Combustible: H2/O2 e Hidrógeno gaseoso).
+* **Aceleración Máxima:** 0.5g.
+* **Máximo Δv:** 1.00 Mm/s.
+* **Dimensiones:** 35 m de largo × 7 m de diámetro.
+* **Capacidad de Carga:** 15 toneladas (espacio optimizado para botín o asalto).
+* **Volumen y Compartimentos:** 400 m³ / 2 compartimentos estancos.
+* **Autonomía de Soporte Vital:** 30 días (para 4 tripulantes).
+* **Armamento / Sistemas:** 1 Cañón Láser oculto de baja firma, ganchos de abordaje *mag-lock*.
+
 Fragata
+~~~~~~~
+* **Tipo de Motor y Combustible:** Antorcha de Fusión de Alta Densidad (Combustible: Deuterio-₃He).
+* **Aceleración Máxima:** 1.5g.
+* **Máximo Δv:** 1.80 Mm/s.
+* **Dimensiones:** 90 m de largo × 16 m de diámetro.
+* **Capacidad de Carga:** 200 toneladas.
+* **Volumen y Compartimentos:** 16.000 m³ / 5 compartimentos estancos tácticos.
+* **Autonomía de Soporte Vital:** 90 días (para 25 tripulantes).
+* **Armamento / Sistemas:** 4 Baterías de *CDPs* (Cañones de Defensa de Punto), 2 lanzadores de misiles teleguiados.
+
 Destructor
+~~~~~~~~~~
+* **Tipo de Motor y Combustible:** Reactor de Fusión Doble con inyectores de masa pesada (Combustible: Deuterio-Tritio y Agua como masa de reacción).
+* **Aceleración Máxima:** 1.5g.
+* **Máximo Δv:** 2.00 Mm/s.
+* **Dimensiones:** 110 m de largo × 20 m de diámetro.
+* **Capacidad de Carga:** 150 toneladas.
+* **Volumen y Compartimentos:** 30.000 m³ / 5 compartimentos estancos tácticos.
+* **Autonomía de Soporte Vital:** 90 días (para 35 tripulantes).
+* **Armamento / Sistemas:** 2 Cañones de Riel (*Railguns*) medianos torretados, 4 tubos de misiles cinéticos.
+
 Crucero
+~~~~~~~
+* **Tipo de Motor y Combustible:** Motor de Fusión de Espejo Magnético en Tándem / Flujo Continuo (Combustible: Deuterio-₃He inyectado a alta presión).
+* **Aceleración Máxima:** 1.0g.
+* **Máximo Δv:** 3.50 Mm/s.
+* **Dimensiones:** 280 m de largo × 45 m de diámetro.
+* **Capacidad de Carga:** 3.000 toneladas.
+* **Volumen y Compartimentos:** 400.000 m³ / 8 compartimentos estancos independientes.
+* **Autonomía de Soporte Vital:** 240 días (para 120 tripulantes).
+* **Armamento / Sistemas:** 1 Cañón de Riel Espinal Pesado, 4 Cañones Láser de asedio, red defensiva integrada de 4 *CDPs*.
+
 Acorazado
+~~~~~~~~~
+* **Tipo de Motor y Combustible:** Motor de Pulso Nuclear de Confinamiento Magnético (Combustible: Micro-ojivas de fusión pura y Agua como masa de amortiguación).
+* **Aceleración Máxima:** 0.5g.
+* **Máximo Δv:** 4.00 Mm/s.
+* **Dimensiones:** 550 m de largo × 90 m de diámetro.
+* **Capacidad de Carga:** 10.000 toneladas.
+* **Volumen y Compartimentos:** 3.000.000 m³ / 15 megacompartimentos estancos acorazados.
+* **Autonomía de Soporte Vital:** 365 días (para 300 tripulantes).
+* **Armamento / Sistemas:** 2 Cañones de Riel Espinales Ultra-pesados, 2 baterías de ojivas de fragmentación nuclear, cortina defensiva de 6 *CDPs*.
+
 Portanaves
+~~~~~~~~~~
+* **Tipo de Motor y Combustible:** Reactor de Fusión Optimizado para Transferencia Térmica / *ICF* Magnético (Combustible: Deuterio-₃He).
+* **Aceleración Máxima:** 0.3g.
+* **Máximo Δv:** 3.80 Mm/s.
+* **Dimensiones:** 350 m de largo × 60 m de diámetro.
+* **Capacidad de Carga:** 8.000 toneladas (dedicadas a hangares de drones).
+* **Volumen y Compartimentos:** 950.000 m³ / 6 compartimentos estancos de operaciones.
+* **Autonomía de Soporte Vital:** 180 días (para 50 tripulantes de sistemas).
+* **Armamento / Sistemas:** 1 Cañón de Riel Espinal Pesado, 2 Cañones Láser, red defensiva de 4 *CDPs*.
+
+Módulos de Astronaves
+*********************
+
+Estos son módulos opcionales que algunas facciones, organizaciones militares o tripulaciones civiles pueden decidir instalar en sus astronaves para modificar su comportamiento o funcionamiento [#]_.
+
+.. [#] la mayoría de estos módulos pueden instalarse múltiples veces para agregar redundancia, ganar mejoras acumulativas, o tener más capacidad de munición; a discresión del DJ.
+
+.. csv-table:: Módulos de Astronaves
+   :header: "Módulo", "Tipo", "Descripción", "Efecto", "Otros"
+   :widths: 20, 15, 30, 20, 15
+
+   "Tanques de Masa de Reacción Auxiliares", "Logística / Combustible", "Contenedores de almacenamiento criogénico eyectables o adosados al chasis exterior.", "Incrementa el Máximo Δv en +0.50 Mm/s.", "Reduce la Aceleración Máxima en un nivel (ej. de 1.5g a 1g). Consume 500 toneladas de carga."
+   "Armazón de Anclaje de Carga Externo", "Logística / Estructura", "Marcos de titanio y nodos magnéticos expuestos instalados a lo largo del chasis para acoplar contenedores extra.", "Incrementa la Capacidad de Carga base en un +50%.", "Reducción permanente de la Aceleración Máxima en un nivel (ej. de 1.0g a 0.5g) cuando va cargado."
+   "Placas de Blindaje de Material Compuesto", "Defensa Pasiva", "Capas adicionales de aerogel, cerámicas y aleaciones de titanio espaciadas (*Whipple Shielding*).", "Reduce en un nivel la Consecuencia del primer impacto que cause daño en el casco, una vez por escena.", "Reduce la Capacidad de Carga total en un 10%."
+   "Inyectores de Postcombustión Química", "Propulsión / Emergencia", "Sistema de sobrealimentación que inyecta O2/H2 directo en la campana de escape del motor.", "Aumenta temporalmente la Aceleración Máxima en +2g durante una maniobra.", "Cada uso cuesta instantáneamente 0.10 Mm/s de Δv."
+   "Silo de Compuertas Neumáticas Redundantes", "Supervivencia", "Refuerzo estructural interno mediante mamparos automatizados y espuma expansiva de sellado rápido.", "Añade +1 Compartimento Estanco a la nave.", "Reduce el Volumen Habitable utilizable en 50 m³."
+   "Matrices de Reciclaje *ECLSS* Avanzado", "Soporte Vital", "Procesadores biológicos con cultivos de algas y purificadores de carbono de grado militar.", "Duplica la Autonomía de Soporte Vital de la nave.", "Instalación fija. No reduce carga, pero consume energía del reactor."
+   "Bahía de Carga Oculta", "Utilidad / Operaciones", "Modificación de pasillos y deflectores térmicos para camuflar un espacio como maquinaria o tanques.", "Oculta hasta 5 toneladas de carga de los escaneos de sensores estándar.", "Reduce el Volumen Habitable o la Carga real en el doble del espacio oculto."
+   "Tobera Magnética de Alta Geometría", "Propulsión / Núcleo", "Bobinas superconductoras y actuadores magnéticos avanzados que optimizan el chorro de escape del reactor.", "Incrementa permanentemente la Aceleración Máxima en +1 nivel (ej. de 1.0g a 1.5g).", "Reduce la Capacidad de Carga total en un 20% debido al espacio del soporte estructural."
+   "Paneles Radiadores Desplegables Extra", "Gestión Térmica", "Estructuras de grafito extendidas mediante brazos mecánicos que aumentan el área de disipación de la nave.", "Incrementa la disipación pasiva reduciendo -1°C extra por minuto.", "Reduce el Máximo Δv en -0.05 Mm/s."
+   "Radiador de Gotas Líquidas (*LDR*)", "Gestión Térmica", "Emisor magnético que expulsa una cortina de metal líquido al vacío para enfriar el reactor sin usar paneles sólidos.", "Reduce pasivamente la acumulación de calor residual en un 50% por turno/escena.", "Inutilizable si la nave realiza maniobras de evasión violentas (Aceleración > 1g)."
+   "Eyector de Disipadores Térmicos", "Gestión Térmica", "Un sistema de rieles automatizado que alimenta y eyecta los bloques de metal de alta transferencia calórica.", "Permite eyectar un Disipador Térmico (recuperando -20°C de golpe).", "Almacena 4 Disipadores de 1 tonelada."
+   "Eyector de Disipadores Térmicos Avanzado", "Gestión Térmica", "Un sistema de rieles automatizado que alimenta y eyecta los bloques de metal de alta transferencia calórica.", "Permite eyectar dos Disipadores Térmicos en un mismo turno (recuperando -40°C de golpe).", "Almacena 8 Disipadores de 1 tonelada."
+   "Bastidor de Misiles Convencionales", "Armamento Ofensivo", "Lanzadores neumáticos externos para misiles cinéticos de trayectoria balística estándar.", "Permite atacar a naves enemigas con daño cinético.", "Reduce la Capacidad de Carga en 20 toneladas por cada rack (por el peso de los misiles). Incluye un rack de 4 misiles."
+   "Matriz de Misiles Teleguiados", "Armamento Ofensivo", "Tubos de lanzamiento con enlace de datos térmico y computación de guiado predictivo de trayectoria.", "Mejora la probabilidad de impactos precisos incluso contra objetivos con alta evasión.", "Reduce la Capacidad de Carga en 35 toneladas y consume 50 m³ de Volumen Habitable para los sistemas de guiado. Incluye un rack de 4 misiles."
+   "Batería de Cañones Láser", "Armamento Ofensivo", "Emisores de energía concentrada de alta frecuencia diseñados para derretir el blindaje exterior.", "Impacto térmico instantáneo; aumenta drásticamente la temperatura del enemigo.", "Reducción permanente de -0.15 Mm/s del Δv Máximo por el consumo de energía del reactor."
+   "Cañón de Riel (*Railgun*)", "Armamento Ofensivo", "Acelerador electromagnético lineal que dispara proyectiles de tungsteno a velocidades hipersónicas.", "Causa daño cinético Severo y masivo. Capaz de perforar blindajes pesados.", "Reduce la Capacidad de Carga en 50 toneladas (munición/condensadores) y se debe dejar enfriar por 10 minutos luego de cada disparo."
+   "Torreta CDP Automatizada", "Armamento Defensivo", "Cañón rotatorio de alta cadencia (*Gatling*) vinculado a un radar local de interceptación.", "Destruye automáticamente misiles, torpedos o drones enemigos.", "Consume 5 toneladas de la Capacidad de Carga para el tambor de munición. Incluye munición para 10 ráfagas."
+   "Banco de Cañones Gauss (*Coilguns*)", "Armamento Ofensivo", "Armas electromagnéticas de bobina escalonada, más ligeras que un Railgun pero de menor velocidad.", "Fuego de apoyo rápido y confiable con un costo energético moderado.", "Reduce la Capacidad de Carga en 15 toneladas (para los proyectiles cargados). Incluye munición para 10 ráfagas."
+   "Lanzador de Ojivas Nucleares", "Armamento Estratégico", "Silo reforzado para el despliegue de misiles con cargas de fragmentación o pulso termonuclear.", "Daño catastrófico y crítico. Capaz de deshabilitar flotas enteras.", "Reduce 25% la Capacidad de Carga debido al blindaje de radiación del pañol y los protocolos de seguridad. Incluye 1 solo misil con ojiva nuclear."
+   "Eyectores de Chaff Térmico", "Utilidad / Defensivo", "Lanzadores neumáticos que despliegan nubes de partículas calientes y metralla reflectante.", "Confunde temporalmente los sensores infrarrojos y los sistemas de guiado de misiles enemigos (+3 a la Dificultad contra ataques de misiles teleguiados).", "Cada cartucho de chaff de repuesto pesa 1 tonelada métrica. Incluye 6 cartuchos."
+   "Sistemas de Señuelos Electrónicos", "Utilidad / Operaciones", "Transmisores de radio de alta potencia que emiten firmas térmicas e interfercia falsas al vacío.", "Permite crear 'fantasmas' en el radar enemigo para ofuscar la posición real de la astronave (+1 a la Dificultad para atacarla).", "Reducción permanente de -0.05 Mm/s del Δv Máximo por el consumo energético de las antenas."
+   "Ganchos de Abordaje *Mag-Lock*", "Utilidad / Asalto", "Arpeos de anclaje de alta resistencia propulsados por gas comprimido con electroimanes en la punta.", "Permite fijar físicamente la nave a otra estructura, asteroide o nave enemiga para iniciar un abordaje.", "Consume 10 toneladas de Capacidad de Carga por los cabrestantes y cables de acero trenzado."
+   "Dron de Reparación Automatizado", "Utilidad / Supervivencia", "Un pequeño vehículo robótico externo acoplado al casco que realiza soldaduras al vacío.", "Permite reparar daños Leves en el casco o sistemas en pleno viaje sin que la tripulación deba salir al vacío.", "Ocupa un compartimento estanco completo de la nave para la bahía de mantenimiento del dron."
 
 El Sistema Solar
 ----------------
