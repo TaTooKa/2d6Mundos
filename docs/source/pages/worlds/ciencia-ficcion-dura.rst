@@ -2743,6 +2743,9 @@ A continuación se listan tipos de astronaves para distintos usos y propósitos 
 
 Carguero Liviano
 ~~~~~~~~~~~~~~~~
+
+El caballo de batalla del comercio orbital a pequeña escala y trayectos cortos. Su estructura modular sacrifica blindaje y habitabilidad para maximizar el espacio de contenedores acoplados alrededor de su reactor nuclear térmico.
+
 * **Tipo de Motor y Combustible:** Térmico Nuclear de ciclo cerrado (Combustible: Agua / Hielo de asteroides).
 * **Aceleración Máxima:** 0.4g.
 * **Máximo Δv:** 1.50 Mm/s.
@@ -2754,6 +2757,9 @@ Carguero Liviano
 
 Carguero Mediano
 ~~~~~~~~~~~~~~~~
+
+La columna vertebral logística que conecta el *Cinturón de Asteroides* con los planetas interiores. Está diseñado como un armazón masivo de vigas y tanques criogénicos que arrastra toneladas de recursos a aceleraciones lentas pero constantes.
+
 * **Tipo de Motor y Combustible:** Fusión de Confinamiento Inercial / *ICF* (Combustible: Deuterio-₃He).
 * **Aceleración Máxima:** 0.2g.
 * **Máximo Δv:** 2.50 Mm/s.
@@ -2765,6 +2771,9 @@ Carguero Mediano
 
 Carguero Pesado
 ~~~~~~~~~~~~~~~
+
+Una superestructura monstruosa de más de un kilómetro de largo que se desplaza impulsada por motores iónicos ultraeficientes. Debido a su nula capacidad de maniobra y su incalculable valor económico, es raro verlo sin una escolta militar o de seguridad privada asignada.
+
 * **Tipo de Motor y Combustible:** Propulsión de Iones Magnetoplasmadinámica / *MPD* (Combustible: Argón).
 * **Aceleración Máxima:** 0.01g.
 * **Máximo Δv:** 5.00 Mm/s.
@@ -2776,6 +2785,9 @@ Carguero Pesado
 
 Transporte Liviano
 ~~~~~~~~~~~~~~~~~~
+
+Un transbordador rápido y estilizado optimizado para el traslado de personal corporativo, tripulaciones de relevo y suministros críticos de alta prioridad. Su potente motor de fusión le permite realizar transferencias orbitales directas en tiempos muy reducidos.
+
 * **Tipo de Motor y Combustible:** Antorcha de Fusión de ciclo abierto / *Gas Core* (Combustible: Deuterio y Metano líquido).
 * **Aceleración Máxima:** 1.0g.
 * **Máximo Δv:** 0.80 Mm/s.
@@ -2787,6 +2799,9 @@ Transporte Liviano
 
 Transporte Pesado
 ~~~~~~~~~~~~~~~~~
+
+Una enorme ciudad flotante diseñada para trayectos interplanetarios de larga duración que cuenta con imponentes anillos rotatorios para generar gravedad artificial. Transporta a miles de colonos junto con todo el soporte vital necesario para sostenerlos durante meses en el vacío.
+
 * **Tipo de Motor y Combustible:** Reactor de Fusión de Confinamiento Magnético Continuo (Combustible: Deuterio-Tritio).
 * **Aceleración Máxima:** 0.3g.
 * **Máximo Δv:** 3.00 Mm/s.
@@ -2798,6 +2813,9 @@ Transporte Pesado
 
 Corbeta
 ~~~~~~~
+
+La nave de combate más pequeña, ágil y común de las fuerzas militares operacionales. Es básicamente un potente motor de fusión militar acoplado a un chasis reforzado de intercepción, armado con cañones frontales fijos para ataques rápidos de asalto.
+
 * **Tipo de Motor y Combustible:** Antorcha de Fusión Militar de Inyección Forzada (Combustible: Deuterio-₃He purificado).
 * **Aceleración Máxima:** 2.0g.
 * **Máximo Δv:** 1.20 Mm/s.
@@ -2809,6 +2827,9 @@ Corbeta
 
 Merodeador
 ~~~~~~~~~~
+
+Un diseño modificado que prioriza el sigilo pasivo mediante el ocultamiento de firmas térmicas y el uso de propulsión por gas frío. Está optimizado para operaciones encubiertas, emboscadas y el asalto físico a otras estructuras en la oscuridad del espacio.
+
 * **Tipo de Motor y Combustible:** Propulsión Química de Hidrógeno/Oxígeno y Gas Frío para maniobra sigilosa (Combustible: H2/O2 e Hidrógeno gaseoso).
 * **Aceleración Máxima:** 0.5g.
 * **Máximo Δv:** 1.00 Mm/s.
@@ -2816,10 +2837,13 @@ Merodeador
 * **Capacidad de Carga:** 15 toneladas (espacio optimizado para botín o asalto).
 * **Volumen y Compartimentos:** 400 m³ / 2 compartimentos estancos.
 * **Autonomía de Soporte Vital:** 30 días (para 4 tripulantes).
-* **Armamento / Sistemas:** 1 Cañón Láser oculto de baja firma, ganchos de abordaje *mag-lock*.
+* **Armamento / Sistemas:** 1 Cañón Láser oculto de baja firma, ganchos de abordaje *mag-lock*, señuelos electrónicos.
 
 Fragata
 ~~~~~~~
+
+Una plataforma militar de tamaño medio orientada principalmente a la defensa activa y la escolta de flotas. Su superficie está erizada de baterías defensivas automatizadas diseñadas para tejer una cortina de fuego interceptora contra misiles y torpedos enemigos.
+
 * **Tipo de Motor y Combustible:** Antorcha de Fusión de Alta Densidad (Combustible: Deuterio-₃He).
 * **Aceleración Máxima:** 1.5g.
 * **Máximo Δv:** 1.80 Mm/s.
@@ -2831,6 +2855,9 @@ Fragata
 
 Destructor
 ~~~~~~~~~~
+
+Una letal nave de línea concebida para la caza activa de embarcaciones enemigas de tamaño medio y pequeño. Sacrifica espacio de carga y comodidades para albergar pesados cañones de riel torretados y un pañol masivo cargado de misiles cinéticos.
+
 * **Tipo de Motor y Combustible:** Reactor de Fusión Doble con inyectores de masa pesada (Combustible: Deuterio-Tritio y Agua como masa de reacción).
 * **Aceleración Máxima:** 1.5g.
 * **Máximo Δv:** 2.00 Mm/s.
@@ -2842,6 +2869,9 @@ Destructor
 
 Crucero
 ~~~~~~~
+
+Una imponente nave capital con gran autonomía operativa, capaz de realizar patrullas independientes de largo alcance por todo el Sistema Solar. Su pieza central es un devastador cañón de riel espinal que recorre todo el largo de su estructura.
+
 * **Tipo de Motor y Combustible:** Motor de Fusión de Espejo Magnético en Tándem / Flujo Continuo (Combustible: Deuterio-₃He inyectado a alta presión).
 * **Aceleración Máxima:** 1.0g.
 * **Máximo Δv:** 3.50 Mm/s.
@@ -2853,6 +2883,9 @@ Crucero
 
 Acorazado
 ~~~~~~~~~
+
+La cúspide del poder militar interplanetario y una fortaleza móvil fuertemente acorazada. Avanza detonando micro-bombas nucleares en su plato de empuje magnético y es capaz de someter guarniciones planetarias enteras con su armamento estratégico y nuclear.
+
 * **Tipo de Motor y Combustible:** Motor de Pulso Nuclear de Confinamiento Magnético (Combustible: Micro-ojivas de fusión pura y Agua como masa de amortiguación).
 * **Aceleración Máxima:** 0.5g.
 * **Máximo Δv:** 4.00 Mm/s.
@@ -2864,14 +2897,17 @@ Acorazado
 
 Portanaves
 ~~~~~~~~~~
+
+Un centro de comando táctico flotante que opera desde la retaguardia de los teatros de operaciones. En lugar de armas de fuego directo, transporta, despliega y coordina otras astronaves desde sus amplios hangares y múltiples puntos de anclaje.
+
 * **Tipo de Motor y Combustible:** Reactor de Fusión Optimizado para Transferencia Térmica / *ICF* Magnético (Combustible: Deuterio-₃He).
 * **Aceleración Máxima:** 0.3g.
 * **Máximo Δv:** 3.80 Mm/s.
-* **Dimensiones:** 350 m de largo × 60 m de diámetro.
-* **Capacidad de Carga:** 8.000 toneladas (dedicadas a hangares de drones).
+* **Dimensiones:** 850 m de largo × 120 m de diámetro.
+* **Capacidad de Carga:** 8.000 toneladas (dedicadas a hangares de astronaves y sus suministros).
 * **Volumen y Compartimentos:** 950.000 m³ / 6 compartimentos estancos de operaciones.
 * **Autonomía de Soporte Vital:** 180 días (para 50 tripulantes de sistemas).
-* **Armamento / Sistemas:** 1 Cañón de Riel Espinal Pesado, 2 Cañones Láser, red defensiva de 4 *CDPs*.
+* **Armamento / Sistemas:** 2 Cañones Láser, red defensiva de 4 *CDPs*.
 
 Módulos de Astronaves
 *********************
