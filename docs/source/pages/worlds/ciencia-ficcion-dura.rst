@@ -2904,9 +2904,9 @@ Un centro de comando táctico flotante que opera desde la retaguardia de los tea
 * **Aceleración Máxima:** 0.3g.
 * **Máximo Δv:** 3.80 Mm/s.
 * **Dimensiones:** 850 m de largo × 120 m de diámetro.
-* **Capacidad de Carga:** 8.000 toneladas (dedicadas a hangares de astronaves y sus suministros).
-* **Volumen y Compartimentos:** 950.000 m³ / 6 compartimentos estancos de operaciones.
-* **Autonomía de Soporte Vital:** 180 días (para 50 tripulantes de sistemas).
+* **Capacidad de Carga:** 15.000 toneladas (dedicadas a hangares de astronaves y sus suministros).
+* **Volumen y Compartimentos:** 5.000.000 m³ / 6 compartimentos estancos de operaciones.
+* **Autonomía de Soporte Vital:** 365 días (para 400 tripulantes).
 * **Armamento / Sistemas:** 2 Cañones Láser, red defensiva de 4 *CDPs*.
 
 Módulos de Astronaves
