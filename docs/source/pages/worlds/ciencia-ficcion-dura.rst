@@ -2744,6 +2744,8 @@ A continuación se listan tipos de astronaves para distintos usos y propósitos 
 Carguero Liviano
 ~~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/carguero-liviano.jpg
+
 El caballo de batalla del comercio orbital a pequeña escala y trayectos cortos. Su estructura modular sacrifica blindaje y habitabilidad para maximizar el espacio de contenedores acoplados alrededor de su reactor nuclear térmico.
 
 * **Tipo de Motor y Combustible:** Térmico Nuclear de ciclo cerrado (Combustible: Agua / Hielo de asteroides).
@@ -2757,6 +2759,8 @@ El caballo de batalla del comercio orbital a pequeña escala y trayectos cortos.
 
 Carguero Mediano
 ~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/carguero-mediano.jpg
 
 La columna vertebral logística que conecta el *Cinturón de Asteroides* con los planetas interiores. Está diseñado como un armazón masivo de vigas y tanques criogénicos que arrastra toneladas de recursos a aceleraciones lentas pero constantes.
 
@@ -2772,6 +2776,8 @@ La columna vertebral logística que conecta el *Cinturón de Asteroides* con los
 Carguero Pesado
 ~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/carguero-pesado.jpg
+
 Una superestructura monstruosa de más de un kilómetro de largo que se desplaza impulsada por motores iónicos ultraeficientes. Debido a su nula capacidad de maniobra y su incalculable valor económico, es raro verlo sin una escolta militar o de seguridad privada asignada.
 
 * **Tipo de Motor y Combustible:** Propulsión de Iones Magnetoplasmadinámica / *MPD* (Combustible: Argón).
@@ -2785,6 +2791,8 @@ Una superestructura monstruosa de más de un kilómetro de largo que se desplaza
 
 Transporte Liviano
 ~~~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/transporte-liviano.jpg
 
 Un transbordador rápido y estilizado optimizado para el traslado de personal corporativo, tripulaciones de relevo y suministros críticos de alta prioridad. Su potente motor de fusión le permite realizar transferencias orbitales directas en tiempos muy reducidos.
 
@@ -2800,6 +2808,8 @@ Un transbordador rápido y estilizado optimizado para el traslado de personal co
 Transporte Pesado
 ~~~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/transporte-pesado.jpg
+
 Una enorme ciudad flotante diseñada para trayectos interplanetarios de larga duración que cuenta con imponentes anillos rotatorios para generar gravedad artificial. Transporta a miles de colonos junto con todo el soporte vital necesario para sostenerlos durante meses en el vacío.
 
 * **Tipo de Motor y Combustible:** Reactor de Fusión de Confinamiento Magnético Continuo (Combustible: Deuterio-Tritio).
@@ -2813,6 +2823,8 @@ Una enorme ciudad flotante diseñada para trayectos interplanetarios de larga du
 
 Corbeta
 ~~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/corbeta.jpg
 
 La nave de combate más pequeña, ágil y común de las fuerzas militares operacionales. Es básicamente un potente motor de fusión militar acoplado a un chasis reforzado de intercepción, armado con cañones frontales fijos para ataques rápidos de asalto.
 
@@ -2828,6 +2840,8 @@ La nave de combate más pequeña, ágil y común de las fuerzas militares operac
 Merodeador
 ~~~~~~~~~~
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/merodeador.jpg
+
 Un diseño modificado que prioriza el sigilo pasivo mediante el ocultamiento de firmas térmicas y el uso de propulsión por gas frío. Está optimizado para operaciones encubiertas, emboscadas y el asalto físico a otras estructuras en la oscuridad del espacio.
 
 * **Tipo de Motor y Combustible:** Propulsión Química de Hidrógeno/Oxígeno y Gas Frío para maniobra sigilosa (Combustible: H2/O2 e Hidrógeno gaseoso).
@@ -2841,6 +2855,8 @@ Un diseño modificado que prioriza el sigilo pasivo mediante el ocultamiento de 
 
 Fragata
 ~~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/fragata.jpg
 
 Una plataforma militar de tamaño medio orientada principalmente a la defensa activa y la escolta de flotas. Su superficie está erizada de baterías defensivas automatizadas diseñadas para tejer una cortina de fuego interceptora contra misiles y torpedos enemigos.
 
@@ -2856,6 +2872,8 @@ Una plataforma militar de tamaño medio orientada principalmente a la defensa ac
 Destructor
 ~~~~~~~~~~
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/destructor.jpg
+
 Una letal nave de línea concebida para la caza activa de embarcaciones enemigas de tamaño medio y pequeño. Sacrifica espacio de carga y comodidades para albergar pesados cañones de riel torretados y un pañol masivo cargado de misiles cinéticos.
 
 * **Tipo de Motor y Combustible:** Reactor de Fusión Doble con inyectores de masa pesada (Combustible: Deuterio-Tritio y Agua como masa de reacción).
@@ -2869,6 +2887,8 @@ Una letal nave de línea concebida para la caza activa de embarcaciones enemigas
 
 Crucero
 ~~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/crucero.jpg
 
 Una imponente nave capital con gran autonomía operativa, capaz de realizar patrullas independientes de largo alcance por todo el Sistema Solar. Su pieza central es un devastador cañón de riel espinal que recorre todo el largo de su estructura.
 
@@ -2884,6 +2904,8 @@ Una imponente nave capital con gran autonomía operativa, capaz de realizar patr
 Acorazado
 ~~~~~~~~~
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/acorazado.jpg
+
 La cúspide del poder militar interplanetario y una fortaleza móvil fuertemente acorazada. Avanza detonando micro-bombas nucleares en su plato de empuje magnético y es capaz de someter guarniciones planetarias enteras con su armamento estratégico y nuclear.
 
 * **Tipo de Motor y Combustible:** Motor de Pulso Nuclear de Confinamiento Magnético (Combustible: Micro-ojivas de fusión pura y Agua como masa de amortiguación).
@@ -2897,6 +2919,8 @@ La cúspide del poder militar interplanetario y una fortaleza móvil fuertemente
 
 Portanaves
 ~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/portanaves.jpg
 
 Un centro de comando táctico flotante que opera desde la retaguardia de los teatros de operaciones. En lugar de armas de fuego directo, transporta, despliega y coordina otras astronaves desde sus amplios hangares y múltiples puntos de anclaje.
 
