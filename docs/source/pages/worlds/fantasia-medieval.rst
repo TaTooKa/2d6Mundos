@@ -1,10 +1,14 @@
 Fantasía Medieval
 =================
 
+.. figure:: /_static/images/worlds/fantasia-medieval/img-1.png
+
 El género de *Fantasía Medieval* suele desarrollarse en mundos fantásticos similares al nuestro, pero con geografía, reinos y razas particulares. Los protagonistas suelen comenzar como aprendices, neófitos o "don nadies" que, siguiendo el *Camino del Héroe*, se embarcan en aventuras que se conectan en una odisea de escala épica. Lo normal en los juegos de rol es que estos aventureros comiencen de a poco, con misiones simples como la exploración de lugares peligrosos como mazmorras o ruinas, la caza de algún monstruo o criatura mitológica, y luego con el pasar de sus hazañas, estas se vuelvan cada vez más complejas y abarcativas. Para el final de su "campaña" estarán lidiando con problemas entre reinos y ejércitos, villanos de gran poder, e incluso podrían estar entrometiéndose entre las gestas de los Dioses.
 
 Creación de Personaje
 ---------------------
+
+.. figure:: /_static/images/worlds/fantasia-medieval/img-4.png
 
 Los Personajes de *Fantasía Medieval* están definidos por su **Trasfondo** (profesión o conjunto de habilidades no necesariamente relacionadas a la aventura), su **Clase** (arquetipos de aventurero clásicos como *Mago*, *Guerrero*, *Ladrón* o *Clérigo*) y su **Raza** (*Enano*, *Elfo*, *Mediano*, etc). La Raza solo puede ser escogida durante la creación del personaje (se asume que el personaje es Humano si no se elige una Raza particular).
 
@@ -18,6 +22,8 @@ Además, los jugadores deberan escoger un **Alineamiento** entre *Legal*, *Neutr
 
 Trasfondos
 ^^^^^^^^^^
+
+.. figure:: /_static/images/worlds/fantasia-medieval/img-3.png
 
 .. csv-table::
    :widths: 5, 95
@@ -63,10 +69,14 @@ Trasfondos
 Clases y Razas
 ^^^^^^^^^^^^^^
 
+.. figure:: /_static/images/worlds/fantasia-medieval/img-2.png
+
 Cada Clase o Raza tiene diferentes **Títulos** en cada Nivel. Para subir de Nivel en esas, además de gastar PX, necesitas cumplir una misión o criterio para poder aplicar al mismo (descrita en las tablas a continuación, dependiendo de su *Alineamiento*). Si comienzas con niveles superiores a 1 en una Clase o Raza, asume que ya has cumplido esos requisitos en el pasado.
 
 Clérigo
 *******
+
+.. figure:: /_static/images/worlds/fantasia-medieval/img-5.png
 
 Los Clérigos son sacerdotes de una religión que, en vez de quedarse en un templo o monasterio, han decidido aventurarse hacia lo desconocido, para llevar la palabra de sus dioses, evangelizar a los aún no creyentes, y combatir a los enemigos de su credo.
 
@@ -89,6 +99,8 @@ Los Clérigos comienzan conociendo 3 :ref:`Milagros Divinos <fantasia-medieval-m
 Ladrón
 ******
 
+.. figure:: /_static/images/worlds/fantasia-medieval/img-6.png
+
 Los Ladrones son habilidosos rateros, ágiles saqueadores de tumbas, expertos buscadores de tesoros, o fugaces caminantes de las sombras.
 
 **EQUIPO INICIAL**: Los Ladrones comienzan con un par de dagas, una túnica o capa con capucha oscuras, unas botas con suela suave, un kit de ganzúas y artilugios para abrir cerraduras y mecanismos, y una soga con gancho. 
@@ -107,6 +119,8 @@ Los Ladrones son habilidosos rateros, ágiles saqueadores de tumbas, expertos bu
 
 Mago
 ****
+
+.. figure:: /_static/images/worlds/fantasia-medieval/img-7.png
 
 Los Magos se dedican al estudio y la ejecución de hechizos y rituales arcanos. Algunos son más estudiosos y prefieren investigar en bibliotecas y laboratorios, mientras que otros son más prácticos y prefieren aventurarse a lo desconocido, probar sus sortilegios en el campo de batalla, y descubrir nuevos conjuros desenterrando pergaminos viejos y grimorios olvidados. 
 
@@ -128,6 +142,8 @@ Los Magos comienzan conociendo 3 :ref:`Hechizos Arcanos <fantasia-medieval-magia
 
 Guerrero
 ********
+
+.. figure:: /_static/images/worlds/fantasia-medieval/img-8.png
 
 Los Guerreros se especializan en el combate físico, en tácticas y estrategias de guerra a gran escala como también en escaramuzas contenidas, o en duelos y otros tipos de peleas exóticas. Algunos venden sus habilidades al mejor postor, ya sea como mercenarios o guardaespaladas, mientras que otros siguen el honor, la caballerosidad, o la sed de conquista y destrucción.
 
