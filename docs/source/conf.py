@@ -18,6 +18,7 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinxcontrib.video',
+    'myst_parser',
 ]
 
 intersphinx_mapping = {
