@@ -382,6 +382,8 @@ Magia
 Milagros Divinos
 ^^^^^^^^^^^^^^^^
 
+.. figure:: /_static/images/worlds/fantasia-medieval/img-21.png
+
 Los **Milagros Divinos** funcionan como hechizos, pero se realizan realizando una plegaria al Dios o Panteón al que el Clérigo adora, y su efecto es otorgado por la gracia de ese Dios. Otros Magos con Trasfondos de CURANDERO o SACERDOTE podrían llegar a aprender a lanzar Milagros como si fuesen Hechizos, si consiguen un Clérigo que les enseñe las plegarias correctas y los rituales religiosos apropiados.
 
 .. csv-table::
@@ -429,6 +431,8 @@ Los **Milagros Divinos** funcionan como hechizos, pero se realizan realizando un
 
 Magia Arcana
 ^^^^^^^^^^^^
+
+.. figure:: /_static/images/worlds/fantasia-medieval/img-20.png
 
 La **Magia Arcana** es el tipo de magia más común, y es la que los Magos pueden aprender. Se basa en el estudio de las fuerzas mágicas del mundo, y su manipulación a través de fórmulas, gestos y palabras mágicas. 
 
@@ -578,6 +582,8 @@ Los *Rituales de Invocación* de espíritus implican cantar canciones antiguas, 
 Magia Rúnica
 ^^^^^^^^^^^^
 
+.. figure:: /_static/images/worlds/fantasia-medieval/img-18.png
+
 La **Magia Rúnica** es un tipo de magia que se basa en la inscripción de símbolos con significados poderosos. Los Enanos tienen acceso a esta magia, y pueden aprender a inscribir runas para crear objetos mágicos o para embeber efectos mágicos sobre artefactos, lugares o personas. Otros Magos con Trasfondos de ARTESANO o HERRERO podrían llegar a aprender a inscribir runas sin un enano les enseña la técnica. Las runas pueden inscribirse **temporalmente** (con algún tipo de tinta o líquido, lo que lleva segundos o minutos) o de forma **permanente** (tallándolas o grabándolas en piedra, metal u otro material resistente, un proceso que lleva horas). Borrar o destruir una runa usualmente termina con su efecto mágico. Por defecto, un objeto solo puede tener una runa. Si se le inscribe otra, la anterior queda "desactivada".
 
 
@@ -626,6 +632,8 @@ La **Magia Rúnica** es un tipo de magia que se basa en la inscripción de símb
 
 Magia Natural
 ^^^^^^^^^^^^^
+
+.. figure:: /_static/images/worlds/fantasia-medieval/img-19.png
 
 La **Magia Natural** es un tipo de magia que se basa en la conexión con la naturaleza y sus fuerzas. Los Elfos tienen acceso a esta magia, y pueden aprender a canalizar la energía natural y decir plegarias a los Espíritus Antiguos de la Naturaleza para crear efectos mágicos relacionados con plantas, animales, clima, elementos naturales, etc. Otros Magos con Trasfondos de GUARDABOSQUES o HERBORISTA podrían llegar a aprender hechizos de Magia Natural si un Elfo les enseña a comulgar con los espíritus de la naturaleza.
 
