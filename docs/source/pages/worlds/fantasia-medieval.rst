@@ -487,6 +487,8 @@ Por defecto, un Mago que invoca a una entidad poderosa puede hacerle preguntas, 
 Pactos Demoníacos
 *****************
 
+.. figure:: /_static/images/worlds/fantasia-medieval/img-16.png
+
 Cuando invoques a un Demonio siguiendo un *Ritual de invocación*, puedes llamar a uno al azar (tira d6,d6 en la siguiente tabla). Si quieres invocar a un Demonio específico, puedes elegirlo, pero el precio que deberás pagar será más alto (tira 2d6+3 en la tabla de pagar el precio).
 
 Los *Rituales de Invocación* demoníacos implican recitar palabras de magia prohibida, dibujar símbolos infernales con tintas, cenizas o sangre y ofrecer un sacrificio de sangre o carne a la entidad que se desea invocar. 
