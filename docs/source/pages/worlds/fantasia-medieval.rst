@@ -76,15 +76,26 @@ Cada Clase o Raza tiene diferentes **Títulos** en cada Nivel. Para subir de Niv
 Clérigo
 *******
 
-.. figure:: /_static/images/worlds/fantasia-medieval/img-5.png
+.. sidebar:: 
+
+   .. figure:: /_static/images/worlds/fantasia-medieval/img-10.png
 
 Los Clérigos son sacerdotes de una religión que, en vez de quedarse en un templo o monasterio, han decidido aventurarse hacia lo desconocido, para llevar la palabra de sus dioses, evangelizar a los aún no creyentes, y combatir a los enemigos de su credo.
 
-**EQUIPO INICIAL**: Los Clérigos comienzan con un Mazo o Estrella del Alba, un Escudo Pavés con el símbolo de su religión, una Cota de malla, una túnica o capa con los colores de su órden, y rosarios o cuentas de oración.
+.. rubric:: EQUIPO INICIAL
 
-**HABILIDADES ESPECIALES**: Los Clérigos tienen acceso a los :ref:`Milagros Divinos <fantasia-medieval-milagros-divinos>`, y también pueden curar con imposición de manos (reducen la severidad de una *Condición* que representa una aflicción física), una cantidad de veces por día iguales a su Nivel de Clérigo.
+Los Clérigos comienzan con un Mazo o Estrella del Alba, un Escudo Pavés con el símbolo de su religión, una Cota de malla, una túnica o capa con los colores de su órden, y rosarios o cuentas de oración.
+
+.. rubric:: HABILIDADES ESPECIALES
+
+Los Clérigos tienen acceso a los :ref:`Milagros Divinos <fantasia-medieval-milagros-divinos>`, y también pueden curar con imposición de manos (reducen la severidad de una *Condición* que representa una aflicción física), una cantidad de veces por día iguales a su Nivel de Clérigo.
 
 Los Clérigos comienzan conociendo 3 :ref:`Milagros Divinos <fantasia-medieval-milagros-divinos>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Clérigo. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
+
+.. raw:: html
+
+   <div style="clear: both;"></div>
+   <br><br>
 
 .. csv-table:: Títulos de Clérigo y requisitos para subir de nivel
    :widths: 4, 32, 32, 32
@@ -99,21 +110,25 @@ Los Clérigos comienzan conociendo 3 :ref:`Milagros Divinos <fantasia-medieval-m
 Ladrón
 ******
 
-.. figure:: /_static/images/worlds/fantasia-medieval/img-6.png
+.. sidebar:: 
 
-.. sidebar: **a ver asd asdasdasdasd**
-
-    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-
-   .. image:: /_static/images/worlds/fantasia-medieval/img-9.png
-
-    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+   .. figure:: /_static/images/worlds/fantasia-medieval/img-9.png
 
 Los Ladrones son habilidosos rateros, ágiles saqueadores de tumbas, expertos buscadores de tesoros, o fugaces caminantes de las sombras.
 
-**EQUIPO INICIAL**: Los Ladrones comienzan con un par de dagas, una túnica o capa con capucha oscuras, unas botas con suela suave, un kit de ganzúas y artilugios para abrir cerraduras y mecanismos, y una soga con gancho. 
+.. rubric:: EQUIPO INICIAL
 
-**HABILIDADES ESPECIALES**: Los Ladrones son muy suertudos; Pueden repetir una tirada de cualquier tipo con un bonificador de +2, una cantidad de veces por día igual a su Nivel de Ladrón.
+Los Ladrones comienzan con un par de dagas, una túnica o capa con capucha oscuras, unas botas con suela suave, un kit de ganzúas y artilugios para abrir cerraduras y mecanismos, y una soga con gancho. 
+
+.. rubric:: HABILIDADES ESPECIALES
+
+Los Ladrones son muy suertudos; Pueden repetir una tirada de cualquier tipo con un bonificador de +2, una cantidad de veces por día igual a su Nivel de Ladrón.
+
+.. raw:: html
+
+   <div style="clear: both;"></div>
+   <br><br>
+
 
 .. csv-table:: Títulos de Ladrón y requisitos para subir de nivel
    :widths: 4, 32, 32, 32
@@ -128,15 +143,26 @@ Los Ladrones son habilidosos rateros, ágiles saqueadores de tumbas, expertos bu
 Mago
 ****
 
-.. figure:: /_static/images/worlds/fantasia-medieval/img-7.png
+.. sidebar:: 
+
+   .. figure:: /_static/images/worlds/fantasia-medieval/img-11.png
 
 Los Magos se dedican al estudio y la ejecución de hechizos y rituales arcanos. Algunos son más estudiosos y prefieren investigar en bibliotecas y laboratorios, mientras que otros son más prácticos y prefieren aventurarse a lo desconocido, probar sus sortilegios en el campo de batalla, y descubrir nuevos conjuros desenterrando pergaminos viejos y grimorios olvidados. 
 
-**EQUIPO INICIAL**: Los Magos comienzan con una Túnica de mago con gorro o capucha, un Bastón, báculo o cetro adornado, un Libro de hechizos, Una bolsa o morral con componentes e ingredientes mágicos, y un Cristal de enfoque utilizado para potenciar hechizos o rituales. 
+.. rubric:: EQUIPO INICIAL
 
-**HABILIDADES ESPECIALES**: Los Magos tienen acceso a la :ref:`Magia Arcana <fantasia-medieval-magia-arcana>` y a los :ref:`Pactos de Poder <fantasia-medieval-pactos-de-poder>`, y también pueden agregar su Nivel de Mago como modificador a cualquier tirada para resistir o evitar un efecto mágico.
+Los Magos comienzan con una Túnica de mago con gorro o capucha, un Bastón, báculo o cetro adornado, un Libro de hechizos, Una bolsa o morral con componentes e ingredientes mágicos, y un Cristal de enfoque utilizado para potenciar hechizos o rituales. 
+
+.. rubric:: HABILIDADES ESPECIALES
+
+Los Magos tienen acceso a la :ref:`Magia Arcana <fantasia-medieval-magia-arcana>` y a los :ref:`Pactos de Poder <fantasia-medieval-pactos-de-poder>`, y también pueden agregar su Nivel de Mago como modificador a cualquier tirada para resistir o evitar un efecto mágico.
 
 Los Magos comienzan conociendo 3 :ref:`Hechizos Arcanos <fantasia-medieval-magia-arcana>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Mago. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
+
+.. raw:: html
+
+   <div style="clear: both;"></div>
+   <br><br>
 
 .. csv-table:: Títulos de Mago y requisitos para subir de nivel
    :widths: 4, 32, 32, 32
@@ -151,13 +177,24 @@ Los Magos comienzan conociendo 3 :ref:`Hechizos Arcanos <fantasia-medieval-magia
 Guerrero
 ********
 
-.. figure:: /_static/images/worlds/fantasia-medieval/img-8.png
+.. sidebar:: 
+
+   .. figure:: /_static/images/worlds/fantasia-medieval/img-12.png
 
 Los Guerreros se especializan en el combate físico, en tácticas y estrategias de guerra a gran escala como también en escaramuzas contenidas, o en duelos y otros tipos de peleas exóticas. Algunos venden sus habilidades al mejor postor, ya sea como mercenarios o guardaespaladas, mientras que otros siguen el honor, la caballerosidad, o la sed de conquista y destrucción.
 
-**EQUIPO INICIAL**: Los Guerreros comienzan con una armadura de cota de malla, un Yelmo de acero, una Espada larga o Gran Hacha de Guerra, Un Escudo de cometa, y una Piedra de afilar.
+.. rubric:: EQUIPO INICIAL
 
-**HABILIDADES ESPECIALES**: Los Guerreros son expertos en combate; Pueden agregar su Nivel de Guerrero como modificador a tiradas de Iniciativa o para cualquier tirada o dificultad para atacar o defenderse o resistir Condiciones físicas.
+Los Guerreros comienzan con una armadura de cota de malla, un Yelmo de acero, una Espada larga o Gran Hacha de Guerra, Un Escudo de cometa, y una Piedra de afilar.
+
+.. rubric:: HABILIDADES ESPECIALES
+
+Los Guerreros son expertos en combate; Pueden agregar su Nivel de Guerrero como modificador a tiradas de Iniciativa o para cualquier tirada o dificultad para atacar o defenderse o resistir Condiciones físicas.
+
+.. raw:: html
+
+   <div style="clear: both;"></div>
+   <br><br>
 
 .. csv-table:: Títulos de Guerrero y requisitos para subir de nivel
    :widths: 4, 32, 32, 32
@@ -172,13 +209,26 @@ Los Guerreros se especializan en el combate físico, en tácticas y estrategias 
 Enano
 *****
 
+.. sidebar:: 
+
+   .. figure:: /_static/images/worlds/fantasia-medieval/img-13.png
+
 La Raza de los Enanos proviene de grandes ciudades en lo profundo de las montañas o en cuevas subterráneas. Son muy robustos y resistentes, a pesar de su corta estatura. Tienen predilección por las artesanías de compleja manufactura y fascinación por los tesoros brillantes y artefactos poderosos. Suelen vivir hasta los 250 años.
 
-**EQUIPO INICIAL**: Los Enanos comienzan con una armadura de placas, un grueso yelmo de acero, un hacha doble o un gran mazo de guerra, una pica o pala de excavación, y herramientas básicas de reparación.
+.. rubric:: EQUIPO INICIAL
 
-**HABILIDADES ESPECIALES**: Los Enanos tienen acceso a la :ref:`Magia Rúnica <fantasia-medieval-magia-runica>`, y además son muy resistentes; pueden agregar su Nivel de Enano como modificador a cualquier tirada para resistir Condiciones físicas.
+Los Enanos comienzan con una armadura de placas, un grueso yelmo de acero, un hacha doble o un gran mazo de guerra, una pica o pala de excavación, y herramientas básicas de reparación.
+
+.. rubric:: HABILIDADES ESPECIALES
+
+Los Enanos tienen acceso a la :ref:`Magia Rúnica <fantasia-medieval-magia-runica>`, y además son muy resistentes; pueden agregar su Nivel de Enano como modificador a cualquier tirada para resistir Condiciones físicas.
 
 Los Enanos comienzan conociendo 3 :ref:`Runas <fantasia-medieval-magia-runica>`, y ganan automáticamente una nueva cada vez que suben un Nivel de Enano. Si quieren aprender más, deberán encontrarlas en sus aventuras o aprenderlas de algún maestro.
+
+.. raw:: html
+
+   <div style="clear: both;"></div>
+   <br><br>
 
 .. csv-table:: Títulos de Enano y requisitos para subir de nivel
    :widths: 4, 32, 32, 32
@@ -209,13 +259,26 @@ Los Enanos comienzan conociendo 3 :ref:`Runas <fantasia-medieval-magia-runica>`,
 Elfo
 ****
 
+.. sidebar:: 
+
+   .. figure:: /_static/images/worlds/fantasia-medieval/img-14.png
+
 La Raza de los Elfos proviene de los bosques más antiguos y de los valles ocultos del mundo. Son muy gráciles y de fina belleza. Su destreza o maestría en diversas disciplinas a veces hace creer a las otras Razas que todo lo hacen por métodos mágicos, pero en realidad su eficacia se debe a su longevidad y el tiempo que han dedicado a practicar distintos rubros. Los elfos suelen vivir miles de años.
 
-**EQUIPO INICIAL**: Los Elfos comienzan con un atuendo ceñido de cuero liviano, una capa verdigris con capucha, un arco corto y un carcaj de 15 flechas, una espada corta curva, y una soga de seda fina pero muy resistente. 
+.. rubric:: EQUIPO INICIAL
 
-**HABILIDADES ESPECIALES**: Los Elfos tienen acceso a la :ref:`Magia Natural <fantasia-medieval-magia-natural>`, y además son muy ágiles; pueden agregar su Nivel de Elfo como modificador a cualquier tirada de Iniciativa o de chequeos de destreza física o precisión.
+Los Elfos comienzan con un atuendo ceñido de cuero liviano, una capa verdigris con capucha, un arco corto y un carcaj de 15 flechas, una espada corta curva, y una soga de seda fina pero muy resistente. 
+
+.. rubric:: HABILIDADES ESPECIALES
+
+Los Elfos tienen acceso a la :ref:`Magia Natural <fantasia-medieval-magia-natural>`, y además son muy ágiles; pueden agregar su Nivel de Elfo como modificador a cualquier tirada de Iniciativa o de chequeos de destreza física o precisión.
 
 Los Elfos comienzan conociendo 3 :ref:`Hechizos Naturales <fantasia-medieval-magia-natural>`, y ganan automáticamente uno nuevo cada vez que suben un Nivel de Elfo. Si quieren aprender más, deberán encontrarlos en sus aventuras o aprenderlos de algún maestro.
+
+.. raw:: html
+
+   <div style="clear: both;"></div>
+   <br><br>
 
 .. csv-table:: Títulos de Elfo y requisitos para subir de nivel
    :widths: 5, 95
@@ -246,11 +309,24 @@ Los Elfos comienzan conociendo 3 :ref:`Hechizos Naturales <fantasia-medieval-mag
 Mediano
 *******
 
+.. sidebar:: 
+
+   .. figure:: /_static/images/worlds/fantasia-medieval/img-15.png
+
 La Raza de los Medianos proviene de pequeños pueblos de las praderas, o de humildes granjas circundantes a los grandes centros urbanos. Si bien la mayoría suelen ser de vidas tranquilas y despreocupadas, algunos pocos tienen la necesidad de aventura y curiosidad por descubrir lo desconocido. Su diminuto tamaño (nunca superan la altura ni robustez de un niño humano) les permite escurrirse y ocultarse de manera efectiva a comparación de las Razas "grandes" del mundo. Los Medianos suelen vivir hasta los 100 años.
 
-**EQUIPO INICIAL**: Los Medianos comienzan con ropas livianas como camisas y pantalones de tela, una capa con capucha de tela gruesa, un cayado o bastón de caminar, una honda o cerbatana, y una bolsa donde guardar su pipa y reserva de tabaco.
+.. rubric:: EQUIPO INICIAL
 
-**HABILIDADES ESPECIALES**: Los Medianos son muy escurridizos; pueden esquivar un peligro automáticamente, o "desaparecer de la vista" ocultandose, una cantidad de veces por día igual a su Nivel de Mediano.
+Los Medianos comienzan con ropas livianas como camisas y pantalones de tela, una capa con capucha de tela gruesa, un cayado o bastón de caminar, una honda o cerbatana, y una bolsa donde guardar su pipa y reserva de tabaco.
+
+.. rubric:: HABILIDADES ESPECIALES
+
+Los Medianos son muy escurridizos; pueden esquivar un peligro automáticamente, o "desaparecer de la vista" ocultandose, una cantidad de veces por día igual a su Nivel de Mediano.
+
+.. raw:: html
+
+   <div style="clear: both;"></div>
+   <br><br>
 
 .. csv-table:: Títulos de Mediano y requisitos para subir de nivel
    :widths: 5, 95
