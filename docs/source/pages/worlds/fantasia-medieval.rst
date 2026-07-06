@@ -540,6 +540,8 @@ Los *Rituales de Invocación* demoníacos implican recitar palabras de magia pro
 Pactos con Espíritus
 ********************
 
+.. figure:: /_static/images/worlds/fantasia-medieval/img-17.png
+
 Cuando invoques a un Espíritu de la Naturaleza siguiendo un *Ritual de invocación*, puedes llamar a uno al azar (tira d6,d6 en la siguiente tabla). Si quieres invocar a un Espíritu específico, puedes elegirlo, pero el precio que deberás pagar será más alto (tira 2d6+3 en la tabla de pagar el precio).
 
 Los *Rituales de Invocación* de espíritus implican cantar canciones antiguas, dibujar símbolos rúnicos en la tierra o en los árboles, y ofrecer un sacrificio de comida o bebida a la entidad que se desea invocar.
