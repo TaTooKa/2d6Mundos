@@ -99,7 +99,15 @@ Los Clérigos comienzan conociendo 3 :ref:`Milagros Divinos <fantasia-medieval-m
 Ladrón
 ******
 
-.. figure:: /_static/images/worlds/fantasia-medieval/img-6.png
+.. figure:: /_static/images/worlds/fantasia-medieval/img-9.png
+
+.. sidebar: a ver asd
+
+    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+
+   .. image:: /_static/images/worlds/fantasia-medieval/img-9.png
+
+    Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Los Ladrones son habilidosos rateros, ágiles saqueadores de tumbas, expertos buscadores de tesoros, o fugaces caminantes de las sombras.
 
