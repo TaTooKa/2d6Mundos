@@ -99,9 +99,9 @@ Los Clérigos comienzan conociendo 3 :ref:`Milagros Divinos <fantasia-medieval-m
 Ladrón
 ******
 
-.. figure:: /_static/images/worlds/fantasia-medieval/img-9.png
+.. figure:: /_static/images/worlds/fantasia-medieval/img-6.png
 
-.. sidebar: a ver asd
+.. sidebar: **a ver asd asdasdasdasd**
 
     Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
