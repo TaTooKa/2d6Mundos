@@ -3156,34 +3156,83 @@ Aquí se listan los bloques geopolíticos, corporaciones y organizaciones que op
 Bloques Geopolíticos (La Vieja Tierra)
 **************************************
 
-**UA (Unión Americana)**: Coalición de las naciones de Norte, Centro y Sudamérica. Enfocada en la hegemonía militar, el control de recursos naturales y la producción de manufactura pesada.
+UA (Unión Americana)
+~~~~~~~~~~~~~~~~~~~~
 
-**ADE (Alianza Democrática Europea)**: Unión política y económica de Europa y sus asentamientos. Actúa como el centro del soft power, la banca global, la diplomacia y la investigación académica de élite.
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-43.png
 
-**BSE (Bloque Socialista del Este)**: Coalición de China, Rusia, Corea del Norte y satélites. Dominan la producción industrial a gran escala, la cibernética aplicada y el control social centralizado.
+Coalición de las naciones de Norte, Centro y Sudamérica. Enfocada en la hegemonía militar, el control de recursos naturales y la producción de manufactura pesada.
 
-**CTP (Confederación Tecnocrática del Pacífico)**: India, Japón, Corea del Sur, Nueva Zelanda y territorios. Su alcance se centra en la IA avanzada, la automatización, la robótica y la alta tecnología computacional.
+ADE (Alianza Democrática Europea)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**NUT (Naciones Unidas de la Tierra)**: Organismo supranacional burocrático. Su rol es puramente diplomático y mediador; es una entidad débil que intenta mantener la paz, pero que a menudo es ignorada por los bloques mayores.
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-44.png
+
+Unión política y económica de Europa y sus asentamientos. Actúa como el centro del soft power, la banca global, la diplomacia y la investigación académica de élite.
+
+BSE (Bloque Socialista del Este)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-45.png
+
+Coalición de China, Rusia, Corea del Norte y satélites. Dominan la producción industrial a gran escala, la cibernética aplicada y el control social centralizado.
+
+CTP (Confederación Tecnocrática del Pacífico)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-46.png
+
+India, Japón, Corea del Sur, Nueva Zelanda y territorios. Su alcance se centra en la IA avanzada, la automatización, la robótica y la alta tecnología computacional.
+
+NUT (Naciones Unidas de la Tierra)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-47.png
+
+Organismo supranacional burocrático. Su rol es puramente diplomático y mediador; es una entidad débil que intenta mantener la paz, pero que a menudo es ignorada por los bloques mayores.
 
 Potencias Externas
 ******************
 
-**FPM (Frente Progresista Marciano)**: Colonias independientes en Marte. Son la facción ideológica, que busca la soberanía total respecto a la Tierra. Se especializan en terraformación, ingeniería genética y guerrillas espaciales.
+FPM (Frente Progresista Marciano)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**CG (Consorcio Galileano)**: Corporación-Estado que gobierna las cuatro lunas de Júpiter. Su rol es el control energético (fusión, extracción de volátiles) y la logística de largo alcance en el sistema solar exterior.
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-48.png
 
-**ULS (Unión de las Lunas de Saturno)**: Colonias extractivas y mineras en el sistema saturnino. Funcionan como una facción aislacionista, autosuficiente y con una cultura propia muy marcada por la supervivencia extrema.
+Colonias independientes en Marte. Son la facción ideológica, que busca la soberanía total respecto a la Tierra. Se especializan en terraformación, ingeniería genética y guerrillas espaciales.
+
+CG (Consorcio Galileano)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-49.png
+
+Corporación-Estado que gobierna las cuatro lunas de Júpiter. Su rol es el control energético (fusión, extracción de volátiles) y la logística de largo alcance en el sistema solar exterior.
+
+ULS (Unión de las Lunas de Saturno)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-50.png
+
+Colonias extractivas y mineras en el sistema saturnino. Funcionan como una facción aislacionista, autosuficiente y con una cultura propia muy marcada por la supervivencia extrema.
 
 Entes Reguladores
 *****************
 
-**CCI (Comisión de Comercio Interplanetario)**: El organismo regulador técnico. Aunque emite leyes y normas de seguridad espacial, su poder es relativo y depende totalmente de la voluntad de las megacorporaciones para cumplir (o no) dichas normas.
+CCI (Comisión de Comercio Interplanetario)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-51.png
+
+El organismo regulador técnico. Aunque emite leyes y normas de seguridad espacial, su poder es relativo y depende totalmente de la voluntad de las megacorporaciones para cumplir (o no) dichas normas.
 
 Megacorporaciones
 *****************
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-52.png
+
 **Zenshen**: Control de datos, vigilancia masiva e infraestructura de red, con un frente de servicios de entretenimiento de *Realidad Aumentada* y videojuegos.
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-53.png
 
 **Skylark**: Compañía Aeroespacial de Ingeniería de transporte orbital y acceso al espacio profundo. Su CEO es el polémico y excéntrico *Evan Lark*.
 
