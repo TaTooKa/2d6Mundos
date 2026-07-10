@@ -3236,15 +3236,27 @@ Megacorporaciones
 
 **Skylark**: Compañía Aeroespacial de Ingeniería de transporte orbital y acceso al espacio profundo. Su CEO es el polémico y excéntrico *Evan Lark*.
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-54.png
+
 **Borealis**: Cadena de logística y suministro global e interplanetario, minería de datos y comercio minorista.
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-55.png
 
 **SieBoRo**: Conglomerado *Siemens-Bosch-Roche*. Infraestructura crítica, construcción civil y sistemas de soporte vital.
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-56.png
+
 **NISATO**: Electrónica de consumo, sensores de alta precisión y óptica.
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-57.png
 
 **Tanhäuser**: Defensa, armamento, hardware militar y construcción naval pesada.
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-58.png
+
 **Ad Astra**: Corporación orientada a la exploración de fronteras espaciales, minería de asteroides y construcción de estaciones.
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-59.png
 
 **Ryuyen-Slantsy**: Petroquímica, refinamiento de combustibles, droguerías, biotecnología farmacéutica y síntesis química.
 
