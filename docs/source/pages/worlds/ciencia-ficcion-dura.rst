@@ -2978,6 +2978,8 @@ Sistema Terrestre
 Tierra
 ~~~~~~
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-36.png
+
 El centro de mando de la humanidad. Un planeta en recuperación ambiental, densamente poblado y el principal consumidor de recursos extraplanetarios.
 
 * **Gravedad**: 1g
@@ -3005,10 +3007,14 @@ Puntos de Interés
 Órbita Baja Terrestre (L.E.O.)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-37.png
+
 **Estación "Puerta de Mercurio"**: El principal puerto de transferencia orbital. Es un complejo modular masivo donde se ensamblan naves interplanetarias demasiado grandes para despegar desde la superficie. Es el nodo logístico donde el costo de lanzamiento desde la Tierra se encuentra con la eficiencia de la microgravedad.
 
 Puntos de Lagrange Tierra-Luna
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-38.png
 
 L-1
 ^^^
@@ -3037,6 +3043,8 @@ L-5
 
 Luna
 ~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-39.png
 
 Un desierto industrial bajo un cielo negro perpetuo. La Luna es una mina a cielo abierto y un astillero, aunque su proximidad con la tierra y la facilidad para alunizar y despegar la hacen un destino atractivo, lo que incentivó a la creación de numerosos hábitats en su superficie.
 
@@ -3069,6 +3077,8 @@ Sistema Marciano
 Marte
 ~~~~~
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-40.png
+
 El corazón del *Frente Progresista Marciano*. Un planeta en constante (aunque lento) proceso de terraformación, donde la vida se desarrolla principalmente bajo tierra o en domos presurizados. Es un centro de innovación tecnológica impulsado por la necesidad de sobrevivir en un entorno hostil.
 
 * **Gravedad**: 0.38g
@@ -3097,6 +3107,8 @@ Puntos de Interés
 Fobos
 ~~~~~
 
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-41.png
+
 Una pequeña luna capturada que funciona como la principal estación de repostaje y vigilancia avanzada de la órbita marciana.
 
 * **Gravedad**: 0.0005g
@@ -3116,6 +3128,8 @@ Puntos de Interés
 
 Deimos
 ~~~~~~
+
+.. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-42.png
 
 Luna menor utilizada estratégicamente por el FPM como puesto avanzado de escucha electrónica y centro de comunicaciones.
 
