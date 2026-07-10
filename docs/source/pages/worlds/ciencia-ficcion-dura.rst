@@ -2970,17 +2970,225 @@ Estos son módulos opcionales que algunas facciones, organizaciones militares o 
 El Sistema Solar
 ----------------
 
-TODO
+En esta sección se listan los lugares más importantes del Sistema Solar (Sistemas Planetarios, Lunas de importancia, estaciones espaciales, hábitats, etc).
 
-* Tierra - Terrestres
-* Luna - Lunares
-* Marte - Marcianos
-* Cinturón de Asteroides - Sideral
-* Júpiter - Jovianos
-* Saturno - Saturnianos
+Sistema Terrestre
+*****************
+
+Tierra
+~~~~~~
+
+El centro de mando de la humanidad. Un planeta en recuperación ambiental, densamente poblado y el principal consumidor de recursos extraplanetarios.
+
+* **Gravedad**: 1g
+* **Exposición a la radiación en la superficie**: 0.016 mSv/día (negligible)
+* **Exporta**:
+   * Bienes manufacturados de alta tecnología (electrónica avanzada, maquinaria de precisión, farmacéutica)
+   * Productos culturales (media, arte, entretenimiento) 
+   * material biológico especializado (semillas, material genético, bioquímicos).
+* **Importa**:
+   * Minerales raros y metales como Pt (Platino) del cinturón de asteroides y Marte
+   * ₃He (trilio) de la Luna
+   * Deuterio de Marte para reactores de fusión
+   * Datos científicos y avances tecnológicos de las colonias 
+
+Puntos de Interés
+^^^^^^^^^^^^^^^^^
+
+* Complejo Espacial "Atacama Uno" (Chile, UA):
+   * El principal puerto de lanzamiento ecuatorial de la *Unión Americana*. Debido a su altitud y proximidad al ecuador, maximiza la eficiencia del combustible para las naves que se dirigen a *LEO*. Es una "ciudad-lanzadera" donde miles de técnicos viven y trabajan bajo estrictos protocolos de seguridad industrial.
+* Sede Central de la NUT (Ginebra, ADE):
+   * El corazón burocrático y diplomático de la humanidad. Es un complejo subterráneo masivo diseñado para resistir cualquier tipo de catástrofe. Aquí se dirimen las disputas sobre derechos mineros en el espacio, aunque sus leyes a menudo son ignoradas por las corporaciones.
+* Mega-Fábrica "NISATO Nexus" (Tokio, CTP):
+   * La mayor instalación de producción automatizada del mundo. Aquí se fabrican los componentes electrónicos de alta precisión, chips de IA y sensores que son vitales para la supervivencia en el espacio. La planta funciona con una automatización casi total, con apenas un puñado de supervisores humanos.
+
+Órbita Baja Terrestre (L.E.O.)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Estación "Puerta de Mercurio"**: El principal puerto de transferencia orbital. Es un complejo modular masivo donde se ensamblan naves interplanetarias demasiado grandes para despegar desde la superficie. Es el nodo logístico donde el costo de lanzamiento desde la Tierra se encuentra con la eficiencia de la microgravedad.
+
+Puntos de Lagrange Tierra-Luna
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+L-1
+^^^
+
+**Estación "Apolo-Nexus"**: Ubicada en el punto de equilibrio entre la Tierra y la Luna. Es una zona de espera para cargueros lunares que descargan su carga de ₃He antes de que esta sea enviada a las plantas de fusión terrestres. Sirve como centro de control de tráfico espacial. Gravedad: 0 en la mayoría de los módulos, aunque algunos módulos giratorios generan hasta 0.5g de gravedad artificial.
+
+L-2
+^^^
+
+**Complejo "Ojo de Dios"**: Un conjunto de telescopios espaciales y arrays de sensores de largo alcance que apuntan hacia el espacio profundo. Debido a su posición oculta tras la Luna, está protegido de las interferencias electromagnéticas de la Tierra. No tiene módulos giratorios, por lo que la gravedad es nula en todos los laboratorios y observatorios.
+
+L-3
+^^^
+
+**Base "Desierto de Vesta"**: Una base de investigación de alta seguridad y almacenamiento estratégico. Debido a su posición en el lado opuesto de la órbita terrestre, se utiliza para el almacenamiento de materiales peligrosos o tecnología militar secreta que requiere aislamiento absoluto. Tiene una sección en microgravedad, y otra con un módulo giratorio que genera 0.3g de gravedad artificial.
+
+L-4
+^^^
+
+**E-TL-L4, "Estación Atlas"**: Una de las colonias giratorias más masivas del Sistema Solar, simula gravedad vía fuerza centrífuga. El hogar de la élite corporativa y centros de investigación biotecnológica que no pueden realizarse en la Tierra debido a estrictas regulaciones éticas. Es una de las pocas estaciones donde los módulos giratorios generan 1g de gravedad artificial.
+
+L-5
+^^^
+
+**E-TL-L5, "Astillero Proletario"**: A diferencia de la opulenta Estación Atlas en L-4, L-5 es una vasta red de muelles de carga, refinerías de órbita y talleres de reparación. Es el corazón industrial del sistema Tierra-Luna, donde vive la fuerza laboral que mantiene la infraestructura espacial. Es un lugar de alta densidad poblacional, escaso lujo y una cultura de "trabajadores de frontera". La mayoría de los módulos están en microgravedad, aunque algunos pocos giratorios generan hasta 0.3g de gravedad artificial.
+
+Luna
+~~~~
+
+Un desierto industrial bajo un cielo negro perpetuo. La Luna es una mina a cielo abierto y un astillero, aunque su proximidad con la tierra y la facilidad para alunizar y despegar la hacen un destino atractivo, lo que incentivó a la creación de numerosos hábitats en su superficie.
+
+* **Gravedad**: 0.16g
+* **Exposición a la radiación en la superficie**: 0.3 mSv/día
+* **Exporta**: 
+   * ₃He (combustible de fusión)
+   * Oxígeno, metales (Fe, Al, Ti, Si) extraídos del regolito
+   * Materiales de construcción (bloques de escoria) 
+   * Agua extraída de cráteres polares.
+* **Importa**: 
+   * Volátiles (Carbono, Nitrógeno, Hidrógeno)
+   * Platino
+   * electrónica avanzada y maquinaria compleja 
+   * alimentos y suministros biológicos
+
+Puntos de Interés
+^^^^^^^^^^^^^^^^^
+
+* Refinería "Cráter Shackleton" (Polo Sur):
+   * El asentamiento lunar más importante. Se ubica en los bordes iluminados por el sol (para energía solar constante) y cráteres permanentemente sombreados (donde hay hielo de agua). Es el centro de mando de la extracción de agua y oxígeno para todo el sistema Tierra-Luna.
+* Complejo "Cielo de Plata" (Mar de la Tranquilidad):
+   * Un inmenso astillero de ensamblaje en superficie. A diferencia de las estaciones orbitales, aquí se construyen los cascos masivos de las naves y otras estructuras mediante impresoras 3D industriales que utilizan metales importados y el regolito local. Es la zona donde aterrizan los cargueros pesados para ser reparados o reaprovisionados.
+* Ciudad Domo "Aethelgard" (Mar de la Serenidad):
+   * La principal colonia residencial y administrativa de la Luna. Es una ciudad presurizada donde reside el personal de mando, ingenieros, investigadores y sus familias. Es el lugar más parecido a un entorno terrestre (con parques, laboratorios y áreas de ocio) que existe fuera del planeta azul.
+
+Sistema Marciano
+****************
+
+Marte
+~~~~~
+
+El corazón del *Frente Progresista Marciano*. Un planeta en constante (aunque lento) proceso de terraformación, donde la vida se desarrolla principalmente bajo tierra o en domos presurizados. Es un centro de innovación tecnológica impulsado por la necesidad de sobrevivir en un entorno hostil.
+
+* **Gravedad**: 0.38g
+* **Exposición a la radiación en la superficie**: 0.25 mSv/día
+* **Exporta**:
+    * Deuterio (abundante en el hielo subsuperficial)
+    * Minerales raros y metales concentrados
+    * Patentes, algoritmos de supervivencia y avances en bio-ingeniería
+    * Cultivos hidropónicos especializados
+* **Importa**:
+    * Maquinaria pesada y componentes de alta tecnología terrestre
+    * Volátiles (Nitrógeno para presurización atmosférica)
+    * Productos farmacéuticos de síntesis avanzada
+    * Mano de obra especializada y capital intelectual
+
+Puntos de Interés
+^^^^^^^^^^^^^^^^^
+
+* **Ciudad-Domo "Nueva Ares" (Planicie de Acidalia):**
+    * El centro político y administrativo del *Frente Progresista Marciano (FPM)*. Nueva Ares es una metrópolis conectada por túneles presurizados, conocida por sus laboratorios de terraformación y su férrea independencia ideológica. Es donde se toman las decisiones que desafían la autoridad de la Tierra.
+* **Planta de Extracción "Cráter Gale":**
+    * Una instalación industrial masiva centrada en la minería de profundidad. Utiliza reactores de fusión a pequeña escala para separar el deuterio del hielo subterráneo. Es el motor económico de Marte, pero también un foco de tensión constante por las cuotas de exportación impuestas por las megacorporaciones.
+* **Complejo de Investigación "Olympus Mons":**
+    * Situado a gran altitud para reducir el costo de lanzamiento, este complejo sirve como centro de desarrollo de naves espaciales locales. Es el astillero donde se ensamblan las naves de corto alcance que operan en el Sistema Solar interior, diseñadas con un estilo pragmático y minimalista.
+
+Fobos
+~~~~~
+
+Una pequeña luna capturada que funciona como la principal estación de repostaje y vigilancia avanzada de la órbita marciana.
+
+* **Gravedad**: 0.0005g
+* **Exposición a la radiación en la superficie**: 0.4 mSv/día
+* **Exporta**:
+    - Depósito y suministro de propelentes espaciales
+    - Minerales extraídos in situ
+* **Importa**:
+    - Sistemas de soporte vital
+    - Componentes de automatización
+
+Puntos de Interés
+^^^^^^^^^^^^^^^^^
+
+* Estación de transbordo "Phobos Base":
+   * Complejo integrado en los túneles naturales de la luna, funcionando como el principal puerto de transferencia para las naves que llegan de la Tierra antes de descender a la superficie marciana.
+
+Deimos
+~~~~~~
+
+Luna menor utilizada estratégicamente por el FPM como puesto avanzado de escucha electrónica y centro de comunicaciones.
+
+* **Gravedad**: 0.0003g
+* **Exposición a la radiación en la superficie**: 0.4 mSv/día
+* **Exporta**:
+    - Retransmisiones de datos interplanetarios
+    - Servicios de telemetría y vigilancia
+* **Importa**:
+    - Módulos de energía y mantenimiento
+    - Repuestos para arrays de sensores
+
+Puntos de Interés
+^^^^^^^^^^^^^^^^^
+
+* Array "Oído del Velo":
+   * Conjunto de sensores de alta sensibilidad que vigila todo el tráfico espacial que entra o sale del sistema marciano. Es una instalación austera y de alta seguridad.
+
+Facciones y Organizaciones
+--------------------------
+
+Aquí se listan los bloques geopolíticos, corporaciones y organizaciones que operan en el Sistema Solar, junto con sus intereses, objetivos y relaciones de poder.
+
+Bloques Geopolíticos (La Vieja Tierra)
+**************************************
+
+**UA (Unión Americana)**: Coalición de las naciones de Norte, Centro y Sudamérica. Enfocada en la hegemonía militar, el control de recursos naturales y la producción de manufactura pesada.
+
+**ADE (Alianza Democrática Europea)**: Unión política y económica de Europa y sus asentamientos. Actúa como el centro del soft power, la banca global, la diplomacia y la investigación académica de élite.
+
+**BSE (Bloque Socialista del Este)**: Coalición de China, Rusia, Corea del Norte y satélites. Dominan la producción industrial a gran escala, la cibernética aplicada y el control social centralizado.
+
+**CTP (Confederación Tecnocrática del Pacífico)**: India, Japón, Corea del Sur, Nueva Zelanda y territorios. Su alcance se centra en la IA avanzada, la automatización, la robótica y la alta tecnología computacional.
+
+**NUT (Naciones Unidas de la Tierra)**: Organismo supranacional burocrático. Su rol es puramente diplomático y mediador; es una entidad débil que intenta mantener la paz, pero que a menudo es ignorada por los bloques mayores.
+
+Potencias Externas
+******************
+
+**FPM (Frente Progresista Marciano)**: Colonias independientes en Marte. Son la facción ideológica, que busca la soberanía total respecto a la Tierra. Se especializan en terraformación, ingeniería genética y guerrillas espaciales.
+
+**CG (Consorcio Galileano)**: Corporación-Estado que gobierna las cuatro lunas de Júpiter. Su rol es el control energético (fusión, extracción de volátiles) y la logística de largo alcance en el sistema solar exterior.
+
+**ULS (Unión de las Lunas de Saturno)**: Colonias extractivas y mineras en el sistema saturnino. Funcionan como una facción aislacionista, autosuficiente y con una cultura propia muy marcada por la supervivencia extrema.
+
+Entes Reguladores
+*****************
+
+**CCI (Comisión de Comercio Interplanetario)**: El organismo regulador técnico. Aunque emite leyes y normas de seguridad espacial, su poder es relativo y depende totalmente de la voluntad de las megacorporaciones para cumplir (o no) dichas normas.
+
+Megacorporaciones
+*****************
+
+**Zenshen**: Control de datos, vigilancia masiva e infraestructura de red, con un frente de servicios de entretenimiento de *Realidad Aumentada* y videojuegos.
+
+**Skylark**: Compañía Aeroespacial de Ingeniería de transporte orbital y acceso al espacio profundo. Su CEO es el polémico y excéntrico *Evan Lark*.
+
+**Borealis**: Cadena de logística y suministro global e interplanetario, minería de datos y comercio minorista.
+
+**SieBoRo**: Conglomerado *Siemens-Bosch-Roche*. Infraestructura crítica, construcción civil y sistemas de soporte vital.
+
+**NISATO**: Electrónica de consumo, sensores de alta precisión y óptica.
+
+**Tanhäuser**: Defensa, armamento, hardware militar y construcción naval pesada.
+
+**Ad Astra**: Corporación orientada a la exploración de fronteras espaciales, minería de asteroides y construcción de estaciones.
+
+**Ryuyen-Slantsy**: Petroquímica, refinamiento de combustibles, droguerías, biotecnología farmacéutica y síntesis química.
 
 Tablas y generadores al azar
 ----------------------------
+
+TODO
 
 Fuentes de Inspiración
 ----------------------
