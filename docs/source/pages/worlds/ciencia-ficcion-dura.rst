@@ -2999,7 +2999,7 @@ Puntos de Interés
 
 * Complejo Espacial "Atacama Uno" (Chile, UA):
    * El principal puerto de lanzamiento ecuatorial de la *Unión Americana*. Debido a su altitud y proximidad al ecuador, maximiza la eficiencia del combustible para las naves que se dirigen a *LEO*. Es una "ciudad-lanzadera" donde miles de técnicos viven y trabajan bajo estrictos protocolos de seguridad industrial.
-* Sede Central de la NUT (Ginebra, ADE):
+* Sede Central de las NT (Ginebra, ADE):
    * El corazón burocrático y diplomático de la humanidad. Es un complejo subterráneo masivo diseñado para resistir cualquier tipo de catástrofe. Aquí se dirimen las disputas sobre derechos mineros en el espacio, aunque sus leyes a menudo son ignoradas por las corporaciones.
 * Mega-Fábrica "NISATO Nexus" (Tokio, CTP):
    * La mayor instalación de producción automatizada del mundo. Aquí se fabrican los componentes electrónicos de alta precisión, chips de IA y sensores que son vitales para la supervivencia en el espacio. La planta funciona con una automatización casi total, con apenas un puñado de supervisores humanos.
@@ -3184,8 +3184,8 @@ CTP (Confederación Tecnocrática del Pacífico)
 
 India, Japón, Corea del Sur, Nueva Zelanda y territorios. Su alcance se centra en la IA avanzada, la automatización, la robótica y la alta tecnología computacional.
 
-NUT (Naciones Unidas de la Tierra)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NT (Naciones Terrestres)
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: /_static/images/worlds/ciencia-ficcion-dura/img-47.png
 
