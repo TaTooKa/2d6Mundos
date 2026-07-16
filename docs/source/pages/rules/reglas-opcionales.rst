@@ -1,6 +1,17 @@
 Reglas Opcionales
 =================
 
+Hoja de Personaje
+-----------------
+
+Los personajes en *2d6Mundos* son tan simples mecánicamente que puedes anotarlos en cualquier lado, ya sea una hoja de papel o una aplicación de notas en algún dispositivo electrónico. Sin embargo, si quieres tener una hoja de personaje más formal con campos específicos, puedes descargarla aquí [#]_:
+
+.. [#] Puedes imprimirla del tamaño que prefieras, pero recomendamos tamaño A5 (de modo que te entren dos hojas en una hoja A4 y las puedas recortar). 
+
+.. figure:: /_static/images/hoja-de-personaje.png
+
+   (click derecho y descargar)
+
 Iniciativa
 ----------
 
@@ -100,25 +111,43 @@ La Magia puede ser cansadora; En ciertas situaciones un hechicero podría ganar 
 
 Cuando se tiran los dados para hacer Magia, el tipo de hechizo importa:
 
-* Para hechizos **Sutiles**, un **FALLO ROTUNDO** o **ÉPICO** te causa una Condición de *Cansado*. 
-* Para hechizos **Evidentes**, cualquier tipo de **FALLO** te causa una Condición de *Cansado*. 
-* Para hechizos **Masivos**, incluso con un **ÉXITO NORMAL** (además de con cualquier **FALLO**) sufres una Condición de *Cansado*.  
+.. reglas-opcionales-magia-cansancio-table-start
+
+.. csv-table::
+   :widths: 25, 75
+   :header: "Tipo de Hechizo", "Resultado y Consecuencia"
+
+   "Hechizo **Sutil**", "un **FALLO ROTUNDO** o **ÉPICO** te causa una Condición de *Cansado*"
+   "Hechizo **Evidente**", "Cualquier tipo de **FALLO** te causa una Condición de *Cansado*"
+   "Hechizo **Masivo**", "incluso con un **ÉXITO NORMAL** (además de con cualquier **FALLO**) sufres una Condición de *Cansado*"
 
 A discresión del DJ, incluso si un hechicero no falla sus tiradas, este puede recibir Condiciones de cansancio si abusa demasiado del lanzamiento de hechizos de forma indiscriminada y sin descanso.
+
+.. reglas-opcionales-magia-cansancio-table-end
 
 Tiradas de Lanzar Hechizos
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 La dificultad de la tirada depende de la naturaleza y/o la rareza del hechizo, pero también en su nivel de poder o potencia (**Sutil/Evidente/Masivo**), sumado a cualquier otra circunstancia contextual definida por el DJ. 
 
-Como regla general, toma la siguiente guía de dificultades, modificando con -1 o +1 dependiendo de si el Mundo en cuestión tiene magia muy común (*Alta Magia*; es más fácil o normal hacer hechizos) o no (*Baja Magia*; es más raro o difícil hacer hechizos). 
+Como regla general, la Dificultad varía con -1 o +1 dependiendo de si el Mundo en cuestión tiene magia muy común (*Alta Magia*; es más fácil o normal hacer hechizos) o no (*Baja Magia*; es más raro o difícil hacer hechizos). 
 
-* Hechizos **Sutiles**: Dificultad **8** (42% de chance con un +0)
-* Hechizos **Evidentes**: Dificultad **9** (28% de chance con un +0)
-* Hechizos **Masivos**: Dificultad **10** (17% de chance con un +0)
+.. reglas-opcionales-magia-dificultad-table-start
+
+.. csv-table::
+   :widths: 25, 25, 25, 25
+   :header: "Tipo de Hechizo", "Dificultad en Mundos de *Alta Magia*", "Dificultad en Mundos de *Magia Normal*", "Dificultad en Mundos de *Baja Magia*"
+
+   "Hechizos **Sutiles**", "7", "**8**", "9" 
+   "Hechizos **Evidentes**", "8", "**9**", "10"
+   "Hechizos **Masivos**", "9", "**10**", "11"
+
+.. reglas-opcionales-magia-dificultad-table-end
 
 Requerimientos Adicionales para la Magia Masiva
 ***********************************************
+
+.. reglas-opcionales-magia-masiva-table-start
 
 Opcionalmente, el DJ puede determinar que para poder ejecutar un efecto de **Magia Masiva**, el hechicero debe además cumplir con una o más de las siguientes condiciones:
 
@@ -128,6 +157,8 @@ Opcionalmente, el DJ puede determinar que para poder ejecutar un efecto de **Mag
 * El efecto será limitado o con efectos adversos inciertos 
 * Tu y tus aliados se arriesgarán a un [X] peligro o consecuencia
 * Deberás sacrificar o consumir [X] antes
+
+.. reglas-opcionales-magia-masiva-table-end
 
 Listas de Hechizos?
 ^^^^^^^^^^^^^^^^^^^

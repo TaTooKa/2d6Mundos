@@ -54,3 +54,20 @@ Aplicando y Recibiendo Condiciones
    :end-before: reglas-basicas-aplicando-recibiendo-condiciones-table-end
 
 ver :ref:`Condiciones <reglas-basicas-condiciones>`
+
+Magia
+*****
+
+.. include:: reglas-opcionales.rst
+   :start-after: reglas-opcionales-magia-cansancio-table-start 
+   :end-before: reglas-opcionales-magia-cansancio-table-end
+
+.. include:: reglas-opcionales.rst
+   :start-after: reglas-opcionales-magia-dificultad-table-start 
+   :end-before: reglas-opcionales-magia-dificultad-table-end
+
+.. include:: reglas-opcionales.rst
+   :start-after: reglas-opcionales-magia-masiva-table-start 
+   :end-before: reglas-opcionales-magia-masiva-table-end
+
+ver :ref:`Sistema de Magia <reglas-opcionales-sistema-magia>`
