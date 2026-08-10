@@ -1597,6 +1597,11 @@ LUGARES ÍNTIMOS
      - 6. Salas de entrenamiento sin cerradura
 
 
+Planetas de la Galaxia
+----------------------
+
+TODO
+
 Fuentes de Inspiración
 ----------------------
 
