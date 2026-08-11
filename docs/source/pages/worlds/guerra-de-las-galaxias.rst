@@ -288,8 +288,8 @@ Nombres Típicos de otras Especies
    :widths: 5 20 20 20 20
 
    * - d6
-     - RODIAN
-     - TRANDOSHAN
+     - RODIANO
+     - TRANDOSHANO
      - TWI’LEK
      - WOOKIE
 
@@ -339,7 +339,7 @@ Nombres Típicos de otras Especies
      - BOTHAN
      - DUROS
      - MON CALAMARI
-     - SULLUSTAN
+     - SULLUSTANO
 
    * - 1
      - Hosk Dov'Ar
@@ -384,10 +384,10 @@ Nombres Típicos de otras Especies
    :widths: 5 20 20 20 20
 
    * - d6
-     - GAMORREAN
+     - GAMORREANO
      - HUTT
      - QUARREN
-     - DROID
+     - DROIDE
 
    * - 1
      - Burgua Roguul
