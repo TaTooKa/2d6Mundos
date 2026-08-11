@@ -1600,8 +1600,10 @@ LUGARES ÍNTIMOS
 Planetas de la Galaxia
 ----------------------
 
+Referencia de los planetas más importantes de la Guerra de las Galaxias.
+
 .. csv-table::
-   :header: "Planeta", "Sector", "Terreno Predominante", "Especie Predominante"
+   :header: "Planeta", "Cuadrante", "Terreno Predominante", "Especie Predominante"
 
    "`Anaxes <https://starwars.fandom.com/wiki/Anaxes/Legends>`_ ", "L9", "Planicies, Bosques, Montañas", "Humanos"
    "`Anoat <https://starwars.fandom.com/wiki/Anoat/Legends>`_ ", "K18", "Terrestre", "Humanos, Ugnaughts"
