@@ -42,7 +42,7 @@ Un Poder puede tener distintos Niveles:
 4. **INCREÍBLE**: Demostraciones superiores de habilidades sobrehumanas, dignas de los defensores de regiones o países enteros que luchan contra grandes amenazas del planeta, o exteriores. Pueden dar +1 o +2 a acciones relacionadas, y/o *permiso narrativo* para hacer cosas increíbles.
 5. **SUPREMO**: Manifestaciones del poder en su máxima expresión, dignos de los dioses, seres cósmicos, entidades interdimensionales y fuerzas fundamentales del universo. Pueden dar +2 o +3 a acciones relacionadas, y/o *permiso narrativo* para hacer cosas supremas.
 
-.. [#] ver la explicación de *permiso narrativo* en la sección de :ref:`Modificadores <reglas-basicas-modificadores>` en las Reglas Básicas.
+.. [#] ver la explicación de *permiso narrativo* en la sección de Modificadores en las Reglas Básicas.
 
 Fuentes de Inspiración
 ----------------------
