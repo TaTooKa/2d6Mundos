@@ -4,6 +4,8 @@ Mundo Actual
 Trasfondos
 ----------
 
+.. _mundo-actual-trasfondos-start
+
 .. rst-class:: three-columns
 
 #. Actor
@@ -85,5 +87,4 @@ Trasfondos
 #. Diseñador de Moda
 #. Disc-Jockey
 
-
-
+.. _mundo-actual-trasfondos-end
