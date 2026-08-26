@@ -20,6 +20,8 @@ Al crear a un personaje, tendrás 3 Niveles de Trasfondos para repartir como pre
 Poderes
 -------
 
+Durante la creación de personaje, tendrás 5 puntos de poder para gastar en la adquisición de poderes. Cada poder tiene un costo en puntos igual a su *Nivel de Poder*, y puede tener *Extras* y *Límites* que aumentan o disminuyen su costo.
+
 Nivel de Poder
 ^^^^^^^^^^^^^^
 
@@ -157,7 +159,9 @@ Materiales
 Extras y Límites
 ^^^^^^^^^^^^^^^^
 
-TODO: reglas
+Los **Extras** son modificadores que aumentan el costo de un poder en 1 punto (o N, si el Extra lo permite), mientras que los **Límites** lo disminuyen de la misma manera [#]_ . Los Extras son beneficios o mejoras que hacen que el poder sea más versátil o funcione distinto de lo normal, mientras que los Límites son restricciones o debilidades que lo hacen menos útil o más acotado. Confirma cualquier modificación con el DJ, para corroborar que tenga sentido, sea apropiada y no abuse de la mecánica del juego.
+
+.. [#] De esta forma, puedes obtener más puntos para gastar en otros poderes, o para gastar en Extras que mejoren el poder que estás adquiriendo.
 
 Extras
 ~~~~~~
@@ -165,34 +169,35 @@ Extras
 * **AFECTA A OTROS**: Puedes afectar a otros sujetos con este poder; no solamente a tí mismo. Si buscas que **solamente** afecte a otros, usa el Límite "**SOLO A OTROS**". 
 * **AFECTA [X]**: Tu Poder funciona sobre un tipo de objetivo que es normalmente inmune, o tiene un efecto específico que no es común. 
 * **ÁREA (N)**: Tu Poder afecta una área más amplia que un solo objetivo. N es la cantidad de puntos gastados en este Extra, y representa los incrementos de rango de área aumentada.
-* **CONTAGIOSO**: The effect of your power is contagious and may spread to someone else who comes into contact with a target while the power is still in effect.
-* **DEFENSIVO**: You can use this typically offensive or utilitarian power to defend yourself or protect others.
-* **DURACIÓN (N)**: Your power lasts longer than usual, based on its power level. N is the amount of points spent on this Extra, and the increased duration tiers.
-* **INSTANTÁNEO**: Your normally slow or Preparation-mandatory power now executes instantly.
-* **PASAJEROS**: Your movement-related power can carry people or objects along.
-* **A DISTANCIA (N)**: You can use a normally touch-based or Close-range power out to Near or Far range, OR you can increase the base Distance of this power N times (N is the amount of points spent on this Extra).
-* **REVERSIBLE**: You can reverse the effects of your power, ending them at will or making it do the opposite of what it would normally do.
-* **SUB-EFECTO**: This power includes another power as a sub-effect of its own (that is usually only available if this power is active, or is a subproduct of it), i.e. Fire Aura might include Flight as a Sub-Effect.
+* **CONTAGIOSO**: El efecto de tu poder se contagia y puede propagarse a alguien más que entre en contacto con un objetivo mientras el poder sigue activo.
+* **DEFENSIVO**: Puedes usar un poder que normalmente es ofensivo o utilitario, para defenderte a ti mismo o proteger a otros.
+* **DURACIÓN (N)**: La duración de tu poder es mayor de lo habitual, basada en su nivel de poder. N es la cantidad de puntos gastados en este Extra, y representa los incrementos de duración aumentada.
+* **INSTANTÁNEO**: Tu poder, que normalmente es lento o requiere Preparación, ahora se ejecuta al instante.
+* **PASAJEROS**: Tu poder relacionado con el movimiento puede transportar a otras personas u objetos.
+* **A DISTANCIA (N)**: Puedes usar un poder que normalmente es de contacto o de alcance cercano a una distancia mayor, una cantidad de rangos igual a N (N es la cantidad de puntos gastados en este Extra).
+* **REVERSIBLE**: Puedes revertir los efectos de tu poder, terminándolos a voluntad o haciendo que haga lo opuesto a lo que normalmente haría.
+* **SUB-EFECTO**: Este poder incluye otro poder como un sub-efecto del propio (que normalmente solo está disponible si este poder está activo, o es un subproducto de él), por ejemplo, un *Aura de Fuego* podría incluir *Vuelo* como Sub-Efecto.
 
 Límites
 ~~~~~~~
 
-* **BLOQUEADO POR [X]**: Your power does not affect some common type of object or substance, such as wood, aluminum, or things colored yellow, for example.
-* **AGOTABLE**: After you use your power, it stops working for a while.
-* **CORTO ALCANCE**: Your normally long-range power only works at close range.
-* **CONCENTRACIÓN**: You must concentrate to maintain the power, meaning that you can’t do other things properly in the meantime (DIFFICULTY for other tasks is increased), and certain hindrances could break that concentration, thus ending the effect.
-* **CONSTANTE**: The power is always active (making it hindering or very inconvenient). For damaging powers, this means you may unwillingly damage people and things around you. Other powers may make you appear freakish or just make life difficult for you.
-* **LIMITADO A [X]**: Your power only works with a certain subset of its domain. For example, “Energy Control” usually covers all types of energy, but using this Limit you could constrain it to “Dark Energy Control”.
-* **DEGRADABLE**: Your power loses effectiveness over time when used. This can be represented as lowering its level on each Round that passes, or by a number indicated in the Power description on each use, until you have an opportunity to recover.
-* **EXCLUSIVO**: You cannot use or maintain other powers while using this one (either gets interrupted/turns off).
-* **SOLO A LA VISTA**: You must be able to see the target(s) of your power.
-* **PREPARACIÓN (N)**: You must spend N Speed Segments in a Round just winding-up the power before activating it. If N ends up longer than your Speed for that Round, it overflows to the next Round.
-* **DESCONTROLADO**: You cannot vary this power’s level or exert any fine control. Sometimes it works at max potency, others it might fizzle out or do unexpected things.
-* **SOLO [X]**: Your power works only in a given situation or against a particular subject, such as only at night, only when you’re angry, only against men (or women), and so forth.
-* **SOLO A OTROS**: The power only affects others; you cannot use it on yourself. 
-* **CANSADOR**: Using this power takes a toll; decrease one of your Attributes (the GM will tell you which) or this power by one tier, until rest.
-* **SOLO AL TOCAR**: Your normally ranged power only works by touching the target.
-* **DEBILITADO POR [X]**: Your power is heavily diminished or turned off when something specific happens or when you are exposed to a certain type of energy or material.
+* **BLOQUEADO POR [X]**: Tu poder no funciona mientras algo específico esté presente, o mientras estés expuesto a un tipo de energía o material.
+* **AGOTABLE (N)**: Tu poder se agota después de usarlo, dejando de funcionar por un tiempo (N es la cantidad de puntos gastados en este Límite, escalando el tiempo en minutos, horas, días, etc).
+* **CORTO ALCANCE**: Tu poder, que normalmente es de largo alcance, solo funciona a corta distancia.
+* **CONCENTRACIÓN**: Debes concentrarte para mantener el poder, lo que significa que no puedes hacer otras cosas correctamente mientras tanto (la DIFICULTAD para otras tareas se incrementa), y ciertos obstáculos podrían romper esa concentración, terminando el efecto.
+* **CONSTANTE**: Tu poder está siempre activo (lo que lo hace molesto o muy inconveniente). Para poderes dañinos, esto significa que podrías dañar involuntariamente a personas y cosas a tu alrededor. Otros poderes pueden hacer que parezcas extraño o simplemente dificultarte la vida.
+* **LIMITADO A [X]**: Tu poder solo funciona con un subconjunto específico de su dominio. Por ejemplo, “Control de Energía” normalmente abarca todos los tipos de energía, pero usando este Límite podrías restringirlo a “Control de Energía Oscura”.
+* Your power only works with a certain subset of its domain. For example, “Energy Control” usually covers all types of energy, but using this Limit you could constrain it to “Dark Energy Control”.
+* **DEGRADABLE**: Tu poder pierde efectividad cada vez que se usa. Esto puede representarse disminuyendo su nivel, o incrementando la Dificultad al usarlo, hasta que tengas la oportunidad de recuperarte.
+* **EXCLUSIVO**: No puedes usar ni mantener otros poderes mientras usas este (cualquiera de ellos se interrumpe o se apaga).
+* **SOLO A LA VISTA**: Debes tener una línea de visión ininterrumpida hacia el/los objetivo/s de tu poder.
+* **PREPARACIÓN (N)**: Debes gastar N *Segmentos de Velocidad* o *Rounds* solo preparando el poder antes de activarlo. 
+* **DESCONTROLADO**: No puedes manejar el nivel de este poder ni ejercer un control fino sobre él. A veces funciona a máxima potencia, otras veces puede fallar o hacer cosas inesperadas (a discreción del DJ).
+* **SOLO [X]**: Tu poder funciona solo en una situación dada o contra un sujeto particular, como "solo de noche", "solo cuando estás enojado", "solo contra hombres (o mujeres)", etc.
+* **SOLO A OTROS**: Este poder solo afecta a otros; no puedes usarlo en ti mismo.
+* **CANSADOR**: Usar este poder tiene un costo; ganas una Condición Leve de "cansado" o similar al usarlo.
+* **SOLO AL TOCAR**: Tu poder, que normalmente es a distancia, solo funciona al tocar al objetivo.
+* **DEBILITADO POR [X]**: Tu poder se ve fuertemente disminuido o se apaga cuando ocurre algo específico o cuando estás expuesto a un cierto tipo de energía o material.
 
 
 Fuentes de Inspiración
