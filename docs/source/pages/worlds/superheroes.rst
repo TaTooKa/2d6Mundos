@@ -187,7 +187,6 @@ Límites
 * **CONCENTRACIÓN**: Debes concentrarte para mantener el poder, lo que significa que no puedes hacer otras cosas correctamente mientras tanto (la DIFICULTAD para otras tareas se incrementa), y ciertos obstáculos podrían romper esa concentración, terminando el efecto.
 * **CONSTANTE**: Tu poder está siempre activo (lo que lo hace molesto o muy inconveniente). Para poderes dañinos, esto significa que podrías dañar involuntariamente a personas y cosas a tu alrededor. Otros poderes pueden hacer que parezcas extraño o simplemente dificultarte la vida.
 * **LIMITADO A [X]**: Tu poder solo funciona con un subconjunto específico de su dominio. Por ejemplo, “Control de Energía” normalmente abarca todos los tipos de energía, pero usando este Límite podrías restringirlo a “Control de Energía Oscura”.
-* Your power only works with a certain subset of its domain. For example, “Energy Control” usually covers all types of energy, but using this Limit you could constrain it to “Dark Energy Control”.
 * **DEGRADABLE**: Tu poder pierde efectividad cada vez que se usa. Esto puede representarse disminuyendo su nivel, o incrementando la Dificultad al usarlo, hasta que tengas la oportunidad de recuperarte.
 * **EXCLUSIVO**: No puedes usar ni mantener otros poderes mientras usas este (cualquiera de ellos se interrumpe o se apaga).
 * **SOLO A LA VISTA**: Debes tener una línea de visión ininterrumpida hacia el/los objetivo/s de tu poder.
