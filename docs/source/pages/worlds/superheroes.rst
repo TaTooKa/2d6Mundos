@@ -27,17 +27,35 @@ Nivel de Poder
 
 Un Poder puede tener distintos Niveles:
 
-1. **PECULIAR**: Llamativo, aunque explicable por coincidencias. Aunque novedoso, es la versión más débil o trivial que puede tener un poder. Usualmente da +0 a acciones relacionadas y solo sirve para dar *permiso narrativo* [#]_ en situaciones muy específicas y limitadas.
+❶ **PECULIAR**: Llamativo, aunque explicable por coincidencias. Aunque novedoso, es la versión más débil o trivial que puede tener un poder. Usualmente da +0 a acciones relacionadas y solo sirve para dar *permiso narrativo* [#]_ en situaciones muy específicas y limitadas.
 
-2. **EXCEPCIONAL**: Definitivamente sobrenatural, aunque de nivel limitado. Está a un nivel terrenal callejero típico de los vigilantes urbanos o aventureros iniciados. Una versión acotada del potencial del Poder. Usualmente da +1 a acciones relacionadas, y/o *permiso narrativo* para hacer cosas excepcionales.
+❷ **EXCEPCIONAL**: Definitivamente sobrenatural, aunque de nivel limitado. Está a un nivel terrenal callejero típico de los vigilantes urbanos o aventureros iniciados. Una versión acotada del potencial del Poder. Usualmente da +1 a acciones relacionadas, y/o *permiso narrativo* para hacer cosas excepcionales.
 
-3. **ASOMBROSO**: Innegable poder superhumano, digno de los héroes de primera línea que protegen ciudades enteras. Puede dar +1 o +2 a acciones relacionadas, y/o *permiso narrativo* para hacer cosas asombrosas.
+❸ **ASOMBROSO**: Innegable poder superhumano, digno de los héroes de primera línea que protegen ciudades enteras. Puede dar +1 o +2 a acciones relacionadas, y/o *permiso narrativo* para hacer cosas asombrosas.
 
-4. **INCREÍBLE**: Demostraciones superiores de habilidades sobrehumanas, dignas de los defensores de regiones o países enteros que luchan contra grandes amenazas del planeta, o exteriores. Pueden dar +1 o +2 a acciones relacionadas, y/o *permiso narrativo* para hacer cosas increíbles.
+❹ **INCREÍBLE**: Demostraciones superiores de habilidades sobrehumanas, dignas de los defensores de regiones o países enteros que luchan contra grandes amenazas del planeta, o exteriores. Pueden dar +1 o +2 a acciones relacionadas, y/o *permiso narrativo* para hacer cosas increíbles.
 
-5. **SUPREMO**: Manifestaciones del poder en su máxima expresión, dignos de los dioses, seres cósmicos, entidades interdimensionales y fuerzas fundamentales del universo. Pueden dar +2 o +3 a acciones relacionadas, y/o *permiso narrativo* para hacer cosas supremas.
+❺ **SUPREMO**: Manifestaciones del poder en su máxima expresión, dignos de los dioses, seres cósmicos, entidades interdimensionales y fuerzas fundamentales del universo. Pueden dar +2 o +3 a acciones relacionadas, y/o *permiso narrativo* para hacer cosas supremas.
 
-.. [#] ver la explicación de *permiso narrativo* en la sección de Modificadores en las Reglas Básicas.
+.. [#] ver la explicación de *permiso narrativo* en la sección de :ref:`Modificadores <reglas-basicas-modificadores>` en las Reglas Básicas.
+
+Uso de Poderes
+^^^^^^^^^^^^^^
+
+Cuando uses tu Poder, el DJ determinará si debes hacer una tirada de acción (a veces no es necesario y funciona automáticamente), y de ser así, cual es la Dificultad para la misma [#]_ . Tu Poder podrá tener efectos determinados por su Nivel (como se explica más arriba), aunque la mayoría de los personajes con super-poderes saben usar versiones más "leves" o sutiles del mismo (lo que significa que tienes acceso a tu Nivel de Poder, y a todos los inferiores al mismo, a voluntad).
+
+.. [#] De forma similar al :ref:`Sistema de Magia <reglas-opcionales-sistema-magia>`, el DJ se basará en la "potencia" y consecuencias narrativas en relación con tu Nivel de Poder, sumado a otros factores del contexto de la acción, para determinar la Dificultad de la tirada.
+
+Sobre-Exigir tu Poder
+~~~~~~~~~~~~~~~~~~~~~
+
+En determinadas ocasiones, haciendo un gran esfuerzo puedes sobre-exigir tu Poder, haciendo que funcione diferente o mejor de lo normal. Esto tiene un costo en forma de una Condición que represente el agotamiento causado (La gravedad de la Condición queda a criterio del DJ, dependiendo del contexto y su uso). También podría incrementar la Dificultad de la acción, si el DJ lo determina así.
+
+Cuando sobre-exiges un Poder y sufres el costo, puedes:
+
+* Hacer un efecto como si el Poder fuese de +1 Nivel superior al que tiene, o...
+* Ignorar un Límite que tiene, por esta vez, o...
+* Usar un nuevo Extra, para que haga algo mejor o diferente, por esta vez. 
 
 Lista de Poderes
 ^^^^^^^^^^^^^^^^
