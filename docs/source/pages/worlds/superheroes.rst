@@ -43,7 +43,21 @@ El Orígen explica cómo obtuviste tus poderes.
 Arquetipo
 ^^^^^^^^^
 
-TODO
+El Arquetipo define tu personalidad, como actúas, y como te ven los demás.
+
+.. csv-table::
+   :header: "#", "Arquetipo", "Descripción"
+
+   "1", "MODELO A SEGUIR", "El ejemplo ideal del heroísmo, encargado de inspirar a los demás a través del coraje y la convicción (con todo el peso y responsabilidad que eso conlleva)."
+   "2", "FENÓMENO", "Alterado por fuerzas o influencias extrañas que suelen causar rechazo; complicado o discriminado por lo que lo hace diferente."
+   "3", "MENTE MAESTRA", "Un genio con las herramientas e intelecto necesario para sortear cualquier problema (y a veces crear otros nuevos)."
+   "4", "BROMISTA", "El de actitud siempre jovial que exaspera a aliados y enemigos por igual, muchas veces enmascarando grandes verdades detrás del humor y el caos."
+   "5", "TURBADO", "Un vigilante o anti-héroe asolado por dolores o sombras del pasado, pero con un inquebrantable sentido de la justicia."
+   "6", "EXTRANJERO", "Alguien proveniente de “otro lugar” (planeta/dimensión/tiempo/etc) que trata de entender y proteger un mundo al que no pertenece."
+   "7", "BRUTO", "Una masa de fuerza bestial y voluntad implacable, siempre listo para arrollar a través de cualquier obstáculo, actuando primero y pensando después."
+   "8", "DESCONTROLADO", "Una fuerza volátil de pura emoción y poder, luchando por mantenerse entero sin afectar a las pocas cercanías que le quedan."
+
+
 
 Poderes
 -------
