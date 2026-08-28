@@ -17,6 +17,32 @@ Al crear a un personaje, tendrás 3 Niveles de Trasfondos para repartir como pre
    :start-after: mundo-actual-trasfondos-start
    :end-before: mundo-actual-trasfondos-end
 
+Origen
+^^^^^^
+
+El Orígen explica cómo obtuviste tus poderes.
+
+.. csv-table::
+   :header: "#", "Origen", "Descripción"
+
+   "1", "ALIENÍGENA", "Eres un extraterrestre, proveniente de otro planeta o dimensión, con diferentes habilidades o aspectos biológicos."
+   "2", "ARTIFICIAL", "Eres un constructo creado artificialmente, como un robot o un gólem."
+   "3", "TECNOLÓGICO", "Eres un humano mortal mejorado por la tecnología, ya sean cíber-implantes injertados en tu cuerpo o dispositivos avanzados que usas."
+   "4", "ELEGIDO", "Ya sea por casualidades del destino, o por el deseo de un ser muy poderoso, se te han otorgado habilidades especiales por tus condiciones y potencial, o como parte de una profecía o legado."
+   "5", "TRANSFORMADO", "Has sido mutado o mejorado por sobre los límites humanos por algún tipo de fuente de super-ciencia o magia, intencionalmente o como consecuencia de un accidente muy difícil de replicar."
+   "6", "MÍTICO", "Provienes de orígenes míticos, de un panteón divino de deidades, ancestros angélicos o demoníacos, u otras leyendas sobrenaturales."
+   "7", "MÁGICO", "Has estudiado o has sido tocado por la Magia, o tienes algún tipo de ascendencia mística o conexión con otros planos de existencia exteriores."
+   "8", "ENTRENADO", "Eres un humano mortal que ha entrenado en una o más áreas de especialidad hasta alcanzar un nivel increíble."
+   "9", "ATEMPORAL", "Vienes de otro tiempo, ya sea el futuro o el pasado lejano, que te da ventajas en tus habilidades o equipamiento."
+   "10", "GENÉTICO", "Naciste con una alteración genética que te llevó a desarrollar habilidades increíbles, como parte de un “Gen-X” o como un nuevo eslabón en la evolución humana."
+
+
+
+Arquetipo
+^^^^^^^^^
+
+TODO
+
 Poderes
 -------
 
