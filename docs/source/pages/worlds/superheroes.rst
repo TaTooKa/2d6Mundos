@@ -9,9 +9,11 @@ Creación de Personaje
 Trasfondos
 ^^^^^^^^^^
 
-Los TRASFONDOS en un Mundo de Superhéroes están relacionados a la profesión u ocupación "mundana" del personaje. Determinan su historia y estilo de vida, y las habilidades que pueden tener.
+Los TRASFONDOS en un Mundo de Superhéroes están relacionados a la profesión u ocupación "mundana" del personaje [#]_ . Determinan su historia y estilo de vida, y las habilidades que pueden tener.
 
 Al crear a un personaje, tendrás 3 Niveles de Trasfondos para repartir como prefieras; podrías tener uno solo en Nivel 3 ("*Experto*"), o uno en Nivel 2 ("*Entrenado*") y otro en Nivel 1 ("*Aficionado*"), o los tres en Nivel 1 ("*Aficionado*"). Si prefieres dejarlo al azar, tira 1d100 y consulta la siguiente tabla (vuelve a tirar si sale un resultado superior al último de la lista):
+
+.. [#] Los Trasfondos de profesiones mundanas son los mismos usados para el :ref:`Mundo Actual <mundo-actual>`.
 
 .. include:: mundo-actual.rst
    :start-after: mundo-actual-trasfondos-start

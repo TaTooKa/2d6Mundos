@@ -1,6 +1,8 @@
 Mundo Actual
 ============
 
+.. _mundo-actual:
+
 Trasfondos
 ----------
 
