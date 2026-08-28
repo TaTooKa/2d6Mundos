@@ -1,7 +1,11 @@
 Superhéroes
 ===========
 
-El género "" ... TODO
+El género de Superhéroes está típicamente influenciado por las historias y la estética de las revistas de historietas de mediados del siglo 20 en adelante. No solo implica que existe gente con "habilidades sobrenaturales", si no que le da un tinte de heroísmo (o villanía) donde pocas veces hay términos medios entre el Bien y el Mal. Las temáticas de la lucha por la justicia y la protección de los indefensos están a la orden del día, así como también las dicotomías clásicas de la validez ética del vigilantismo o de los límites de la ley y las instituciones. 
+
+Se suele ambientar en el mundo actual, o en una versión similar del mismo, donde a veces existe una tecnología un tanto más avanzada, o donde la sociedad en general está ligeramente cambiada dado a tener que vivir en una realidad en la que existen individuos excepcionales con poderes asombrosos.
+
+Típicamente, en universos de Superhéroes suele decirse que "existe todo": Los alienígenas y civilizaciones interestelares; la magia y el ocultismo; los dioses, demonios y otras criaturas mitológicas; los monstruos de leyenda; los viajes temporales o inter-dimensionales; las mutaciones genéticas y los "accidentes de super-ciencia" que otorgan super-poderes; héroes míticos de un pasado que aquí sí existió; etc. Cada DJ puede adaptar y tomar o dejar lo que prefiera, pero vale aclarar que todas estas son expectativas clásicas para mundos de este género. 
 
 Creación de Personaje
 ---------------------
@@ -13,7 +17,7 @@ Los TRASFONDOS en un Mundo de Superhéroes están relacionados a la profesión u
 
 Al crear a un personaje, tendrás 3 Niveles de Trasfondos para repartir como prefieras; podrías tener uno solo en Nivel 3 ("*Experto*"), o uno en Nivel 2 ("*Entrenado*") y otro en Nivel 1 ("*Aficionado*"), o los tres en Nivel 1 ("*Aficionado*"). Si prefieres dejarlo al azar, tira 1d100 y consulta la siguiente tabla (vuelve a tirar si sale un resultado superior al último de la lista):
 
-.. [#] Los Trasfondos de profesiones mundanas son los mismos usados para el :ref:`Mundo Actual <mundo-actual>`.
+.. [#] Los Trasfondos de profesiones mundanas son los mismos usados para el :ref:`Mundo Actual <mundo-actual>`. Si tu mundo de superhéroes fuese a tener otro tipo de ocupaciones porque está situado en otro tiempo, o en otro planeta o universo alternativo al nuestro, no dudes en usar otra lista de Trasfondos o inventar nuevos acorde a las necesidades.
 
 .. include:: mundo-actual.rst
    :start-after: mundo-actual-trasfondos-start
@@ -91,7 +95,7 @@ Cuando uses tu Poder, el DJ determinará si debes hacer una tirada de acción (a
 Sobre-Exigir tu Poder
 ~~~~~~~~~~~~~~~~~~~~~
 
-En determinadas ocasiones, haciendo un gran esfuerzo puedes sobre-exigir tu Poder, haciendo que funcione diferente o mejor de lo normal. Esto tiene un costo en forma de una Condición que represente el agotamiento causado (La gravedad de la Condición queda a criterio del DJ, dependiendo del contexto y su uso). También podría incrementar la Dificultad de la acción, si el DJ lo determina así.
+En determinadas ocasiones, haciendo un gran esfuerzo puedes sobre-exigir tu Poder, haciendo que funcione diferente o mejor de lo normal. Esto tiene un costo en forma de una :ref:`Condición <reglas-basicas-condiciones>` que represente el agotamiento causado (La gravedad de la Condición queda a criterio del DJ, dependiendo del contexto y su uso). También podría incrementar la :ref:`Dificultad <reglas-basicas-dificultad>` de la acción, si el DJ lo determina así.
 
 Cuando sobre-exiges un Poder y sufres el costo, puedes:
 
@@ -219,7 +223,7 @@ Materiales
 Extras y Límites
 ^^^^^^^^^^^^^^^^
 
-Los **Extras** son modificadores que aumentan el costo de un poder en 1 punto (o N, si el Extra lo permite), mientras que los **Límites** lo disminuyen de la misma manera [#]_ . Los Extras son beneficios o mejoras que hacen que el poder sea más versátil o funcione distinto de lo normal, mientras que los Límites son restricciones o debilidades que lo hacen menos útil o más acotado. Confirma cualquier modificación con el DJ, para corroborar que tenga sentido, sea apropiada y no abuse de la mecánica del juego.
+Los **Extras** son modificadores que aumentan el costo de un poder en 1 punto (o N, si el Extra lo permite), mientras que los **Límites** lo disminuyen de la misma manera [#]_ . Los Extras son beneficios o mejoras que hacen que el poder sea más versátil o funcione distinto de lo normal, mientras que los Límites son restricciones o debilidades que lo hacen menos útil o más acotado. Confirma cualquier modificación con el DJ, para corroborar que tenga sentido, sea apropiada y no abuse de las mecánicas del juego.
 
 .. [#] De esta forma, puedes obtener más puntos para gastar en otros poderes, o para gastar en Extras que mejoren el poder que estás adquiriendo.
 
@@ -228,15 +232,17 @@ Extras
 
 * **AFECTA A OTROS**: Puedes afectar a otros sujetos con este poder; no solamente a tí mismo. Si buscas que **solamente** afecte a otros, usa el Límite "**SOLO A OTROS**". 
 * **AFECTA [X]**: Tu Poder funciona sobre un tipo de objetivo que es normalmente inmune, o tiene un efecto específico que no es común. 
-* **ÁREA (N)**: Tu Poder afecta una área más amplia que un solo objetivo. N es la cantidad de puntos gastados en este Extra, y representa los incrementos de rango de área aumentada.
+* **ÁREA (N)**: Tu Poder afecta una área más amplia que un solo objetivo. N es la cantidad de puntos gastados en este Extra, y representa los incrementos de rango de área aumentada [#]_.
 * **CONTAGIOSO**: El efecto de tu poder se contagia y puede propagarse a alguien más que entre en contacto con un objetivo mientras el poder sigue activo.
 * **DEFENSIVO**: Puedes usar un poder que normalmente es ofensivo o utilitario, para defenderte a ti mismo o proteger a otros.
-* **DURACIÓN (N)**: La duración de tu poder es mayor de lo habitual, basada en su nivel de poder. N es la cantidad de puntos gastados en este Extra, y representa los incrementos de duración aumentada.
+* **DURACIÓN (N)**: La duración de tu poder es mayor de lo habitual, basada en su nivel de poder. N es la cantidad de puntos gastados en este Extra, y representa los incrementos de duración aumentada sobre el básico típico (segundos > minutos > horas > días > semanas, etc).
 * **INSTANTÁNEO**: Tu poder, que normalmente es lento o requiere Preparación, ahora se ejecuta al instante.
 * **PASAJEROS**: Tu poder relacionado con el movimiento puede transportar a otras personas u objetos.
 * **A DISTANCIA (N)**: Puedes usar un poder que normalmente es de contacto o de alcance cercano a una distancia mayor, una cantidad de rangos igual a N (N es la cantidad de puntos gastados en este Extra).
 * **REVERSIBLE**: Puedes revertir los efectos de tu poder, terminándolos a voluntad o haciendo que haga lo opuesto a lo que normalmente haría.
 * **SUB-EFECTO**: Este poder incluye otro poder como un sub-efecto del propio (que normalmente solo está disponible si este poder está activo, o es un subproducto de él), por ejemplo, un *Aura de Fuego* podría incluir *Vuelo* como Sub-Efecto.
+
+.. [#] Puedes utilizar la :ref:`tabla de Distancias <reglas-opcionales-combate-distancia>` en las reglas opcionales de **Combates y Violencia** como guía de los diferentes rangos de área de este Extra.
 
 Límites
 ~~~~~~~
