@@ -678,6 +678,46 @@ La **Magia Natural** es un tipo de magia que se basa en la conexión con la natu
    "65", "**FLECHA DE ESPINA**: Transforma una simple flecha de madera en un dardo orgánico que inyecta veneno de hiedra."
    "66", "**REVERDECER**: Purifica una zona de tierra marchita o corrompida por la magia arcana o impía."
 
+Objetos y Tesoros
+^^^^^^^^^^^^^^^^^
+
+TODO (equipo de aventurero)
+
+TODO (tesoros y valor)
+
+Generadores al Azar
+-------------------
+
+Misiones y Aventuras
+^^^^^^^^^^^^^^^^^^^^
+
+TODO
+
+Pueblos y Ciudades
+^^^^^^^^^^^^^^^^^^
+
+TODO
+
+PNJs
+^^^^
+
+TODO
+
+Naturaleza
+^^^^^^^^^^
+
+TODO
+
+Mazmorras
+^^^^^^^^^
+
+TODO
+
+Monstruos
+^^^^^^^^^
+
+TODO
+
 Fuentes de Inspiración
 ----------------------
 
