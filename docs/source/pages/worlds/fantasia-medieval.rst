@@ -1,14 +1,14 @@
 Fantasía Medieval
 =================
 
-.. figure:: /_static/images/worlds/fantasia-medieval/img-1.png
+.. figure:: /_static/images/worlds/fantasia-medieval/fantasia-medieval-img-1.png
 
 El género de *Fantasía Medieval* suele desarrollarse en mundos fantásticos similares al nuestro, pero con geografía, reinos y razas particulares. Los protagonistas suelen comenzar como aprendices, neófitos o "don nadies" que, siguiendo el *Camino del Héroe*, se embarcan en aventuras que se conectan en una odisea de escala épica. Lo normal en los juegos de rol es que estos aventureros comiencen de a poco, con misiones simples como la exploración de lugares peligrosos como mazmorras o ruinas, la caza de algún monstruo o criatura mitológica, y luego con el pasar de sus hazañas, estas se vuelvan cada vez más complejas y abarcativas. Para el final de su "campaña" estarán lidiando con problemas entre reinos y ejércitos, villanos de gran poder, e incluso podrían estar entrometiéndose entre las gestas de los Dioses.
 
 Creación de Personaje
 ---------------------
 
-.. figure:: /_static/images/worlds/fantasia-medieval/img-4.png
+.. figure:: /_static/images/worlds/fantasia-medieval/fantasia-medieval-img-4.png
 
 Los Personajes de *Fantasía Medieval* están definidos por su **Trasfondo** (profesión o conjunto de habilidades no necesariamente relacionadas a la aventura), su **Clase** (arquetipos de aventurero clásicos como *Mago*, *Guerrero*, *Ladrón* o *Clérigo*) y su **Raza** (*Enano*, *Elfo*, *Mediano*, etc). La Raza solo puede ser escogida durante la creación del personaje (se asume que el personaje es Humano si no se elige una Raza particular).
 
@@ -23,7 +23,7 @@ Además, los jugadores deberan escoger un **Alineamiento** entre *Legal*, *Neutr
 Trasfondos
 ^^^^^^^^^^
 
-.. figure:: /_static/images/worlds/fantasia-medieval/img-3.png
+.. figure:: /_static/images/worlds/fantasia-medieval/fantasia-medieval-img-3.png
 
 .. csv-table::
    :widths: 5, 95
@@ -69,7 +69,7 @@ Trasfondos
 Clases y Razas
 ^^^^^^^^^^^^^^
 
-.. figure:: /_static/images/worlds/fantasia-medieval/img-2.png
+.. figure:: /_static/images/worlds/fantasia-medieval/fantasia-medieval-img-2.png
 
 Cada Clase o Raza tiene diferentes **Títulos** en cada Nivel. Para subir de Nivel en esas, además de gastar PX, necesitas cumplir una misión o criterio para poder aplicar al mismo (descrita en las tablas a continuación, dependiendo de su *Alineamiento*). Si comienzas con niveles superiores a 1 en una Clase o Raza, asume que ya has cumplido esos requisitos en el pasado.
 
@@ -78,7 +78,7 @@ Clérigo
 
 .. sidebar:: 
 
-   .. figure:: /_static/images/worlds/fantasia-medieval/img-10.png
+   .. figure:: /_static/images/worlds/fantasia-medieval/fantasia-medieval-img-10.png
 
 Los Clérigos son sacerdotes de una religión que, en vez de quedarse en un templo o monasterio, han decidido aventurarse hacia lo desconocido, para llevar la palabra de sus dioses, evangelizar a los aún no creyentes, y combatir a los enemigos de su credo.
 
@@ -112,7 +112,7 @@ Ladrón
 
 .. sidebar:: 
 
-   .. figure:: /_static/images/worlds/fantasia-medieval/img-9.png
+   .. figure:: /_static/images/worlds/fantasia-medieval/fantasia-medieval-img-9.png
 
 Los Ladrones son habilidosos rateros, ágiles saqueadores de tumbas, expertos buscadores de tesoros, o fugaces caminantes de las sombras.
 
@@ -145,7 +145,7 @@ Mago
 
 .. sidebar:: 
 
-   .. figure:: /_static/images/worlds/fantasia-medieval/img-11.png
+   .. figure:: /_static/images/worlds/fantasia-medieval/fantasia-medieval-img-11.png
 
 Los Magos se dedican al estudio y la ejecución de hechizos y rituales arcanos. Algunos son más estudiosos y prefieren investigar en bibliotecas y laboratorios, mientras que otros son más prácticos y prefieren aventurarse a lo desconocido, probar sus sortilegios en el campo de batalla, y descubrir nuevos conjuros desenterrando pergaminos viejos y grimorios olvidados. 
 
@@ -179,7 +179,7 @@ Guerrero
 
 .. sidebar:: 
 
-   .. figure:: /_static/images/worlds/fantasia-medieval/img-12.png
+   .. figure:: /_static/images/worlds/fantasia-medieval/fantasia-medieval-img-12.png
 
 Los Guerreros se especializan en el combate físico, en tácticas y estrategias de guerra a gran escala como también en escaramuzas contenidas, o en duelos y otros tipos de peleas exóticas. Algunos venden sus habilidades al mejor postor, ya sea como mercenarios o guardaespaladas, mientras que otros siguen el honor, la caballerosidad, o la sed de conquista y destrucción.
 
@@ -211,7 +211,7 @@ Enano
 
 .. sidebar:: 
 
-   .. figure:: /_static/images/worlds/fantasia-medieval/img-13.png
+   .. figure:: /_static/images/worlds/fantasia-medieval/fantasia-medieval-img-13.png
 
 La Raza de los Enanos proviene de grandes ciudades en lo profundo de las montañas o en cuevas subterráneas. Son muy robustos y resistentes, a pesar de su corta estatura. Tienen predilección por las artesanías de compleja manufactura y fascinación por los tesoros brillantes y artefactos poderosos. Suelen vivir hasta los 250 años.
 
@@ -261,7 +261,7 @@ Elfo
 
 .. sidebar:: 
 
-   .. figure:: /_static/images/worlds/fantasia-medieval/img-14.png
+   .. figure:: /_static/images/worlds/fantasia-medieval/fantasia-medieval-img-14.png
 
 La Raza de los Elfos proviene de los bosques más antiguos y de los valles ocultos del mundo. Son muy gráciles y de fina belleza. Su destreza o maestría en diversas disciplinas a veces hace creer a las otras Razas que todo lo hacen por métodos mágicos, pero en realidad su eficacia se debe a su longevidad y el tiempo que han dedicado a practicar distintos rubros. Los elfos suelen vivir miles de años.
 
@@ -311,7 +311,7 @@ Mediano
 
 .. sidebar:: 
 
-   .. figure:: /_static/images/worlds/fantasia-medieval/img-22.jpg
+   .. figure:: /_static/images/worlds/fantasia-medieval/fantasia-medieval-img-22.jpg
 
 La Raza de los Medianos proviene de pequeños pueblos de las praderas, o de humildes granjas circundantes a los grandes centros urbanos. Si bien la mayoría suelen ser de vidas tranquilas y despreocupadas, algunos pocos tienen la necesidad de aventura y curiosidad por descubrir lo desconocido. Su diminuto tamaño (nunca superan la altura ni robustez de un niño humano) les permite escurrirse y ocultarse de manera efectiva a comparación de las Razas "grandes" del mundo. Los Medianos suelen vivir hasta los 100 años.
 
@@ -432,7 +432,7 @@ Para lanzar hechizos o milagros divinos, se recomienda utilizar las mecánicas d
 Milagros Divinos
 ^^^^^^^^^^^^^^^^
 
-.. figure:: /_static/images/worlds/fantasia-medieval/img-21.png
+.. figure:: /_static/images/worlds/fantasia-medieval/fantasia-medieval-img-21.png
 
 Los **Milagros Divinos** funcionan como hechizos, pero se realizan realizando una plegaria al Dios o Panteón al que el Clérigo adora, y su efecto es otorgado por la gracia de ese Dios. Otros Magos con Trasfondos de CURANDERO o SACERDOTE podrían llegar a aprender a lanzar Milagros como si fuesen Hechizos, si consiguen un Clérigo que les enseñe las plegarias correctas y los rituales religiosos apropiados.
 
@@ -482,7 +482,7 @@ Los **Milagros Divinos** funcionan como hechizos, pero se realizan realizando un
 Magia Arcana
 ^^^^^^^^^^^^
 
-.. figure:: /_static/images/worlds/fantasia-medieval/img-20.png
+.. figure:: /_static/images/worlds/fantasia-medieval/fantasia-medieval-img-20.png
 
 La **Magia Arcana** es el tipo de magia más común, y es la que los Magos pueden aprender. Se basa en el estudio de las fuerzas mágicas del mundo, y su manipulación a través de fórmulas, gestos y palabras mágicas. 
 
@@ -541,7 +541,7 @@ Por defecto, un Mago que invoca a una entidad poderosa puede hacerle preguntas, 
 Pactos Demoníacos
 *****************
 
-.. figure:: /_static/images/worlds/fantasia-medieval/img-16.png
+.. figure:: /_static/images/worlds/fantasia-medieval/fantasia-medieval-img-16.png
 
 Cuando invoques a un Demonio siguiendo un *Ritual de invocación*, puedes llamar a uno al azar (tira d6,d6 en la siguiente tabla). Si quieres invocar a un Demonio específico, puedes elegirlo, pero el precio que deberás pagar será más alto (tira 2d6+3 en la tabla de pagar el precio).
 
@@ -594,7 +594,7 @@ Los *Rituales de Invocación* demoníacos implican recitar palabras de magia pro
 Pactos con Espíritus
 ********************
 
-.. figure:: /_static/images/worlds/fantasia-medieval/img-17.png
+.. figure:: /_static/images/worlds/fantasia-medieval/fantasia-medieval-img-17.png
 
 Cuando invoques a un Espíritu de la Naturaleza siguiendo un *Ritual de invocación*, puedes llamar a uno al azar (tira d6,d6 en la siguiente tabla). Si quieres invocar a un Espíritu específico, puedes elegirlo, pero el precio que deberás pagar será más alto (tira 2d6+3 en la tabla de pagar el precio).
 
@@ -632,7 +632,7 @@ Los *Rituales de Invocación* de espíritus implican cantar canciones antiguas, 
 Magia Rúnica
 ^^^^^^^^^^^^
 
-.. figure:: /_static/images/worlds/fantasia-medieval/img-18.png
+.. figure:: /_static/images/worlds/fantasia-medieval/fantasia-medieval-img-18.png
 
 La **Magia Rúnica** es un tipo de magia que se basa en la inscripción de símbolos con significados poderosos. Los Enanos tienen acceso a esta magia, y pueden aprender a inscribir runas para crear objetos mágicos o para embeber efectos mágicos sobre artefactos, lugares o personas. Otros Magos con Trasfondos de ARTESANO o HERRERO podrían llegar a aprender a inscribir runas sin un enano les enseña la técnica. Las runas pueden inscribirse **temporalmente** (con algún tipo de tinta o líquido, lo que lleva segundos o minutos) o de forma **permanente** (tallándolas o grabándolas en piedra, metal u otro material resistente, un proceso que lleva horas). Borrar o destruir una runa usualmente termina con su efecto mágico. Por defecto, un objeto solo puede tener una runa. Si se le inscribe otra, la anterior queda "desactivada".
 
@@ -683,7 +683,7 @@ La **Magia Rúnica** es un tipo de magia que se basa en la inscripción de símb
 Magia Natural
 ^^^^^^^^^^^^^
 
-.. figure:: /_static/images/worlds/fantasia-medieval/img-19.png
+.. figure:: /_static/images/worlds/fantasia-medieval/fantasia-medieval-img-19.png
 
 La **Magia Natural** es un tipo de magia que se basa en la conexión con la naturaleza y sus fuerzas. Los Elfos tienen acceso a esta magia, y pueden aprender a canalizar la energía natural y decir plegarias a los Espíritus Antiguos de la Naturaleza para crear efectos mágicos relacionados con plantas, animales, clima, elementos naturales, etc. Otros Magos con Trasfondos de GUARDABOSQUES o HERBORISTA podrían llegar a aprender hechizos de Magia Natural si un Elfo les enseña a comulgar con los espíritus de la naturaleza.
 
