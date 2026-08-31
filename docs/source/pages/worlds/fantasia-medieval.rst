@@ -231,14 +231,14 @@ Los Enanos comienzan conociendo 3 :ref:`Runas <fantasia-medieval-magia-runica>`,
    <br><br>
 
 .. csv-table:: Títulos de Enano y requisitos para subir de nivel
-   :widths: 4, 32, 32, 32
-   :header: "Nivel", "Legal", "Neutral", "Caótico"
+   :widths: 5, 95
+   :header: "Nivel", "Cualquier Alineamiento"
 
-   "1", "**MILICIANO**: Cumplir un año de servicio como guardia o soldado de una ciudad o fortaleza enana.", "**MINERO**: Cumplir un año al servicio del cuerpo minero de una ciudad o fortaleza enana.", "**REBELDE**: Desobedecer las órdenes directas de un lord enano, y pagar el precio de prisión o trabajos forzados por ello."
-   "2", "**PROTECTOR**: Formar parte de la guardia personal de un lord enano, viajando donde quiera que vaya protegiendo su vida de cualquier tipo de peligro.", "**METALÚRGICO**: Ser aceptado como aprendiz en la forja de su comunidad enana, llevando a cabo la manufactura o reparación de un artefacto de cierta relevancia.", "**DISIDENTE**: Organizar una revuelta contra el status quo de una comunidad enana y obtener una victoria, aunque esta sea pírrica o temporal."
-   "3", "**CAPITÁN**: Liderar una patrulla de enanos en misiones de exploración, batalla o rescate y dar el ejemplo de liderazgo con los guerreros a tu cargo.", "**JOYERO**: Conseguir la materia prima, perfeccionar y manufacturar un artefacto con joyas o piedras preciosas, que sea apreciado por un lord enano de importancia.", "**EXILIADO**: Cometer una falta o crímen dentro de una comunidad enana, que tenga cierta validez para tu interés propio o de otro grupo, que provoque tu inmediato exilio."
-   "4", "**CAUDILLO**: Llevar a la victoria a un ejército de enanos en una campaña, cumpliendo el cargo de general mientras das el ejemplo al frente de la batalla.", "**ARTÍFICE**: Liderar y ver la conclusión de una obra estructural de gran importancia para una ciudad o fortaleza enana, que dé orgullo a su comunidad.", "**ICONOCLASTA**: Convertirse en el líder de una organización o grupo rebelde y tomar acciones notorias directas contra el poder establecido de una comunidad enana, logrando algún cambio o mejora aunque este sea frágil o temporal."
-   "5", "**VENGADOR**: Ser el héroe indiscutible de una gran gesta que reivindique o restaure el honor de una comunidad enana.", "**MAESTRO DE LA FORJA**: Conseguir la materia prima de materiales preciosos necesaria para construir un artefacto legendario, y llevar la obra a cabo en la gran forja, consiguiendo el título de maestro de la misma.", "**RENEGADO**: Derrocar o destruir el orden establecido y la cúpula al poder de una comunidad enana de importancia, tomando el control o desbaratando toda la estructura pre-existente para reformarla a tu voluntad."
+   "1", "**DEFENSOR**: Ayudar a soportar y repeler con éxito un asedio o incursión menor en una fortaleza o ciudadela enana, protegiendo los hogares de su clan."
+   "2", "**FORJADOR**: Fabricar una pieza de artesanía o un objeto mágico de calidad, consagrado con materiales raros y digno de ser nombrado en los registros históricos del clan."
+   "3", "**EXTERMINADOR**: Derrotar en combate singular o como parte de un escuadrón reducido a una criatura corrompida o monstruosa que amenace los dominios subterráneos."
+   "4", "**ARTÍFICE**: Liderar y ver la conclusión de una obra estructural o arquitectónica de gran importancia para una ciudad o fortaleza enana, que dé orgullo a su comunidad."
+   "5", "**CONQUISTADOR**: Liderar una expedición para reclamar un nuevo territorio, o limpiar y recuperar una antigua mina, sala o bastión perdido de las garras de fuerzas oscuras u hordas enemigas."
 
 .. csv-table:: d66 Nombres típicos de Enanos
 
@@ -311,7 +311,7 @@ Mediano
 
 .. sidebar:: 
 
-   .. figure:: /_static/images/worlds/fantasia-medieval/img-15.png
+   .. figure:: /_static/images/worlds/fantasia-medieval/img-22.jpg
 
 La Raza de los Medianos proviene de pequeños pueblos de las praderas, o de humildes granjas circundantes a los grandes centros urbanos. Si bien la mayoría suelen ser de vidas tranquilas y despreocupadas, algunos pocos tienen la necesidad de aventura y curiosidad por descubrir lo desconocido. Su diminuto tamaño (nunca superan la altura ni robustez de un niño humano) les permite escurrirse y ocultarse de manera efectiva a comparación de las Razas "grandes" del mundo. Los Medianos suelen vivir hasta los 100 años.
 
@@ -373,6 +373,11 @@ Si no se elige una Raza particular durante la creación del personaje, se asume 
    "44. Haraldus", "54. Wulfric", "64. Calrian"
    "45. Ravion", "55. Derek", "65. Droven"
    "46. Torvald", "56. Joren", "66. Haleon"
+
+Objetos y Equipo
+^^^^^^^^^^^^^^^^
+
+TODO
 
 Magia
 -----
