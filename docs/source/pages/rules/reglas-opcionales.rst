@@ -456,6 +456,8 @@ Este Contador es un valor numérico que tienen los personajes, que se incrementa
 
 Se recupera (vuelve a 0) de la misma manera diegética que para las Condiciones: tomando las medidas necesarias dentro de la ficción (descansando, tomando un respiro, despejando la mente en otra cosa, con tratamiento psicológico, etc). 
 
+.. _reglas-opcionales-dinero-tesoro:
+
 Dinero y Tesoro
 ---------------
 

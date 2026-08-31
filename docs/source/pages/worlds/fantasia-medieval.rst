@@ -377,7 +377,50 @@ Si no se elige una Raza particular durante la creación del personaje, se asume 
 Objetos y Equipo
 ^^^^^^^^^^^^^^^^
 
-TODO
+Si bien cuando crees tu Personaje, el *Trasfondo*, *Clase* o *Raza* determina tus objetos iniciales, podrás conseguir otros durante tus aventuras. A continuación se listan objetos, bienes y servicios a modo de ejemplo, con su valor aproximado. Estos valores siguen la lógica establecida en el apartado de :ref:`Dinero y Tesoro <reglas-opcionales-dinero-tesoro>` de la sección de *Reglas Opcionales*.
+
+.. rst-class:: three-columns
+
+* 5 Antorchas de sebo *(B)*
+* Ración seca de viaje - 1 día *(B)*
+* Odre de agua común *(B)*
+* Tiza y carbón para escribir *(B)*
+* Cuerda de cáñamo de 15 metros *(B)*
+* Vara de madera de 3 metros *(B)*
+* Clavos de hierro y martillo pequeño *(B)*
+* Taza de cerámica y cubiertos de madera *(B)*
+* Cena austera en una taberna de mala muerte *(B)*
+* Noche en el establo o catre compartido en posada *(B)*
+* Servicio de transporte en carreta de carga por una legua *(B)*
+* Daga de acero equilibrada *(V)*
+* Kit de herramientas de ladrón básico *(V)*
+* Espada corta o lanza de calidad estándar *(V)*
+* Armadura de cuero tachonado *(V)*
+* Linterna sorda y aceite refinado *(V)*
+* Pócima de curación menor *(V)*
+* Kit de primeros auxilios y hierbas medicinales *(V)*
+* Camisote de cota de malla *(V)*
+* Habitación privada en una posada decente por una semana *(V)*
+* Banquete caliente con vino de la casa para cuatro personas *(V)*
+* Servicio de escolta de un mercenario novato por un día *(V)*
+* Contratación de un guía local experto en los caminos *(V)*
+* Espada larga de acero magistral o armadura de placas completa *(P)*
+* Armadura completa de placas y yelmo adornado *(P)*
+* Grimorio con encantamientos menores *(P)*
+* Pócima de curación superior o antídoto universal *(P)*
+* Anillo con sello nobiliario grabado *(P)*
+* Anteojos de precisión con lentes de cristal de roca *(P)*
+* Mansión modesta o terreno cultivable amurallado *(P)*
+* Banquete de bodas o celebración para un centenar de invitados *(P)*
+* Fletamento exclusivo de un barco mercante por una travesía costera *(P)*
+* Soborno formal a un magistrado de una ciudad importante *(P)*
+* Espada legendaria imbuida con magia ancestral *(I)*
+* Tomo prohibido de convocaciones arcanas *(I)*
+* Corona o cetro real de un reino caído *(I)*
+* Fortaleza de piedra con guarnición y tierras señoriales *(I)*
+* Flota entera de galeras de guerra mercantes *(I)*
+* Contrato de favor político perpetuo con el Consejo Real *(I)*
+* Servicio de resurrección divina directa por un sumo sacerdote *(I)*
 
 Magia
 -----
