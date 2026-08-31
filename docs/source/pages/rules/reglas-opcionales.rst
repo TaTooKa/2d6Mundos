@@ -496,3 +496,28 @@ Usualmente estos detalles no entran en juego, excepto en casos donde un personaj
 
 Lo ideal es que cada jugador piense y explique como viste su personaje y donde lleva cada una de sus pertenencias.
 
+Supervivencia
+-------------
+
+TODO
+
+Comer y Beber
+^^^^^^^^^^^^^
+
+TODO
+
+Recolección / Cacería
+^^^^^^^^^^^^^^^^^^^^^
+
+TODO
+
+Refugios y Descanso
+^^^^^^^^^^^^^^^^^^^
+
+TODO
+
+Viajes y Orientación
+^^^^^^^^^^^^^^^^^^^^
+
+TODO
+

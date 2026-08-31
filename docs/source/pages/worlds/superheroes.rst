@@ -266,6 +266,10 @@ Límites
 ⮚ **SOLO AL TOCAR**: Tu poder, que normalmente es a distancia, solo funciona al tocar al objetivo. |br|
 ⮚ **DEBILITADO POR [X]**: Tu poder se ve fuertemente disminuido o se apaga cuando ocurre algo específico o cuando estás expuesto a un cierto tipo de energía o material. |br|
 
+Generadores al Azar
+-------------------
+
+TODO
 
 Fuentes de Inspiración
 ----------------------
@@ -273,7 +277,7 @@ Fuentes de Inspiración
 * Marvel y DC Comics
 * Astro City de Kurt Busiek
 * INVINCIBLE (historietas y serie animada)
-* Juegos de Rol "Mutants and Masterminds", "ICONS: Assembled Edition", "MASKS", "Worlds in Peril"
+* Juegos de Rol "Marvel Superheroes (1984) / FASERIP", "Mutants and Masterminds", "ICONS: Assembled Edition", "MASKS", "Worlds in Peril"
 * Series animadas de FOX KIDS: "Spiderman", "X-Men"
 
 .. |br| raw:: html
