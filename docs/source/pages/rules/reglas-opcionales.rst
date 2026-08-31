@@ -501,6 +501,8 @@ Lo ideal es que cada jugador piense y explique como viste su personaje y donde l
 Supervivencia
 -------------
 
+.. figure:: /_static/images/rules/rpg-image-21.png
+
 En ciertos mundos o estilos temáticos de ambientación, es importante resaltar las necesidades de supervivencia en territorios hostiles o alejados de la civilización. Si bien las reglas básicas de 2d6Mundos le permitirían a cualquier DJ improvisar este tipo de situaciones, a continuación se listan procedimientos específicos para el que lo necesite.
 
 Comer y Beber
@@ -525,6 +527,8 @@ Los PJs pueden resolver las tareas de recolección o cacería como cualquier otr
 
 Refugios y Descanso
 ^^^^^^^^^^^^^^^^^^^
+
+.. figure:: /_static/images/rules/rpg-image-22.png
 
 En ambientes salvajes o territorios naturales, refugiarse para descansar suele cumplir dos cometidos importantes:
 
