@@ -499,25 +499,47 @@ Lo ideal es que cada jugador piense y explique como viste su personaje y donde l
 Supervivencia
 -------------
 
-TODO
+En ciertos mundos o estilos temáticos de ambientación, es importante resaltar las necesidades de supervivencia en territorios hostiles o alejados de la civilización. Si bien las reglas básicas de 2d6Mundos le permitirían a cualquier DJ improvisar este tipo de situaciones, a continuación se listan procedimientos específicos para el que lo necesite.
 
 Comer y Beber
 ^^^^^^^^^^^^^
 
-TODO
+Un personaje necesita comer y beber, al menos una vez por día, una ración de alimento y una de agua potable.
+
+De no hacerlo, el personaje sufrirá automáticamente una Condición de ``hambriento`` o ``sediento`` al final de ese día. El hambre y la sed se contabilizan por separado (aunque el DJ puede optar por unificarlas, para simplificar el seguimiento). Estas Condiciones se acumulan como cualquier otra, incrementando en su severidad, lo que significa que luego de 3 días [#]_ sin comer o beber, el personaje quedará derrotado (en este caso, por inanición).
+
+.. [#] Si el DJ quiere ajustar la cantidad de días, puede variar a que se gane una Condición cada 2 días en vez de 1. O puede diferenciar entre hambre y sed, haciendo que se gane una Condición de ``sediento`` cada día en el que no se toma agua, pero la de ``hambriento`` solo se gane cada 2 días que se pasa sin comer; etc.
 
 Recolección / Cacería
 ^^^^^^^^^^^^^^^^^^^^^
 
-TODO
+El DJ puede establecer la posibilidad de recolectar alimentos (frutos, vegetales, hongos, etc) o de cazar animales salvajes en el territorio que se encuentran los PJs, basado en el tipo de ambiente y bioma y otros factores pre-establecidos de su Mundo. Esto afectaría la Dificultad base de recolectar o cazar, siendo 8 el predeterminado; 6 o 7 en ambientes con abundancia de flora y fauna; 9 o 10 en tierras yermas, biomas hostiles o terrenos sobrenaturalmente peligrosos.
+
+**Recolectar** alimentos incluye entender e identificar lo que es comestible; lo que puede ser venenoso; etc.
+
+**Cacería** incluye no solo la caza con armas cuerpo a cuerpo o a distancia, sino también la pesca, el uso de trampas, etc. También considera la preparación del animal capturado para su ingesta y para aprovechar cualquier material conseguido como su cuero, cuernos, huesos, etc.
+
+Los PJs pueden resolver las tareas de recolección o cacería como cualquier otra acción, con una tirada sumando sus Trasfondos y Herramientas relevantes. Típicamente, este tipo de tareas puede llevar entre 2 y 4 horas y provee de unas pocas raciones diarias; el Efecto de la tirada puede reducir ese tiempo o incrementar la cantidad de alimento obtenido. 
 
 Refugios y Descanso
 ^^^^^^^^^^^^^^^^^^^
 
-TODO
+En ambientes salvajes o territorios naturales, refugiarse para descansar suele cumplir dos cometidos importantes:
+
+#. Protegerse o aislarse de los elementos (lluvia, frío o calor extremo, nieve, viento, etc).
+#. Ocultarse de depredadores salvajes o monstruos, u otros merodeadores o bandidos.
+
+Los PJs necesitan entre 6 y 8 horas de descanso diario para no sufrir Condiciones de cansancio acumulativas durante sus travesías. El DJ puede preguntar detalles de como y donde preparan su "campamento" o "refugio"; Esto determinará varios factores (principalmente, si se cumplen los 2 cometidos explicados anteriormente).
+
+A veces, los PJs deberán tomar decisiones difíciles, como por ejemplo optar por prender una fogata para protegerse del frío extremo, a costa de tener un refugio muy llamativo que atraiga depredadores o merodeadores. El DJ puede hacerles realizar tiradas de "resistencia" con Trasfondos relevantes, para ver si soportan los elementos o si sufren Condiciones por ello. En el caso de refugios poco ocultos, puede hacer tiradas para determinar si los merodeadores los detectan a la distancia o no (la calidad/ocultamiento del refugio incrementará o reducirá la Dificultad).
+
+Los PJs pueden hacer "**Guardias**", en las que uno o más de ellos se mantienen despiertos para advertir de cualquier peligro inminente. Esto no impide que depredadores o merodeadores detecten su refugio, pero ayuda a que, en caso de un ataque sorpresa, no los encuentre a todos dormidos y tengan unos instantes para prepararse o alertar al resto. Si los personajes deciden hacer Guardias, deberán turnarse para descansar (lo que puede aumentar la cantidad de horas totales de descanso para que todos tengan su turno de ir a dormir).
 
 Viajes y Orientación
 ^^^^^^^^^^^^^^^^^^^^
 
-TODO
+Al viajar por tierras salvajes o ambientes naturales, se asume que los personajes del grupo tienen al menos una dirección concreta de destino (mínimamente, saben el punto cardinal a donde apuntar). Si poseen un mapa, herramientas de navegación como una brújula o astrolabio, directivas concretas como puntos de referencia, o un guía que conoce el camino, les será más fácil orientarse.
 
+El DJ le pedirá tiradas de acción al miembro del grupo que actúe como guía. Los factores anteriormente mencionados le darán beneficios y/o alterarán la Dificultad, así como también la complejidad u hostilidad del terreno podría incrementarla (no es lo mismo orientarse en praderas o campos abiertos que dentro de un bosque o jungla, por ejemplo). El éxito o fracaso de esa tirada determinará si el grupo va por buen camino, o se pierde y avanza en una dirección indeseada. El Efecto de la tirada determina cuan efectivo o grave es el resultado, pudiendo reducir o incrementar el tiempo de viaje, o alterar la dirección (haciendo que "viajen en círculos", en el peor de los casos). 
+
+Incluso aunque los jugadores se den cuenta que el viaje no va a ir del todo bien, en el caso de que obtengan un mal resultado en los dados, es recomendable que el DJ se guarde los detalles específicos (*estamos yendo en una dirección incorrecta? o vamos a tardar más de lo esperado?*) hasta que lleguen a un destino o punto de referencia distinto al que esperaban y puedan sacar sus propias conclusiones de manera diegética.
