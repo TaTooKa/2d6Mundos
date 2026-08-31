@@ -425,6 +425,8 @@ Si bien cuando crees tu Personaje, el *Trasfondo*, *Clase* o *Raza* determina tu
 Magia
 -----
 
+Para lanzar hechizos o milagros divinos, se recomienda utilizar las mecánicas de :ref:`Magia <reglas-opcionales-sistema-magia>` en la sección de *Reglas Opcionales*.
+
 .. _fantasia-medieval-milagros-divinos:
 
 Milagros Divinos
@@ -728,8 +730,6 @@ La **Magia Natural** es un tipo de magia que se basa en la conexión con la natu
 
 Objetos y Tesoros
 ^^^^^^^^^^^^^^^^^
-
-TODO (equipo de aventurero)
 
 TODO (tesoros y valor)
 
