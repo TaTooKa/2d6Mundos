@@ -66,6 +66,8 @@ Trasfondos
    "65", "**CURTIDOR**: Delantal impermeable, Cuchillo de descarnar, Sal de curado, Raspador, Pieles."
    "66", "**EXPLORADOR**: Capa de viaje reforzada, Machete, Piolet, Yesquero, Diario de ruta."
 
+Subir de Nivel un **Trasfondo** no tiene requisitos especiales (como sí los tienen las **Clases** y **Razas**), excepto que, una vez conseguida la Experiencia, debes **pasar al menos una temporada** ejerciendo esa profesión antes de poder subir de Nivel. Esto se puede hacer entre aventuras, usando tu tiempo libre trabajando y practicando en tu profesión, o vice-versa (teniendo aventuras entre los trabajos que ejerzas).
+
 Clases y Razas
 ^^^^^^^^^^^^^^
 
