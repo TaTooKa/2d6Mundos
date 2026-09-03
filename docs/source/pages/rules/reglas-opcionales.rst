@@ -12,6 +12,8 @@ Los personajes en *2d6Mundos* son tan simples mecánicamente que puedes anotarlo
 
    (click derecho y descargar)
 
+.. _reglas-opcionales-iniciativa:
+
 Iniciativa
 ----------
 
@@ -40,6 +42,8 @@ Iniciativa por Bandos
 ^^^^^^^^^^^^^^^^^^^^^
 
 Todos los participantes tiran **2d6 ± cualquier Modificador circunstancial o de sus Trasfondos relevantes** para determinar su velocidad de reacción o nivel de preparación. Identifica el puntaje más alto de cada "bando": sus participantes actuarán primero (los jugadores de esos personajes deciden el órden entre ellos). Luego, el bando contrario actúa, decidiendo el órden entre ellos. La Iniciativa por Bandos se vuelve a tirar al comienzo de cada Round.
+
+.. _reglas-opcionales-iniciativa-fases-velocidad:
 
 Fases de Velocidad
 ^^^^^^^^^^^^^^^^^^
@@ -358,6 +362,8 @@ A Dos manos, o Dos Armas
 * Las armas que son a *Una o Dos manos* pueden usarse con una sola mano, pero si se usan *a Dos manos*, hacen +1 Daño.
 * Usar dos armas de *Una mano* en cada mano te penaliza en -1 a tus tiradas de ataque, pero puedes usar el alcance más largo de las dos, y si impactas, combinas el Daño de ambas. Además, te da un +1 a la defensa, siempre que tenga sentido que sea ventajoso defenderte con el tipo de armas que portas, a discresión del DJ.
 
+.. _reglas-opcionales-combate-presas-agarres:
+
 Presas y Agarres
 ****************
 
@@ -400,12 +406,25 @@ Combate con Miniaturas
 
 Estas guías y mecánicas permiten utilizar miniaturas en la mesa para representar a los personajes y sus adversarios, y también se pueden utilizar objetos como obstáculos o incluso mapas dibujados con o sin grillas.
 
-Es ideal combinar estas mecánicas con las reglas opcionales de :ref:`Combates y Violencia <reglas-opcionales-combate>`, especialmente las de distancias y alcances, silueta, cobertura y combate cuerpo a cuerpo.
+Es ideal combinar estas mecánicas con las reglas opcionales de :ref:`Combates y Violencia <reglas-opcionales-combate>`, especialmente las de distancias y alcances, silueta, cobertura y combate cuerpo a cuerpo, y con las de :ref:`Iniciativa <reglas-opcionales-iniciativa>`, dado que el procedimiento se convierte en una especie de mini-juego de tablero por turnos.
 
 Unidades de medida, Escalas y Grillas
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Se recomienda utilizar el sistema métrico decimal. El estándar de miniaturas de los juegos de guerra y rol es de 28mm de alto (una escala aproximada de 1:60). Para distancias, se recomienda usar una equivalencia de 1m = 2cm. Si se utilizan grillas típicas de las compatibles con otros juegos de rol, se recomienda que cada celda de la grilla (que típicamente es de 1 pulgada) equivalga a 1m².
+Se recomienda utilizar el sistema métrico decimal. Se asume el estándar de miniaturas de los juegos de guerra y rol, que es de 28mm de alto (una escala aproximada de 1:60). 
+
+   Para medir distancias, se recomienda usar una equivalencia de **1m = 2cm**. 
+
+Si se utilizan grillas típicas de las compatibles con otros juegos de rol, se recomienda que cada celda de la grilla (que típicamente es de 1 pulgada) equivalga a 1m².
+
+Movimiento
+^^^^^^^^^^
+
+En escenas representadas "en el imaginario", o en el "teatro de la mente", las distancias suelen estar abstraídas en términos generales (corto, medio, largo, etc). Pero para *Combates con Miniaturas* es necesario especificar números exactos. 
+
+Típicamente, un personaje se puede mover hasta 5 metros en un round (media distancia) además de realizar una acción principal. Si se usa otro método de :ref:`Iniciativa <reglas-opcionales-iniciativa>`, como la de :ref:`Fases de Velocidad <reglas-opcionales-iniciativa-fases-velocidad>`, entonces un personaje se puede mover hasta 2 metros como acción gratuita en cada fase.
+
+En combates con Miniaturas, el movimiento se puede medir con una regla o cinta métrica. El personaje puede moverse antes o después de ejecutar una acción.
 
 Mecánicas Especiales
 ^^^^^^^^^^^^^^^^^^^^
@@ -413,6 +432,8 @@ Mecánicas Especiales
 **Flanqueo**: Si dos o más personajes rodean a un enemigo (es decir, se colocan de forma que el enemigo queda entre ellos), entonces cada uno de ellos recibe +1 a sus tiradas de ataque, o el enemigo recibe un -1 a sus tiradas de defensa.
 
 **Barrida**: Si un personaje tiene al alcance cuerpo a cuerpo a dos o más enemigos, y ataca con un arma acorde (una lanza, alabarda, gran hacha, etc) puede intentar un ataque de barrida que afecte a todos ellos. La Dificultad incrementa en +1 por cada enemigo adicional que se quiera afectar.
+
+**Empuje**: Siguiendo las reglas de :ref:`Presas y Agarres <reglas-opcionales-combate-presas-agarres>`, cuando un personaje empuja a otro, si se usan miniaturas es importante determinar la distancia exacta. Por defecto un empuje típico suele ser de 2 metros. Otros factores del contexto y las habilidades de los personajes involucrados pueden alterar esa distancia, a discresión del DJ.
 
 
 Rotura de Objetos para Protección
