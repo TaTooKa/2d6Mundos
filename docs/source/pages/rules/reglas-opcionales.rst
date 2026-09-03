@@ -317,9 +317,9 @@ Alcance
 
 Las armas meleé y ataques CaC pueden ser de *corto*, *medio* o *largo alcance*.
 
-* Puñetazos, cuchillos, dagas: **corto alcance**.
-* Patadas, espadas, hachas, bates de béisbol, lanzas cortas: **medio alcance**.
-* Lanzas largas, alabardas, zwëihander: **largo alcance**.
+* Puñetazos, cuchillos, dagas: **corto alcance** (menos de 1 metro).
+* Patadas, espadas, hachas, bates de béisbol, lanzas cortas: **medio alcance** (1 a 2 metros).
+* Lanzas largas, alabardas, zwëihander: **largo alcance** (2 metros).
 
 Por cada nivel de diferencia en alcance, el contrincante beneficiado gana +1. Por ejemplo, si dos luchadores pelean con los puños, están igualados y no hay bonificadores de alcance. Pero si uno de ellos tiene un palo de medio alcance, entonces ese tiene un +1. Si un contrincante tiene un cuchillo y su enemigo tiene una lanza larga, entonces la diferencia de alcance es de 2 niveles, es decir el del cuchillo tiene un -2, o el de la lanza larga tiene un +2, depende quién tire y defienda en esa acción (el modificador de alcance se aplica solo una vez en cada acción, ya sea de ataque o defensa).
 
@@ -394,6 +394,26 @@ Los siguientes son ejemplos de Condiciones que resultan de distintos tipos de da
 .. reglas-basicas-ejemplos-condiciones-table-end
 
 .. _reglas-opcionales-rotura-objetos-proteccion:
+
+Combate con Miniaturas
+----------------------
+
+Estas guías y mecánicas permiten utilizar miniaturas en la mesa para representar a los personajes y sus adversarios, y también se pueden utilizar objetos como obstáculos o incluso mapas dibujados con o sin grillas.
+
+Es ideal combinar estas mecánicas con las reglas opcionales de :ref:`Combates y Violencia <reglas-opcionales-combate>`, especialmente las de distancias y alcances, silueta, cobertura y combate cuerpo a cuerpo.
+
+Unidades de medida, Escalas y Grillas
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Se recomienda utilizar el sistema métrico decimal. El estándar de miniaturas de los juegos de guerra y rol es de 28mm de alto (una escala aproximada de 1:60). Para distancias, se recomienda usar una equivalencia de 1m = 2cm. Si se utilizan grillas típicas de las compatibles con otros juegos de rol, se recomienda que cada celda de la grilla (que típicamente es de 1 pulgada) equivalga a 1m².
+
+Mecánicas Especiales
+^^^^^^^^^^^^^^^^^^^^
+
+**Flanqueo**: Si dos o más personajes rodean a un enemigo (es decir, se colocan de forma que el enemigo queda entre ellos), entonces cada uno de ellos recibe +1 a sus tiradas de ataque, o el enemigo recibe un -1 a sus tiradas de defensa.
+
+**Barrida**: Si un personaje tiene al alcance cuerpo a cuerpo a dos o más enemigos, y ataca con un arma acorde (una lanza, alabarda, gran hacha, etc) puede intentar un ataque de barrida que afecte a todos ellos. La Dificultad incrementa en +1 por cada enemigo adicional que se quiera afectar.
+
 
 Rotura de Objetos para Protección
 ---------------------------------
