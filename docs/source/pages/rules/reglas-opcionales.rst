@@ -404,6 +404,8 @@ Los siguientes son ejemplos de Condiciones que resultan de distintos tipos de da
 Combate con Miniaturas
 ----------------------
 
+.. figure:: /_static/images/rules/rpg-image-23.png
+
 Estas guías y mecánicas permiten utilizar miniaturas en la mesa para representar a los personajes y sus adversarios, y también se pueden utilizar objetos como obstáculos o incluso mapas dibujados con o sin grillas.
 
 Es ideal combinar estas mecánicas con las reglas opcionales de :ref:`Combates y Violencia <reglas-opcionales-combate>`, especialmente las de distancias y alcances, silueta, cobertura y combate cuerpo a cuerpo, y con las de :ref:`Iniciativa <reglas-opcionales-iniciativa>`, dado que el procedimiento se convierte en una especie de mini-juego de tablero por turnos.
