@@ -72,6 +72,8 @@ Los personajes **Sorprendidos** no tiran Iniciativa; simplemente actúan en la f
 Desafíos Extendidos
 -------------------
 
+.. figure:: /_static/images/rules/rpg-image-25.png
+
 Cuando una acción no puede resolverse con una única tirada de dados, porque el DJ considera que es un proceso más complejo de lo común, o que requiere varios pasos o etapas, se puede resolver a través de un "Desafío Extendido".
 
 Desafío con Contador
@@ -83,6 +85,31 @@ El DJ determina un contador númerico que representa el progreso o avance hacia 
 
 Los jugadores realizan sus acciones de forma normal. Cada **ÉXITO NORMAL** contribuye con +1 al contador. los **ÉXITOS ROTUNDOS** contribuyen con +2 al contador. Los **ÉXITOS ÉPICOS** contribuyen con +3 al contador. Los **FALLOS** no contribuyen al contador, pero tampoco lo restan. El DJ puede decidir que ciertos tipos de FALLOS (como un FALLO ROTUNDO o ÉPICO) resten puntos al contador, o incluso que hagan retroceder el proceso a una etapa anterior. Cuando el contador alcanza el número objetivo, la acción se resuelve exitosamente.
 
+Oponentes
+---------
+
+.. figure:: /_static/images/rules/rpg-image-24.png
+
+Las reglas básicas permiten tratar a cualquier Oponente como si fuese un personaje más (con Trasfondos y Niveles, Condiciones Leves/Moderadas/Severas, Objetos y Habilidades especiales, etc.). Sin embargo, en ciertos casos, el DJ puede optar por usar Oponentes de diferentes tipos, como se detallan a continuación:
+
+Esbirros
+^^^^^^^^
+
+Los **Esbirros** son oponentes que tienen Trasfondos y Niveles como cualquier otro tipo de personaje, pero solo tienen un espacio de *Condición Leve*. Es decir que si reciben una Condición *Moderada* o *Severa* quedan derrotados inmediatamente... Pero pueden aguantar al menos un golpe *Leve* antes de caer [#]_.
+
+.. [#] El DJ podría optar por usar Esbirros aún más simples, que no tengan ningún espacio de Condición, y que queden derrotados inmediatamente al recibir cualquier tipo de daño. Esto hace que los Esbirros sean oponentes muy fáciles de derrotar, pero también muy peligrosos en grandes cantidades (porque tienen Trasfondos con Niveles, y acciones propias en cada Round).
+
+Adversarios
+^^^^^^^^^^^
+
+Los **Adversarios** son oponentes típicos, que tienen las mismas mecánicas que las de los Personajes Jugadores. Es decir, tienen Trasfondos y Niveles, y pueden recibir Condiciones *Leves*, *Moderadas* o *Severas*. 
+
+Némesis
+^^^^^^^
+
+Los **Némesis** son oponentes que tienen Trasfondos y Niveles, y pueden recibir Condiciones *Leves*, *Moderadas* o *Severas*, [#]_ como cualquier otro personaje. Lo que los diferencia es que, en vez de actuar una vez por Round, actúan después de cada PJ. Es decir, si hay 3 PJs y 1 Némesis, el órden de acción sería: PJ1 → Némesis → PJ2 → Némesis → PJ3 → Némesis. Esto hace que los Némesis sean oponentes mucho más peligrosos y difíciles de vencer.
+
+.. [#] Alternativamente, y a discreción del DJ, se puede decidir que los Némesis tengan más espacios de Condiciones; por ejemplo 2 espacios de *Condición Leve*, 2 de *Condición Moderada* y 1 de *Condición Severa*. Esto los hace más resistentes y difíciles de derrotar, pero no tan peligrosos como si actuasen después de cada PJ. Es una forma de alargar un combate sin que el Némesis sea demasiado letal, aunque esto puede hacer que la experiencia de juego se vuelva monótona o repetitiva.
 
 .. _reglas-opcionales-sistema-magia:
 
